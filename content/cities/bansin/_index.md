@@ -1,0 +1,4 @@
+---
+title: Bansin
+url: /bansin/
+---

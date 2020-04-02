@@ -1,0 +1,4 @@
+---
+title: Blumenholz
+url: /blumenholz/
+---

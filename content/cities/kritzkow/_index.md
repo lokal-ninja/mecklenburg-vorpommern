@@ -1,0 +1,4 @@
+---
+title: Kritzkow
+url: /kritzkow/
+---

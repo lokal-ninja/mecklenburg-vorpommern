@@ -1,0 +1,4 @@
+---
+title: Ferdinandshof
+url: /ferdinandshof/
+---

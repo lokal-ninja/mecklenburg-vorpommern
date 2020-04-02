@@ -1,0 +1,4 @@
+---
+title: Kratzeburg
+url: /kratzeburg/
+---

@@ -1,0 +1,4 @@
+---
+title: Spantekow
+url: /spantekow/
+---

@@ -1,0 +1,4 @@
+---
+title: Gingst
+url: /gingst/
+---

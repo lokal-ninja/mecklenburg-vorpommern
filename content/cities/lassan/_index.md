@@ -1,0 +1,4 @@
+---
+title: Lassan
+url: /lassan/
+---

@@ -1,0 +1,4 @@
+---
+title: Boltenhagen
+url: /boltenhagen/
+---

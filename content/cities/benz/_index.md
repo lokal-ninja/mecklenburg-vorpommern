@@ -1,0 +1,4 @@
+---
+title: Benz
+url: /benz/
+---

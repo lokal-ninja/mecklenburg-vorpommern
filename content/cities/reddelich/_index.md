@@ -1,0 +1,4 @@
+---
+title: Reddelich
+url: /reddelich/
+---

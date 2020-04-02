@@ -1,0 +1,4 @@
+---
+title: "Lindencenter"
+url: /ludwigslust/lindencenter-2/
+---

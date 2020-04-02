@@ -1,0 +1,4 @@
+---
+title: Wiek
+url: /wiek/
+---

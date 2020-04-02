@@ -1,0 +1,4 @@
+---
+title: Pritzwald
+url: /pritzwald/
+---

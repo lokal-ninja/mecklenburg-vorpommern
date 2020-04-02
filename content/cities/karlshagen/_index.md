@@ -1,0 +1,4 @@
+---
+title: Karlshagen
+url: /karlshagen/
+---

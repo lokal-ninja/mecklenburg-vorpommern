@@ -1,0 +1,4 @@
+---
+title: Fünfseen
+url: /fuenfseen/
+---

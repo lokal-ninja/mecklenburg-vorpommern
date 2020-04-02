@@ -1,0 +1,4 @@
+---
+title: Lubmin
+url: /lubmin/
+---

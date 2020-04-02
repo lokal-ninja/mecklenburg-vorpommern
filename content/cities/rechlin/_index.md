@@ -1,0 +1,4 @@
+---
+title: Rechlin
+url: /rechlin/
+---

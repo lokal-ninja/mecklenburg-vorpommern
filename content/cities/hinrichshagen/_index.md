@@ -1,0 +1,4 @@
+---
+title: Hinrichshagen
+url: /hinrichshagen/
+---

@@ -1,0 +1,4 @@
+---
+title: Blankensee
+url: /blankensee/
+---
