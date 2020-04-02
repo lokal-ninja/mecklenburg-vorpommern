@@ -5,7 +5,7 @@ latitude: 54.087461600000005
 longitude: 12.104034
 postcode: 18057
 city: Rostock
-street: Dethardingstraße
+street: "Dethardingstraße"
 housenumber: 23
 phone: "+49 381 80 89 79 30"
 opening_hours: "Mo-Fr 09:00-17:00"

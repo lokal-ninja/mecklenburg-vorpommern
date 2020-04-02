@@ -5,7 +5,7 @@ latitude: 53.9381197
 longitude: 14.1858807
 postcode: 17419
 city: Heringsdorf
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 8
 phone: "+49 38378 498092"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.940154500000006
 longitude: 12.103447500000001
 postcode: 18258
 city: Schwaan
-street: Mühlenteichplatz
+street: "Mühlenteichplatz"
 housenumber: 2
 phone: "+49 3844 82000"
 opening_hours: "Mo-Sa 08:00-20:00"

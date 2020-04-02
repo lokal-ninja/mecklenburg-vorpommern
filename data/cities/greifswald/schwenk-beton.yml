@@ -5,7 +5,7 @@ latitude: 54.073307500000006
 longitude: 13.3776036
 postcode: 17489
 city: Greifswald
-street: Herrenhufenstraße
+street: "Herrenhufenstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.0747696
 longitude: 12.139193800000001
 postcode: 18055
 city: Rostock
-street: Herweghstraße
+street: "Herweghstraße"
 housenumber: 20
 phone: "+49 381 375 655 71"
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-14:00"

@@ -5,7 +5,7 @@ latitude: 53.7992549
 longitude: 12.1575213
 postcode: 18273
 city: Güstrow
-street: Heideweg
+street: "Heideweg"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

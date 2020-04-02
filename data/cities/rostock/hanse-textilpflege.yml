@@ -5,7 +5,7 @@ latitude: 54.094101200000004
 longitude: 12.1068867
 postcode: 18057
 city: Rostock
-street: Werftstraße
+street: "Werftstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 53.547977200000005
 longitude: 13.3126093
 postcode: 17036
 city: Neubrandenburg
-street: Steinstraße
+street: "Steinstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

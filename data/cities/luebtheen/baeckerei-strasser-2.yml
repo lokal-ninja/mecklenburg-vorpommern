@@ -5,7 +5,7 @@ latitude: 53.306526500000004
 longitude: 11.0808643
 postcode: 19249
 city: Lübtheen
-street: Rudolf-Breitscheid-Straße
+street: "Rudolf-Breitscheid-Straße"
 housenumber: 24
 phone: "+49 38855 51361"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-11:00"

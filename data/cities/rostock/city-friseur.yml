@@ -5,7 +5,7 @@ latitude: 54.090616100000005
 longitude: 12.142043900000001
 postcode: 
 city: Rostock
-street: Krämerstraße
+street: "Krämerstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-We, Fr 08:00-19:00; Th 08:00-20:00"

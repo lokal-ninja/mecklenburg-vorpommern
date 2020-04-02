@@ -5,7 +5,7 @@ latitude: 54.105802600000004
 longitude: 13.024692900000002
 postcode: 18507
 city: Grimmen
-street: Jarpenbeeker Damm
+street: "Jarpenbeeker Damm"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"

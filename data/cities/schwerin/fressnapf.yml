@@ -5,7 +5,7 @@ latitude: 53.5986223
 longitude: 11.433095600000001
 postcode: 19061
 city: Schwerin
-street: Friedrich-Engels-Straße
+street: "Friedrich-Engels-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

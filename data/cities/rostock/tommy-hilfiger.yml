@@ -5,7 +5,7 @@ latitude: 54.1775626
 longitude: 12.089127600000001
 postcode: 18119
 city: Rostock
-street: Am Bahnhof
+street: "Am Bahnhof"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-20:00; Su 12:00-18:00"

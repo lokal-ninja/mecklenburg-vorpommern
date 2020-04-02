@@ -5,7 +5,7 @@ latitude: 54.3136601
 longitude: 13.088827400000001
 postcode: 18439
 city: Stralsund
-street: Heilgeiststraße
+street: "Heilgeiststraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

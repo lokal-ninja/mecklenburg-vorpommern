@@ -5,7 +5,7 @@ latitude: 53.597452000000004
 longitude: 11.4402659
 postcode: 19063
 city: Schwerin
-street: Am Grünen Tal
+street: "Am Grünen Tal"
 housenumber: 21
 phone: ""
 opening_hours: ""

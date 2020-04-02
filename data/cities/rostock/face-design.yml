@@ -5,7 +5,7 @@ latitude: 54.0805361
 longitude: 12.139493900000002
 postcode: 18055
 city: Rostock
-street: Stephanstraße
+street: "Stephanstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo 12:00-18:00; Tu-Th 09:00-18:00; Fr 09:00-16:00; Ph off"

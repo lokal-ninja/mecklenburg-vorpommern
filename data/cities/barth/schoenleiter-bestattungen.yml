@@ -5,7 +5,7 @@ latitude: 54.3607923
 longitude: 12.7232838
 postcode: 18356
 city: Barth
-street: Chausseestraße
+street: "Chausseestraße"
 housenumber: 30a
 phone: ""
 opening_hours: ""

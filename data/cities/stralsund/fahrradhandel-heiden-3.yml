@@ -5,7 +5,7 @@ latitude: 54.325997300000004
 longitude: 13.054404400000001
 postcode: 18435
 city: Stralsund
-street: Maxim-Gorki-Straße
+street: "Maxim-Gorki-Straße"
 housenumber: 28
 phone: "+49 3831 48 28 999"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-17:00; Oct-Mar abweichend"

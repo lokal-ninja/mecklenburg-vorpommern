@@ -5,7 +5,7 @@ latitude: 54.053082700000004
 longitude: 13.775221100000001
 postcode: 17438
 city: Wolgast
-street: Steinstraße
+street: "Steinstraße"
 housenumber: 7-9
 phone: "+49 3836 203620"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.6518968
 longitude: 12.269770800000002
 postcode: 
 city: Krakow am See
-street: Plauer Straße
+street: "Plauer Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

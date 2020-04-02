@@ -5,7 +5,7 @@ latitude: 53.426456800000004
 longitude: 12.2666958
 postcode: 19395
 city: Plau am See
-street: Meyenburger Chaussee
+street: "Meyenburger Chaussee"
 housenumber: 12c
 phone: "+493873549764"
 opening_hours: "Tu-Su 09:00-18:00"

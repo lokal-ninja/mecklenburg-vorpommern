@@ -5,7 +5,7 @@ latitude: 54.2437825
 longitude: 12.432809
 postcode: 18311
 city: Ribnitz-Damgarten
-street: Grüne Straße
+street: "Grüne Straße"
 housenumber: 3
 phone: "+493821 88931 0"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.0914075
 longitude: 12.136584500000001
 postcode: 
 city: Rostock
-street: Pläterstraße
+street: "Pläterstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-FR 12:00-18:00"

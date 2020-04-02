@@ -5,7 +5,7 @@ latitude: 54.1040039
 longitude: 12.116525800000002
 postcode: 18147
 city: Rostock
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 5
 phone: "+49 4367 7175939"
 opening_hours: "Mo-Sa 08:00-20:00"

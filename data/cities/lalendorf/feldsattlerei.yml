@@ -5,7 +5,7 @@ latitude: 53.764281100000005
 longitude: 12.3514979
 postcode: 18279
 city: Lalendorf
-street: Güstrower Chaussee
+street: "Güstrower Chaussee"
 housenumber: 2
 phone: "+4938452 221719"
 opening_hours: "Mo-Fr 09:00-16:00"

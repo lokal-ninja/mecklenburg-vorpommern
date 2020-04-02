@@ -5,7 +5,7 @@ latitude: 53.589489900000004
 longitude: 12.0879633
 postcode: 19399
 city: Goldberg
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 75
 phone: ""
 opening_hours: ""

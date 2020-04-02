@@ -5,7 +5,7 @@ latitude: 53.9727107
 longitude: 14.144844
 postcode: 17429
 city: Seebad Bansin
-street: Strandpromenade
+street: "Strandpromenade"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Su 08:00-17:00"

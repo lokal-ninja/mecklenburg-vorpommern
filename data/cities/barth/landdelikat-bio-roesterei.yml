@@ -5,7 +5,7 @@ latitude: 54.3544222
 longitude: 12.711079300000002
 postcode: 18356
 city: Barth
-street: Nelkenstraße
+street: "Nelkenstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

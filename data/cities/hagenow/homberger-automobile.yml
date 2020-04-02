@@ -5,7 +5,7 @@ latitude: 53.4336433
 longitude: 11.1925944
 postcode: 19230
 city: Hagenow
-street: Teichstraße
+street: "Teichstraße"
 housenumber: 18
 phone: "+49 3883 724 104"
 opening_hours: ""

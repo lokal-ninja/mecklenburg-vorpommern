@@ -5,7 +5,7 @@ latitude: 53.7348628
 longitude: 12.7630046
 postcode: 17139
 city: Malchin
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00;PH off"

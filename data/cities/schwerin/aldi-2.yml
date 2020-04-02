@@ -5,7 +5,7 @@ latitude: 53.652664300000005
 longitude: 11.3315456
 postcode: 19057
 city: Schwerin
-street: Lärchenallee
+street: "Lärchenallee"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 54.3028448
 longitude: 13.0964931
 postcode: 18439
 city: Stralsund
-street: Frankendamm
+street: "Frankendamm"
 housenumber: 86
 phone: ""
 opening_hours: ""

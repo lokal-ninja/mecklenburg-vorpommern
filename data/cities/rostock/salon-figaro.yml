@@ -5,7 +5,7 @@ latitude: 54.107166400000004
 longitude: 12.165625700000001
 postcode: 18146
 city: Rostock
-street: Lorenzstraße
+street: "Lorenzstraße"
 housenumber: 68
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00 und nach Vereinbarung"

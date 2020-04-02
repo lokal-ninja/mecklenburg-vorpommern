@@ -5,7 +5,7 @@ latitude: 54.079371900000005
 longitude: 12.2131535
 postcode: 18184
 city: Roggentin
-street: Kösterbecker Straße
+street: "Kösterbecker Straße"
 housenumber: 2
 phone: "+49 38204 12170"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"

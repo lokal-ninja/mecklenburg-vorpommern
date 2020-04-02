@@ -5,7 +5,7 @@ latitude: 54.103991300000004
 longitude: 12.1547997
 postcode: 18146
 city: Rostock
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 76a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.5116163
 longitude: 13.618440300000001
 postcode: 18546
 city: Sassnitz
-street: Mukraner Straße
+street: "Mukraner Straße"
 housenumber: 1c
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00;PH closed"

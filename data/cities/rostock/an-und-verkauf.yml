@@ -5,7 +5,7 @@ latitude: 54.113626200000006
 longitude: 12.081691800000002
 postcode: 18069
 city: Rostock
-street: Fischerweg
+street: "Fischerweg"
 housenumber: 103
 phone: ""
 opening_hours: ""

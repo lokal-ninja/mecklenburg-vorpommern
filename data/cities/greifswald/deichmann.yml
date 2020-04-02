@@ -5,7 +5,7 @@ latitude: 54.08122590000001
 longitude: 13.4184041
 postcode: 17491
 city: Greifswald
-street: Ernst-Thälmann-Ring
+street: "Ernst-Thälmann-Ring"
 housenumber: 11-13
 phone: ""
 opening_hours: ""

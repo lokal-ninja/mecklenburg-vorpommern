@@ -5,7 +5,7 @@ latitude: 54.103313400000005
 longitude: 12.1155389
 postcode: 18147
 city: Rostock
-street: Fährstraße
+street: "Fährstraße"
 housenumber: 48
 phone: "+49 381 6865392"
 opening_hours: "Termine nach Vereinbarung"

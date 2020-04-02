@@ -5,7 +5,7 @@ latitude: 54.053610500000005
 longitude: 13.4780286
 postcode: 17498
 city: Weitenhagen
-street: An der Chaussee
+street: "An der Chaussee"
 housenumber: 4
 phone: "+49 3834 811540"
 opening_hours: "Mo-Fr 08:00-14:00"

@@ -5,7 +5,7 @@ latitude: 53.892495100000005
 longitude: 11.465086000000001
 postcode: 23966
 city: Wismar
-street: Krämerstraße
+street: "Krämerstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.7280688
 longitude: 14.032295300000001
 postcode: 17373
 city: Ueckermünde
-street: Liepgartener Straße
+street: "Liepgartener Straße"
 housenumber: 45a
 phone: "+493977154 654"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"

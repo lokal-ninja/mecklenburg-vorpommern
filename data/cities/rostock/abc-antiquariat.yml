@@ -5,7 +5,7 @@ latitude: 54.1009004
 longitude: 12.077749500000001
 postcode: 18069
 city: Rostock
-street: Graf-Schwerin-Straße
+street: "Graf-Schwerin-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

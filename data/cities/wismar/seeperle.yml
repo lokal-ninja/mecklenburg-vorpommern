@@ -5,7 +5,7 @@ latitude: 53.8951974
 longitude: 11.4590803
 postcode: 23966
 city: Wismar
-street: Schiffbauerdamm
+street: "Schiffbauerdamm"
 housenumber: 3
 phone: "+49 3841 - 32 668-13"
 opening_hours: "Mo-Th 08:00-19:00; Fr, Sa 08:00-19:30; Su 08:00-19:00"

@@ -5,7 +5,7 @@ latitude: 53.365865500000005
 longitude: 13.0897419
 postcode: 17235
 city: Neustrelitz
-street: Gewerbepark Ost
+street: "Gewerbepark Ost"
 housenumber: 7
 phone: ""
 opening_hours: ""

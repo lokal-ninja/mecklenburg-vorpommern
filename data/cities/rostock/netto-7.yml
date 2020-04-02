@@ -5,7 +5,7 @@ latitude: 54.0875579
 longitude: 12.0825738
 postcode: 
 city: Rostock
-street: Johannes-Kepler-Straße
+street: "Johannes-Kepler-Straße"
 housenumber: 28a
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

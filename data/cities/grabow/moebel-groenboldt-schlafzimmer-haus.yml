@@ -5,7 +5,7 @@ latitude: 53.272052200000005
 longitude: 11.567468600000002
 postcode: 19300
 city: Grabow
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 25c
 phone: ""
 opening_hours: ""

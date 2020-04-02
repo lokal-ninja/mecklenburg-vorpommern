@@ -5,7 +5,7 @@ latitude: 54.152508100000006
 longitude: 12.015795200000001
 postcode: 18107
 city: Elmenhorst/Lichtenhagen
-street: Gewerbeallee
+street: "Gewerbeallee"
 housenumber: 4
 phone: ""
 opening_hours: ""

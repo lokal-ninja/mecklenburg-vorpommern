@@ -5,7 +5,7 @@ latitude: 53.624155900000005
 longitude: 11.402427300000001
 postcode: 19053
 city: Schwerin
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 68
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

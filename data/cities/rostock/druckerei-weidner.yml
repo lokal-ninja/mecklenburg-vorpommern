@@ -5,7 +5,7 @@ latitude: 54.0976566
 longitude: 12.096989500000001
 postcode: 
 city: Rostock
-street: Carl-Hopp-Straße
+street: "Carl-Hopp-Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

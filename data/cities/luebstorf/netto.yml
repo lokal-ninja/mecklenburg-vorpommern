@@ -5,7 +5,7 @@ latitude: 53.7295242
 longitude: 11.4027086
 postcode: 19069
 city: Lübstorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

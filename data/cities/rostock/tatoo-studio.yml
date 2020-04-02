@@ -5,7 +5,7 @@ latitude: 54.147668100000004
 longitude: 12.065305100000002
 postcode: 18109
 city: Rostock
-street: Flensburger Straße
+street: "Flensburger Straße"
 housenumber: 24a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.0868867
 longitude: 12.122825800000001
 postcode: 18057
 city: Rostock
-street: Friedhofsweg
+street: "Friedhofsweg"
 housenumber: 35
 phone: ""
 opening_hours: ""

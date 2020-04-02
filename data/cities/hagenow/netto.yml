@@ -5,7 +5,7 @@ latitude: 53.4351112
 longitude: 11.2015217
 postcode: 19230
 city: Hagenow
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

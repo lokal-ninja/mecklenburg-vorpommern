@@ -5,7 +5,7 @@ latitude: 53.590323000000005
 longitude: 11.650205900000001
 postcode: 19089
 city: Crivitz
-street: Brüeler Straße
+street: "Brüeler Straße"
 housenumber: 27
 phone: "+49 3863 502 525"
 opening_hours: "24/7"

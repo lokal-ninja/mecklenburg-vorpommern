@@ -5,7 +5,7 @@ latitude: 53.900781800000004
 longitude: 13.0513323
 postcode: 
 city: Demmin
-street: Mozartstraße
+street: "Mozartstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

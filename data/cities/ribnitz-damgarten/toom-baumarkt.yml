@@ -5,7 +5,7 @@ latitude: 54.2473748
 longitude: 12.4075919
 postcode: 18311
 city: Ribnitz-Damgarten
-street: Boddenstraße
+street: "Boddenstraße"
 housenumber: 5
 phone: "+493821 39021 0"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 53.2740329
 longitude: 12.822818900000001
 postcode: 
 city: Mirow
-street: Wesenberger Chaussee
+street: "Wesenberger Chaussee"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.941036000000004
 longitude: 12.106261900000002
 postcode: 18258
 city: Schwaan
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mittwoch Nachmittag geschlossen"

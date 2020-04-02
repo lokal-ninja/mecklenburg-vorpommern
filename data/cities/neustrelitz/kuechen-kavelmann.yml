@@ -5,7 +5,7 @@ latitude: 53.3752501
 longitude: 13.052446600000001
 postcode: 17235
 city: Neustrelitz
-street: Rudower Straße
+street: "Rudower Straße"
 housenumber: 41
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.0951375
 longitude: 12.103639600000001
 postcode: 18057
 city: Rostock
-street: Neptunallee
+street: "Neptunallee"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.460963400000004
 longitude: 12.262737300000001
 postcode: 19395
 city: Plau am See
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

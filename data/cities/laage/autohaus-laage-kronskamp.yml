@@ -5,7 +5,7 @@ latitude: 53.931609800000004
 longitude: 12.3076495
 postcode: 18299
 city: Laage
-street: Ernst-Heinkel-Straße
+street: "Ernst-Heinkel-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-12:30"

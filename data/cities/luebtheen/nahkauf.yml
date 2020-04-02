@@ -5,7 +5,7 @@ latitude: 53.3029133
 longitude: 11.085084400000001
 postcode: 19249
 city: Lübtheen
-street: Kirchenplatz
+street: "Kirchenplatz"
 housenumber: 2A
 phone: "+49 38855 78270"
 opening_hours: "Mo-Sa 07:00-20:00"

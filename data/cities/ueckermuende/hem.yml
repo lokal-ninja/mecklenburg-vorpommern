@@ -5,7 +5,7 @@ latitude: 53.735898600000006
 longitude: 14.091674600000001
 postcode: 17373
 city: Ueckermünde
-street: Belliner Straße
+street: "Belliner Straße"
 housenumber: 92
 phone: ""
 opening_hours: "Mo-Fr 06:00-22:00; Sa,Su 07:00-22:00"

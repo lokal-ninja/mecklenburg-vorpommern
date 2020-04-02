@@ -5,7 +5,7 @@ latitude: 53.436595100000005
 longitude: 11.1744692
 postcode: 19230
 city: Hagenow
-street: Toddiner Chaussee
+street: "Toddiner Chaussee"
 housenumber: 5
 phone: "+49 3883 722207"
 opening_hours: "24/7"

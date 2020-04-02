@@ -5,7 +5,7 @@ latitude: 54.5860403
 longitude: 13.1065152
 postcode: 18565
 city: Insel Hiddensee
-street: Kirchweg
+street: "Kirchweg"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 06:30-17:00; Su, PH 06:30-16:00"

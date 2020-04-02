@@ -5,7 +5,7 @@ latitude: 53.375846100000004
 longitude: 11.5921628
 postcode: 19306
 city: Neustadt-Glewe
-street: Sandstraße
+street: "Sandstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

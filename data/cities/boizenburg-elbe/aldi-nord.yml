@@ -5,7 +5,7 @@ latitude: 53.381457700000006
 longitude: 10.770815
 postcode: 19258
 city: Boizenburg/Elbe
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

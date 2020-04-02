@@ -5,7 +5,7 @@ latitude: 54.3647616
 longitude: 12.724740500000001
 postcode: 18356
 city: Barth
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 80d
 phone: "+4938231 455420"
 opening_hours: "Mo-Sa 09:00-20:00"

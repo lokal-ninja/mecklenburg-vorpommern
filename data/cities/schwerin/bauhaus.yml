@@ -5,7 +5,7 @@ latitude: 53.596308900000004
 longitude: 11.4331096
 postcode: 19061
 city: Schwerin
-street: Graf-Yorck-Straße
+street: "Graf-Yorck-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

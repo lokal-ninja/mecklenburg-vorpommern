@@ -5,7 +5,7 @@ latitude: 53.93970830000001
 longitude: 12.1078398
 postcode: 18258
 city: Schwaan
-street: Markt
+street: "Markt"
 housenumber: 19
 phone: ""
 opening_hours: ""

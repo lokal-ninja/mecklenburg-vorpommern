@@ -5,7 +5,7 @@ latitude: 54.1772356
 longitude: 12.214661300000001
 postcode: 18182
 city: Rövershagen
-street: Niederhagen
+street: "Niederhagen"
 housenumber: 10
 phone: "+49 38202 29979"
 opening_hours: "Mo,We-Su 10:00-18:00"

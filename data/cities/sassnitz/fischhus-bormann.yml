@@ -5,7 +5,7 @@ latitude: 54.515362200000006
 longitude: 13.642745900000001
 postcode: 18546
 city: Sassnitz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-12:00"

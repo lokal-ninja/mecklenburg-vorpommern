@@ -5,7 +5,7 @@ latitude: 54.0862819
 longitude: 12.111353600000001
 postcode: 18057
 city: Rostock
-street: Ulmenstraße
+street: "Ulmenstraße"
 housenumber: 70
 phone: ""
 opening_hours: "Tu 13:00-18:00; We-Fr 13:00-20:00; Sa 12:00-16:00"

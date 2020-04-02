@@ -5,7 +5,7 @@ latitude: 53.425813000000005
 longitude: 12.9304027
 postcode: 17237
 city: Kratzeburg
-street: Dalmsdorf
+street: "Dalmsdorf"
 housenumber: 
 phone: "+49 39822 296057"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.1525114
 longitude: 12.230500500000002
 postcode: 18182
 city: Mönchhagen
-street: Transitstraße
+street: "Transitstraße"
 housenumber: 13a
 phone: "+49 38202 2042"
 opening_hours: "24/7"

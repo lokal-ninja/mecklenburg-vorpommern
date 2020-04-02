@@ -5,7 +5,7 @@ latitude: 54.036201600000005
 longitude: 12.877478900000002
 postcode: 
 city: Grammendorf
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 60
 phone: ""
 opening_hours: ""

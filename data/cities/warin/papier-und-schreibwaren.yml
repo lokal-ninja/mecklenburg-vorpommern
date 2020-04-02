@@ -5,7 +5,7 @@ latitude: 53.800400700000004
 longitude: 11.705131900000001
 postcode: 19417
 city: Warin
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 10
 phone: "+49 38482 603 85"
 opening_hours: ""

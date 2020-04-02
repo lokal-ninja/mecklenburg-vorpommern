@@ -5,7 +5,7 @@ latitude: 54.077454700000004
 longitude: 13.909744300000002
 postcode: 17454
 city: Zinnowitz
-street: Neue Strandstraße
+street: "Neue Strandstraße"
 housenumber: 15a
 phone: ""
 opening_hours: ""

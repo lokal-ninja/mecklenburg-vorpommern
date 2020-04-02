@@ -5,7 +5,7 @@ latitude: 53.599398400000005
 longitude: 11.477410200000001
 postcode: 19063
 city: Schwerin
-street: Alte Crivitzer Landstraße
+street: "Alte Crivitzer Landstraße"
 housenumber: 4
 phone: ""
 opening_hours: "08:00-21:00"

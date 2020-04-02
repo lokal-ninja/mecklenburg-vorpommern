@@ -5,7 +5,7 @@ latitude: 54.511833800000005
 longitude: 13.6299057
 postcode: 18546
 city: Sassnitz
-street: Gerhart-Hauptmann-Ring
+street: "Gerhart-Hauptmann-Ring"
 housenumber: 53
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

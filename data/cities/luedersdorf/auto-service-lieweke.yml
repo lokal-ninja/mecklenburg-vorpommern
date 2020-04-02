@@ -5,7 +5,7 @@ latitude: 53.838254500000005
 longitude: 10.7571154
 postcode: 
 city: Lüdersdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 104a
 phone: "+49 (038821) 670041"
 opening_hours: "Mo-Fr 08:00-17:00"

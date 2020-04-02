@@ -5,7 +5,7 @@ latitude: 53.8482392
 longitude: 11.9855883
 postcode: 18246
 city: Bützow
-street: Jungfernstraße
+street: "Jungfernstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

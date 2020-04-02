@@ -5,7 +5,7 @@ latitude: 53.910461000000005
 longitude: 12.1948903
 postcode: 18299
 city: Hohen Sprenz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

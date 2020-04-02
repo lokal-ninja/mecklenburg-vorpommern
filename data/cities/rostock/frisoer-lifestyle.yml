@@ -5,7 +5,7 @@ latitude: 54.0907313
 longitude: 12.124971500000001
 postcode: 18057
 city: Rostock
-street: Neue Werderstraße
+street: "Neue Werderstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

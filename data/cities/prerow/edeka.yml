@@ -5,7 +5,7 @@ latitude: 54.446948500000005
 longitude: 12.568153200000001
 postcode: 18375
 city: Prerow
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 4
 phone: "+49 38233 709883"
 opening_hours: "Mo-Sa 08:00-20:00; Su 13:00-18:00; Nov-Apr Su off"

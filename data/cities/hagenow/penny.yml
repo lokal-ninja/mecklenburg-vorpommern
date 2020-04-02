@@ -5,7 +5,7 @@ latitude: 53.4321934
 longitude: 11.1964553
 postcode: 19230
 city: Hagenow
-street: Möllner Straße
+street: "Möllner Straße"
 housenumber: 51a
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

@@ -5,7 +5,7 @@ latitude: 54.3485305
 longitude: 12.397631400000002
 postcode: 18347
 city: Ostseebad Wustrow
-street: Strandstraße
+street: "Strandstraße"
 housenumber: 4a
 phone: ""
 opening_hours: "Mo-Su 9:00-18:00"

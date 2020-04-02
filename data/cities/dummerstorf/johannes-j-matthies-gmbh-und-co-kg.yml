@@ -5,7 +5,7 @@ latitude: 54.0142084
 longitude: 12.204066200000002
 postcode: 18196
 city: Dummerstorf
-street: Silder Moor
+street: "Silder Moor"
 housenumber: 5
 phone: "+49 38208 650"
 opening_hours: ""

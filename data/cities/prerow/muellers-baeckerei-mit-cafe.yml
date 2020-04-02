@@ -5,7 +5,7 @@ latitude: 54.4435104
 longitude: 12.579903000000002
 postcode: 18375
 city: Prerow
-street: Hafenstraße
+street: "Hafenstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-18:00"

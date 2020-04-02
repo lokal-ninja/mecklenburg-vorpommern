@@ -5,7 +5,7 @@ latitude: 54.0887278
 longitude: 12.117701700000001
 postcode: 18057
 city: Rostock
-street: Niklotstraße
+street: "Niklotstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 11:00-19:00"

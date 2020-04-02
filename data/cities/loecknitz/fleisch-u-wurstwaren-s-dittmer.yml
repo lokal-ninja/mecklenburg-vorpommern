@@ -5,7 +5,7 @@ latitude: 53.4538397
 longitude: 14.207616400000001
 postcode: 17321
 city: Löcknitz
-street: Chausseestraße
+street: "Chausseestraße"
 housenumber: 100
 phone: ""
 opening_hours: ""

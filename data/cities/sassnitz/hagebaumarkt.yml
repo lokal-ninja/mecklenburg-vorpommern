@@ -5,7 +5,7 @@ latitude: 54.51404290000001
 longitude: 13.6016329
 postcode: 18546
 city: Sassnitz
-street: Gewerbepark
+street: "Gewerbepark"
 housenumber: 9
 phone: "+4938392 3040"
 opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"

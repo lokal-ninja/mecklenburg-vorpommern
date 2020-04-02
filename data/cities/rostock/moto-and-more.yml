@@ -5,7 +5,7 @@ latitude: 54.092008400000005
 longitude: 12.146544700000002
 postcode: 
 city: Rostock
-street: Am Strande
+street: "Am Strande"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

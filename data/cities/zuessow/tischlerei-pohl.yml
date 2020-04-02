@@ -5,7 +5,7 @@ latitude: 53.972124
 longitude: 13.5434788
 postcode: 17495
 city: Züssow
-street: Chausseestraße
+street: "Chausseestraße"
 housenumber: 18a
 phone: "+49 38355 71999"
 opening_hours: ""

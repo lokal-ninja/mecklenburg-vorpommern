@@ -5,7 +5,7 @@ latitude: 54.0706609
 longitude: 11.8035048
 postcode: 18236
 city: Kröpelin
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

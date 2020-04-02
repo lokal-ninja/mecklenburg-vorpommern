@@ -5,7 +5,7 @@ latitude: 54.08384830000001
 longitude: 12.194037900000001
 postcode: 18055
 city: Rostock
-street: Timmermannsstrat
+street: "Timmermannsstrat"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

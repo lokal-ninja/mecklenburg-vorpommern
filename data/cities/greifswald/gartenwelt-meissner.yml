@@ -5,7 +5,7 @@ latitude: 54.093580100000004
 longitude: 13.3548238
 postcode: 17489
 city: Greifswald
-street: Am Neuen Friedhof
+street: "Am Neuen Friedhof"
 housenumber: 6
 phone: ""
 opening_hours: ""

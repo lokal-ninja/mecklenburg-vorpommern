@@ -5,7 +5,7 @@ latitude: 53.4586052
 longitude: 12.264478100000002
 postcode: 19395
 city: Plau am See
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

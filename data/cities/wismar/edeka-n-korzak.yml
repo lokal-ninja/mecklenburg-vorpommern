@@ -5,7 +5,7 @@ latitude: 53.8925727
 longitude: 11.468543700000001
 postcode: 23966
 city: Wismar
-street: Altwismarstraße
+street: "Altwismarstraße"
 housenumber: 7-17
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 54.3624887
 longitude: 12.7124953
 postcode: 18356
 city: Barth
-street: Mastweg
+street: "Mastweg"
 housenumber: 54
 phone: "+49 38231 7761 8"
 opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00"

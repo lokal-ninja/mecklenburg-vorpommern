@@ -5,7 +5,7 @@ latitude: 54.0883711
 longitude: 11.8491464
 postcode: 18209
 city: Reddelich
-street: Alte Dorfstraße
+street: "Alte Dorfstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

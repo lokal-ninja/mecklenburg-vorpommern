@@ -5,7 +5,7 @@ latitude: 54.2192481
 longitude: 12.6195421
 postcode: 18320
 city: Ahrenshagen-Daskow
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 147
 phone: "+493822530683"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 54.4542135
 longitude: 13.311089500000001
 postcode: 18569
 city: Kluis
-street: Pansevitz
+street: "Pansevitz"
 housenumber: 4
 phone: "+493830553331"
 opening_hours: "Mo-Su 09:00-20:00"

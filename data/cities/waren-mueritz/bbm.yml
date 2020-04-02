@@ -5,7 +5,7 @@ latitude: 53.5194837
 longitude: 12.649207400000002
 postcode: 17192
 city: Waren (Müritz)
-street: Warendorfer Straße
+street: "Warendorfer Straße"
 housenumber: 6
 phone: "+49 3991 187800"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"

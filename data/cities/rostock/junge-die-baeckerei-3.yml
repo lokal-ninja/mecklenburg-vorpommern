@@ -5,7 +5,7 @@ latitude: 54.181598400000006
 longitude: 12.0855335
 postcode: 18119
 city: Rostock
-street: Seepromenade
+street: "Seepromenade"
 housenumber: 1
 phone: ""
 opening_hours: "08:00-18:00"

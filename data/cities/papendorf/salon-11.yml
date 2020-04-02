@@ -5,7 +5,7 @@ latitude: 54.0287573
 longitude: 12.0940071
 postcode: 18059
 city: Papendorf
-street: Buchholzer Straße
+street: "Buchholzer Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

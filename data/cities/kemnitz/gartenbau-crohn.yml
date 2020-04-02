@@ -5,7 +5,7 @@ latitude: 54.078665
 longitude: 13.5333737
 postcode: 17509
 city: Kemnitz
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 32a
 phone: ""
 opening_hours: ""

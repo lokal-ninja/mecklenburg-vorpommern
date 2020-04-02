@@ -5,7 +5,7 @@ latitude: 53.802041300000006
 longitude: 10.7500652
 postcode: 23627
 city: Groß Grönau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 06:00-11:00; Sa 06:30-12:00; Su 07:30-10:30"

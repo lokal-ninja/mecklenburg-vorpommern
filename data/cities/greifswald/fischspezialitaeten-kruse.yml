@@ -5,7 +5,7 @@ latitude: 54.0952636
 longitude: 13.448424300000001
 postcode: 17493
 city: Greifswald
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

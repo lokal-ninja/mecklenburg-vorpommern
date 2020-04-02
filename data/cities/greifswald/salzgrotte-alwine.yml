@@ -5,7 +5,7 @@ latitude: 54.0977491
 longitude: 13.378735500000001
 postcode: 17489
 city: Greifswald
-street: Steinbeckerstraße
+street: "Steinbeckerstraße"
 housenumber: 40
 phone: "+49 3834 518 17 93"
 opening_hours: ""

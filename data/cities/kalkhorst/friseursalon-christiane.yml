@@ -5,7 +5,7 @@ latitude: 53.970592
 longitude: 11.0475347
 postcode: 23942
 city: Kalkhorst
-street: Friedensstraße
+street: "Friedensstraße"
 housenumber: 21
 phone: "+49 38827 447"
 opening_hours: ""

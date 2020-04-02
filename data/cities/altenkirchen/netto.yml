@@ -5,7 +5,7 @@ latitude: 54.632359
 longitude: 13.344635100000001
 postcode: 18556
 city: Altenkirchen
-street: Straße des Friedens
+street: "Straße des Friedens"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.4533416
 longitude: 14.2003184
 postcode: 17321
 city: Löcknitz
-street: Prenzlauer Straße
+street: "Prenzlauer Straße"
 housenumber: 3B
 phone: ""
 opening_hours: ""

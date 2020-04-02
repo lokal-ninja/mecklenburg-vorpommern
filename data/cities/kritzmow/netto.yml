@@ -5,7 +5,7 @@ latitude: 54.049674
 longitude: 12.047630600000002
 postcode: 18198
 city: Kritzmow
-street: Am Karauschensoll
+street: "Am Karauschensoll"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

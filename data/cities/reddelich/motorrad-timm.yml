@@ -5,7 +5,7 @@ latitude: 54.087072400000004
 longitude: 11.8515229
 postcode: 18209
 city: Reddelich
-street: An der B 105
+street: "An der B 105"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00; Su,PH closed"

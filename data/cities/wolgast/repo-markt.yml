@@ -5,7 +5,7 @@ latitude: 54.068007400000006
 longitude: 13.761146
 postcode: 
 city: Wolgast
-street: Freester Weg
+street: "Freester Weg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

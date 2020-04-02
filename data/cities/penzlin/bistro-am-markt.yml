@@ -5,7 +5,7 @@ latitude: 53.50530740000001
 longitude: 13.089689400000001
 postcode: 
 city: Penzlin
-street: Große Straße
+street: "Große Straße"
 housenumber: 43
 phone: ""
 opening_hours: ""

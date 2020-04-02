@@ -5,7 +5,7 @@ latitude: 53.801125500000005
 longitude: 12.182722
 postcode: 18273
 city: Güstrow
-street: Rostocker Straße
+street: "Rostocker Straße"
 housenumber: 32A
 phone: "+49 3843 681739"
 opening_hours: "Mo-Fr 09:00-12:30,13:00-18:00; Sa 09:00-12:00; Su,PH closed"

@@ -5,7 +5,7 @@ latitude: 54.114307600000004
 longitude: 12.1448178
 postcode: 18147
 city: Rostock
-street: Albert-Schweitzer-Straße
+street: "Albert-Schweitzer-Straße"
 housenumber: 23
 phone: ""
 opening_hours: ""

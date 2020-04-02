@@ -5,7 +5,7 @@ latitude: 54.3924284
 longitude: 12.5408521
 postcode: 18375
 city: Born a. Darß
-street: Bäderstraße
+street: "Bäderstraße"
 housenumber: 1
 phone: "+4938234 55994 5"
 opening_hours: "Mo-Su 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 53.8455159
 longitude: 11.9724661
 postcode: 18246
 city: Bützow
-street: Wismarsche Straße
+street: "Wismarsche Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

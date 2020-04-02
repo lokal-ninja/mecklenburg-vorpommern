@@ -5,7 +5,7 @@ latitude: 54.086898600000005
 longitude: 13.3925119
 postcode: 17489
 city: Greifswald
-street: Erich-Weinert-Straße
+street: "Erich-Weinert-Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

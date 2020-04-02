@@ -5,7 +5,7 @@ latitude: 53.7018976
 longitude: 11.117253300000002
 postcode: 19205
 city: Gadebusch
-street: Wollbrügger Straße
+street: "Wollbrügger Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo 09:00-15:00; We 09:00-15:00; Tu,Th-Fr 09:00-18:00; Sa 09:00-12:00; PH off; SH We 09:00-18:00"

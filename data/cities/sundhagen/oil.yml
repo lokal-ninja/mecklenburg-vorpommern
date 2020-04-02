@@ -5,7 +5,7 @@ latitude: 54.20246100000001
 longitude: 13.201482500000001
 postcode: 18519
 city: Sundhagen
-street: Reinberger Straße
+street: "Reinberger Straße"
 housenumber: 26
 phone: "+49 (038328) 70745"
 opening_hours: "24/7"

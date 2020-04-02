@@ -5,7 +5,7 @@ latitude: 54.0869731
 longitude: 12.120723400000001
 postcode: 18057
 city: Rostock
-street: Wismarsche Straße
+street: "Wismarsche Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo, Tu, Th, Fr 10:30-08:30; Sa 10:30-15:30"

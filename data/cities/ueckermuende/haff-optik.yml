@@ -5,7 +5,7 @@ latitude: 53.7373205
 longitude: 14.045837400000002
 postcode: 17373
 city: Ueckermünde
-street: Markt
+street: "Markt"
 housenumber: 7
 phone: "+493977122425"
 opening_hours: ""

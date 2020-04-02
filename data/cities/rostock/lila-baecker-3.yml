@@ -5,7 +5,7 @@ latitude: 54.090998000000006
 longitude: 12.1124483
 postcode: 18057
 city: Rostock
-street: Budapester Straße
+street: "Budapester Straße"
 housenumber: 80a
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-14:00"

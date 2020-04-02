@@ -5,7 +5,7 @@ latitude: 53.7084538
 longitude: 11.8226457
 postcode: 
 city: Sternberg
-street: Fritz-Reuter-Straße
+street: "Fritz-Reuter-Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

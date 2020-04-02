@@ -5,7 +5,7 @@ latitude: 53.8922041
 longitude: 11.462948200000001
 postcode: 
 city: Wismar
-street: Lübsche Straße
+street: "Lübsche Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00 , Sa 08:30-15:00"

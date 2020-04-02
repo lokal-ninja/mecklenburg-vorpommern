@@ -5,7 +5,7 @@ latitude: 53.6291767
 longitude: 11.413323100000001
 postcode: 19053
 city: Schwerin
-street: Schmiedestraße
+street: "Schmiedestraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

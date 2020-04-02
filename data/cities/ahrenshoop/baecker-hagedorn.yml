@@ -5,7 +5,7 @@ latitude: 54.381958600000004
 longitude: 12.421520500000002
 postcode: 18347
 city: Ahrenshoop
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 37
 phone: "+49 38220 80641"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00"

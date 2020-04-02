@@ -5,7 +5,7 @@ latitude: 53.682498300000006
 longitude: 14.074464800000001
 postcode: 17367
 city: Eggesin
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

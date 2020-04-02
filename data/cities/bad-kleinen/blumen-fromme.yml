@@ -5,7 +5,7 @@ latitude: 53.7711127
 longitude: 11.4707439
 postcode: 
 city: Bad Kleinen
-street: Steinstraße
+street: "Steinstraße"
 housenumber: 8a
 phone: ""
 opening_hours: ""

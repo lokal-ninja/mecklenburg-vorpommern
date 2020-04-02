@@ -5,7 +5,7 @@ latitude: 53.4116428
 longitude: 12.9056449
 postcode: 17237
 city: Granzin
-street: Granzin
+street: "Granzin"
 housenumber: 4
 phone: ""
 opening_hours: "Juni bis August: 10-17 Uhr"

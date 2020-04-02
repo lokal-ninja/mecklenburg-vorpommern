@@ -5,7 +5,7 @@ latitude: 54.400850500000004
 longitude: 13.613551900000001
 postcode: 18609
 city: Binz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

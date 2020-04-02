@@ -5,7 +5,7 @@ latitude: 54.090659200000005
 longitude: 12.122442300000001
 postcode: 18057
 city: Rostock
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00 und nach Absprache"

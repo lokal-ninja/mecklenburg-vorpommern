@@ -5,7 +5,7 @@ latitude: 54.15125260000001
 longitude: 11.719118
 postcode: 18225
 city: Kühlungsborn
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 07:00-11:00"

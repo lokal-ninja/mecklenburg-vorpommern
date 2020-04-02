@@ -5,7 +5,7 @@ latitude: 54.0918166
 longitude: 12.086157
 postcode: 18069
 city: Rostock
-street: Robert-Schumann-Straße
+street: "Robert-Schumann-Straße"
 housenumber: 24a
 phone: ""
 opening_hours: ""

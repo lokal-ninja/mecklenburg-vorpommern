@@ -5,7 +5,7 @@ latitude: 53.793767100000004
 longitude: 12.1765827
 postcode: 18273
 city: Güstrow
-street: Markt
+street: "Markt"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 07:00-19:00"

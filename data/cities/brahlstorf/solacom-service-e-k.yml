@@ -5,7 +5,7 @@ latitude: 53.3624768
 longitude: 10.9826771
 postcode: 19273
 city: Brahlstorf
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 12
 phone: "+49 38848 222 22"
 opening_hours: ""

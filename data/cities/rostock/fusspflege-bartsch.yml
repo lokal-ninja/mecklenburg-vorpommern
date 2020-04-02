@@ -5,7 +5,7 @@ latitude: 54.059223700000004
 longitude: 12.1124595
 postcode: 18059
 city: Rostock
-street: Ährenkamp
+street: "Ährenkamp"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Tu 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 54.4347915
 longitude: 12.6881778
 postcode: 18374
 city: Zingst
-street: Hafenstraße
+street: "Hafenstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

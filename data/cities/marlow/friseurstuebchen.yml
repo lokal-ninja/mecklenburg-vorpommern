@@ -5,7 +5,7 @@ latitude: 54.149540800000004
 longitude: 12.429553400000001
 postcode: 18337
 city: Marlow
-street: Marlower Straße
+street: "Marlower Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00"

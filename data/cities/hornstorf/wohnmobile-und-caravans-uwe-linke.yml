@@ -5,7 +5,7 @@ latitude: 53.892992400000004
 longitude: 11.536364800000001
 postcode: 23970
 city: Hornstorf
-street: Grevenbarg
+street: "Grevenbarg"
 housenumber: 1
 phone: ""
 opening_hours: ""

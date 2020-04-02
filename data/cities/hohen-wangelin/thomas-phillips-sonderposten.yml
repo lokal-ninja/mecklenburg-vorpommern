@@ -5,7 +5,7 @@ latitude: 53.6094439
 longitude: 12.4214751
 postcode: 17194
 city: Hohen Wangelin
-street: Hans-Beimler-Straße
+street: "Hans-Beimler-Straße"
 housenumber: 43
 phone: ""
 opening_hours: "9:00-19:00"

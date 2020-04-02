@@ -5,7 +5,7 @@ latitude: 53.86356120000001
 longitude: 11.1841275
 postcode: 
 city: Grevesmühlen
-street: August-Bebel-Straße
+street: "August-Bebel-Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

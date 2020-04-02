@@ -5,7 +5,7 @@ latitude: 53.6462185
 longitude: 11.4219228
 postcode: 19055
 city: Schwerin
-street: Möwenburgstraße
+street: "Möwenburgstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.2296424
 longitude: 11.410747200000001
 postcode: 19294
 city: Eldena
-street: Dömitzer Straße
+street: "Dömitzer Straße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 54.14976720000001
 longitude: 11.7561791
 postcode: 18225
 city: Kühlungsborn
-street: Dünenstraße
+street: "Dünenstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Su 07:00-22:00"

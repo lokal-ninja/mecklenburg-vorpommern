@@ -5,7 +5,7 @@ latitude: 53.9404369
 longitude: 14.1867789
 postcode: 17419
 city: Heringsdorf
-street: Seestraße
+street: "Seestraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

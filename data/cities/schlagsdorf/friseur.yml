@@ -5,7 +5,7 @@ latitude: 53.7314525
 longitude: 10.8243495
 postcode: 19217
 city: Schlagsdorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

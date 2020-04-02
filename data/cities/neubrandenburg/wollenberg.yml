@@ -5,7 +5,7 @@ latitude: 53.536930700000006
 longitude: 13.2588126
 postcode: 17033
 city: Neubrandenburg
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 43
 phone: ""
 opening_hours: ""

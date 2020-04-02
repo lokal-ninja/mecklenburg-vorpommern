@@ -5,7 +5,7 @@ latitude: 53.8703985
 longitude: 11.692309300000002
 postcode: 23992
 city: Neukloster
-street: Hopfenbachstraße
+street: "Hopfenbachstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

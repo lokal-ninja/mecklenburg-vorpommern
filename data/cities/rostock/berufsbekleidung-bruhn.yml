@@ -5,7 +5,7 @@ latitude: 54.105981400000005
 longitude: 12.089859200000001
 postcode: 18069
 city: Rostock
-street: Schlachthofstraße
+street: "Schlachthofstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00"

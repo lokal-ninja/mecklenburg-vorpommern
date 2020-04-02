@@ -5,7 +5,7 @@ latitude: 54.0968614
 longitude: 13.372654200000001
 postcode: 17489
 city: Greifswald
-street: Wollweberstraße
+street: "Wollweberstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

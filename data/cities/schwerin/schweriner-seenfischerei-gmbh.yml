@@ -5,7 +5,7 @@ latitude: 53.639209
 longitude: 11.435424300000001
 postcode: 19055
 city: Schwerin
-street: Bornhövedstraße
+street: "Bornhövedstraße"
 housenumber: 105
 phone: "+49 385 561345"
 opening_hours: ""

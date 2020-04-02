@@ -5,7 +5,7 @@ latitude: 53.851680300000005
 longitude: 10.931277600000001
 postcode: 23923
 city: Schönberg
-street: Straße der Technik
+street: "Straße der Technik"
 housenumber: 14
 phone: "+49 38828 20208"
 opening_hours: "Mo-Fr 09:00-18:20; Sa 09:00-12:00"

@@ -5,7 +5,7 @@ latitude: 53.943080300000005
 longitude: 13.842369900000001
 postcode: 17440
 city: Lassan
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.0794634
 longitude: 13.9079709
 postcode: 17454
 city: Zinnowitz
-street: Dr.-Wachsmann-Straße
+street: "Dr.-Wachsmann-Straße"
 housenumber: 30c
 phone: "+49 38371 29793"
 opening_hours: "Mo-Tu 10:00-17:00"

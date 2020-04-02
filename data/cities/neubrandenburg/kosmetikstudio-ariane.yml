@@ -5,7 +5,7 @@ latitude: 53.549764800000005
 longitude: 13.2579939
 postcode: 
 city: Neubrandenburg
-street: Schwedenstraße
+street: "Schwedenstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

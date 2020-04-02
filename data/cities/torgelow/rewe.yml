@@ -5,7 +5,7 @@ latitude: 53.628737900000004
 longitude: 14.013871400000001
 postcode: 17358
 city: Torgelow
-street: Pasewalker Straße
+street: "Pasewalker Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 8:00-20:00"

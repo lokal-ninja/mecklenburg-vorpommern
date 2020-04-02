@@ -5,7 +5,7 @@ latitude: 53.8671428
 longitude: 11.184565800000001
 postcode: 23936
 city: Grevesmühlen
-street: Klützer Straße
+street: "Klützer Straße"
 housenumber: 1
 phone: "+49 3881 713955"
 opening_hours: "Mo-Sa 07:00-22:00;PH closed"

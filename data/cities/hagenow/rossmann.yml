@@ -5,7 +5,7 @@ latitude: 53.4327082
 longitude: 11.189983600000001
 postcode: 19230
 city: Hagenow
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 87-89
 phone: ""
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-14:00; Su off; PH off"

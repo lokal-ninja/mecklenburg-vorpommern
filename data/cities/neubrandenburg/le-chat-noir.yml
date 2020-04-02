@@ -5,7 +5,7 @@ latitude: 53.557237
 longitude: 13.264909000000001
 postcode: 17033
 city: Neubrandenburg
-street: Turmstraße
+street: "Turmstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

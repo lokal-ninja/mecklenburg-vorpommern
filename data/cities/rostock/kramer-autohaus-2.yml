@@ -5,7 +5,7 @@ latitude: 54.108133
 longitude: 12.0869324
 postcode: 18069
 city: Rostock
-street: Am Fischereihafen
+street: "Am Fischereihafen"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"

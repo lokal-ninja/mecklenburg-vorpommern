@@ -5,7 +5,7 @@ latitude: 53.5692029
 longitude: 11.3710526
 postcode: 19075
 city: Pampow
-street: Ahornstraße
+street: "Ahornstraße"
 housenumber: 3
 phone: "+49 3865 84474 0"
 opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-12:00"

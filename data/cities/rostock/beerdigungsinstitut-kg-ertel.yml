@@ -5,7 +5,7 @@ latitude: 54.0909981
 longitude: 12.1158446
 postcode: 18057
 city: Rostock
-street: Doberaner Straße
+street: "Doberaner Straße"
 housenumber: 119
 phone: ""
 opening_hours: ""

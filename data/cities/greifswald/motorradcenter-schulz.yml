@@ -5,7 +5,7 @@ latitude: 54.090437900000005
 longitude: 13.3910228
 postcode: 17489
 city: Greifswald
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

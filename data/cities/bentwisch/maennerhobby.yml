@@ -5,7 +5,7 @@ latitude: 54.134706
 longitude: 12.2433811
 postcode: 18182
 city: Bentwisch
-street: Siedlungsweg
+street: "Siedlungsweg"
 housenumber: 4a
 phone: "+49 38202 43331"
 opening_hours: "Mo-Fr 07:30-12:00; Mo-Fr 13:00-16:00; Sa 10:00-16:00"

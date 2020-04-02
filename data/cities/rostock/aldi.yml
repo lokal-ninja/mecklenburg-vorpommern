@@ -5,7 +5,7 @@ latitude: 54.1226915
 longitude: 12.060073200000001
 postcode: 18106
 city: Rostock
-street: Bertolt-Brecht-Straße
+street: "Bertolt-Brecht-Straße"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

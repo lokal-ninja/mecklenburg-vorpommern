@@ -5,7 +5,7 @@ latitude: 54.091337800000005
 longitude: 12.115989800000001
 postcode: 18057
 city: Rostock
-street: Lohmühlenweg
+street: "Lohmühlenweg"
 housenumber: 
 phone: "+493812018010"
 opening_hours: ""

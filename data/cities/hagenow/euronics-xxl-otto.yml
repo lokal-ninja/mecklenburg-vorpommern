@@ -5,7 +5,7 @@ latitude: 53.433518400000004
 longitude: 11.1954475
 postcode: 19230
 city: Hagenow
-street: Schweriner Straße
+street: "Schweriner Straße"
 housenumber: 15
 phone: "+49 3883 66007"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 53.5563937
 longitude: 13.263517100000001
 postcode: 17033
 city: Neubrandenburg
-street: Wartlaustraße
+street: "Wartlaustraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

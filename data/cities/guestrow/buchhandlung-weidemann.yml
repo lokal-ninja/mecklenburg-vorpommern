@@ -5,7 +5,7 @@ latitude: 53.7828025
 longitude: 12.1771133
 postcode: 18273
 city: Güstrow
-street: Goldberger Straße
+street: "Goldberger Straße"
 housenumber: 12
 phone: "+493843-33 20 53"
 opening_hours: ""

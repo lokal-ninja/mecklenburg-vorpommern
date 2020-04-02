@@ -5,7 +5,7 @@ latitude: 54.109527
 longitude: 12.654540200000001
 postcode: 18334
 city: Bad Sülze
-street: Im Scheunenviertel
+street: "Im Scheunenviertel"
 housenumber: 1
 phone: ""
 opening_hours: ""

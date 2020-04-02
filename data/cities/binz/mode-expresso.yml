@@ -5,7 +5,7 @@ latitude: 54.40064520000001
 longitude: 13.6161147
 postcode: 18609
 city: Binz
-street: Strandpromenade
+street: "Strandpromenade"
 housenumber: 19
 phone: ""
 opening_hours: ""

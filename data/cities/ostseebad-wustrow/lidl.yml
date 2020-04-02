@@ -5,7 +5,7 @@ latitude: 54.35180140000001
 longitude: 12.4026297
 postcode: 18347
 city: Ostseebad Wustrow
-street: Ernst-Thälmann-Straße
+street: "Ernst-Thälmann-Straße"
 housenumber: 41e
 phone: "+49 800 4353361"
 opening_hours: "Mo-Sa 08:00-20:00; Su 12:00-18:00"

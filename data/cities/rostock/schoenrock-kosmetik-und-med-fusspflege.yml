@@ -5,7 +5,7 @@ latitude: 54.0818189
 longitude: 12.112416000000001
 postcode: 18059
 city: Rostock
-street: Laurembergstraße
+street: "Laurembergstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo - Fr 08:00 - 19:00; und nach Vereinbarung"

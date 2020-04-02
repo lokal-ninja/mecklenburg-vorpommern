@@ -5,7 +5,7 @@ latitude: 53.847123100000005
 longitude: 10.7462029
 postcode: 23564
 city: Lübeck
-street: Brandenbaumer Landstraße
+street: "Brandenbaumer Landstraße"
 housenumber: 264
 phone: "+49 451 601697"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH,Su off "

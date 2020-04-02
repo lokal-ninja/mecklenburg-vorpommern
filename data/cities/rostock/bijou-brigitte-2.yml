@@ -5,7 +5,7 @@ latitude: 54.178115500000004
 longitude: 12.087480800000002
 postcode: 18119
 city: Rostock
-street: Am Strom
+street: "Am Strom"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Sa 10:00-18:00"

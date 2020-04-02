@@ -5,7 +5,7 @@ latitude: 53.3927093
 longitude: 13.584442600000001
 postcode: 17291
 city: Nordwestuckermark
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 4
 phone: ""
 opening_hours: "We-Fr 10:00-17:30, Sa 09:00-16:00"

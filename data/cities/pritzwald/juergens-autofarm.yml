@@ -5,7 +5,7 @@ latitude: 54.102195200000004
 longitude: 13.659842000000001
 postcode: 17509
 city: Pritzwald
-street: Wolgaster Straße
+street: "Wolgaster Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa nach Vereinbarung; PH off"

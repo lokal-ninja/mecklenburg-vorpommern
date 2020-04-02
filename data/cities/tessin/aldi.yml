@@ -5,7 +5,7 @@ latitude: 54.0286752
 longitude: 12.457538900000001
 postcode: 18195
 city: Tessin
-street: August-Bebel-Straße
+street: "August-Bebel-Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

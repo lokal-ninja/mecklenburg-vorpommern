@@ -5,7 +5,7 @@ latitude: 54.0751761
 longitude: 13.9080352
 postcode: 17454
 city: Zinnowitz
-street: Glienbergweg
+street: "Glienbergweg"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"

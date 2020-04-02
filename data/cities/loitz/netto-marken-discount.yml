@@ -5,7 +5,7 @@ latitude: 53.976235800000005
 longitude: 13.132257800000001
 postcode: 17121
 city: Loitz
-street: Lange Reihe
+street: "Lange Reihe"
 housenumber: 36 a
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

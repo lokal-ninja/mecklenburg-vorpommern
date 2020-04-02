@@ -5,7 +5,7 @@ latitude: 54.0780359
 longitude: 13.408555000000002
 postcode: 17491
 city: Greifswald
-street: Gaußstraße
+street: "Gaußstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo, Tu, Th 08:00-19:00; We, Fr 08:00-18:00; PH off"

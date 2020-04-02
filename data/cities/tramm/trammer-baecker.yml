@@ -5,7 +5,7 @@ latitude: 53.5222356
 longitude: 11.647210300000001
 postcode: 19089
 city: Tramm
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

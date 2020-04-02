@@ -5,7 +5,7 @@ latitude: 54.43688160000001
 longitude: 12.682995400000001
 postcode: 18374
 city: Zingst
-street: Strandstraße
+street: "Strandstraße"
 housenumber: 43g
 phone: "+49 38232 847545"
 opening_hours: "Mo-Su 07:00-16:00"

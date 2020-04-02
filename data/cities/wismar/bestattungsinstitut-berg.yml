@@ -5,7 +5,7 @@ latitude: 53.878911800000004
 longitude: 11.466880100000001
 postcode: 23970
 city: Wismar
-street: Wiesenweg
+street: "Wiesenweg"
 housenumber: 69a
 phone: ""
 opening_hours: ""

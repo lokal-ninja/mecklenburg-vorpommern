@@ -5,7 +5,7 @@ latitude: 53.77366000000001
 longitude: 12.5678313
 postcode: 17166
 city: Teterow
-street: Am Bornmühlenweg
+street: "Am Bornmühlenweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

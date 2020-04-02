@@ -5,7 +5,7 @@ latitude: 53.963196700000005
 longitude: 11.1688541
 postcode: 23948
 city: Klütz
-street: An der Bamburg
+street: "An der Bamburg"
 housenumber: 28
 phone: "+49 38825 38981"
 opening_hours: "Su,Mo off; Tu 09:00-15:00; We 11:00-18:00; Th 09:00-15:00; Fr 11:00-18:00; Sa 08:00-12:00"

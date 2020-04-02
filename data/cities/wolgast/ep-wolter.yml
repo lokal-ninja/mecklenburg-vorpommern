@@ -5,7 +5,7 @@ latitude: 54.051406300000004
 longitude: 13.7670148
 postcode: 17438
 city: Wolgast
-street: Chausseestraße
+street: "Chausseestraße"
 housenumber: 46 a
 phone: ""
 opening_hours: ""

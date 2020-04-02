@@ -5,7 +5,7 @@ latitude: 54.5263524
 longitude: 13.0875211
 postcode: 18565
 city: Hiddensee
-street: Dörpstraat
+street: "Dörpstraat"
 housenumber: 9
 phone: ""
 opening_hours: ""

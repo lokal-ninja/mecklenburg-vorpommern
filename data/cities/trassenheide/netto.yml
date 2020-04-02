@@ -5,7 +5,7 @@ latitude: 54.0881641
 longitude: 13.862260800000001
 postcode: 17449
 city: Trassenheide
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

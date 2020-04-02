@@ -5,7 +5,7 @@ latitude: 54.248265700000005
 longitude: 12.400628900000001
 postcode: 18311
 city: Ribnitz-Damgarten
-street: Körkwitzer Weg
+street: "Körkwitzer Weg"
 housenumber: 54
 phone: "+493821 8785 0"
 opening_hours: ""

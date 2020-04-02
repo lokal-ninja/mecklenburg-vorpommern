@@ -5,7 +5,7 @@ latitude: 54.095945500000006
 longitude: 13.3781005
 postcode: 17489
 city: Greifswald
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 71
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-13:00; PH closed"

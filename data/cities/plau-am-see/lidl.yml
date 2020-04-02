@@ -5,7 +5,7 @@ latitude: 53.4636986
 longitude: 12.265555800000001
 postcode: 19395
 city: Plau am See
-street: Quetziner Straße
+street: "Quetziner Straße"
 housenumber: 19a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

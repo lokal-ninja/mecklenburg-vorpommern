@@ -5,7 +5,7 @@ latitude: 53.523755200000004
 longitude: 13.264501600000001
 postcode: 17033
 city: Neubrandenburg
-street: Mirabellenstraße
+street: "Mirabellenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-20:00; Su off; PH off"

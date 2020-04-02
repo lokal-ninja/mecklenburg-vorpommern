@@ -5,7 +5,7 @@ latitude: 53.887524500000005
 longitude: 10.795055600000001
 postcode: 23568
 city: Lübeck
-street: Wesloer Straße
+street: "Wesloer Straße"
 housenumber: 2a
 phone: ""
 opening_hours: ""

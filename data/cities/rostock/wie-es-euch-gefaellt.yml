@@ -5,7 +5,7 @@ latitude: 54.084354600000005
 longitude: 12.1302903
 postcode: 18055
 city: Rostock
-street: Augustenstraße
+street: "Augustenstraße"
 housenumber: 78
 phone: ""
 opening_hours: ""

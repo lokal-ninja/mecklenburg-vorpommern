@@ -5,7 +5,7 @@ latitude: 53.6403115
 longitude: 12.7816109
 postcode: 17139
 city: Faulenrost
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00, Sa 09:00-13:00, Su 09:00-11:30"

@@ -5,7 +5,7 @@ latitude: 53.793583700000006
 longitude: 12.1726156
 postcode: 18273
 city: Güstrow
-street: Hageböcker Straße
+street: "Hageböcker Straße"
 housenumber: 106
 phone: ""
 opening_hours: ""

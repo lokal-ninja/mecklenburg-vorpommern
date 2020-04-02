@@ -5,7 +5,7 @@ latitude: 53.380740200000005
 longitude: 11.627998600000002
 postcode: 19306
 city: Neustadt-Glewe
-street: An der Autobahn
+street: "An der Autobahn"
 housenumber: 49-52
 phone: ""
 opening_hours: "24/7"

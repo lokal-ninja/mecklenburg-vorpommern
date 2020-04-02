@@ -5,7 +5,7 @@ latitude: 54.5156046
 longitude: 13.643524000000001
 postcode: 18546
 city: Sassnitz
-street: Stiftstraße
+street: "Stiftstraße"
 housenumber: 8
 phone: "+4938392 22318"
 opening_hours: ""

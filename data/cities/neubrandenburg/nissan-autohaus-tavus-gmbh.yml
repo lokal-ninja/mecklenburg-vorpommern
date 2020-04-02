@@ -5,7 +5,7 @@ latitude: 53.542472700000005
 longitude: 13.316543900000001
 postcode: 17036
 city: Neubrandenburg
-street: Quarzstraße
+street: "Quarzstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

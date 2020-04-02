@@ -5,7 +5,7 @@ latitude: 53.9061475
 longitude: 13.030416200000001
 postcode: 17109
 city: Demmin
-street: Hanseufer
+street: "Hanseufer"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

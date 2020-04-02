@@ -5,7 +5,7 @@ latitude: 53.8934214
 longitude: 11.456624600000001
 postcode: 23966
 city: Wismar
-street: Ulmenstraße
+street: "Ulmenstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

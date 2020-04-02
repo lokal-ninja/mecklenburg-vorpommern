@@ -5,7 +5,7 @@ latitude: 54.10372340000001
 longitude: 12.1750732
 postcode: 18146
 city: Rostock
-street: Kurt-Schumacher-Ring
+street: "Kurt-Schumacher-Ring"
 housenumber: 124
 phone: ""
 opening_hours: ""

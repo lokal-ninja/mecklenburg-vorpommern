@@ -5,7 +5,7 @@ latitude: 54.03113810000001
 longitude: 11.6793773
 postcode: 18233
 city: Neubukow
-street: Lindenweg
+street: "Lindenweg"
 housenumber: 16
 phone: ""
 opening_hours: ""

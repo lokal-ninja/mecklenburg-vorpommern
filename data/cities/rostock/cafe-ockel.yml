@@ -5,7 +5,7 @@ latitude: 54.082534100000004
 longitude: 12.140848
 postcode: 18055
 city: Rostock
-street: Friedrich-Engels-Platz
+street: "Friedrich-Engels-Platz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Th 06:30-17:30; Fr 06:30-16:30; Sa, Su, Ph 07:00-11:00"

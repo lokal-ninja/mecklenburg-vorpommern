@@ -5,7 +5,7 @@ latitude: 53.360727700000005
 longitude: 13.0660129
 postcode: 17235
 city: Neustrelitz
-street: Strelitzer Straße
+street: "Strelitzer Straße"
 housenumber: 44
 phone: ""
 opening_hours: ""

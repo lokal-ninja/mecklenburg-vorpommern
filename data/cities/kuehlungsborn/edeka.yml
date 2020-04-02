@@ -5,7 +5,7 @@ latitude: 54.145355
 longitude: 11.723004600000001
 postcode: 18225
 city: Kühlungsborn
-street: Reriker Straße
+street: "Reriker Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00-19:00"

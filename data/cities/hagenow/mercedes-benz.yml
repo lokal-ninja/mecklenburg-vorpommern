@@ -5,7 +5,7 @@ latitude: 53.4193408
 longitude: 11.212035
 postcode: 19230
 city: Hagenow
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 123
 phone: ""
 opening_hours: ""

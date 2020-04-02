@@ -5,7 +5,7 @@ latitude: 54.413050000000005
 longitude: 13.595065600000002
 postcode: 18609
 city: Binz
-street: Dollahner Straße
+street: "Dollahner Straße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Su 07:00-18:00"

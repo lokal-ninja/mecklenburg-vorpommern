@@ -5,7 +5,7 @@ latitude: 53.42778190000001
 longitude: 11.1994801
 postcode: 19230
 city: Hagenow
-street: Rudolf-Tarnow-Straße
+street: "Rudolf-Tarnow-Straße"
 housenumber: 62
 phone: ""
 opening_hours: ""

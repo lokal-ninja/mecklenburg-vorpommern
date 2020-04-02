@@ -5,7 +5,7 @@ latitude: 53.514414200000004
 longitude: 12.6865565
 postcode: 17192
 city: Waren (Müritz)
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 7
 phone: "+49 3991 666576"
 opening_hours: ""

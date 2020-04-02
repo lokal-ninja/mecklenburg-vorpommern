@@ -5,7 +5,7 @@ latitude: 54.2715687
 longitude: 12.808638400000001
 postcode: 18469
 city: Velgast
-street: Straße der Jugend
+street: "Straße der Jugend"
 housenumber: 35
 phone: "+4938324659320"
 opening_hours: "Mo-Fr 06:30-20:00, Sa 06:30-16:00"

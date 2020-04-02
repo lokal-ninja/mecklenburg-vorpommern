@@ -5,7 +5,7 @@ latitude: 53.3702994
 longitude: 13.070706900000001
 postcode: 17235
 city: Neustrelitz
-street: Hohenzieritzer Straße
+street: "Hohenzieritzer Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

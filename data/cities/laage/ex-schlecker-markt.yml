@@ -5,7 +5,7 @@ latitude: 53.925898100000005
 longitude: 12.347368600000001
 postcode: 18299
 city: Laage
-street: Breesener Straße
+street: "Breesener Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

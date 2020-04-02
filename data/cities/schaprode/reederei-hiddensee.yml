@@ -5,7 +5,7 @@ latitude: 54.5133475
 longitude: 13.163878100000002
 postcode: 
 city: Schaprode
-street: Hafenweg
+street: "Hafenweg"
 housenumber: 44b
 phone: ""
 opening_hours: ""

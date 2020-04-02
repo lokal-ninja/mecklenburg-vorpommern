@@ -5,7 +5,7 @@ latitude: 53.522653000000005
 longitude: 12.719261600000001
 postcode: 17192
 city: Waren (Müritz)
-street: Siegfried-Marcus-Straße
+street: "Siegfried-Marcus-Straße"
 housenumber: 23
 phone: "+49 3991-6444-0"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.069864700000004
 longitude: 13.392869200000002
 postcode: 17489
 city: Greifswald
-street: An der Thronpost
+street: "An der Thronpost"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH closed"

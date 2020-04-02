@@ -5,7 +5,7 @@ latitude: 53.352168500000005
 longitude: 12.5778064
 postcode: 17207
 city: Bollewick
-street: Dudel
+street: "Dudel"
 housenumber: 20
 phone: ""
 opening_hours: ""

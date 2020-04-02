@@ -5,7 +5,7 @@ latitude: 53.736751600000005
 longitude: 14.045728400000002
 postcode: 17373
 city: Ueckermünde
-street: Ueckerstraße
+street: "Ueckerstraße"
 housenumber: 79
 phone: "+49 39771 54626"
 opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"

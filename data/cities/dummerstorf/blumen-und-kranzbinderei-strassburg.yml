@@ -5,7 +5,7 @@ latitude: 54.067868700000005
 longitude: 12.1680238
 postcode: 18196
 city: Dummerstorf
-street: Neubrandenburger Straße
+street: "Neubrandenburger Straße"
 housenumber: 48
 phone: "+49 381 692 926"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 53.459587400000004
 longitude: 12.031685000000001
 postcode: 19386
 city: Lübz
-street: Kreiener Straße
+street: "Kreiener Straße"
 housenumber: 38a
 phone: ""
 opening_hours: "Tu,Th 08:00-12:00"

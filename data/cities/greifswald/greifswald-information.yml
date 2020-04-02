@@ -5,7 +5,7 @@ latitude: 54.0957407
 longitude: 13.3808328
 postcode: 17489
 city: Greifswald
-street: Markt
+street: "Markt"
 housenumber: 1
 phone: "+49 3834 85361380"
 opening_hours: "Nov-Mar: Mo-Fr 10:00-17:00; Apr-Oct: Mo-Fr 10:00-18:00; Apr-Oct: Sa 10:00-14:00; Jul-Aug: Su 10:00-14:00; PH off"

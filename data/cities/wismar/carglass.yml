@@ -5,7 +5,7 @@ latitude: 53.890133000000006
 longitude: 11.472324500000001
 postcode: 23970
 city: Wismar
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 16a
 phone: ""
 opening_hours: ""

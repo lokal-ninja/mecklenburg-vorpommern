@@ -5,7 +5,7 @@ latitude: 54.08958560000001
 longitude: 13.3969193
 postcode: 17489
 city: Greifswald
-street: Anklamer Straße
+street: "Anklamer Straße"
 housenumber: 32a
 phone: ""
 opening_hours: ""

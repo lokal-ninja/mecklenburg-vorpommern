@@ -5,7 +5,7 @@ latitude: 53.4814123
 longitude: 12.623526700000001
 postcode: 17192
 city: Klink
-street: Hafenstraße
+street: "Hafenstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Su 10:00-22:00"

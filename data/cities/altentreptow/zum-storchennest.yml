@@ -5,7 +5,7 @@ latitude: 53.6925551
 longitude: 13.260689800000002
 postcode: 17087
 city: Altentreptow
-street: Fritz-Peters-Straße
+street: "Fritz-Peters-Straße"
 housenumber: 1
 phone: "+493961215580"
 opening_hours: ""

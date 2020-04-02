@@ -5,7 +5,7 @@ latitude: 53.890232600000004
 longitude: 11.5305969
 postcode: 23970
 city: Hornstorf
-street: Karpendiek
+street: "Karpendiek"
 housenumber: 1
 phone: ""
 opening_hours: "24/7"

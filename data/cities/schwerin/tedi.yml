@@ -5,7 +5,7 @@ latitude: 53.586978900000005
 longitude: 11.4699218
 postcode: 19063
 city: Schwerin
-street: Pawlowstraße
+street: "Pawlowstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.088058800000006
 longitude: 12.121322600000001
 postcode: 18057
 city: Rostock
-street: Barnstorfer Weg
+street: "Barnstorfer Weg"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Fr 10:30-18:00; Sa 10:00-15:00"

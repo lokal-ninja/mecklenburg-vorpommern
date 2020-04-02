@@ -5,7 +5,7 @@ latitude: 54.088500800000006
 longitude: 12.1386803
 postcode: 18055
 city: Rostock
-street: Kistenmacherstraße
+street: "Kistenmacherstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

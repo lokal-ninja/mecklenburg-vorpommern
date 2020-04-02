@@ -5,7 +5,7 @@ latitude: 54.091040400000004
 longitude: 12.1611127
 postcode: 18146
 city: Rostock
-street: Petridamm
+street: "Petridamm"
 housenumber: 22a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.59137440000001
 longitude: 11.402137300000001
 postcode: 19061
 city: Schwerin
-street: Karl-Kleinschmidt-Straße
+street: "Karl-Kleinschmidt-Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

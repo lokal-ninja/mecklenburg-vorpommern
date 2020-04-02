@@ -5,7 +5,7 @@ latitude: 53.553357600000005
 longitude: 13.2938717
 postcode: 17036
 city: Neubrandenburg
-street: Juri-Gagarin-Ring
+street: "Juri-Gagarin-Ring"
 housenumber: 21
 phone: "+493957 79 11 22"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.3034539
 longitude: 12.801046600000001
 postcode: 18469
 city: Karnin
-street: Transitstraße
+street: "Transitstraße"
 housenumber: 27a
 phone: ""
 opening_hours: ""

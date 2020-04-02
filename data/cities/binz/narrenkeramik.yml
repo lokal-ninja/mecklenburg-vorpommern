@@ -5,7 +5,7 @@ latitude: 54.402598100000006
 longitude: 13.611626800000002
 postcode: 18609
 city: Binz
-street: Margaretenstraße
+street: "Margaretenstraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

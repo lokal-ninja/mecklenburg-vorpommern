@@ -5,7 +5,7 @@ latitude: 54.4328634
 longitude: 13.579207100000001
 postcode: 18609
 city: Binz
-street: Südstrand
+street: "Südstrand"
 housenumber: 36
 phone: ""
 opening_hours: "08:00-16:00"

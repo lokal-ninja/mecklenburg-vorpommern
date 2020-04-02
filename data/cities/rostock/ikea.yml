@@ -5,7 +5,7 @@ latitude: 54.1088716
 longitude: 12.0507138
 postcode: 18069
 city: Rostock
-street: Messestraße
+street: "Messestraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

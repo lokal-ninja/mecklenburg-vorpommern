@@ -5,7 +5,7 @@ latitude: 54.0808912
 longitude: 12.113062300000001
 postcode: 
 city: Rostock
-street: Bei der Tweel
+street: "Bei der Tweel"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30"

@@ -5,7 +5,7 @@ latitude: 54.0851728
 longitude: 12.1132012
 postcode: 18057
 city: Rostock
-street: Ulmenmarkt
+street: "Ulmenmarkt"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-15:00"

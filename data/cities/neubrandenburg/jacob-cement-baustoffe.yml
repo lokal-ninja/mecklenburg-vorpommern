@@ -5,7 +5,7 @@ latitude: 53.5209842
 longitude: 13.2657462
 postcode: 17033
 city: Neubrandenburg
-street: Margeritenstraße
+street: "Margeritenstraße"
 housenumber: 15
 phone: "+49395 36203 0"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-12:00"

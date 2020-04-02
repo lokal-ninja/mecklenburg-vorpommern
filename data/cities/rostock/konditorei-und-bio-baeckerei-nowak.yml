@@ -5,7 +5,7 @@ latitude: 54.07434610000001
 longitude: 12.1419175
 postcode: 18055
 city: Rostock
-street: Dalwitzhofer Weg
+street: "Dalwitzhofer Weg"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00, Sa,Su 07:00-18:00"

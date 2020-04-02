@@ -5,7 +5,7 @@ latitude: 54.045874000000005
 longitude: 14.002205100000001
 postcode: 17459
 city: Koserow
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 120
 phone: "+49 38375 2401 0"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 12:45-18:00; PH off"

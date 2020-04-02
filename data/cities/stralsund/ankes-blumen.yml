@@ -5,7 +5,7 @@ latitude: 54.3166481
 longitude: 13.092260300000001
 postcode: 18439
 city: Stralsund
-street: Schillstraße
+street: "Schillstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.0741725
 longitude: 12.1231427
 postcode: 18059
 city: Rostock
-street: Ziolkowskistraße
+street: "Ziolkowskistraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

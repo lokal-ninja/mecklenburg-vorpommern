@@ -5,7 +5,7 @@ latitude: 54.2714732
 longitude: 13.113187100000001
 postcode: 18439
 city: Stralsund
-street: Gustower Weg
+street: "Gustower Weg"
 housenumber: 3
 phone: "+49 3831 482650"
 opening_hours: "Mo-Sa 08:00-22:00, PH off"

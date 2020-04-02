@@ -5,7 +5,7 @@ latitude: 53.51533130000001
 longitude: 12.686732300000001
 postcode: 17192
 city: Waren (Müritz)
-street: Friedensstraße
+street: "Friedensstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; May-Sep Su 13:00-18:00"

@@ -5,7 +5,7 @@ latitude: 54.0674866
 longitude: 13.435813300000001
 postcode: 17491
 city: Greifswald
-street: Anklamer Landstraße
+street: "Anklamer Landstraße"
 housenumber: 18
 phone: "+49 3834 820552"
 opening_hours: ""

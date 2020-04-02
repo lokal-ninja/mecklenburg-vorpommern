@@ -5,7 +5,7 @@ latitude: 53.893102600000006
 longitude: 11.463607900000001
 postcode: 23966
 city: Wismar
-street: Böttcherstraße
+street: "Böttcherstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo 10:00-13:00; Tu-Fr 10:00-18:00; Sa 10:00-13:00"

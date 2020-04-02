@@ -5,7 +5,7 @@ latitude: 53.965208600000004
 longitude: 14.1309737
 postcode: 17429
 city: Bansin
-street: Ahlbecker Chaussee
+street: "Ahlbecker Chaussee"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:00, 12:30-18:00; PH off"

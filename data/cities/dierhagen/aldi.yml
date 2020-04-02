@@ -5,7 +5,7 @@ latitude: 54.293528800000004
 longitude: 12.353017300000001
 postcode: 18347
 city: Dierhagen
-street: Strandstraße
+street: "Strandstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

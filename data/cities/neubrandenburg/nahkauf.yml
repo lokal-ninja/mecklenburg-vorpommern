@@ -5,7 +5,7 @@ latitude: 53.565517
 longitude: 13.2591481
 postcode: 17034
 city: Neubrandenburg
-street: Kranichstraße
+street: "Kranichstraße"
 housenumber: 43
 phone: "+49 395 4225741"
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

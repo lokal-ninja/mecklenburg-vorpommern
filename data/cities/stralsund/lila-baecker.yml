@@ -5,7 +5,7 @@ latitude: 54.3124479
 longitude: 13.089780500000002
 postcode: 18439
 city: Stralsund
-street: Ossenreyerstraße
+street: "Ossenreyerstraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

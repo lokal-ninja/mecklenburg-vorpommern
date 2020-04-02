@@ -5,7 +5,7 @@ latitude: 53.847832200000006
 longitude: 11.9831701
 postcode: 18246
 city: Bützow
-street: Langestraße
+street: "Langestraße"
 housenumber: 33
 phone: ""
 opening_hours: ""

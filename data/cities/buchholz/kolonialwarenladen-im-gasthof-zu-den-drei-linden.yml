@@ -5,7 +5,7 @@ latitude: 53.27390930000001
 longitude: 12.6449327
 postcode: 17209
 city: Buchholz
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

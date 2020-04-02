@@ -5,7 +5,7 @@ latitude: 53.787466
 longitude: 11.581244100000001
 postcode: 19417
 city: Ventschow
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

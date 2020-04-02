@@ -5,7 +5,7 @@ latitude: 54.078259300000006
 longitude: 12.132179
 postcode: 18055
 city: Rostock
-street: Konrad-Adenauer-Platz
+street: "Konrad-Adenauer-Platz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Su, Ph 06:00-20:00"

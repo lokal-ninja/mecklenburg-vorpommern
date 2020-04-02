@@ -5,7 +5,7 @@ latitude: 54.0777907
 longitude: 12.372122300000001
 postcode: 18190
 city: Sanitz
-street: Rostocker Straße
+street: "Rostocker Straße"
 housenumber: 44
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.481147500000006
 longitude: 12.4222166
 postcode: 17213
 city: Malchow
-street: Rostocker Straße
+street: "Rostocker Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su 12:00-18:00"

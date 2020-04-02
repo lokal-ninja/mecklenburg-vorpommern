@@ -5,7 +5,7 @@ latitude: 53.7767945
 longitude: 12.574924200000002
 postcode: 17166
 city: Teterow
-street: Fischersteig
+street: "Fischersteig"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-11:00"

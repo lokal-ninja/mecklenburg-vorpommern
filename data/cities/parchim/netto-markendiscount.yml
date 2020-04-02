@@ -5,7 +5,7 @@ latitude: 53.427972100000005
 longitude: 11.842372800000001
 postcode: 19370
 city: Parchim
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

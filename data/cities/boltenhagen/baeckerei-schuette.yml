@@ -5,7 +5,7 @@ latitude: 53.9866942
 longitude: 11.204778000000001
 postcode: 23946
 city: Boltenhagen
-street: Ostseeallee
+street: "Ostseeallee"
 housenumber: 12
 phone: ""
 opening_hours: ""

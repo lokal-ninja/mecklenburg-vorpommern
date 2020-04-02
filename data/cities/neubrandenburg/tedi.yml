@@ -5,7 +5,7 @@ latitude: 53.5568636
 longitude: 13.2713029
 postcode: 17033
 city: Neubrandenburg
-street: Katharinenstraße
+street: "Katharinenstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00; PH off"

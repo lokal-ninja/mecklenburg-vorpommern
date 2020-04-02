@@ -5,7 +5,7 @@ latitude: 54.1102873
 longitude: 12.085828000000001
 postcode: 18069
 city: Rostock
-street: Alter Hafen Nord
+street: "Alter Hafen Nord"
 housenumber: 324
 phone: ""
 opening_hours: "Mo-Th 06:30 - 15:30; Fr 06:30-12:00"

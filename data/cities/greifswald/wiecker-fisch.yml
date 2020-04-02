@@ -5,7 +5,7 @@ latitude: 54.0960234
 longitude: 13.3836084
 postcode: 17489
 city: Greifswald
-street: Brüggstraße
+street: "Brüggstraße"
 housenumber: 31
 phone: "+4903834 89 42 92"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"

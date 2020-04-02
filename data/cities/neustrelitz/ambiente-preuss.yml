@@ -5,7 +5,7 @@ latitude: 53.361506500000004
 longitude: 13.064813800000001
 postcode: 17235
 city: Neustrelitz
-street: Strelitzer Straße
+street: "Strelitzer Straße"
 housenumber: 49
 phone: "+493981203271"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"

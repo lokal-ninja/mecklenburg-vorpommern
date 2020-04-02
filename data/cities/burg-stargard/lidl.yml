@@ -5,7 +5,7 @@ latitude: 53.499271400000005
 longitude: 13.315711400000001
 postcode: 17094
 city: Burg Stargard
-street: Carl-Stolte-Straße
+street: "Carl-Stolte-Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

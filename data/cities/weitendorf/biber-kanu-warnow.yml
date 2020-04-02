@@ -5,7 +5,7 @@ latitude: 53.71852500000001
 longitude: 11.750931300000001
 postcode: 19412
 city: Weitendorf
-street: Hofplatz
+street: "Hofplatz"
 housenumber: 10
 phone: "+49 152 27178028"
 opening_hours: "09:00-19:00"

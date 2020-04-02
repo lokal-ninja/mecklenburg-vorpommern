@@ -5,7 +5,7 @@ latitude: 54.1515531
 longitude: 12.0736647
 postcode: 18109
 city: Rostock
-street: Schiffbauerring
+street: "Schiffbauerring"
 housenumber: 60
 phone: "+49 381 1287 4337"
 opening_hours: ""

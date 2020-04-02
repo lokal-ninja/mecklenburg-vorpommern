@@ -5,7 +5,7 @@ latitude: 54.0876686
 longitude: 12.136746400000002
 postcode: 18055
 city: Rostock
-street: Rungestraße
+street: "Rungestraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

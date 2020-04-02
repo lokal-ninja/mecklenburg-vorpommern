@@ -5,7 +5,7 @@ latitude: 54.2429707
 longitude: 12.431158700000001
 postcode: 18311
 city: Ribnitz-Damgarten
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 54
 phone: ""
 opening_hours: "06:00-18:00 summer"

@@ -5,7 +5,7 @@ latitude: 54.0768392
 longitude: 13.433616200000001
 postcode: 17491
 city: Greifswald
-street: Am Elisenpark
+street: "Am Elisenpark"
 housenumber: 30
 phone: "+49 3834 8839883"
 opening_hours: ""

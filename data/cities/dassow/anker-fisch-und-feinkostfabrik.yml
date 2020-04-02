@@ -5,7 +5,7 @@ latitude: 53.9058252
 longitude: 10.999072400000001
 postcode: 23942
 city: Dassow
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 6
 phone: "+49 38826 8210"
 opening_hours: "Mo-Th 10:00-16:00; Fr 10:00-12:00"

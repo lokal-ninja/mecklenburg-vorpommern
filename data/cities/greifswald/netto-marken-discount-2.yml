@@ -5,7 +5,7 @@ latitude: 54.094883800000005
 longitude: 13.406876500000001
 postcode: 17489
 city: Greifswald
-street: Wolgaster Straße
+street: "Wolgaster Straße"
 housenumber: 85
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

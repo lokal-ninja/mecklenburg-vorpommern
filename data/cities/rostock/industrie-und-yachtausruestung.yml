@@ -5,7 +5,7 @@ latitude: 54.0925646
 longitude: 12.138454000000001
 postcode: 18055
 city: Rostock
-street: Am Strande
+street: "Am Strande"
 housenumber: 2
 phone: "+493814922170"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

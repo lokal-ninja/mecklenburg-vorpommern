@@ -5,7 +5,7 @@ latitude: 53.423008100000004
 longitude: 11.8227972
 postcode: 
 city: Parchim
-street: Karl-Liebknecht-Straße
+street: "Karl-Liebknecht-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "06:00-20:00"

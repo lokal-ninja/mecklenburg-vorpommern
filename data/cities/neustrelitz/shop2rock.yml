@@ -5,7 +5,7 @@ latitude: 53.3647355
 longitude: 13.0588837
 postcode: 17235
 city: Neustrelitz
-street: Zierker Straße
+street: "Zierker Straße"
 housenumber: 9
 phone: "+49 3981 236900"
 opening_hours: ""

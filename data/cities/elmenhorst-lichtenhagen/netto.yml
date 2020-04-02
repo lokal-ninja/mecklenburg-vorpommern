@@ -5,7 +5,7 @@ latitude: 54.155246000000005
 longitude: 12.0115279
 postcode: 18107
 city: Elmenhorst/Lichtenhagen
-street: Steinbecker Weg
+street: "Steinbecker Weg"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

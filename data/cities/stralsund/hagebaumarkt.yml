@@ -5,7 +5,7 @@ latitude: 54.3055298
 longitude: 13.063105400000001
 postcode: 18437
 city: Stralsund
-street: Rostocker Chaussee
+street: "Rostocker Chaussee"
 housenumber: 6-8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

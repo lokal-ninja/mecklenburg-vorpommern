@@ -5,7 +5,7 @@ latitude: 53.6234801
 longitude: 12.0745486
 postcode: 19399
 city: Dobbertin
-street: Kleestener Weg
+street: "Kleestener Weg"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30,15:00-17:00; Sa 09:00-11:00"

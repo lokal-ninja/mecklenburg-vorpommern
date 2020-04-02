@@ -5,7 +5,7 @@ latitude: 53.530221100000006
 longitude: 13.261605800000002
 postcode: 17033
 city: Neubrandenburg
-street: Neustrelitzer Straße
+street: "Neustrelitzer Straße"
 housenumber: 118
 phone: "+49 395 3687733"
 opening_hours: "24/7"

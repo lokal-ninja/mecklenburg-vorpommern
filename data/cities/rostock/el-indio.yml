@@ -5,7 +5,7 @@ latitude: 54.087719
 longitude: 12.114488900000001
 postcode: 18057
 city: Rostock
-street: Waldemarstraße
+street: "Waldemarstraße"
 housenumber: 60
 phone: ""
 opening_hours: "Mo,Th 16:00-18:00 und nach Vereinbarung || Mo-Fr 10:00-18:00"

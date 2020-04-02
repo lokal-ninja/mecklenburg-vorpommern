@@ -5,7 +5,7 @@ latitude: 53.603204000000005
 longitude: 11.4322207
 postcode: 19061
 city: Schwerin
-street: Dreescher Markt
+street: "Dreescher Markt"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.5579455
 longitude: 13.262781100000002
 postcode: 17033
 city: Neubrandenburg
-street: Badstüberstraße
+street: "Badstüberstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

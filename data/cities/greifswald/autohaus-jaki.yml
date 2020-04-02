@@ -5,7 +5,7 @@ latitude: 54.099211600000004
 longitude: 13.3784156
 postcode: 17489
 city: Greifswald
-street: Stralsunder Straße
+street: "Stralsunder Straße"
 housenumber: 48
 phone: "+49 3834 79880"
 opening_hours: ""

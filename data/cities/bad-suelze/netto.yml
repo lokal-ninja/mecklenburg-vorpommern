@@ -5,7 +5,7 @@ latitude: 54.107573900000006
 longitude: 12.6563216
 postcode: 18334
 city: Bad Sülze
-street: Müllerberg
+street: "Müllerberg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

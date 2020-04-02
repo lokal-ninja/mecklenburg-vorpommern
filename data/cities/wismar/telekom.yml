@@ -5,7 +5,7 @@ latitude: 53.8921633
 longitude: 11.4659443
 postcode: 23966
 city: Wismar
-street: Hinter dem Rathaus
+street: "Hinter dem Rathaus"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 10:00-15:00"

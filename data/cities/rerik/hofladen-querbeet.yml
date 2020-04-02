@@ -5,7 +5,7 @@ latitude: 54.106899500000004
 longitude: 11.6517265
 postcode: 
 city: Rerik
-street: Dorfweg
+street: "Dorfweg"
 housenumber: 2
 phone: "+493829670164"
 opening_hours: ""

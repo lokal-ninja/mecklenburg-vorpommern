@@ -5,7 +5,7 @@ latitude: 53.887755600000006
 longitude: 10.7964186
 postcode: 23568
 city: Lübeck
-street: Mecklenburger Straße
+street: "Mecklenburger Straße"
 housenumber: 67
 phone: ""
 opening_hours: ""

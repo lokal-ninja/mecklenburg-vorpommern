@@ -5,7 +5,7 @@ latitude: 53.279248900000006
 longitude: 11.5636753
 postcode: 19300
 city: Grabow
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 12
 phone: "+49 38756 285 797"
 opening_hours: "Tu-Sa 08:00-18:00; Mo,Su,PH off"

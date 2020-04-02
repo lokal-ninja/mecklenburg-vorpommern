@@ -5,7 +5,7 @@ latitude: 54.086663400000006
 longitude: 12.124560200000001
 postcode: 18057
 city: Rostock
-street: Friedhofsweg
+street: "Friedhofsweg"
 housenumber: 2
 phone: "+49 381 2523311"
 opening_hours: "Mo-Fr 07:00-23:30, Sa 07:00-22:00;PH off"

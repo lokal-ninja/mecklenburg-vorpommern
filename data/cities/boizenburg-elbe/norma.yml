@@ -5,7 +5,7 @@ latitude: 53.3764873
 longitude: 10.754298100000002
 postcode: 19258
 city: Boizenburg/Elbe
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

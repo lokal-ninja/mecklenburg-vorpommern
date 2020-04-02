@@ -5,7 +5,7 @@ latitude: 53.7898112
 longitude: 12.181657300000001
 postcode: 18273
 city: Güstrow
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.9296725
 longitude: 12.342508100000002
 postcode: 18299
 city: Laage
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 48
 phone: "+49 38459 32357"
 opening_hours: ""

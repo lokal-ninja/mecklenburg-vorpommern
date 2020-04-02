@@ -5,7 +5,7 @@ latitude: 54.084929
 longitude: 12.087331
 postcode: 18057
 city: Rostock
-street: Trotzenburger Weg
+street: "Trotzenburger Weg"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.526483000000006
 longitude: 13.2646861
 postcode: 17033
 city: Neubrandenburg
-street: Birnenstraße
+street: "Birnenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

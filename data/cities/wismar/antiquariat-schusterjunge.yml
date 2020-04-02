@@ -5,7 +5,7 @@ latitude: 53.8935977
 longitude: 11.4672408
 postcode: 23966
 city: Wismar
-street: ABC-Straße
+street: "ABC-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Tu-Fr 09:30-16:00"

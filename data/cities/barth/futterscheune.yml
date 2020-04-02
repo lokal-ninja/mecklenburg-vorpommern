@@ -5,7 +5,7 @@ latitude: 54.36865340000001
 longitude: 12.696472100000001
 postcode: 18356
 city: Barth
-street: Uhlenflucht
+street: "Uhlenflucht"
 housenumber: 1
 phone: ""
 opening_hours: ""

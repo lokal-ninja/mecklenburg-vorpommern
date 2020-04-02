@@ -5,7 +5,7 @@ latitude: 54.3529348
 longitude: 13.470588600000001
 postcode: 18581
 city: Putbus
-street: Alleestraße
+street: "Alleestraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

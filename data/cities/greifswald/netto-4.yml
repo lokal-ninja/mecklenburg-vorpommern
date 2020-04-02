@@ -5,7 +5,7 @@ latitude: 54.0942346
 longitude: 13.361528600000002
 postcode: 17489
 city: Greifswald
-street: Grimmer Straße
+street: "Grimmer Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

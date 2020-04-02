@@ -5,7 +5,7 @@ latitude: 54.357241200000004
 longitude: 12.7165228
 postcode: 
 city: Barth
-street: Blaue Wiese
+street: "Blaue Wiese"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

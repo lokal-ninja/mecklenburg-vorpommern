@@ -5,7 +5,7 @@ latitude: 54.17709240000001
 longitude: 12.084101
 postcode: 18119
 city: Rostock
-street: Kirchenplatz
+street: "Kirchenplatz"
 housenumber: 7a
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 13:00-18:00"

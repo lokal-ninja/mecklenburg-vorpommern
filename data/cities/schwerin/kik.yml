@@ -5,7 +5,7 @@ latitude: 53.5979
 longitude: 11.450094700000001
 postcode: 19063
 city: Schwerin
-street: Rostocker Straße
+street: "Rostocker Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

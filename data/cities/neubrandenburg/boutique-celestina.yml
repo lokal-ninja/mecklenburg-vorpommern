@@ -5,7 +5,7 @@ latitude: 53.556077200000004
 longitude: 13.263145100000001
 postcode: 17033
 city: Neubrandenburg
-street: Neutorstraße
+street: "Neutorstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00; PH off"

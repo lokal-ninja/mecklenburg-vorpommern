@@ -5,7 +5,7 @@ latitude: 53.87118400000001
 longitude: 11.44594
 postcode: 23970
 city: Wismar
-street: Rothentor
+street: "Rothentor"
 housenumber: 2a
 phone: ""
 opening_hours: ""

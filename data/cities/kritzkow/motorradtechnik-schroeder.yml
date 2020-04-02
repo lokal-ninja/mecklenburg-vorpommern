@@ -5,7 +5,7 @@ latitude: 53.881500100000004
 longitude: 12.247002700000001
 postcode: 18299
 city: Kritzkow
-street: Zum Weißen Soll
+street: "Zum Weißen Soll"
 housenumber: 2
 phone: "+49 38454 329 920"
 opening_hours: ""

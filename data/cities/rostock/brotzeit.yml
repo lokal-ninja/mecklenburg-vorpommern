@@ -5,7 +5,7 @@ latitude: 54.08719120000001
 longitude: 12.1267265
 postcode: 18055
 city: Rostock
-street: Am Vögenteich
+street: "Am Vögenteich"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 07:00-18:30"

@@ -5,7 +5,7 @@ latitude: 54.080299000000004
 longitude: 12.129869600000001
 postcode: 18055
 city: Rostock
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 22
 phone: ""
 opening_hours: ""

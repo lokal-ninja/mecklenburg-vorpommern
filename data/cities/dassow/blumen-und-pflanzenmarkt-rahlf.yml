@@ -5,7 +5,7 @@ latitude: 53.909906500000005
 longitude: 10.9772659
 postcode: 23942
 city: Dassow
-street: Friedensstraße
+street: "Friedensstraße"
 housenumber: 15
 phone: "+49-38826-80201"
 opening_hours: ""

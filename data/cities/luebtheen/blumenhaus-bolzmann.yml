@@ -5,7 +5,7 @@ latitude: 53.2968404
 longitude: 11.0837339
 postcode: 19249
 city: Lübtheen
-street: Grüner Weg
+street: "Grüner Weg"
 housenumber: 1
 phone: "+49 38855 51748"
 opening_hours: ""

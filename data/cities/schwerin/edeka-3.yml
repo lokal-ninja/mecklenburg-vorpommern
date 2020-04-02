@@ -5,7 +5,7 @@ latitude: 53.6467418
 longitude: 11.405399300000001
 postcode: 19055
 city: Schwerin
-street: Wismarsche Straße
+street: "Wismarsche Straße"
 housenumber: 300
 phone: "+49 385 5958960"
 opening_hours: ""

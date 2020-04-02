@@ -5,7 +5,7 @@ latitude: 54.092636500000005
 longitude: 13.088007300000001
 postcode: 18516
 city: Süderholz
-street: Pommerndreieck
+street: "Pommerndreieck"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

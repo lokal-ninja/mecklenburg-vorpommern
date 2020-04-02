@@ -5,7 +5,7 @@ latitude: 54.17403100000001
 longitude: 12.2396767
 postcode: 18182
 city: Rövershagen
-street: Rosengrund
+street: "Rosengrund"
 housenumber: 1
 phone: "+4938202 4331 0"
 opening_hours: "Mo-Sa 09:00-19:00"

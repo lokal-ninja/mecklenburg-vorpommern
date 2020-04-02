@@ -5,7 +5,7 @@ latitude: 54.323596
 longitude: 13.0788527
 postcode: 18435
 city: Stralsund
-street: Knieperdamm
+street: "Knieperdamm"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

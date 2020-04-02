@@ -5,7 +5,7 @@ latitude: 53.4256383
 longitude: 11.189064100000001
 postcode: 
 city: Hagenow
-street: Friedrich-Heincke-Straße
+street: "Friedrich-Heincke-Straße"
 housenumber: 58
 phone: ""
 opening_hours: ""

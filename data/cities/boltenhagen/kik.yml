@@ -5,7 +5,7 @@ latitude: 53.988601700000004
 longitude: 11.195945400000001
 postcode: 23946
 city: Boltenhagen
-street: Kastanienallee
+street: "Kastanienallee"
 housenumber: 4
 phone: ""
 opening_hours: ""

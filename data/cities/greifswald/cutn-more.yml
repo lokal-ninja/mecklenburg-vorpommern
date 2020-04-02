@@ -5,7 +5,7 @@ latitude: 54.08179500000001
 longitude: 13.406741400000001
 postcode: 17491
 city: Greifswald
-street: Lomonossowallee
+street: "Lomonossowallee"
 housenumber: 7
 phone: ""
 opening_hours: ""

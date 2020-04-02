@@ -5,7 +5,7 @@ latitude: 54.118852000000004
 longitude: 12.060119
 postcode: 18106
 city: Rostock
-street: Martin-Andersen-Nexö-Ring
+street: "Martin-Andersen-Nexö-Ring"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 54.083244400000005
 longitude: 12.139597400000001
 postcode: 18055
 city: Rostock
-street: Paulstraße
+street: "Paulstraße"
 housenumber: 48
 phone: ""
 opening_hours: "Mo,Tu,Th 08:00-18:00; We 08:00-14:00; Fr 08:00-14:00"

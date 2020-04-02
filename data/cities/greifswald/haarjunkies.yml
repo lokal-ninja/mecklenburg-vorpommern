@@ -5,7 +5,7 @@ latitude: 54.0923699
 longitude: 13.372766100000002
 postcode: 17489
 city: Greifswald
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

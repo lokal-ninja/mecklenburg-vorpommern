@@ -5,7 +5,7 @@ latitude: 53.921529500000005
 longitude: 12.342837900000001
 postcode: 18299
 city: Laage
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

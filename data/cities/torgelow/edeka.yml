@@ -5,7 +5,7 @@ latitude: 53.630022100000005
 longitude: 14.024320800000002
 postcode: 17358
 city: Torgelow
-street: Ukranenstraße
+street: "Ukranenstraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

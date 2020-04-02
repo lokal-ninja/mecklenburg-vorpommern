@@ -5,7 +5,7 @@ latitude: 54.301528000000005
 longitude: 13.0169131
 postcode: 18442
 city: Lüssow
-street: Am Langendorfer Berg
+street: "Am Langendorfer Berg"
 housenumber: 31
 phone: "+493831 49430 5"
 opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 08:00-12:00"

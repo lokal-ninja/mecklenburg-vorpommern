@@ -5,7 +5,7 @@ latitude: 53.4388761
 longitude: 11.8415359
 postcode: 19370
 city: Parchim
-street: Bleichertannenweg
+street: "Bleichertannenweg"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00; Ph off"

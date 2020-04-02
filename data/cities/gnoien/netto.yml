@@ -5,7 +5,7 @@ latitude: 53.972358500000006
 longitude: 12.7067832
 postcode: 17179
 city: Gnoien
-street: Friedenstraße
+street: "Friedenstraße"
 housenumber: 77a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

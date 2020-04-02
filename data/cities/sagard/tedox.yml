@@ -5,7 +5,7 @@ latitude: 54.5284941
 longitude: 13.543723300000002
 postcode: 18551
 city: Sagard
-street: Glower Straße
+street: "Glower Straße"
 housenumber: 27
 phone: "+49 38302 2013"
 opening_hours: ""

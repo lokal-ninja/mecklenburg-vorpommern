@@ -5,7 +5,7 @@ latitude: 53.331304800000005
 longitude: 13.0990111
 postcode: 17235
 city: Neustrelitz
-street: Fürstenberger Straße
+street: "Fürstenberger Straße"
 housenumber: 8
 phone: "+4903981421072"
 opening_hours: ""

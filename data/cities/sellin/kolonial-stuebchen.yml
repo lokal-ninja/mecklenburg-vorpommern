@@ -5,7 +5,7 @@ latitude: 54.378629600000004
 longitude: 13.693233000000001
 postcode: 18586
 city: Sellin
-street: August-Bebel-Straße
+street: "August-Bebel-Straße"
 housenumber: 5
 phone: ""
 opening_hours: "We-Sa 09:00+"

@@ -5,7 +5,7 @@ latitude: 54.089252300000005
 longitude: 12.135153200000001
 postcode: 18055
 city: Rostock
-street: Breite Straße
+street: "Breite Straße"
 housenumber: 12-15
 phone: "+49 381 877 0160"
 opening_hours: "Mo-Sa 8:00-21:00"

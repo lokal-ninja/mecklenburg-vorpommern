@@ -5,7 +5,7 @@ latitude: 53.6969068
 longitude: 11.0989868
 postcode: 19205
 city: Gadebusch
-street: Ratzeburger Chaussee
+street: "Ratzeburger Chaussee"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

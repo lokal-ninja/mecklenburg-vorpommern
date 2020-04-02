@@ -5,7 +5,7 @@ latitude: 54.0893577
 longitude: 12.1360199
 postcode: 18055
 city: Rostock
-street: Eselföterstraße
+street: "Eselföterstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 10:00 - 19:00"

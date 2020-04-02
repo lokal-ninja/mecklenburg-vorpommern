@@ -5,7 +5,7 @@ latitude: 54.0902686
 longitude: 12.1369314
 postcode: 
 city: Rostock
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-17:00"

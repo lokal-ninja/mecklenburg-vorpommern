@@ -5,7 +5,7 @@ latitude: 53.9411933
 longitude: 14.187154000000001
 postcode: 17419
 city: Heringsdorf
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 43 B
 phone: ""
 opening_hours: ""

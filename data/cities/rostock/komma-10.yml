@@ -5,7 +5,7 @@ latitude: 54.0998505
 longitude: 12.0738097
 postcode: 18069
 city: Rostock
-street: Goerdelerstraße
+street: "Goerdelerstraße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

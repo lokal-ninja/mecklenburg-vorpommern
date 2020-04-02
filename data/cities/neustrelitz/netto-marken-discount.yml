@@ -5,7 +5,7 @@ latitude: 53.3325484
 longitude: 13.0934849
 postcode: 17235
 city: Neustrelitz
-street: Wilhelm-Stolte-Straße
+street: "Wilhelm-Stolte-Straße"
 housenumber: 70
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

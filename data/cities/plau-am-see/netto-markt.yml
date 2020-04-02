@@ -5,7 +5,7 @@ latitude: 53.464127100000006
 longitude: 12.263971100000001
 postcode: 19395
 city: Plau am See
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00, Su 12:00-18:00"

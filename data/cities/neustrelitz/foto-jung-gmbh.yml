@@ -5,7 +5,7 @@ latitude: 53.3610954
 longitude: 13.066278500000001
 postcode: 17235
 city: Neustrelitz
-street: Venusberg
+street: "Venusberg"
 housenumber: 17
 phone: "+493981204535"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-12:00"

@@ -5,7 +5,7 @@ latitude: 54.0731034
 longitude: 12.1116092
 postcode: 18059
 city: Rostock
-street: Brahestraße
+street: "Brahestraße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

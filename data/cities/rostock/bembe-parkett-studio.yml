@@ -5,7 +5,7 @@ latitude: 54.170160200000005
 longitude: 12.082690300000001
 postcode: 18119
 city: Rostock
-street: An der Stadtautobahn
+street: "An der Stadtautobahn"
 housenumber: 63
 phone: "+49 381 440 5267"
 opening_hours: "Mo-Fr 08:00-17:00"

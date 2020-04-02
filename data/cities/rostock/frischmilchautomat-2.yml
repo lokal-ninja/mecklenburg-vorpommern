@@ -5,7 +5,7 @@ latitude: 54.1392133
 longitude: 12.0591729
 postcode: 18107
 city: Rostock
-street: Rigaer Straße
+street: "Rigaer Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-We 08:00-20:00; Th-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 54.071408000000005
 longitude: 13.383400100000001
 postcode: 17489
 city: Greifswald
-street: Am Helmshäger Berg
+street: "Am Helmshäger Berg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 07:00-12:00,12:40-16:00; Fr 07:00-12:00; pH closed"

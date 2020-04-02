@@ -5,7 +5,7 @@ latitude: 54.082677700000005
 longitude: 12.127952400000002
 postcode: 18055
 city: Rostock
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00"

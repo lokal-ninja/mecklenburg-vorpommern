@@ -5,7 +5,7 @@ latitude: 53.9028707
 longitude: 11.891886900000001
 postcode: 18249
 city: Bernitt
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

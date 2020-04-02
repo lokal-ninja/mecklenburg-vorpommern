@@ -5,7 +5,7 @@ latitude: 53.9508887
 longitude: 14.1673874
 postcode: 17424
 city: Heringsdorf
-street: Bülowstraße
+street: "Bülowstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:30; PH off"

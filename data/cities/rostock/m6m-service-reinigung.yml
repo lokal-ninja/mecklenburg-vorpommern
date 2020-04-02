@@ -5,7 +5,7 @@ latitude: 54.07059520000001
 longitude: 12.1184261
 postcode: 18059
 city: Rostock
-street: Ziolkowskistraße
+street: "Ziolkowskistraße"
 housenumber: 8a
 phone: "+49 381 44 86 79"
 opening_hours: "Mo-Fr 8:00-18:30; Sa 08:00-13:00; Ph off"

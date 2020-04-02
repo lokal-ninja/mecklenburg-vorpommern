@@ -5,7 +5,7 @@ latitude: 54.0458068
 longitude: 14.0007903
 postcode: 17459
 city: Koserow
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 4
 phone: "+49 38375 248890"
 opening_hours: ""

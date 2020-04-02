@@ -5,7 +5,7 @@ latitude: 53.338662400000004
 longitude: 13.070031100000001
 postcode: 17235
 city: Neustrelitz
-street: Kranichstraße
+street: "Kranichstraße"
 housenumber: 9
 phone: "+49 3981 444240"
 opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"

@@ -5,7 +5,7 @@ latitude: 53.7417821
 longitude: 12.765157700000001
 postcode: 
 city: Malchin
-street: Teichstraße
+street: "Teichstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

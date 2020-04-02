@@ -5,7 +5,7 @@ latitude: 54.152718400000005
 longitude: 12.06484
 postcode: 18109
 city: Rostock
-street: Güstrower Straße
+street: "Güstrower Straße"
 housenumber: 6a
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00;PH closed"

@@ -5,7 +5,7 @@ latitude: 54.3753084
 longitude: 12.4166488
 postcode: 18347
 city: Ahrenshoop
-street: Bernhard-Seitz-Weg
+street: "Bernhard-Seitz-Weg"
 housenumber: 18a
 phone: "+4938220 164051"
 opening_hours: ""

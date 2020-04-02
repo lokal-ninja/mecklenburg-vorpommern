@@ -5,7 +5,7 @@ latitude: 54.174880900000005
 longitude: 12.2352796
 postcode: 18182
 city: Rövershagen
-street: Birkenstrat
+street: "Birkenstrat"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

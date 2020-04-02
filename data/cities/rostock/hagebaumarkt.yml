@@ -5,7 +5,7 @@ latitude: 54.060144
 longitude: 12.1193605
 postcode: 18059
 city: Rostock
-street: Charles-Darwin-Ring
+street: "Charles-Darwin-Ring"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

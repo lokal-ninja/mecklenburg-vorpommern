@@ -5,7 +5,7 @@ latitude: 53.948570800000006
 longitude: 12.103435000000001
 postcode: 18258
 city: Schwaan
-street: Rostocker Straße
+street: "Rostocker Straße"
 housenumber: 106
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.090467700000005
 longitude: 12.1446921
 postcode: 18055
 city: Rostock
-street: Hartestraße
+street: "Hartestraße"
 housenumber: 8
 phone: ""
 opening_hours: "geöffnet nach Vereinbarung und auf gut Glück"

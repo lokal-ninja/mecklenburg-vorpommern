@@ -5,7 +5,7 @@ latitude: 54.0826289
 longitude: 12.126260400000001
 postcode: 18057
 city: Rostock
-street: Klopstockstraße
+street: "Klopstockstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Tu- Fr 10:00-13:00, 14:00-18:00; Sa[1],Sa[3] 10:00-13:00"

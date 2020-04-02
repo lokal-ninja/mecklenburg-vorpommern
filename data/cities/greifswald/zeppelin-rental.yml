@@ -5,7 +5,7 @@ latitude: 54.0764797
 longitude: 13.390337200000001
 postcode: 17489
 city: Greifswald
-street: Am Gorzberg
+street: "Am Gorzberg"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; PH off"

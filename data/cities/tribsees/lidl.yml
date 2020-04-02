@@ -5,7 +5,7 @@ latitude: 54.0927305
 longitude: 12.750357200000002
 postcode: 18465
 city: Tribsees
-street: Sülzer Chaussee
+street: "Sülzer Chaussee"
 housenumber: 15a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

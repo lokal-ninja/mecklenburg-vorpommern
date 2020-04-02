@@ -5,7 +5,7 @@ latitude: 53.964831200000006
 longitude: 14.1321531
 postcode: 17429
 city: Heringsdorf
-street: Ahlbecker Chaussee
+street: "Ahlbecker Chaussee"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; So 13:00-18:00; PH off"

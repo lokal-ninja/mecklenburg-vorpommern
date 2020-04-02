@@ -5,7 +5,7 @@ latitude: 54.0873568
 longitude: 12.133424900000001
 postcode: 18055
 city: Rostock
-street: Klosterhof
+street: "Klosterhof"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.628893600000005
 longitude: 11.4110381
 postcode: 19053
 city: Schwerin
-street: Marienplatz
+street: "Marienplatz"
 housenumber: 11-12
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

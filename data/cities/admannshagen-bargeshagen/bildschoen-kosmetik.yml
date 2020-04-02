@@ -5,7 +5,7 @@ latitude: 54.111426400000006
 longitude: 11.9775586
 postcode: 18211
 city: Admannshagen-Bargeshagen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

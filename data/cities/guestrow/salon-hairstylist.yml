@@ -5,7 +5,7 @@ latitude: 53.79418690000001
 longitude: 12.1766745
 postcode: 18273
 city: Güstrow
-street: Enge Straße
+street: "Enge Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

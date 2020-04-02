@@ -5,7 +5,7 @@ latitude: 53.876352100000005
 longitude: 12.617349500000001
 postcode: 
 city: Jördenstorf
-street: Alte Dorfstraße
+street: "Alte Dorfstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

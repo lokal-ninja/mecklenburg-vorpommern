@@ -5,7 +5,7 @@ latitude: 53.9117559
 longitude: 11.484372400000002
 postcode: 23970
 city: Wismar
-street: Am Wiesengrund
+street: "Am Wiesengrund"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

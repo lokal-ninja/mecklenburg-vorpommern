@@ -5,7 +5,7 @@ latitude: 53.9034186
 longitude: 11.4076801
 postcode: 23968
 city: Wismar
-street: Zierower Landstraße
+street: "Zierower Landstraße"
 housenumber: 3-9
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 54.0885174
 longitude: 12.1340505
 postcode: 18055
 city: Rostock
-street: Universitätsplatz
+street: "Universitätsplatz"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

@@ -5,7 +5,7 @@ latitude: 54.135732700000005
 longitude: 12.060614900000001
 postcode: 18107
 city: Rostock
-street: Trelleborger Straße
+street: "Trelleborger Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"

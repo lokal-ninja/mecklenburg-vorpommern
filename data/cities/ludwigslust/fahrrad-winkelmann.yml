@@ -5,7 +5,7 @@ latitude: 53.32612640000001
 longitude: 11.496860700000001
 postcode: 19288
 city: Ludwigslust
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"

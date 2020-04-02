@@ -5,7 +5,7 @@ latitude: 54.0843665
 longitude: 12.1409654
 postcode: 18055
 city: Rostock
-street: Richard-Wagner-Straße
+street: "Richard-Wagner-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-17:00"

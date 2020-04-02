@@ -5,7 +5,7 @@ latitude: 54.616108600000004
 longitude: 13.3659858
 postcode: 18556
 city: Breege
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 90a
 phone: "+49 38391 129 52"
 opening_hours: ""

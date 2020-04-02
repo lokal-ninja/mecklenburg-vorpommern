@@ -5,7 +5,7 @@ latitude: 54.342627300000004
 longitude: 13.738434000000002
 postcode: 18586
 city: Ostseebad Göhren
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.569998500000004
 longitude: 13.261900800000001
 postcode: 17034
 city: Neubrandenburg
-street: Sattelplatz
+street: "Sattelplatz"
 housenumber: 2
 phone: "+49 395 430640"
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

@@ -5,7 +5,7 @@ latitude: 53.920516000000006
 longitude: 13.2416046
 postcode: 17129
 city: Tutow
-street: Platz des Friedens
+street: "Platz des Friedens"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-We 08:00-19:00,Th-Fr 08:00-20:00,Sa 08:00-16:00;PH closed"

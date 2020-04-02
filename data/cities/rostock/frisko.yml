@@ -5,7 +5,7 @@ latitude: 54.0912269
 longitude: 12.1000657
 postcode: 18057
 city: Rostock
-street: Karl-Marx-Straße
+street: "Karl-Marx-Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Tu-Fr 08:30-18:00"

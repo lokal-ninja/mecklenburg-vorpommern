@@ -5,7 +5,7 @@ latitude: 53.32430170000001
 longitude: 11.5007768
 postcode: 19288
 city: Ludwigslust
-street: Christian-Ludwig-Straße
+street: "Christian-Ludwig-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.2810162
 longitude: 13.054458400000001
 postcode: 18442
 city: Wendorf
-street: Albert-Schweitzer-Straße
+street: "Albert-Schweitzer-Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

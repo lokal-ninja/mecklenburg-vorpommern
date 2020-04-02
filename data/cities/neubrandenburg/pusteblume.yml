@@ -5,7 +5,7 @@ latitude: 53.557818000000005
 longitude: 13.247962300000001
 postcode: 17033
 city: Neubrandenburg
-street: Rostocker Straße
+street: "Rostocker Straße"
 housenumber: 31
 phone: ""
 opening_hours: ""

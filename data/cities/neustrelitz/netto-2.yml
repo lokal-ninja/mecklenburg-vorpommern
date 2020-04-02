@@ -5,7 +5,7 @@ latitude: 53.3665753
 longitude: 13.056303300000001
 postcode: 17235
 city: Neustrelitz
-street: Zierker Straße
+street: "Zierker Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

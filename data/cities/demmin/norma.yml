@@ -5,7 +5,7 @@ latitude: 53.909857200000005
 longitude: 13.027356500000002
 postcode: 
 city: Demmin
-street: Nikolaistraße
+street: "Nikolaistraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

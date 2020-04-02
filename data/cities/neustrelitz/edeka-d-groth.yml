@@ -5,7 +5,7 @@ latitude: 53.3473802
 longitude: 13.078516700000002
 postcode: 17235
 city: Neustrelitz
-street: Kühlhausberg
+street: "Kühlhausberg"
 housenumber: 7
 phone: "+49 3981 440093"
 opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-18:00; PH off"

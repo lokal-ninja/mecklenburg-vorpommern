@@ -5,7 +5,7 @@ latitude: 54.0777992
 longitude: 12.205464200000002
 postcode: 18184
 city: Roggentin
-street: Globusring
+street: "Globusring"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-16:00"

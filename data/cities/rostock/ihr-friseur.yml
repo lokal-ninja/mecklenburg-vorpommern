@@ -5,7 +5,7 @@ latitude: 54.0849461
 longitude: 12.1236922
 postcode: 18057
 city: Rostock
-street: Feldstraße
+street: "Feldstraße"
 housenumber: 48
 phone: "+49 381 4923980"
 opening_hours: "Mo-Fr 09:00-12:00, 13:30-16:30 || nach Absprache auch nach 18:00 Uhr"

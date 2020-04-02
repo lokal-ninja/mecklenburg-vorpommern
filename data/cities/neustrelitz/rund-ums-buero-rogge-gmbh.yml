@@ -5,7 +5,7 @@ latitude: 53.364144800000005
 longitude: 13.064222200000001
 postcode: 17235
 city: Neustrelitz
-street: Glambecker Straße
+street: "Glambecker Straße"
 housenumber: 37
 phone: "+49 3981 205022"
 opening_hours: ""

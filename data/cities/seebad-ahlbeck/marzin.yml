@@ -5,7 +5,7 @@ latitude: 53.9428355
 longitude: 14.1881459
 postcode: 17419
 city: Seebad Ahlbeck
-street: Seestraße
+street: "Seestraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.9649336
 longitude: 11.1636246
 postcode: 23948
 city: Klütz
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 25
 phone: "+49 38825 22250"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00"

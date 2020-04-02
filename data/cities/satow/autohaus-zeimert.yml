@@ -5,7 +5,7 @@ latitude: 54.0086208
 longitude: 11.934971200000001
 postcode: 18239
 city: Satow
-street: Heiligenhäger Straße
+street: "Heiligenhäger Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

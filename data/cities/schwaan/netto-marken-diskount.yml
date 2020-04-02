@@ -5,7 +5,7 @@ latitude: 53.9403726
 longitude: 12.1199829
 postcode: 18258
 city: Schwaan
-street: Niendorfer Chaussee
+street: "Niendorfer Chaussee"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

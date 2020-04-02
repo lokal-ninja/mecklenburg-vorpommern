@@ -5,7 +5,7 @@ latitude: 53.3827921
 longitude: 11.586414600000001
 postcode: 19306
 city: Neustadt-Glewe
-street: Breitscheidstraße
+street: "Breitscheidstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 09:00-18:00"

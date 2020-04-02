@@ -5,7 +5,7 @@ latitude: 53.90339590000001
 longitude: 13.0417398
 postcode: 17109
 city: Demmin
-street: Wollweberstraße
+street: "Wollweberstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

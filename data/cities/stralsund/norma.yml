@@ -5,7 +5,7 @@ latitude: 54.3284011
 longitude: 13.064896200000002
 postcode: 
 city: Stralsund
-street: Heinrich-Heine-Ring
+street: "Heinrich-Heine-Ring"
 housenumber: 78
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

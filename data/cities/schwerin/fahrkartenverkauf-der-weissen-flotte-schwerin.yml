@@ -5,7 +5,7 @@ latitude: 53.626296700000005
 longitude: 11.4197889
 postcode: 19055
 city: Schwerin
-street: Werderstraße
+street: "Werderstraße"
 housenumber: 140
 phone: ""
 opening_hours: ""

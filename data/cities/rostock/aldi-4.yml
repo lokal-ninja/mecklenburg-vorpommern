@@ -5,7 +5,7 @@ latitude: 54.109223400000005
 longitude: 12.1622689
 postcode: 18146
 city: Rostock
-street: Hinrichsdorfer Straße
+street: "Hinrichsdorfer Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

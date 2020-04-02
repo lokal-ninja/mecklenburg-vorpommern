@@ -5,7 +5,7 @@ latitude: 53.176069000000005
 longitude: 11.527854000000001
 postcode: 19300
 city: Milow
-street: Deibower Dorfstraße
+street: "Deibower Dorfstraße"
 housenumber: 23
 phone: "+49 38781 420 471"
 opening_hours: "Th-Fr 15:00-18:00; Sa 08:00-11:00"

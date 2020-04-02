@@ -5,7 +5,7 @@ latitude: 53.658824200000005
 longitude: 13.879310700000001
 postcode: 17379
 city: Ferdinandshof
-street: Neubrandenburger Straße
+street: "Neubrandenburger Straße"
 housenumber: 23
 phone: "+4939778 246 0"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-16:00"

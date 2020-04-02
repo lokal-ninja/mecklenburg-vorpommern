@@ -5,7 +5,7 @@ latitude: 54.4169818
 longitude: 13.435213000000001
 postcode: 18528
 city: Bergen auf Rügen
-street: Königsstraße
+street: "Königsstraße"
 housenumber: 10
 phone: "+49 3838 22775"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"

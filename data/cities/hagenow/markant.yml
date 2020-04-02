@@ -5,7 +5,7 @@ latitude: 53.4312453
 longitude: 11.195719200000001
 postcode: 19230
 city: Hagenow
-street: Robert-Stock-Straße
+street: "Robert-Stock-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.807749
 longitude: 12.187658800000001
 postcode: 18273
 city: Güstrow
-street: Lindenallee
+street: "Lindenallee"
 housenumber: 14
 phone: ""
 opening_hours: ""

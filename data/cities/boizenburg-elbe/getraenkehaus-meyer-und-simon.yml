@@ -5,7 +5,7 @@ latitude: 53.3864986
 longitude: 10.729684200000001
 postcode: 19258
 city: Boizenburg/Elbe
-street: Dr.-Alexander-Straße
+street: "Dr.-Alexander-Straße"
 housenumber: 78
 phone: ""
 opening_hours: ""

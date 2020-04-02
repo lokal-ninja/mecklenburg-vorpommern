@@ -5,7 +5,7 @@ latitude: 54.107195700000005
 longitude: 13.0207575
 postcode: 18507
 city: Grimmen
-street: Tribseeser Chaussee
+street: "Tribseeser Chaussee"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

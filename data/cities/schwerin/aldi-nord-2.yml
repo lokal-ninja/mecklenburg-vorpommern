@@ -5,7 +5,7 @@ latitude: 53.634522200000006
 longitude: 11.3874581
 postcode: 19059
 city: Schwerin
-street: Lessingstraße
+street: "Lessingstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

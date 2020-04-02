@@ -5,7 +5,7 @@ latitude: 54.029784400000004
 longitude: 11.668583700000001
 postcode: 18233
 city: Neubukow
-street: Wismarsche Straße
+street: "Wismarsche Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

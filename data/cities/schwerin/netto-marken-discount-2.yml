@@ -5,7 +5,7 @@ latitude: 53.6398275
 longitude: 11.3912782
 postcode: 19059
 city: Schwerin
-street: Lübecker Straße
+street: "Lübecker Straße"
 housenumber: 230
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

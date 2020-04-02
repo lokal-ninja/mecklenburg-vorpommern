@@ -5,7 +5,7 @@ latitude: 53.5703298
 longitude: 11.368313
 postcode: 19075
 city: Pampow
-street: Lindenweg
+street: "Lindenweg"
 housenumber: 2
 phone: "+49 3865 2918 0"
 opening_hours: ""

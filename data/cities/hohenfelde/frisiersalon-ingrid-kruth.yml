@@ -5,7 +5,7 @@ latitude: 54.078117000000006
 longitude: 11.9099582
 postcode: 18209
 city: Hohenfelde
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 11a
 phone: ""
 opening_hours: ""

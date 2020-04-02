@@ -5,7 +5,7 @@ latitude: 54.09586590000001
 longitude: 12.157355200000001
 postcode: 18146
 city: Rostock
-street: Dierkower Damm
+street: "Dierkower Damm"
 housenumber: 20
 phone: ""
 opening_hours: ""

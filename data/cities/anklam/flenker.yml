@@ -5,7 +5,7 @@ latitude: 53.8393845
 longitude: 13.715920100000002
 postcode: 17389
 city: Anklam
-street: Johannes-Gutenberg-Straße
+street: "Johannes-Gutenberg-Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:00, 12:30-18:00"

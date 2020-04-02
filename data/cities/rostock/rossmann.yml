@@ -5,7 +5,7 @@ latitude: 54.0710764
 longitude: 12.1181883
 postcode: 18059
 city: Rostock
-street: Nobelstraße
+street: "Nobelstraße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

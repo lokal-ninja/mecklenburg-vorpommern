@@ -5,7 +5,7 @@ latitude: 53.989272400000004
 longitude: 11.2002263
 postcode: 23946
 city: Boltenhagen
-street: Dünenweg
+street: "Dünenweg"
 housenumber: 1a
 phone: "+493882521474"
 opening_hours: ""

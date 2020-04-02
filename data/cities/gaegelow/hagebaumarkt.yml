@@ -5,7 +5,7 @@ latitude: 53.9035025
 longitude: 11.381919100000001
 postcode: 23968
 city: Gägelow
-street: Untere Straße
+street: "Untere Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

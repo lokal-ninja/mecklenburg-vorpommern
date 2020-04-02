@@ -5,7 +5,7 @@ latitude: 53.741690000000006
 longitude: 11.7084305
 postcode: 19412
 city: Brüel
-street: Plantagenweg
+street: "Plantagenweg"
 housenumber: 7a
 phone: ""
 opening_hours: ""

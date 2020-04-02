@@ -5,7 +5,7 @@ latitude: 53.8487912
 longitude: 10.744641600000001
 postcode: 23566
 city: Lübeck
-street: Brandenbaumer Landstraße
+street: "Brandenbaumer Landstraße"
 housenumber: 261
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00;PH closed"

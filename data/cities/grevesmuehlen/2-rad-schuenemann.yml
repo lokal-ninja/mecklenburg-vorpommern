@@ -5,7 +5,7 @@ latitude: 53.8533915
 longitude: 11.179994200000001
 postcode: 23936
 city: Grevesmühlen
-street: Siebenmorgen
+street: "Siebenmorgen"
 housenumber: 11
 phone: ""
 opening_hours: ""

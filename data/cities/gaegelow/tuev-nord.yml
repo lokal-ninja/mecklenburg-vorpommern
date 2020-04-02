@@ -5,7 +5,7 @@ latitude: 53.902079300000004
 longitude: 11.3817649
 postcode: 23968
 city: Gägelow
-street: Obere Straße
+street: "Obere Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 54.1078467
 longitude: 12.082540400000001
 postcode: 18069
 city: Rostock
-street: Rahnstädter Weg
+street: "Rahnstädter Weg"
 housenumber: 34
 phone: ""
 opening_hours: ""

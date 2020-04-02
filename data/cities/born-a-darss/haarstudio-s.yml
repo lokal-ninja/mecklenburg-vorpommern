@@ -5,7 +5,7 @@ latitude: 54.3847384
 longitude: 12.528415500000001
 postcode: 18375
 city: Born a. Darß
-street: Bäckergang
+street: "Bäckergang"
 housenumber: 7
 phone: ""
 opening_hours: "Tu-Fr 08:00-12:00,13:00-18:00; Sa 07:30-11:00"

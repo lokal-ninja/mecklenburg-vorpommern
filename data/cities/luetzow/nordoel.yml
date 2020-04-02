@@ -5,7 +5,7 @@ latitude: 53.656167200000006
 longitude: 11.1844207
 postcode: 19209
 city: Lützow
-street: Schweriner Straße
+street: "Schweriner Straße"
 housenumber: 29c
 phone: "+49 38874 23505"
 opening_hours: "Mo-Fr 05:30-22:00; Sa-Su 07:00-22:00"

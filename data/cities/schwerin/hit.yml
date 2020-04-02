@@ -5,7 +5,7 @@ latitude: 53.607893100000005
 longitude: 11.3668852
 postcode: 19061
 city: Schwerin
-street: Am Fasanenhof
+street: "Am Fasanenhof"
 housenumber: 7
 phone: "+49 385 6172894"
 opening_hours: ""

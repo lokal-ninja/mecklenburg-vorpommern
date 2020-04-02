@@ -5,7 +5,7 @@ latitude: 54.255613600000004
 longitude: 12.251680200000001
 postcode: 18181
 city: Graal-Müritz
-street: Birkenallee
+street: "Birkenallee"
 housenumber: 34
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.272260100000004
 longitude: 12.810784900000002
 postcode: 
 city: Mirow
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su 12:00-18:00"

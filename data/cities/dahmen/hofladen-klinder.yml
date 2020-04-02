@@ -5,7 +5,7 @@ latitude: 53.6608955
 longitude: 12.5683868
 postcode: 17166
 city: Dahmen
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 2
 phone: ""
 opening_hours: "May-Sep: Tu-Su,PH 13:00-18:00; Oct-Apr: Fr-Su,PH 13:00-17:00"

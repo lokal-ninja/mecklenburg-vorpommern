@@ -5,7 +5,7 @@ latitude: 53.864137500000005
 longitude: 11.1770095
 postcode: 23936
 city: Grevesmühlen
-street: Lübecker Straße
+street: "Lübecker Straße"
 housenumber: 17c
 phone: "+49 3881 3188"
 opening_hours: ""

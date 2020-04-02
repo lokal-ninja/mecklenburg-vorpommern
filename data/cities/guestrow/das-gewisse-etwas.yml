@@ -5,7 +5,7 @@ latitude: 53.794631700000004
 longitude: 12.175401500000001
 postcode: 18273
 city: Güstrow
-street: Pferdemarkt
+street: "Pferdemarkt"
 housenumber: 41
 phone: ""
 opening_hours: ""

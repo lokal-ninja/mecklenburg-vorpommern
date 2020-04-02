@@ -5,7 +5,7 @@ latitude: 54.0820883
 longitude: 13.396662500000001
 postcode: 17489
 city: Greifswald
-street: Hans-Beimler-Straße
+street: "Hans-Beimler-Straße"
 housenumber: 36
 phone: "+49 3834 823633"
 opening_hours: "Mo-Fr 09:00-12:00, 14:00-17:00; PH off"

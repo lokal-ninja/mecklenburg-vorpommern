@@ -5,7 +5,7 @@ latitude: 53.273147800000004
 longitude: 11.562712600000001
 postcode: 
 city: Grabow
-street: Fliederweg
+street: "Fliederweg"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.6525704
 longitude: 11.365782600000001
 postcode: 19057
 city: Schwerin
-street: Edgar-Bennert-Straße
+street: "Edgar-Bennert-Straße"
 housenumber: 11a
 phone: "+49 385 4780140"
 opening_hours: ""

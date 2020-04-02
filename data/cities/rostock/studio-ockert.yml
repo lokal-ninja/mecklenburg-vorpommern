@@ -5,7 +5,7 @@ latitude: 54.0901961
 longitude: 12.143475500000001
 postcode: 18055
 city: Rostock
-street: Grubenstraße
+street: "Grubenstraße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00 Samstag nach Vereinbarung"

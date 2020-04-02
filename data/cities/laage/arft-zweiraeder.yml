@@ -5,7 +5,7 @@ latitude: 53.927244300000005
 longitude: 12.346232200000001
 postcode: 18299
 city: Laage
-street: Breesener Straße
+street: "Breesener Straße"
 housenumber: 30
 phone: "+49 38459 32074"
 opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:00; Sa 09:00-11:00"

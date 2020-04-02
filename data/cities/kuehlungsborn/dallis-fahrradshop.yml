@@ -5,7 +5,7 @@ latitude: 54.150263900000006
 longitude: 11.733579500000001
 postcode: 18225
 city: Kühlungsborn
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 10:00-16:00 Winter"

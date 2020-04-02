@@ -5,7 +5,7 @@ latitude: 54.08850210000001
 longitude: 12.1028184
 postcode: 18057
 city: Rostock
-street: Karl-Marx-Straße
+street: "Karl-Marx-Straße"
 housenumber: 25
 phone: "+49 (0) 381 - 12 89 084"
 opening_hours: "Mo-Fr 05:30-18:00;Sa-Su 07:00-18:00"

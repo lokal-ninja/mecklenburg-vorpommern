@@ -5,7 +5,7 @@ latitude: 53.7813722
 longitude: 11.044756900000001
 postcode: 
 city: Rehna
-street: Gletzower Straße
+street: "Gletzower Straße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 53.310621000000005
 longitude: 12.239350100000001
 postcode: 16945
 city: Meyenburg
-street: Pritzwalker Straße
+street: "Pritzwalker Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

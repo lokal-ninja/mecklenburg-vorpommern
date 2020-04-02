@@ -5,7 +5,7 @@ latitude: 53.502347400000005
 longitude: 13.987846300000001
 postcode: 17309
 city: Pasewalk
-street: Große Kirchenstraße
+street: "Große Kirchenstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

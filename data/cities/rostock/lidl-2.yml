@@ -5,7 +5,7 @@ latitude: 54.0876323
 longitude: 12.087461300000001
 postcode: 
 city: Rostock
-street: Tschaikowskistraße
+street: "Tschaikowskistraße"
 housenumber: 39
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Ph off"

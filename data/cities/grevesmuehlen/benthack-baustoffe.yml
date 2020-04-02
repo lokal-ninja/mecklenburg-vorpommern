@@ -5,7 +5,7 @@ latitude: 53.86283950000001
 longitude: 11.211371300000001
 postcode: 23936
 city: Grevesmühlen
-street: Langer Steinschlag
+street: "Langer Steinschlag"
 housenumber: 6a
 phone: "+49 (0)3881 78140"
 opening_hours: ""

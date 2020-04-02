@@ -5,7 +5,7 @@ latitude: 53.5233354
 longitude: 13.257036900000001
 postcode: 17033
 city: Neubrandenburg
-street: Platanenstraße
+street: "Platanenstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

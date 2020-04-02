@@ -5,7 +5,7 @@ latitude: 54.040951500000006
 longitude: 12.0889196
 postcode: 18059
 city: Papendorf
-street: Landgut
+street: "Landgut"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Th 07:00-09:00, 09:30-12:00, 12:30-16:30; Fr 07:00-09:00, 09:30-12:00, 12:30-16:00"

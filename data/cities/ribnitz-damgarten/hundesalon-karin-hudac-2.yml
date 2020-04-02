@@ -5,7 +5,7 @@ latitude: 54.2392186
 longitude: 12.419015700000001
 postcode: 18311
 city: Ribnitz-Damgarten
-street: Straße des Friedens
+street: "Straße des Friedens"
 housenumber: 35
 phone: "+49 3821 814332"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.898364300000004
 longitude: 11.4209397
 postcode: 23968
 city: Wismar
-street: Rudolf-Breitscheid-Straße
+street: "Rudolf-Breitscheid-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

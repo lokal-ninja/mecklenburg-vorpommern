@@ -5,7 +5,7 @@ latitude: 53.5201676
 longitude: 12.7155111
 postcode: 17192
 city: Waren (Müritz)
-street: Friedrich-Wilhelm-Raiffeisen-Straße
+street: "Friedrich-Wilhelm-Raiffeisen-Straße"
 housenumber: 1c
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

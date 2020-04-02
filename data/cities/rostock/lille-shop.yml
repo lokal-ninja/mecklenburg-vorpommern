@@ -5,7 +5,7 @@ latitude: 54.180855300000005
 longitude: 12.0862751
 postcode: 18119
 city: Rostock
-street: Am Leuchtturm
+street: "Am Leuchtturm"
 housenumber: 9
 phone: ""
 opening_hours: ""

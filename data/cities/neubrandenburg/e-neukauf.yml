@@ -5,7 +5,7 @@ latitude: 53.5577107
 longitude: 13.257709700000001
 postcode: 17033
 city: Neubrandenburg
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 2
 phone: "+49 395 5825520"
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

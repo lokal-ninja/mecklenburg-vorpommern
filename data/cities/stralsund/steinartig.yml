@@ -5,7 +5,7 @@ latitude: 54.3141692
 longitude: 13.0881176
 postcode: 18439
 city: Stralsund
-street: Mönchstraße
+street: "Mönchstraße"
 housenumber: 16
 phone: "+49 3831 282326"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-18:00"

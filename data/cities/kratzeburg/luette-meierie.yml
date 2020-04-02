@@ -5,7 +5,7 @@ latitude: 53.4294847
 longitude: 12.946443200000001
 postcode: 17237
 city: Kratzeburg
-street: Dorfstraße
+street: "Dorfstraße"
 housenumber: 5
 phone: "+493982220202"
 opening_hours: "May-Aug 14:00-18:00; Sep-Oct Tu-Sa 14:00-17:00; Nov-Apr off"

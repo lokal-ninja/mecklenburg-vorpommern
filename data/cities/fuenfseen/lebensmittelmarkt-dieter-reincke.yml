@@ -5,7 +5,7 @@ latitude: 53.4092616
 longitude: 12.413427400000002
 postcode: 17213
 city: Fünfseen
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

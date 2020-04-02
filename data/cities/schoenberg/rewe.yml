@@ -5,7 +5,7 @@ latitude: 53.855595
 longitude: 10.925420500000001
 postcode: 
 city: Schönberg
-street: Dassower Straße
+street: "Dassower Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00;PH closed"

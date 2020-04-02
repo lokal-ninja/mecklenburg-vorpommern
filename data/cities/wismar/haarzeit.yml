@@ -5,7 +5,7 @@ latitude: 53.876255900000004
 longitude: 11.430147900000001
 postcode: 23966
 city: Wismar
-street: Irisweg
+street: "Irisweg"
 housenumber: 20
 phone: ""
 opening_hours: ""

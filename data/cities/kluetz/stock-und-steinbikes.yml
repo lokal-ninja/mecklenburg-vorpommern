@@ -5,7 +5,7 @@ latitude: 53.9662372
 longitude: 11.166817100000001
 postcode: 23948
 city: Klütz
-street: Wismarsche Straße
+street: "Wismarsche Straße"
 housenumber: 35
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-14:00"

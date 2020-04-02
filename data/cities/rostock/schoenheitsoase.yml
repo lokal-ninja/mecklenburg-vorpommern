@@ -5,7 +5,7 @@ latitude: 54.090191000000004
 longitude: 12.126000600000001
 postcode: 18057
 city: Rostock
-street: Patriotischer Weg
+street: "Patriotischer Weg"
 housenumber: 130
 phone: "+493813758228"
 opening_hours: "Mo-Fr 08:00-18:00; und nach Vereinbarung"

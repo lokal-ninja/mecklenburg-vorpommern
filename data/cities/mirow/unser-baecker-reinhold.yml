@@ -5,7 +5,7 @@ latitude: 53.2744444
 longitude: 12.8152033
 postcode: 17252
 city: Mirow
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-11:00"

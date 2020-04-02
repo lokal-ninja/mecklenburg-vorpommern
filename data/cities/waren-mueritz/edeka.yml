@@ -5,7 +5,7 @@ latitude: 53.5090792
 longitude: 12.7026482
 postcode: 17192
 city: Waren (Müritz)
-street: Karl-Bartels-Straße
+street: "Karl-Bartels-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

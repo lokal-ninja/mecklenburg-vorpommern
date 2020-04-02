@@ -5,7 +5,7 @@ latitude: 54.407120400000004
 longitude: 13.602396500000001
 postcode: 18609
 city: Binz
-street: Dünenstraße
+street: "Dünenstraße"
 housenumber: 34a
 phone: ""
 opening_hours: "Mo-Fr 08:00-12:00,12:30-15:00; Mo-We 15:00-16:30; Th 15:00-17:30; PH off"

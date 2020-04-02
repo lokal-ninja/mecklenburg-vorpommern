@@ -5,7 +5,7 @@ latitude: 54.123532700000005
 longitude: 12.165586000000001
 postcode: 18146
 city: Rostock
-street: Neu Hinrichsdorf
+street: "Neu Hinrichsdorf"
 housenumber: 1b
 phone: ""
 opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-16:00 || Su 13:00-16:00 Schautag"

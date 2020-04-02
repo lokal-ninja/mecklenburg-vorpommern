@@ -5,7 +5,7 @@ latitude: 53.55672860000001
 longitude: 13.251605000000001
 postcode: 17033
 city: Neubrandenburg
-street: Torfsteg
+street: "Torfsteg"
 housenumber: 16
 phone: "+49 395 3511475"
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00; PH off"

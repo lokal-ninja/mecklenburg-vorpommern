@@ -5,7 +5,7 @@ latitude: 54.3681532
 longitude: 12.7083905
 postcode: 18356
 city: Barth
-street: Barthestraße
+street: "Barthestraße"
 housenumber: 113
 phone: "+4938231 2282"
 opening_hours: "Mo-Th 07:30-18:00, Fr 07:30-16:00"

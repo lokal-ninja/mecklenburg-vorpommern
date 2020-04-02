@@ -5,7 +5,7 @@ latitude: 53.662824400000005
 longitude: 11.5006904
 postcode: 19067
 city: Leezen
-street: Zittower Straße
+street: "Zittower Straße"
 housenumber: 1b
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

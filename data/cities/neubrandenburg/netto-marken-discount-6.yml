@@ -5,7 +5,7 @@ latitude: 53.568024
 longitude: 13.2086392
 postcode: 17033
 city: Neubrandenburg
-street: Otto-von-Guericke-Straße
+street: "Otto-von-Guericke-Straße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

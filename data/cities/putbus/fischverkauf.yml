@@ -5,7 +5,7 @@ latitude: 54.34277530000001
 longitude: 13.5003404
 postcode: 18581
 city: Putbus
-street: Chausseestraße
+street: "Chausseestraße"
 housenumber: 8a
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"

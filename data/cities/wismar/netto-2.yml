@@ -5,7 +5,7 @@ latitude: 53.8788934
 longitude: 11.4290578
 postcode: 23966
 city: Wismar
-street: Begonienweg
+street: "Begonienweg"
 housenumber: 121
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

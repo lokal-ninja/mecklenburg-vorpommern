@@ -5,7 +5,7 @@ latitude: 54.342142
 longitude: 13.741551200000002
 postcode: 18586
 city: Ostseebad Göhren
-street: Strandstraße
+street: "Strandstraße"
 housenumber: 13
 phone: ""
 opening_hours: "We-Su 17:00-21:00"

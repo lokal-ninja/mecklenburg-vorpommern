@@ -5,7 +5,7 @@ latitude: 53.5829309
 longitude: 12.0843118
 postcode: 19399
 city: Goldberg
-street: Lübzer Straße
+street: "Lübzer Straße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Fr 08:00-15:00; Sa 08:00-12:00; PH off"

@@ -5,7 +5,7 @@ latitude: 54.312141800000006
 longitude: 13.0892136
 postcode: 18439
 city: Stralsund
-street: Apollonienmarkt
+street: "Apollonienmarkt"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 54.180428600000006
 longitude: 12.083607200000001
 postcode: 18119
 city: Rostock
-street: Seestraße
+street: "Seestraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 11:00-18:00 || Apr-Oct Su 13:00-18:00"

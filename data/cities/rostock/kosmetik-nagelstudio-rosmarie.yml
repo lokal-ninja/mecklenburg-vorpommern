@@ -5,7 +5,7 @@ latitude: 54.077196400000005
 longitude: 12.1354938
 postcode: 18055
 city: Rostock
-street: Lindenbergstraße
+street: "Lindenbergstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

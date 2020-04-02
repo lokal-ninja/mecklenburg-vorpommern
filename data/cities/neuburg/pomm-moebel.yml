@@ -5,7 +5,7 @@ latitude: 53.943677900000004
 longitude: 11.6134956
 postcode: 
 city: Neuburg
-street: Tatower Weg
+street: "Tatower Weg"
 housenumber: 2
 phone: ""
 opening_hours: ""

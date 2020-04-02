@@ -5,7 +5,7 @@ latitude: 53.6662158
 longitude: 11.491982100000001
 postcode: 19067
 city: Leezen
-street: Mohnweg
+street: "Mohnweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

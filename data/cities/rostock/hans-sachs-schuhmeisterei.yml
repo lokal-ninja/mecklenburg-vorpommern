@@ -5,7 +5,7 @@ latitude: 54.091232500000004
 longitude: 12.137010100000001
 postcode: 18055
 city: Rostock
-street: Lagerstraße
+street: "Lagerstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

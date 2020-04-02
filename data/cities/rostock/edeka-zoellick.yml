@@ -5,7 +5,7 @@ latitude: 54.0829481
 longitude: 12.1350879
 postcode: 18055
 city: Rostock
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 30
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

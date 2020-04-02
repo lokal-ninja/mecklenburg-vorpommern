@@ -5,7 +5,7 @@ latitude: 54.3115132
 longitude: 13.088370000000001
 postcode: 18439
 city: Stralsund
-street: Mönchstraße
+street: "Mönchstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 53.782087100000005
 longitude: 12.3252395
 postcode: 18279
 city: Lalendorf
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Sa,Su 13:00-19:30"

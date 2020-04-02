@@ -5,7 +5,7 @@ latitude: 53.58502360000001
 longitude: 11.398941
 postcode: 19061
 city: Schwerin
-street: Schweriner Straße
+street: "Schweriner Straße"
 housenumber: 3b
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

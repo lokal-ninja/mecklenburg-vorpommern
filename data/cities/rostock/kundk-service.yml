@@ -5,7 +5,7 @@ latitude: 54.177452800000005
 longitude: 12.083943300000001
 postcode: 18119
 city: Rostock
-street: Heinrich-Heine-Straße
+street: "Heinrich-Heine-Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00; 13:30-17:00; Sa 09:00-12:00"
