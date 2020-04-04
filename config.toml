@@ -1,6 +1,6 @@
 baseURL = "https://lokal.ninja/mecklenburg-vorpommern"
 languageCode = "de-DE"
-title = "Lokal Ninja - Mecklenburg-Vorpommern"
+title = "Mecklenburg-Vorpommern"
 theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -9,6 +9,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   home = ["HTML"]
 
 [params]
+  site = "Lokal Ninja"
   org = "lokal-ninja"
-  region = "Mecklenburg-Vorpommern"
   repo = "mecklenburg-vorpommern"
