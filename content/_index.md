@@ -1,0 +1,2 @@
+Mecklenburg-Vorpommern ist ein Land im Nordosten Deutschlands im Zentrum des südlichen Ostseeraumes. Es grenzt im Norden an die Ostsee, im Westen an Schleswig-Holstein und Niedersachsen, im Süden an Brandenburg und im Osten an die Woiwodschaft Westpommern der Republik Polen. Mecklenburg-Vorpommern ist das am dünnsten besiedelte deutsche Bundesland. (Wikipedia)
+
