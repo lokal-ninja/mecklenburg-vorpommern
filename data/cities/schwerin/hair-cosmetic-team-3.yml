@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6445572
 longitude: 11.4244841
-postcode: 19055
+postcode: "19055"
 city: Schwerin
 street: "Güstrower Straße"
 housenumber: 34

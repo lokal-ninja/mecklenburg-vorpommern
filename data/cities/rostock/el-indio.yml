@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.087719
 longitude: 12.114488900000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Waldemarstraße"
 housenumber: 60

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 53.9110048
 longitude: 13.028369000000001
-postcode: 17109
+postcode: "17109"
 city: Demmin
 street: "Loitzer Straße"
 housenumber: 6

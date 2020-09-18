@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 54.03113810000001
 longitude: 11.6793773
-postcode: 18233
+postcode: "18233"
 city: Neubukow
 street: "Lindenweg"
 housenumber: 16

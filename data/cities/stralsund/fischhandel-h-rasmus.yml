@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 54.313588200000005
 longitude: 13.088496200000002
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Heilgeiststraße"
 housenumber: 10

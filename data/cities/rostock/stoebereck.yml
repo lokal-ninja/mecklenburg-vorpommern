@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.08218780000001
 longitude: 12.1111938
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Laurembergstraße"
 housenumber: 29

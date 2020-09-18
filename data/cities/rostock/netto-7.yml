@@ -1,12 +1,12 @@
-id: 33780605
+id: 33740212
 type: way
 shop: Supermarkt
-latitude: 54.0875579
-longitude: 12.0825738
-postcode: 
+latitude: 54.0731036
+longitude: 12.111609300000001
+postcode: "18059"
 city: Rostock
-street: "Johannes-Kepler-Straße"
-housenumber: 28a
+street: "Brahestraße"
+housenumber: 44
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

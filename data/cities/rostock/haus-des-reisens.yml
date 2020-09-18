@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.0884483
 longitude: 12.123550600000002
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Doberaner Straße"
 housenumber: 158

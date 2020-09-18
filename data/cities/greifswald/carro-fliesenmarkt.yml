@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 54.067515
 longitude: 13.393752800000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "An der Thronpost"
 housenumber: 5

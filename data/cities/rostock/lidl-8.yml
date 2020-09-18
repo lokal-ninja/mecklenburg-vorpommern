@@ -1,12 +1,12 @@
-id: 243281474
+id: 269525627
 type: way
 shop: Supermarkt
-latitude: 54.1386722
-longitude: 12.044491800000001
-postcode: 18107
+latitude: 54.152658900000006
+longitude: 12.066915700000001
+postcode: "18109"
 city: Rostock
-street: "Warnowallee"
-housenumber: 20a
+street: "Güstrower Straße"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: ""
+opening_hours: ""
+website: "https://www.lidl.de/"

@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 53.569795500000005
 longitude: 11.370561100000002
-postcode: 19075
+postcode: "19075"
 city: Pampow
 street: "Ahornstraße"
 housenumber: 1
 phone: "+49 3865 72 0"
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-19:00"
 website: "https://www.xxxlshop.de/filiale/xxxlutz-rueck-pampow/RC"

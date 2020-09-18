@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.5569609
 longitude: 13.262418100000001
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Turmstraße"
 housenumber: 6

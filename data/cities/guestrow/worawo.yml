@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.7929406
 longitude: 12.176970500000001
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Gleviner Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.693827500000005
 longitude: 11.0139899
-postcode: 19205
+postcode: "19205"
 city: Roggendorf
 street: "Kneeser Straße Roggendorf"
 housenumber: 1

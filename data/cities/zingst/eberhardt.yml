@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.4347915
 longitude: 12.6881778
-postcode: 18374
+postcode: "18374"
 city: Zingst
 street: "Hafenstraße"
 housenumber: 17

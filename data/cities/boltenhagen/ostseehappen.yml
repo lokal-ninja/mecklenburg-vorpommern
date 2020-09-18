@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.9872583
 longitude: 11.205931600000001
-postcode: 23946
+postcode: "23946"
 city: Boltenhagen
 street: "Mittelpromenade"
 housenumber: 20

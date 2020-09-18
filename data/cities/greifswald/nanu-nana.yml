@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.0960514
 longitude: 13.383788000000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Schuhhagen"
 housenumber: 21a

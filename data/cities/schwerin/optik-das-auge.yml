@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.6030079
 longitude: 11.4327185
-postcode: 19061
+postcode: "19061"
 city: Schwerin
 street: "Dreescher Markt"
 housenumber: 4

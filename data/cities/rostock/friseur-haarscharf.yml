@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.091954900000005
 longitude: 12.116414200000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Patriotischer Weg"
 housenumber: 45

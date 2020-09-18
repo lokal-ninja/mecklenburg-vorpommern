@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5564375
 longitude: 13.293345
-postcode: 17036
+postcode: "17036"
 city: Neubrandenburg
 street: "Juri-Gagarin-Ring"
 housenumber: 40

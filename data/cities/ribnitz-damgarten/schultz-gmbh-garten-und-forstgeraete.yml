@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 54.24033240000001
 longitude: 12.4421928
-postcode: 18311
+postcode: "18311"
 city: Ribnitz-Damgarten
 street: "Mittelweg"
 housenumber: 37

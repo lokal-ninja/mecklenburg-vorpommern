@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.50753
 longitude: 13.7393952
-postcode: 17335
+postcode: "17335"
 city: Strasburg (Uckermark)
 street: "Wallstraße"
 housenumber: 1

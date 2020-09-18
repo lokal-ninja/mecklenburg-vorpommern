@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.5565578
 longitude: 13.263221000000001
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Wartlaustraße"
 housenumber: 12

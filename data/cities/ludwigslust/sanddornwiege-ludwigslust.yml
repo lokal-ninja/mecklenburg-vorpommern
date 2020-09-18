@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.326352400000005
 longitude: 11.4900201
-postcode: 19288
+postcode: "19288"
 city: Ludwigslust
 street: "Friedrich-Naumann-Allee"
 housenumber: 26

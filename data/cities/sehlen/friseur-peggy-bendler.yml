@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3797165
 longitude: 13.383294200000002
-postcode: 18528
+postcode: "18528"
 city: Sehlen
 street: "Dorfstraße"
 housenumber: 7

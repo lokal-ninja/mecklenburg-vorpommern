@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.402066500000004
 longitude: 13.604336400000001
-postcode: 18609
+postcode: "18609"
 city: Binz
 street: "Proraer Chaussee"
 housenumber: 3d

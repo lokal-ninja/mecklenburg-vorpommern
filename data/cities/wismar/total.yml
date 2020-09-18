@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.8899513
 longitude: 11.4714118
-postcode: 23970
+postcode: "23970"
 city: Wismar
 street: "Kanalstraße"
 housenumber: 8

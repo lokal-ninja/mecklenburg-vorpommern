@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3127872
 longitude: 13.090058800000001
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Ossenreyerstraße"
 housenumber: 40

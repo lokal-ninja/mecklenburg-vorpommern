@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.735827300000004
 longitude: 12.778953300000001
-postcode: 17139
+postcode: "17139"
 city: Malchin
 street: "Stavenhagener Straße"
 housenumber: 45

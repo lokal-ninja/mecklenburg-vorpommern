@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.433518400000004
 longitude: 11.1954475
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Schweriner Straße"
 housenumber: 15

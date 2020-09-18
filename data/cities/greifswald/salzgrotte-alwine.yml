@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.0977491
 longitude: 13.378735500000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Steinbeckerstraße"
 housenumber: 40

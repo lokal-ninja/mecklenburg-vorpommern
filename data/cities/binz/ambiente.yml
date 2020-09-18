@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 54.40283650000001
 longitude: 13.609580800000002
-postcode: 18609
+postcode: "18609"
 city: Binz
 street: "Wylichstraße"
 housenumber: 8

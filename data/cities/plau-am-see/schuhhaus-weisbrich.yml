@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.4586052
 longitude: 12.264478100000002
-postcode: 19395
+postcode: "19395"
 city: Plau am See
 street: "Marktstraße"
 housenumber: 17

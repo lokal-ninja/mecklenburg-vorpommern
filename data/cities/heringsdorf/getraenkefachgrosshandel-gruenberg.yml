@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.9630949
 longitude: 14.1344507
-postcode: 17429
+postcode: "17429"
 city: Heringsdorf
 street: "Ahlbecker Chaussee"
 housenumber: 1a

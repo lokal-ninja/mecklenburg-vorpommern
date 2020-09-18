@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.087945500000004
 longitude: 12.118086
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Barnstorfer Weg"
 housenumber: 33

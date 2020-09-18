@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.7687175
 longitude: 11.469339600000001
-postcode: 23996
+postcode: "23996"
 city: Bad Kleinen
 street: "Hauptstraße"
 housenumber: 9

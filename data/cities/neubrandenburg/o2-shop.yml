@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.556296100000004
 longitude: 13.263522400000001
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Neutorstraße"
 housenumber: 9

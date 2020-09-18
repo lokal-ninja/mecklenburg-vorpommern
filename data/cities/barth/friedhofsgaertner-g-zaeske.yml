@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.363015700000005
 longitude: 12.7301915
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Sundische Straße"
 housenumber: 55

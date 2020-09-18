@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.772425500000004
 longitude: 12.5767368
-postcode: 17166
+postcode: "17166"
 city: Teterow
 street: "Malchiner Straße"
 housenumber: 20

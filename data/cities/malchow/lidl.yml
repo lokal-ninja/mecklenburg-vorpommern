@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.481147500000006
 longitude: 12.4222166
-postcode: 17213
+postcode: "17213"
 city: Malchow
 street: "Rostocker Straße"
 housenumber: 13

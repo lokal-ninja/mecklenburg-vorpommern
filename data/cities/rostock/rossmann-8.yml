@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.0943303
 longitude: 12.1068007
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Werftstraße"
 housenumber: 50

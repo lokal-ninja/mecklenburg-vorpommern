@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 54.5151588
 longitude: 13.6417984
-postcode: 18546
+postcode: "18546"
 city: Sassnitz
 street: "Hauptstraße"
 housenumber: 68 b

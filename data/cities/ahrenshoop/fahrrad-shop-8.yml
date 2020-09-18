@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.3753084
 longitude: 12.4166488
-postcode: 18347
+postcode: "18347"
 city: Ahrenshoop
 street: "Bernhard-Seitz-Weg"
 housenumber: 18a

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.701853
 longitude: 11.1131797
-postcode: 19205
+postcode: "19205"
 city: Gadebusch
 street: "Johann-Stelling-Straße"
 housenumber: 20c

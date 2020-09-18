@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 54.302069
 longitude: 13.0992411
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Werftstraße"
 housenumber: 16

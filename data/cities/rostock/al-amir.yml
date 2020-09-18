@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.0880109
 longitude: 12.1248228
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Doberaner Straße"
 housenumber: 8

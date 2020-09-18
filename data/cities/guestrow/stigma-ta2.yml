@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 53.792860000000005
 longitude: 12.1769233
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Gleviner Straße"
 housenumber: 36

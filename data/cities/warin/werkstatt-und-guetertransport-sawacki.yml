@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.798687900000004
 longitude: 11.7247892
-postcode: 19417
+postcode: "19417"
 city: Warin
 street: "Gewerbegebiet"
 housenumber: 10

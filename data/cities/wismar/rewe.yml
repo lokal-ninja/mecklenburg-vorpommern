@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.887602900000005
 longitude: 11.438187800000001
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Philipp-Müller-Straße"
 housenumber: 44

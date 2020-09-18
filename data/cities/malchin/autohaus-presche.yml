@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.7320276
 longitude: 12.783701
-postcode: 17139
+postcode: "17139"
 city: Malchin
 street: "Stavenhagener Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 54.046882100000005
 longitude: 14.001490500000001
-postcode: 17459
+postcode: "17459"
 city: Koserow
 street: "Hauptstraße"
 housenumber: 87

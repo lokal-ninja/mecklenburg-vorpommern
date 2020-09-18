@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.893877200000006
 longitude: 11.463163900000001
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Breite Straße"
 housenumber: 19

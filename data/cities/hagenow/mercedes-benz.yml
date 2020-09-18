@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.4193408
 longitude: 11.212035
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Bahnhofstraße"
 housenumber: 123

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 54.0757309
 longitude: 12.1217763
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Erich-Schlesinger-Straße"
 housenumber: 28

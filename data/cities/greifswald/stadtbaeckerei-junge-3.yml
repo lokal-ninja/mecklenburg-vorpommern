@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.069393100000006
 longitude: 13.3877225
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Am Koppelberg"
 housenumber: 1a

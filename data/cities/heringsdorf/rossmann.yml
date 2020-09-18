@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.942180900000004
 longitude: 14.1866883
-postcode: 17419
+postcode: "17419"
 city: Heringsdorf
 street: "Friedrichstraße"
 housenumber: 6a

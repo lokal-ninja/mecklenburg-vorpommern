@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.7945447
 longitude: 12.173296700000002
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Krönchenhagen"
 housenumber: 28

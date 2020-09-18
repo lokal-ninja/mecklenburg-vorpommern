@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 53.4527304
 longitude: 14.2139202
-postcode: 17321
+postcode: "17321"
 city: Löcknitz
 street: "Chausseestraße"
 housenumber: 80

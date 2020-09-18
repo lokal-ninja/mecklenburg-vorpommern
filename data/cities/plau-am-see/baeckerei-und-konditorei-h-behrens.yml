@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.4573167
 longitude: 12.2671576
-postcode: 19395
+postcode: "19395"
 city: Plau am See
 street: "Stietzstraße"
 housenumber: 6

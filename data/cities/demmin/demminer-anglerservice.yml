@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 53.9061475
 longitude: 13.030416200000001
-postcode: 17109
+postcode: "17109"
 city: Demmin
 street: "Hanseufer"
 housenumber: 2

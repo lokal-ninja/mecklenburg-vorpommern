@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.35052820000001
 longitude: 13.078035300000002
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Kühlhausberg"
 housenumber: 14

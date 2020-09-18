@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.085083600000004
 longitude: 12.115033100000002
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Ulmenstraße"
 housenumber: 81

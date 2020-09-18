@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.242248200000006
 longitude: 12.4022179
-postcode: 18311
+postcode: "18311"
 city: Ribnitz-Damgarten
 street: "Am Nettelrade"
 housenumber: 6

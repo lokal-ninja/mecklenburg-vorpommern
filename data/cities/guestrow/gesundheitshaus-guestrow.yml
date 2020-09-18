@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.7946614
 longitude: 12.1752892
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Pferdemarkt"
 housenumber: 40

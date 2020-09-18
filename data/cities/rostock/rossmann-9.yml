@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.13863430000001
 longitude: 12.049071600000001
-postcode: 18107
+postcode: "18107"
 city: Rostock
 street: "Warnowallee"
 housenumber: 25

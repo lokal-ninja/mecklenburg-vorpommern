@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 54.087368000000005
 longitude: 12.1334798
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Klosterhof"
 housenumber: 1

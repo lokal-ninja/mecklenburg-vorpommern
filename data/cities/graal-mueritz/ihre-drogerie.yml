@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 54.2494723
 longitude: 12.2331485
-postcode: 18181
+postcode: "18181"
 city: Graal-Müritz
 street: "Kurstraße"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00; PH closed"
 website: ""

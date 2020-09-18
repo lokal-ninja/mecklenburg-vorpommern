@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.0788584
 longitude: 13.4121716
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Ernst-Thälmann-Ring"
 housenumber: 58c

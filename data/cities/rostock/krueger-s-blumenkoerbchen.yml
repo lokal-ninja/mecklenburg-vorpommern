@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.17721280000001
 longitude: 12.0859482
-postcode: 18119
+postcode: "18119"
 city: Rostock
 street: "Kirchenplatz"
 housenumber: 10

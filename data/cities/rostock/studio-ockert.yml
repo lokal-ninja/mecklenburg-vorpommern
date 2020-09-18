@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.0901961
 longitude: 12.143475500000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Grubenstraße"
 housenumber: 42

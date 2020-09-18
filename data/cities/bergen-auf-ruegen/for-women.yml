@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.4184945
 longitude: 13.433851800000001
-postcode: 18528
+postcode: "18528"
 city: Bergen auf Rügen
 street: "Markt"
 housenumber: 9

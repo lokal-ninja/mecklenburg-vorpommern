@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.119231500000005
 longitude: 11.960583000000002
-postcode: 18211
+postcode: "18211"
 city: Admannshagen-Bargeshagen
 street: "Dorfstraße"
 housenumber: 22

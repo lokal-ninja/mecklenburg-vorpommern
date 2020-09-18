@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.431308400000006
 longitude: 11.1953119
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Robert-Stock-Straße"
 housenumber: 2

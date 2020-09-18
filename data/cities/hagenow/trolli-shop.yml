@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.420065900000004
 longitude: 11.184963900000001
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Steegener Chaussee"
 housenumber: 13

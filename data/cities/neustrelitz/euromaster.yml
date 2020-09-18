@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.338448500000005
 longitude: 13.0873538
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Wilhelm-Stolte-Straße"
 housenumber: 127

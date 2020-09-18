@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.793583700000006
 longitude: 12.1726156
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Hageböcker Straße"
 housenumber: 106

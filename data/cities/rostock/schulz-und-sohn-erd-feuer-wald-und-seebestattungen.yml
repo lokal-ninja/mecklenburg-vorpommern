@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 54.070090900000004
 longitude: 12.116906100000001
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Nobelstraße"
 housenumber: 55

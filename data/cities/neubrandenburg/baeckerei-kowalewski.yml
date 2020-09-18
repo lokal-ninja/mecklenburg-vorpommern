@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.557263500000005
 longitude: 13.261395100000001
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Stargarder Straße"
 housenumber: 17

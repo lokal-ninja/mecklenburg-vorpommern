@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.512908
 longitude: 13.9865922
-postcode: 17309
+postcode: "17309"
 city: Pasewalk
 street: "Bahnhofstraße"
 housenumber: 13

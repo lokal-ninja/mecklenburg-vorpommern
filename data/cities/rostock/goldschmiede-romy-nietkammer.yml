@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.0875208
 longitude: 12.144648700000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Mühlenstraße"
 housenumber: 13

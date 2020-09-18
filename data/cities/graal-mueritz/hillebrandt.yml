@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2490333
 longitude: 12.238646800000001
-postcode: 18181
+postcode: "18181"
 city: Graal-Müritz
 street: "Lange Straße"
 housenumber: 12

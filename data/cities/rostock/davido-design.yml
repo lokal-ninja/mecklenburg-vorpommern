@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 54.094329300000005
 longitude: 12.154075200000001
-postcode: 18146
+postcode: "18146"
 city: Rostock
 street: "Bei der Knochenmühle"
 housenumber: 27

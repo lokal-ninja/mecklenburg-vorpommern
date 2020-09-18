@@ -1,12 +1,12 @@
-id: 138544769
-type: way
+id: 7785661270
+type: node
 shop: Sanitätshaus
-latitude: 54.135732700000005
-longitude: 12.060614900000001
-postcode: 18107
+latitude: 54.1764352
+longitude: 12.0815838
+postcode: "18119"
 city: Rostock
-street: "Trelleborger Straße"
-housenumber: 8
+street: "Mühlenstraße"
+housenumber: 36
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "https://www.liebau-ot.de/"
+opening_hours: "Mo 08:30-16:30; Tu, Th 08:30-18:00; We 08:30-14:00; Fr 08:30-16:00"
+website: ""

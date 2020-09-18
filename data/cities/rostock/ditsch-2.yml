@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.0784267
 longitude: 12.1321943
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Konrad-Adenauer-Platz"
 housenumber: 1

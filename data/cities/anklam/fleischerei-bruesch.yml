@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.8586455
 longitude: 13.688692600000001
-postcode: 17389
+postcode: "17389"
 city: Anklam
 street: "Peenstraße"
 housenumber: 35

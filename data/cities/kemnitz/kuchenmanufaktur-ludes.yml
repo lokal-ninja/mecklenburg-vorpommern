@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 54.079525600000004
 longitude: 13.5346466
-postcode: 17509
+postcode: "17509"
 city: Kemnitz
 street: "Gewerbepark"
 housenumber: 7

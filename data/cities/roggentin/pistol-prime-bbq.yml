@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.077457
 longitude: 12.2053945
-postcode: 18184
+postcode: "18184"
 city: Roggentin
 street: "Globusring"
 housenumber: 3

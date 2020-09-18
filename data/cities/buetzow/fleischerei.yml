@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.8482392
 longitude: 11.9855883
-postcode: 18246
+postcode: "18246"
 city: Bützow
 street: "Jungfernstraße"
 housenumber: 10

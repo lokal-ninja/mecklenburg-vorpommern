@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.1168641
 longitude: 13.368124300000002
-postcode: 17498
+postcode: "17498"
 city: Neuenkirchen
 street: "Marktflecken"
 housenumber: 10

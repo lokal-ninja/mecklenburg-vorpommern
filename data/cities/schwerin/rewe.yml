@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.6444051
 longitude: 11.424441900000001
-postcode: 19055
+postcode: "19055"
 city: Schwerin
 street: "Güstrower Straße"
 housenumber: 34

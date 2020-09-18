@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.7544015
 longitude: 14.0192107
-postcode: 17375
+postcode: "17375"
 city: Grambin
 street: "Dorfstraße"
 housenumber: 101

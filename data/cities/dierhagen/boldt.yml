@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.294040800000005
 longitude: 12.358804200000002
-postcode: 18347
+postcode: "18347"
 city: Dierhagen
 street: "Lindenstraße"
 housenumber: 14

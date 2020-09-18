@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 54.072520000000004
 longitude: 13.394951800000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "An der Thronpost"
 housenumber: 1a

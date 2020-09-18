@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.176999800000004
 longitude: 12.086026700000001
-postcode: 18119
+postcode: "18119"
 city: Rostock
 street: "Kirchenplatz"
 housenumber: 2

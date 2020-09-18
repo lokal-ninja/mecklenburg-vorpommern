@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.939773100000004
 longitude: 12.107182700000001
-postcode: 18258
+postcode: "18258"
 city: Schwaan
 street: "Markt"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 54.1765721
 longitude: 12.0873118
-postcode: 18119
+postcode: "18119"
 city: Rostock
 street: "Alexandrinenstraße"
 housenumber: 32

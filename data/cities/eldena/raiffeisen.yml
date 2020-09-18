@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.237829500000004
 longitude: 11.420583
-postcode: 19294
+postcode: "19294"
 city: Eldena
 street: "Ludwigsluster Straße"
 housenumber: 22

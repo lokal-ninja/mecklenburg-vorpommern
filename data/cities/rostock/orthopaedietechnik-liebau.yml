@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 54.083244400000005
 longitude: 12.139597400000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Paulstraße"
 housenumber: 48

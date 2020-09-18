@@ -3,7 +3,7 @@ type: way
 shop: Dorfladen
 latitude: 53.911900300000006
 longitude: 11.4842478
-postcode: 23970
+postcode: "23970"
 city: Wismar
 street: "Am Wiesengrund"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.0525104
 longitude: 13.7741141
-postcode: 17438
+postcode: "17438"
 city: Wolgast
 street: "Chausseestraße"
 housenumber: 1

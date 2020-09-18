@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.2363769
 longitude: 13.1692557
-postcode: 18519
+postcode: "18519"
 city: Sundhagen
 street: "Wüstenfelder Straße"
 housenumber: 1

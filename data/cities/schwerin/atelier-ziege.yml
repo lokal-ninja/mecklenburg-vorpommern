@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 53.6322131
 longitude: 11.4196597
-postcode: 19055
+postcode: "19055"
 city: Schwerin
 street: "Ziegenmarkt"
 housenumber: 1

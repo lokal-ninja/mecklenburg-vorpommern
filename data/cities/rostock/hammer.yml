@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 54.152324300000004
 longitude: 12.068143000000001
-postcode: 18109
+postcode: "18109"
 city: Rostock
 street: "Güstrower Straße"
 housenumber: 9

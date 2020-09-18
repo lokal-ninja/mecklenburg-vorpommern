@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.436595100000005
 longitude: 11.1744692
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Toddiner Chaussee"
 housenumber: 5

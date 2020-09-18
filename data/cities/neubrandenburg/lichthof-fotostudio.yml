@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.557560800000005
 longitude: 13.2527877
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Jahnstraße"
 housenumber: 3e

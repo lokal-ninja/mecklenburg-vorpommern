@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 53.969886
 longitude: 11.0395444
-postcode: 23942
+postcode: "23942"
 city: Kalkhorst
 street: "Neue Reihe"
 housenumber: 15a
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa, Su, PH off"
+opening_hours: "Mo-Fr 08:00-18:00; PH off"
 website: ""

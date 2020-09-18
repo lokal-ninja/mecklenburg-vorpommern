@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.239093700000005
 longitude: 11.8739985
-postcode: 19348
+postcode: "19348"
 city: Berge
 street: "Schulstraße"
 housenumber: 2a

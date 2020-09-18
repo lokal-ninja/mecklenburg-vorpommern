@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 53.3607646
 longitude: 13.0666551
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Elisabethstraße"
 housenumber: 1

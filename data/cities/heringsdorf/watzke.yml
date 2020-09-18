@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.9622444
 longitude: 14.130784400000001
-postcode: 17429
+postcode: "17429"
 city: Heringsdorf
 street: "Dorf Bansin"
 housenumber: 4

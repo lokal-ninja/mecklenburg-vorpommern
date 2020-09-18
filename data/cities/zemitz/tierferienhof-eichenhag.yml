@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.9685326
 longitude: 13.7689576
-postcode: 17440
+postcode: "17440"
 city: Zemitz
 street: "Am Eichenhag"
 housenumber: 3

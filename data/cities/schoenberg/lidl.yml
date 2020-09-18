@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8554328
 longitude: 10.926895
-postcode: 23923
+postcode: "23923"
 city: Schönberg
 street: "Dassower Straße"
 housenumber: 8b

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.3450781
 longitude: 13.0818475
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Strelitzer Chaussee"
 housenumber: 235

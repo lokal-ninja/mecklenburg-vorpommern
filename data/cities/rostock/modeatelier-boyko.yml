@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 54.089280300000006
 longitude: 12.146582500000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Altschmiedestraße"
 housenumber: 23

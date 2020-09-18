@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.0706609
 longitude: 11.8035048
-postcode: 18236
+postcode: "18236"
 city: Kröpelin
 street: "Schulstraße"
 housenumber: 9

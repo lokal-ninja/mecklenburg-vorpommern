@@ -1,12 +1,12 @@
-id: 167260731
-type: way
+id: 4810561488
+type: node
 shop: Supermarkt
-latitude: 54.089289300000004
-longitude: 13.392043600000001
-postcode: 17489
+latitude: 54.0925639
+longitude: 13.3730764
+postcode: "17489"
 city: Greifswald
-street: "Peter-Warschow-Straße"
-housenumber: 19
+street: "Bahnhofstraße"
+housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

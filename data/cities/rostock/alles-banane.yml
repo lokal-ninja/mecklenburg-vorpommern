@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 54.0881884
 longitude: 12.112177
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Waldemarstraße"
 housenumber: 14

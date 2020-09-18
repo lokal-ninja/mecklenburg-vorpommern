@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.546260000000004
 longitude: 13.3136355
-postcode: 17036
+postcode: "17036"
 city: Neubrandenburg
 street: "Steinstraße"
 housenumber: 6

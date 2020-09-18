@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 54.4038953
 longitude: 13.600268600000001
-postcode: 18609
+postcode: "18609"
 city: Binz
 street: "Proraer Chaussee"
 housenumber: 6

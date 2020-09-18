@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.175990500000005
 longitude: 11.5281075
-postcode: 
+postcode: ""
 city: Milow
 street: "Deibower Dorfstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.0687915
 longitude: 13.388587000000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Am Koppelberg"
 housenumber: 19

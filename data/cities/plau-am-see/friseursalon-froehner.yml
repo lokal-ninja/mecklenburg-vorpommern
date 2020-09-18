@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5430057
 longitude: 12.271930800000002
-postcode: 19395
+postcode: "19395"
 city: Plau am See
 street: "Ortkruger Weg"
 housenumber: 1

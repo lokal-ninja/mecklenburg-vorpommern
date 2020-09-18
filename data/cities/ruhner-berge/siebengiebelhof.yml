@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.317059400000005
 longitude: 12.007132400000001
-postcode: 19376
+postcode: "19376"
 city: Ruhner Berge
 street: "Alte Dorfstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.864363600000004
 longitude: 11.2086419
-postcode: 23936
+postcode: "23936"
 city: Grevesmühlen
 street: "Grüner Weg"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.8938599
 longitude: 11.4674017
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "ABC-Straße"
 housenumber: 11

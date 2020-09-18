@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.0854359
 longitude: 12.113715000000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Ulmenmarkt"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 54.094044200000006
 longitude: 12.1070607
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Werftstraße"
 housenumber: 50

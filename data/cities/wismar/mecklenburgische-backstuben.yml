@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.8933139
 longitude: 11.451995100000001
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Lübsche Straße"
 housenumber: 99

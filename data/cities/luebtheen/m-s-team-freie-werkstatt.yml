@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.3127117
 longitude: 11.077442600000001
-postcode: 19249
+postcode: "19249"
 city: Lübtheen
 street: "Der Heidkamp"
 housenumber: 13

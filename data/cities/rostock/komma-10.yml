@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.0998505
 longitude: 12.0738097
-postcode: 18069
+postcode: "18069"
 city: Rostock
 street: "Goerdelerstraße"
 housenumber: 52

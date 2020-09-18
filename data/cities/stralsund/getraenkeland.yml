@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 54.321404
 longitude: 13.0633303
-postcode: 18435
+postcode: "18435"
 city: Stralsund
 street: "Lindenstraße"
 housenumber: 142

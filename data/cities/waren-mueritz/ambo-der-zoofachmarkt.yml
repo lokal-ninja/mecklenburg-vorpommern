@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.5094842
 longitude: 12.703161000000001
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Zum Pfennigsberg"
 housenumber: 5

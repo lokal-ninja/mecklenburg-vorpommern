@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.0167045
 longitude: 12.225844
-postcode: 18196
+postcode: "18196"
 city: Dummerstorf
 street: "Schmiedeweg"
 housenumber: 2

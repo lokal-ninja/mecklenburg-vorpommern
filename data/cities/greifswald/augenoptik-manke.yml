@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.095462600000005
 longitude: 13.380350400000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Markt"
 housenumber: 22

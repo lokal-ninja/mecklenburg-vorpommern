@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.184063200000004
 longitude: 12.8829208
-postcode: 18461
+postcode: "18461"
 city: Franzburg
 street: "Abtshäger Straße"
 housenumber: 13

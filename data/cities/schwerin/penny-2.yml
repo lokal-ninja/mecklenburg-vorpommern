@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5980914
 longitude: 11.432442700000001
-postcode: 19061
+postcode: "19061"
 city: Schwerin
 street: "Friedrich-Engels-Straße"
 housenumber: 2

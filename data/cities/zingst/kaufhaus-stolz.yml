@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.4269917
 longitude: 12.672150700000001
-postcode: 18374
+postcode: "18374"
 city: Zingst
 street: "Zur Wellenwiese"
 housenumber: 2a

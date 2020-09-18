@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.9411871
 longitude: 14.1866289
-postcode: 17419
+postcode: "17419"
 city: Heringsdorf
 street: "Seestraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 54.105534500000005
 longitude: 12.1540628
-postcode: 18146
+postcode: "18146"
 city: Rostock
 street: "Hinrichsdorfer Straße"
 housenumber: 24

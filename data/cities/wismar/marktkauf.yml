@@ -1,12 +1,12 @@
-id: 91351295
-type: way
-shop: Supermarkt
-latitude: 53.903352600000005
-longitude: 11.405414400000002
-postcode: 23968
+id: 5731755799
+type: node
+shop: Lebensmittel
+latitude: 53.903485
+longitude: 11.406674500000001
+postcode: "23968"
 city: Wismar
 street: "Zierower Landstraße"
-housenumber: 5
+housenumber: 3
 phone: ""
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.783779900000006
 longitude: 12.1816919
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Weinbergstraße"
 housenumber: 12

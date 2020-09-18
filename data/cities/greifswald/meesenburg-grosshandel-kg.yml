@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 54.067005300000005
 longitude: 13.3936142
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "An der Thronpost"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 54.0826289
 longitude: 12.126260400000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Klopstockstraße"
 housenumber: 17

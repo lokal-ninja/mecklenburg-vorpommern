@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.8921025
 longitude: 11.5332611
-postcode: 23970
+postcode: "23970"
 city: Hornstorf
 street: "Rüggower Weg"
 housenumber: 15

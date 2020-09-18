@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8946648
 longitude: 11.4794446
-postcode: 23970
+postcode: "23970"
 city: Wismar
 street: "Philosophenweg"
 housenumber: 1

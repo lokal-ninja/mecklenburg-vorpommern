@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.0347519
 longitude: 12.1287055
-postcode: 18059
+postcode: "18059"
 city: Papendorf
 street: "Schulstraße"
 housenumber: 1

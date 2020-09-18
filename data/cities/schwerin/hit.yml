@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.607893100000005
 longitude: 11.3668852
-postcode: 19061
+postcode: "19061"
 city: Schwerin
 street: "Am Fasanenhof"
 housenumber: 7

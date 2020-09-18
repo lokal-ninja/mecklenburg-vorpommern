@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.662067400000005
 longitude: 13.8977161
-postcode: 17379
+postcode: "17379"
 city: Ferdinandshof
 street: "Pasewalker Straße"
 housenumber: 61

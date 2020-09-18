@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.6349935
 longitude: 14.0272141
-postcode: 17358
+postcode: "17358"
 city: Torgelow
 street: "Eggesiner Straße"
 housenumber: 9b

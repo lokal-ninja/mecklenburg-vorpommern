@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 54.12019840000001
 longitude: 13.828685700000001
-postcode: 17449
+postcode: "17449"
 city: Karlshagen
 street: "Waldstraße"
 housenumber: 30

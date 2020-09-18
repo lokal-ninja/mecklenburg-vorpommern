@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 54.082432600000004
 longitude: 12.1135935
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Fahnenstraße"
 housenumber: 2a

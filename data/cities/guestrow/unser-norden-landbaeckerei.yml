@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.8077356
 longitude: 12.1879457
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Rostocker Chaussee"
 housenumber: 23

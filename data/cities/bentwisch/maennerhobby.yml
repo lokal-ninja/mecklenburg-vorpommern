@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 54.134706
 longitude: 12.2433811
-postcode: 18182
+postcode: "18182"
 city: Bentwisch
 street: "Siedlungsweg"
 housenumber: 4a

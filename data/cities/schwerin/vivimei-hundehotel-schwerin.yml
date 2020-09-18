@@ -3,10 +3,10 @@ type: way
 shop: Tiersalon
 latitude: 53.552964100000004
 longitude: 11.4426562
-postcode: 19061
+postcode: "19061"
 city: Schwerin
 street: "Stern Buchholz"
 housenumber: 25
-phone: "0385 3041141"
+phone: "+49 385 3041141"
 opening_hours: ""
 website: ""

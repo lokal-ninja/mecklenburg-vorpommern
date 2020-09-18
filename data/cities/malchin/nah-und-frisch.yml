@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.7387844
 longitude: 12.7595839
-postcode: 17139
+postcode: "17139"
 city: Malchin
 street: "Wargentiner Straße"
 housenumber: 23

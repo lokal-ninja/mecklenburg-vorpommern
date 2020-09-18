@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.0820883
 longitude: 13.396662500000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Hans-Beimler-Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.103818000000004
 longitude: 13.0394626
-postcode: 18507
+postcode: "18507"
 city: Grimmen
 street: "Erich-Weinert-Straße"
 housenumber: 37

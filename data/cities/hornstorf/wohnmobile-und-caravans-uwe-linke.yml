@@ -3,7 +3,7 @@ type: node
 shop: Wohnwagen
 latitude: 53.892992400000004
 longitude: 11.536364800000001
-postcode: 23970
+postcode: "23970"
 city: Hornstorf
 street: "Grevenbarg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.088871000000005
 longitude: 12.1032019
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Karl-Marx-Straße"
 housenumber: 75

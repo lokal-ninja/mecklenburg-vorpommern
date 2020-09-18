@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.565998400000005
 longitude: 11.365882200000001
-postcode: 19075
+postcode: "19075"
 city: Pampow
 street: "Ahornstraße"
 housenumber: 19c

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 53.848721000000005
 longitude: 11.985692
-postcode: 18246
+postcode: "18246"
 city: Bützow
 street: "Jungfernstraße"
 housenumber: 15a

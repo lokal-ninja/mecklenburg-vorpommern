@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.3029133
 longitude: 11.085084400000001
-postcode: 19249
+postcode: "19249"
 city: Lübtheen
 street: "Kirchenplatz"
 housenumber: 2A

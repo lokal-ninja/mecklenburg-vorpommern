@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.656167200000006
 longitude: 11.1844207
-postcode: 19209
+postcode: "19209"
 city: Lützow
 street: "Schweriner Straße"
 housenumber: 29c

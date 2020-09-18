@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.7777225
 longitude: 12.5747687
-postcode: 17166
+postcode: "17166"
 city: Teterow
 street: "Fischersteig"
 housenumber: 29

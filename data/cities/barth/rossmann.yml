@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.367598
 longitude: 12.725438800000001
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 25

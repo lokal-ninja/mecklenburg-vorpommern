@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 54.435501
 longitude: 12.7023661
-postcode: 18374
+postcode: "18374"
 city: Zingst
 street: "Hägerende"
 housenumber: 6
-phone: "+493823212075"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
+phone: "+49 38232 12075"
+opening_hours: "May-Oct Mo-Sa 08:00-20:00 open Beginn und Ende von Hauptsaison kann variieren; May-Oct Su 12:00-20:00 open Beginn und Ende von Hauptsaison kann variieren; Nov-Apr Mo-Sa 08:00-19:00 open Beginn und Ende von Nebensaison kann variieren; PH closed"
 website: "https://www.edeka-zingst.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.08406110000001
 longitude: 12.132891800000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Augustenstraße"
 housenumber: 92

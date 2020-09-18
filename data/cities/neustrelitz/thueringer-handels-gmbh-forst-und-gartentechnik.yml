@@ -3,7 +3,7 @@ type: way
 shop: Landwirtschaftlich
 latitude: 53.338662400000004
 longitude: 13.070031100000001
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Kranichstraße"
 housenumber: 9

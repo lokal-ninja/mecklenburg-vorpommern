@@ -1,4 +1,4 @@
 ---
-title: "Bäckerei & Konditorei W.Hillebrand"
+title: "Bäckerei & Konditorei W. Hillebrand"
 url: /rostock/baeckerei-und-konditorei-w-hillebrand/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.11374910000001
 longitude: 11.911053
-postcode: 18209
+postcode: "18209"
 city: Bad Doberan
 street: "An den Salzwiesen"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.38349
 longitude: 12.6052022
-postcode: 
+postcode: ""
 city: Röbel/Müritz
 street: "Am Gildekamp"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.8919585
 longitude: 11.465114000000002
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Hegede"
 housenumber: 2

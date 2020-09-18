@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.0907666
 longitude: 13.3624895
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Loitzer Straße"
 housenumber: 21

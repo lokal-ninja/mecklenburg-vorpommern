@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.3663621
 longitude: 12.724642500000002
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 58

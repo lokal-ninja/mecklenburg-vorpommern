@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.9036302
 longitude: 13.023158800000001
-postcode: 17109
+postcode: "17109"
 city: Demmin
 street: "Rosestraße"
 housenumber: 40

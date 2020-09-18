@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.0887023
 longitude: 12.143945200000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Grubenstraße"
 housenumber: 49

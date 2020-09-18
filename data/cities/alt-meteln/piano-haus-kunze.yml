@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 53.744694100000004
 longitude: 11.3448074
-postcode: 19069
+postcode: "19069"
 city: Alt Meteln
 street: "Lübstorfer Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.091677100000005
 longitude: 13.427454800000001
-postcode: 17493
+postcode: "17493"
 city: Greifswald
 street: "Fridtjof-Nansen-Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 54.411970200000006
 longitude: 13.430552700000002
-postcode: 18528
+postcode: "18528"
 city: Bergen auf Rügen
 street: "Ringstraße"
 housenumber: 64A

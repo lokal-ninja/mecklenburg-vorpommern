@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 54.359948700000004
 longitude: 12.6032548
-postcode: 18356
+postcode: "18356"
 city: Fuhlendorf
 street: "Am Brink"
 housenumber: 11

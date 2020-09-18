@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.178715700000005
 longitude: 12.084580800000001
-postcode: 18119
+postcode: "18119"
 city: Rostock
 street: "Anastasiastraße"
 housenumber: 29

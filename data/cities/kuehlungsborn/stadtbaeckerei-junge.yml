@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.1535675
 longitude: 11.761249600000001
-postcode: 18225
+postcode: "18225"
 city: Kühlungsborn
 street: "Zur Seebrücke"
 housenumber: 2

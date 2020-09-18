@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 54.044095600000006
 longitude: 13.539709
-postcode: 17509
+postcode: "17509"
 city: Hanshagen
 street: "Straße des Friedens"
 housenumber: 1a

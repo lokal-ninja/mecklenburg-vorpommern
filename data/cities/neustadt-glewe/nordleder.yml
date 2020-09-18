@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 53.3736133
 longitude: 11.5838035
-postcode: 19306
+postcode: "19306"
 city: Neustadt-Glewe
 street: "Lederstraße"
 housenumber: 9

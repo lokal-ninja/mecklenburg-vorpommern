@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 54.074840200000004
 longitude: 12.068481700000001
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Tannenweg"
 housenumber: 22

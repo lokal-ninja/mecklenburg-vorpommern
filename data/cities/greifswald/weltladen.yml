@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.095876000000004
 longitude: 13.3760037
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Lange Straße"
 housenumber: 49

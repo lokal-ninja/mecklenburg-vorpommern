@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.229532400000004
 longitude: 11.411465900000001
-postcode: 19294
+postcode: "19294"
 city: Eldena
 street: "Dömitzer Straße"
 housenumber: 39

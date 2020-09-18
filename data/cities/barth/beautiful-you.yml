@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 54.366699800000006
 longitude: 12.725541100000001
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.3431128
 longitude: 13.500829300000001
-postcode: 18581
+postcode: "18581"
 city: Putbus
 street: "Vilmnitzer Weg"
 housenumber: 19

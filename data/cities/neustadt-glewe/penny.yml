@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.380644100000005
 longitude: 11.5893394
-postcode: 19306
+postcode: "19306"
 city: Neustadt-Glewe
 street: "Bahnhofstraße"
 housenumber: 4

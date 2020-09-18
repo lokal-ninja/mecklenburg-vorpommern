@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.0947589
 longitude: 13.380842900000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Fleischerstraße"
 housenumber: 5

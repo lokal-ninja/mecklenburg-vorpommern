@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 53.5677
 longitude: 13.209101700000002
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Otto-von-Guericke-Straße"
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: "Mo-Sa 07:00-19:00; PH off"
 website: ""

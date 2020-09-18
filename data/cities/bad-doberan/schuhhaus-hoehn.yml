@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 54.106669700000005
 longitude: 11.9001871
-postcode: 18209
+postcode: "18209"
 city: Bad Doberan
 street: "Am Markt"
 housenumber: 16

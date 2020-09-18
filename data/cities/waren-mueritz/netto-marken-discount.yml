@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.51533130000001
 longitude: 12.686732300000001
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Friedensstraße"
 housenumber: 15

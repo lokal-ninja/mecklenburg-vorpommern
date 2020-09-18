@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.3784683
 longitude: 12.417161400000001
-postcode: 18347
+postcode: "18347"
 city: Ahrenshoop
 street: "Grenzweg"
 housenumber: 17

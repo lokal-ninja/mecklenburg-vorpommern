@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 54.088500800000006
 longitude: 12.1386803
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Kistenmacherstraße"
 housenumber: 19

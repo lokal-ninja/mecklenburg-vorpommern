@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.8524922
 longitude: 11.4566642
-postcode: 23972
+postcode: "23972"
 city: Dorf Mecklenburg
 street: "Akazienstraße"
 housenumber: 1

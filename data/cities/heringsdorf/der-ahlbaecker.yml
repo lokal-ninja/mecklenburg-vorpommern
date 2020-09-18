@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.9432624
 longitude: 14.1871354
-postcode: 17419
+postcode: "17419"
 city: Heringsdorf
 street: "Dünenstraße"
 housenumber: 48

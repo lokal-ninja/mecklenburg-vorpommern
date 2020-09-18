@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.7694313
 longitude: 12.5848391
-postcode: 17166
+postcode: "17166"
 city: Teterow
 street: "Malchiner Straße"
 housenumber: 107

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 53.7933036
 longitude: 12.1739803
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Hageböcker Straße"
 housenumber: 5

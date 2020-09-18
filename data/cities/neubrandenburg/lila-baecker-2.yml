@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5531537
 longitude: 13.2244629
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Ludwig-van-Beethoven-Ring"
 housenumber: 6

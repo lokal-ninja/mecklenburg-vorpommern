@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.2978424
 longitude: 14.0953598
-postcode: 17291
+postcode: "17291"
 city: Schmölln
 street: "Schmölln"
 housenumber: 90

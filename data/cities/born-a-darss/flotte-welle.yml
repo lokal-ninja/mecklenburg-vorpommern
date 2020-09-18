@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 54.3909035
 longitude: 12.539950200000002
-postcode: 18375
+postcode: "18375"
 city: Born a. Darß
 street: "An de Bäk"
 housenumber: 48

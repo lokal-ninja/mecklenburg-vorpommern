@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.729424200000004
 longitude: 11.6909635
-postcode: 19412
+postcode: "19412"
 city: Brüel
 street: "Am Kreuzsee"
 housenumber: 1

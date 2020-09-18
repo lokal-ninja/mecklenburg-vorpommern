@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.088093900000004
 longitude: 12.1219713
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Barnstorfer Weg"
 housenumber: 49

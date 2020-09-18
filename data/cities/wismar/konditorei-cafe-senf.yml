@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.893029500000004
 longitude: 11.465088100000001
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Krämerstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.105802600000004
 longitude: 13.024692900000002
-postcode: 18507
+postcode: "18507"
 city: Grimmen
 street: "Jarpenbeeker Damm"
 housenumber: 21

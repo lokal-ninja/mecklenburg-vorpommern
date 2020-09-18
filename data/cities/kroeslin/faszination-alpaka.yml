@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.09007020000001
 longitude: 13.7480311
-postcode: 17440
+postcode: "17440"
 city: Kröslin
 street: "Karrin"
 housenumber: 22a

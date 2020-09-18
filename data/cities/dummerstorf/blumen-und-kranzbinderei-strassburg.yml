@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.067868700000005
 longitude: 12.1680238
-postcode: 18196
+postcode: "18196"
 city: Dummerstorf
 street: "Neubrandenburger Straße"
 housenumber: 48

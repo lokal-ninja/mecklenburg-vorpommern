@@ -3,7 +3,7 @@ type: node
 shop: Jagd
 latitude: 54.074680900000004
 longitude: 12.373286100000001
-postcode: 18190
+postcode: "18190"
 city: Sanitz
 street: "John-Brinckman-Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.5367334
 longitude: 13.3147271
-postcode: 17036
+postcode: "17036"
 city: Neubrandenburg
 street: "Kiesseestraße"
 housenumber: 3

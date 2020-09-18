@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.981902000000005
 longitude: 11.215749500000001
-postcode: 23946
+postcode: "23946"
 city: Boltenhagen
 street: "Ostseeallee"
 housenumber: 52

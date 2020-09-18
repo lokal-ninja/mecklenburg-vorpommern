@@ -3,7 +3,7 @@ type: node
 shop: Jagd
 latitude: 53.2138562
 longitude: 13.293247000000001
-postcode: 17279
+postcode: "17279"
 city: Lychen
 street: "Fontanestraße"
 housenumber: 5a

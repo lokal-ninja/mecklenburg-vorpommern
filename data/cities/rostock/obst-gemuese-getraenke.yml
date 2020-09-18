@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.103991300000004
 longitude: 12.1547997
-postcode: 18146
+postcode: "18146"
 city: Rostock
 street: "Gutenbergstraße"
 housenumber: 76a

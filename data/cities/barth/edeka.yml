@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3571966
 longitude: 12.7176781
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Blaue Wiese"
 housenumber: 18

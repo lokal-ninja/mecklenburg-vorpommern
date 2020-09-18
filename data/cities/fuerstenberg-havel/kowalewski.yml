@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1852007
 longitude: 13.146577700000002
-postcode: 16798
+postcode: "16798"
 city: Fürstenberg/Havel
 street: "Brandenburger Straße"
 housenumber: 11

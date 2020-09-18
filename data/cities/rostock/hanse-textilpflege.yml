@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 54.094101200000004
 longitude: 12.1068867
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Werftstraße"
 housenumber: 50

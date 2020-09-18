@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.903240600000004
 longitude: 11.475646600000001
-postcode: 23970
+postcode: "23970"
 city: Wismar
 street: "Poeler Straße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.1501578
 longitude: 11.7338322
-postcode: 18225
+postcode: "18225"
 city: Kühlungsborn
 street: "Hermannstraße"
 housenumber: 19

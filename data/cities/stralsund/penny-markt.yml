@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.3291173
 longitude: 13.0668308
-postcode: 18435
+postcode: "18435"
 city: Stralsund
 street: "Heinrich-Heine-Ring"
 housenumber: 76

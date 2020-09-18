@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.085836
 longitude: 12.114081
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Ulmenstraße"
 housenumber: 17

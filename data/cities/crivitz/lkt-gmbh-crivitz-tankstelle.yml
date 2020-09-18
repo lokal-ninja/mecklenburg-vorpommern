@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.590323000000005
 longitude: 11.650205900000001
-postcode: 19089
+postcode: "19089"
 city: Crivitz
 street: "Brüeler Straße"
 housenumber: 27

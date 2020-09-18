@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.32612640000001
 longitude: 11.496860700000001
-postcode: 19288
+postcode: "19288"
 city: Ludwigslust
 street: "Lindenstraße"
 housenumber: 17

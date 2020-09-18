@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5066738
 longitude: 13.9896007
-postcode: 17309
+postcode: "17309"
 city: Pasewalk
 street: "Ueckerstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.381936200000005
 longitude: 10.7727798
-postcode: 19258
+postcode: "19258"
 city: Boizenburg/Elbe
 street: "Berliner Straße"
 housenumber: 32

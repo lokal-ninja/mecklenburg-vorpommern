@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.794983300000005
 longitude: 12.163682300000001
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Hagemeister Straße"
 housenumber: 1a

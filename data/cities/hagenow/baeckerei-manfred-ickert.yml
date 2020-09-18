@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.4277036
 longitude: 11.1993501
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Rudolf-Tarnow-Straße"
 housenumber: 62

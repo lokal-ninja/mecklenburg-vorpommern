@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 54.0869731
 longitude: 12.120723400000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Wismarsche Straße"
 housenumber: 16

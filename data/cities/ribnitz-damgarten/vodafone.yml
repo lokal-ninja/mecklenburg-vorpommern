@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 54.242743100000006
 longitude: 12.4346514
-postcode: 18311
+postcode: "18311"
 city: Ribnitz-Damgarten
 street: "Lange Straße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.382578200000005
 longitude: 11.579667500000001
-postcode: 19306
+postcode: "19306"
 city: Neustadt-Glewe
 street: "Ludwigsluster Straße"
 housenumber: 13

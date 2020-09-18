@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.7767945
 longitude: 12.574924200000002
-postcode: 17166
+postcode: "17166"
 city: Teterow
 street: "Fischersteig"
 housenumber: 21

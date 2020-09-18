@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 53.3265923
 longitude: 11.497695100000001
-postcode: 19288
+postcode: "19288"
 city: Ludwigslust
 street: "Breite Straße"
 housenumber: 4-6
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:30-20:00"
 website: ""

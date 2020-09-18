@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 54.368093300000005
 longitude: 12.7254278
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 13

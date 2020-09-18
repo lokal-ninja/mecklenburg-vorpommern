@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.361191000000005
 longitude: 13.0652912
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Strelitzer Straße"
 housenumber: 47

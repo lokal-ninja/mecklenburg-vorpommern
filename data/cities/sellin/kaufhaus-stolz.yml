@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.367518600000004
 longitude: 13.702076700000001
-postcode: 18586
+postcode: "18586"
 city: Sellin
 street: "Friedrich-von-Hagenow-Straße"
 housenumber: 3

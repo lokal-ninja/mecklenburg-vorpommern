@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 53.5829309
 longitude: 12.0843118
-postcode: 19399
+postcode: "19399"
 city: Goldberg
 street: "Lübzer Straße"
 housenumber: 46

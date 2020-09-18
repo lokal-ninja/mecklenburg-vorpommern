@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 54.0880926
 longitude: 12.121888
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Barnstorfer Weg"
 housenumber: 49

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7777243
 longitude: 12.1734883
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Friedrich-Engels-Straße"
 housenumber: 42

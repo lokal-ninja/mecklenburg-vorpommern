@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.5043091
 longitude: 14.0003899
-postcode: 17309
+postcode: "17309"
 city: Pasewalk
 street: "Stettiner Chaussee"
 housenumber: 1-3

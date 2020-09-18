@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.097919600000004
 longitude: 12.1747595
-postcode: 18146
+postcode: "18146"
 city: Rostock
 street: "Alt Bartelsdorfer Straße"
 housenumber: 1

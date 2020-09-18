@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.76722710000001
 longitude: 11.4639679
-postcode: 23996
+postcode: "23996"
 city: Bad Kleinen
 street: "Gallentiner Chaussee"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Videothek
 latitude: 53.5118786
 longitude: 12.694731200000001
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Rosenthalstraße"
 housenumber: 14

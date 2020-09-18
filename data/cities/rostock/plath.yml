@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.058637700000006
 longitude: 12.119194100000001
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Lise-Meitner-Ring"
 housenumber: 3

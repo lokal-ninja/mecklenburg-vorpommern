@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.4357752
 longitude: 12.688518100000001
-postcode: 18374
+postcode: "18374"
 city: Zingst
 street: "Lindenstraße"
 housenumber: 13

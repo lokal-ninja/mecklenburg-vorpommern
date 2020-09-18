@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.903618
 longitude: 13.0413446
-postcode: 17109
+postcode: "17109"
 city: Demmin
 street: "Wollweberstraße"
 housenumber: 4

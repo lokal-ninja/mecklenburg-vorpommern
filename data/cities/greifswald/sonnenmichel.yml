@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.092015700000005
 longitude: 13.3908889
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Anklamer Straße"
 housenumber: 17

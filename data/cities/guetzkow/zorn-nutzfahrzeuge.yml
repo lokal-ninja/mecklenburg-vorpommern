@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.942044200000005
 longitude: 13.3970718
-postcode: 17506
+postcode: "17506"
 city: Gützkow
 street: "Greifswalder Straße"
 housenumber: 9a

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.633073800000005
 longitude: 11.421899600000001
-postcode: 19055
+postcode: "19055"
 city: Schwerin
 street: "Werderstraße"
 housenumber: 67

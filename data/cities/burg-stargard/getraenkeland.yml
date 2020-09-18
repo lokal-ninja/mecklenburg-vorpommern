@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.4994473
 longitude: 13.3177845
-postcode: 17094
+postcode: "17094"
 city: Burg Stargard
 street: "Johanna-Beckmann-Straße"
 housenumber: 2

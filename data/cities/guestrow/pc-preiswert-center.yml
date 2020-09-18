@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 53.7948851
 longitude: 12.174621700000001
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Pferdemarkt"
 housenumber: 36

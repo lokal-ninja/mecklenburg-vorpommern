@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.597452000000004
 longitude: 11.4402659
-postcode: 19063
+postcode: "19063"
 city: Schwerin
 street: "Am Grünen Tal"
 housenumber: 21

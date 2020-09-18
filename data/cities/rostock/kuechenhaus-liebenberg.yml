@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 54.086211600000006
 longitude: 12.1254629
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Deutsche-Med-Platz"
 housenumber: 1

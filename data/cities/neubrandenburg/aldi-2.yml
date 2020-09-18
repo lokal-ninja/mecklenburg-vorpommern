@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.553667000000004
 longitude: 13.307753900000002
-postcode: 17036
+postcode: "17036"
 city: Neubrandenburg
 street: "Markscheiderweg"
 housenumber: 1a

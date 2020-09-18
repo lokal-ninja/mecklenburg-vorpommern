@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.0142084
 longitude: 12.204066200000002
-postcode: 18196
+postcode: "18196"
 city: Dummerstorf
 street: "Silder Moor"
 housenumber: 5

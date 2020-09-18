@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.960256
 longitude: 10.9433045
-postcode: 23942
+postcode: "23942"
 city: Dassow
 street: "Strandstraße"
 housenumber: 1

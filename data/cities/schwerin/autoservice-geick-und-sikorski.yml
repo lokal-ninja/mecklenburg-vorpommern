@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.566763800000004
 longitude: 11.3891279
-postcode: 19061
+postcode: "19061"
 city: Schwerin
 street: "Eugen-Langen-Straße"
 housenumber: 2

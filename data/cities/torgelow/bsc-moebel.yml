@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.640750800000006
 longitude: 14.0353408
-postcode: 17358
+postcode: "17358"
 city: Torgelow
 street: "Mozartstraße"
 housenumber: 10

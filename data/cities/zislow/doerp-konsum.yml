@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.4323538
 longitude: 12.3153275
-postcode: 17209
+postcode: "17209"
 city: Zislow
 street: "Zum Hafen"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.061945200000004
 longitude: 12.1207592
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Charles-Darwin-Ring"
 housenumber: 3

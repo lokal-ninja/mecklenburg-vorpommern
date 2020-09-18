@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.064202300000005
 longitude: 12.0655549
-postcode: 18198
+postcode: "18198"
 city: Kritzmow
 street: "Satower Straße"
 housenumber: 11

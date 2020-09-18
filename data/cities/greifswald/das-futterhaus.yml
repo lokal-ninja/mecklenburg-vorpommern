@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 54.0882196
 longitude: 13.3992372
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Hans-Beimler-Straße"
 housenumber: 1-3

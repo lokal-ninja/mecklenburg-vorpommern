@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.177436500000006
 longitude: 12.086805
-postcode: 18119
+postcode: "18119"
 city: Rostock
 street: "Alexandrinenstraße"
 housenumber: 114a

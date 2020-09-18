@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.3610954
 longitude: 13.066278500000001
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Venusberg"
 housenumber: 17

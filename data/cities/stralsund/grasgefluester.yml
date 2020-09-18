@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 54.311874800000005
 longitude: 13.089951600000001
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Langenstraße"
 housenumber: 67a

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.8960979
 longitude: 11.4613768
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Am Lohberg"
 housenumber: 2

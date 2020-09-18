@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 54.0550864
 longitude: 13.792942900000002
-postcode: 17438
+postcode: "17438"
 city: Wolgast
 street: "Sauziner Straße"
 housenumber: 8

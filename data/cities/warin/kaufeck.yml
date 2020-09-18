@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.8005712
 longitude: 11.699112600000001
-postcode: 19417
+postcode: "19417"
 city: Warin
 street: "Wismarsche Straße"
 housenumber: 41

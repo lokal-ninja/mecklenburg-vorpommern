@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.302534800000004
 longitude: 13.0203007
-postcode: 18442
+postcode: "18442"
 city: Lüssow
 street: "Am Langendorfer Berg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.652664300000005
 longitude: 11.3315456
-postcode: 19057
+postcode: "19057"
 city: Schwerin
 street: "Lärchenallee"
 housenumber: 32

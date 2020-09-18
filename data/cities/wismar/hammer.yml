@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.875694800000005
 longitude: 11.422266700000002
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "An der Westtangente"
 housenumber: 4

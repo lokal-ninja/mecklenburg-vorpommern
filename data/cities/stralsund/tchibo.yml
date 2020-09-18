@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.313355800000004
 longitude: 13.0901543
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Ossenreyerstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.3825173
 longitude: 11.5868053
-postcode: 19306
+postcode: "19306"
 city: Neustadt-Glewe
 street: "Breitscheidstraße"
 housenumber: 2

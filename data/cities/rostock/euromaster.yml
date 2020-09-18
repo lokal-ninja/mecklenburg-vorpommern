@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.111068
 longitude: 12.164582500000002
-postcode: 18146
+postcode: "18146"
 city: Rostock
 street: "Hinrichsdorfer Straße"
 housenumber: 7d

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.169617
 longitude: 12.083058000000001
-postcode: 18119
+postcode: "18119"
 city: Rostock
 street: "Lortzingstraße"
 housenumber: 21

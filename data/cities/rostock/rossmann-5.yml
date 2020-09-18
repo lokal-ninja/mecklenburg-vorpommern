@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.152732
 longitude: 12.065576100000001
-postcode: 18109
+postcode: "18109"
 city: Rostock
 street: "Güstrower Straße"
 housenumber: 7

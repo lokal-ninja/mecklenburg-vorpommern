@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.095641900000004
 longitude: 13.375146800000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Am Rubenowplatz"
 housenumber: 1

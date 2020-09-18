@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.3681532
 longitude: 12.7083905
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Barthestraße"
 housenumber: 113

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.45938760000001
 longitude: 12.254246400000001
-postcode: 19395
+postcode: "19395"
 city: Plau am See
 street: "Kuppentiner Weg"
 housenumber: 1

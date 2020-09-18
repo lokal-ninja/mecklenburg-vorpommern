@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 54.5140856
 longitude: 13.644765000000001
-postcode: 18546
+postcode: "18546"
 city: Sassnitz
 street: "Hafenstraße"
 housenumber: 12H

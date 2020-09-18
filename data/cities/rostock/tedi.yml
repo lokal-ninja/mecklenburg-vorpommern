@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.1434841
 longitude: 12.050115700000001
-postcode: 18107
+postcode: "18107"
 city: Rostock
 street: "Turkuer Straße"
 housenumber: 57

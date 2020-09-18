@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.20857650000001
 longitude: 12.7381357
-postcode: 16909
+postcode: "16909"
 city: Wittstock/Dosse
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.2520431
 longitude: 12.477137500000001
-postcode: 18311
+postcode: "18311"
 city: Ribnitz-Damgarten
 street: "Stralsunder Straße"
 housenumber: 44

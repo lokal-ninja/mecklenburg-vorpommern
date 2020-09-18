@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 54.5856652
 longitude: 13.105465
-postcode: 18565
+postcode: "18565"
 city: Insel Hiddensee
 street: "Kirchweg"
 housenumber: 19

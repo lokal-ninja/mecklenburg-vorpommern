@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 54.5176991
 longitude: 13.6568944
-postcode: 18546
+postcode: "18546"
 city: Sassnitz
 street: "Uferstraße"
 housenumber: 1

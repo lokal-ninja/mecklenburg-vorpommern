@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 53.8013935
 longitude: 12.194531600000001
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Neukruger Straße"
 housenumber: 25
-phone: ""
+phone: "+49 3843 212664"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH closed"
 website: ""

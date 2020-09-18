@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.5165116
 longitude: 13.6056114
-postcode: 18546
+postcode: "18546"
 city: Sassnitz
 street: "Am Lanckener Gutshof"
 housenumber: 38

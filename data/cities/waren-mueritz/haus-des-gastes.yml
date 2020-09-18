@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.5145835
 longitude: 12.689219900000001
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Neuer Markt"
 housenumber: 21

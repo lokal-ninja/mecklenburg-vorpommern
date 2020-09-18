@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.599939400000004
 longitude: 11.3859226
-postcode: 19061
+postcode: "19061"
 city: Schwerin
 street: "Grabenstraße"
 housenumber: 3

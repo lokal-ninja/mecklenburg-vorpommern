@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 54.0757866
 longitude: 12.121593800000001
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Erich-Schlesinger-Straße"
 housenumber: 28

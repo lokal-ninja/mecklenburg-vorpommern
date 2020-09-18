@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.524415700000006
 longitude: 13.26622
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Mirabellenstraße"
 housenumber: 2

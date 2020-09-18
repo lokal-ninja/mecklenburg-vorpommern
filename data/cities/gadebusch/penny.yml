@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.70607450000001
 longitude: 11.110935300000001
-postcode: 19205
+postcode: "19205"
 city: Gadebusch
 street: "Rehnaer Straße"
 housenumber: 2b

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.989272400000004
 longitude: 11.2002263
-postcode: 23946
+postcode: "23946"
 city: Boltenhagen
 street: "Dünenweg"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.7912364
 longitude: 12.179249100000002
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Gleviner Straße"
 housenumber: 19

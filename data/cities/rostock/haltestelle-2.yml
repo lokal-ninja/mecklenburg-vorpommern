@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.088001500000004
 longitude: 12.11921
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Barnstorfer Weg"
 housenumber: 41

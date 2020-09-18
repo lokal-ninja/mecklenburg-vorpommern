@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 54.08850880000001
 longitude: 12.1312739
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Kröpeliner Straße"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Gasflaschen
 latitude: 54.053610500000005
 longitude: 13.4780286
-postcode: 17498
+postcode: "17498"
 city: Weitenhagen
 street: "An der Chaussee"
 housenumber: 4

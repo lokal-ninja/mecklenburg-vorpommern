@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 54.24996470000001
 longitude: 12.232171300000001
-postcode: 18181
+postcode: "18181"
 city: Graal-Müritz
 street: "Kurstraße"
 housenumber: 22

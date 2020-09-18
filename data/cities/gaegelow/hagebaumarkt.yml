@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.9035025
 longitude: 11.381919100000001
-postcode: 23968
+postcode: "23968"
 city: Gägelow
 street: "Untere Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.1527235
 longitude: 12.0645839
-postcode: 18109
+postcode: "18109"
 city: Rostock
 street: "Güstrower Straße"
 housenumber: 6a

@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 54.36508250000001
 longitude: 12.7258475
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 73

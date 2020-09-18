@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 54.402675300000006
 longitude: 13.427005900000001
-postcode: 18528
+postcode: "18528"
 city: Bergen auf Rügen
 street: "Tilzower Weg"
 housenumber: 47a

@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 53.626296700000005
 longitude: 11.4197889
-postcode: 19055
+postcode: "19055"
 city: Schwerin
 street: "Werderstraße"
 housenumber: 140

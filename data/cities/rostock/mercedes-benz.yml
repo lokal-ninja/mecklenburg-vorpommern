@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.106736100000006
 longitude: 12.0681416
-postcode: 18069
+postcode: "18069"
 city: Rostock
 street: "Schutower Straße"
 housenumber: 2

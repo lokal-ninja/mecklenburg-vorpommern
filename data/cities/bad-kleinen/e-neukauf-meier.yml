@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.772713
 longitude: 11.4781744
-postcode: 23996
+postcode: "23996"
 city: Bad Kleinen
 street: "Am Turmhaus"
 housenumber: 4

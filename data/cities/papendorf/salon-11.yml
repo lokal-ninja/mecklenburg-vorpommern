@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.0287573
 longitude: 12.0940071
-postcode: 18059
+postcode: "18059"
 city: Papendorf
 street: "Buchholzer Straße"
 housenumber: 11

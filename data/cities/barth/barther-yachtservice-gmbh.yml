@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.37019720000001
 longitude: 12.722714700000001
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Hafenstraße"
 housenumber: 28

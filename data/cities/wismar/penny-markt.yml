@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.9117559
 longitude: 11.484372400000002
-postcode: 23970
+postcode: "23970"
 city: Wismar
 street: "Am Wiesengrund"
 housenumber: 8

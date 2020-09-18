@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.7431683
 longitude: 12.758196600000002
-postcode: 17139
+postcode: "17139"
 city: Malchin
 street: "Bürgermeister-Tretow-Straße"
 housenumber: 8

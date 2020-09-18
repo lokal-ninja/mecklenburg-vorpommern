@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.893447300000005
 longitude: 11.4451329
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Lübsche Straße"
 housenumber: 146-148

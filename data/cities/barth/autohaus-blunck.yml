@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.361508400000005
 longitude: 12.7139012
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Gewerbegebiet am Mastweg"
 housenumber: 7

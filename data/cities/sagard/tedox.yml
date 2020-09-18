@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.5284941
 longitude: 13.543723300000002
-postcode: 18551
+postcode: "18551"
 city: Sagard
 street: "Glower Straße"
 housenumber: 27

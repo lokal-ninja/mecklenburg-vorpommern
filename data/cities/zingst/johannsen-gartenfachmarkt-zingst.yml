@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 54.427424200000004
 longitude: 12.674371500000001
-postcode: 18374
+postcode: "18374"
 city: Zingst
 street: "Zur Wellenwiese"
 housenumber: 3

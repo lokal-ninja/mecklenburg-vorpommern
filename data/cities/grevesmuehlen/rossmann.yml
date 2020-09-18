@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.86499250000001
 longitude: 11.1855609
-postcode: 23936
+postcode: "23936"
 city: Grevesmühlen
 street: "Wismarsche Straße"
 housenumber: 2

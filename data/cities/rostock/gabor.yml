@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.180588500000006
 longitude: 12.085074
-postcode: 18119
+postcode: "18119"
 city: Rostock
 street: "Seestraße"
 housenumber: 1

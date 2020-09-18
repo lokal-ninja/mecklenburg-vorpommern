@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.5463608
 longitude: 12.903425200000001
-postcode: 17219
+postcode: "17219"
 city: Möllenhagen
 street: "Alte Schmiede"
 housenumber: 1

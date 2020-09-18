@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 53.359934100000004
 longitude: 13.067313
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Strelitzer Straße"
 housenumber: 38

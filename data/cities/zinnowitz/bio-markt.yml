@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 54.0668577
 longitude: 13.919703400000001
-postcode: 17454
+postcode: "17454"
 city: Zinnowitz
 street: "Hafenstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""
-website: "http://www.naturwerk-biomarkt.de"
+website: ""

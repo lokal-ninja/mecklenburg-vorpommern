@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 54.365438700000006
 longitude: 12.7256294
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 63

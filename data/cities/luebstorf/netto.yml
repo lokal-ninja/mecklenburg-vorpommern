@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7295242
 longitude: 11.4027086
-postcode: 19069
+postcode: "19069"
 city: Lübstorf
 street: "Hauptstraße"
 housenumber: 23

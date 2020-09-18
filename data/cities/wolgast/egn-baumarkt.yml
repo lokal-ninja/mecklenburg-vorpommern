@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.0492969
 longitude: 13.7512182
-postcode: 17438
+postcode: "17438"
 city: Wolgast
 street: "Am Fuchsberg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 54.0764982
 longitude: 13.4303945
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Anklamer Landstraße"
 housenumber: 1

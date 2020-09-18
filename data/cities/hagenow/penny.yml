@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.4321934
 longitude: 11.1964553
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Möllner Straße"
 housenumber: 51a

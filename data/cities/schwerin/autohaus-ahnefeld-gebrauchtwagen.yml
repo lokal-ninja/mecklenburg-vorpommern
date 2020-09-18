@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.5948806
 longitude: 11.4136932
-postcode: 19061
+postcode: "19061"
 city: Schwerin
 street: "Hagenower Chaussee"
 housenumber: 1b

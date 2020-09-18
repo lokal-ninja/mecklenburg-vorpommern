@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 53.9722061
 longitude: 13.545584900000001
-postcode: 17495
+postcode: "17495"
 city: Züssow
 street: "Feldstraße"
 housenumber: 2

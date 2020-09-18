@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 54.314508000000004
 longitude: 13.090135100000001
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Ossenreyerstraße"
 housenumber: 57
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.394426
 longitude: 10.9653676
-postcode: 19260
+postcode: "19260"
 city: Vellahn
 street: "Berliner Straße"
 housenumber: 6

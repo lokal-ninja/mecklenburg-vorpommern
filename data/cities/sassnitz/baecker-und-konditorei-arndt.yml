@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.515736700000005
 longitude: 13.620299000000001
-postcode: 18546
+postcode: "18546"
 city: Sassnitz
 street: "Rügener Ring"
 housenumber: 34

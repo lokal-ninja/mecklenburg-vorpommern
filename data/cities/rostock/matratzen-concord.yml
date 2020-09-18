@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 54.1102816
 longitude: 12.0555666
-postcode: 18069
+postcode: "18069"
 city: Rostock
 street: "An den Griebensöllen"
 housenumber: 6

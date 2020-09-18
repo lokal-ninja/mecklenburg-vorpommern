@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.304658700000005
 longitude: 11.0824753
-postcode: 19249
+postcode: "19249"
 city: Lübtheen
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 7

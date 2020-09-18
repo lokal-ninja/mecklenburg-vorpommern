@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 54.076685000000005
 longitude: 13.430821300000002
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Anklamer Landstraße"
 housenumber: 1

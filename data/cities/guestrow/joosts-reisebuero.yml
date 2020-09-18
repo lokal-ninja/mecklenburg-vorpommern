@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.795543900000006
 longitude: 12.1734883
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Pferdemarkt"
 housenumber: 27

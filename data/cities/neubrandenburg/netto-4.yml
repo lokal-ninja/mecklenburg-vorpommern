@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.537703900000004
 longitude: 13.262576000000001
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Lindenstraße"
 housenumber: 28

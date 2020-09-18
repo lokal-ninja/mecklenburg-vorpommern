@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 53.80066600000001
 longitude: 11.7058967
-postcode: 19417
+postcode: "19417"
 city: Warin
 street: "Lange Straße"
 housenumber: 19

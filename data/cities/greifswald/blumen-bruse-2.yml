@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.0766427
 longitude: 13.4307236
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Anklamer Landstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.0529887
 longitude: 13.775071800000001
-postcode: 17438
+postcode: "17438"
 city: Wolgast
 street: "Steinstraße"
 housenumber: 10

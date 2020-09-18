@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.617251
 longitude: 14.033296100000001
-postcode: 17358
+postcode: "17358"
 city: Torgelow
 street: "Buchenstraße"
 housenumber: 1b

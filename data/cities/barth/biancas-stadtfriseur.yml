@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 54.366462500000004
 longitude: 12.725145000000001
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 54

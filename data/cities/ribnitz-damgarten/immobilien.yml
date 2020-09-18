@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 54.2436206
 longitude: 12.4327495
-postcode: 18311
+postcode: "18311"
 city: Ribnitz-Damgarten
 street: "Grüne Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.091906900000005
 longitude: 13.4273532
-postcode: 17493
+postcode: "17493"
 city: Greifswald
 street: "Fridtjof-Nansen-Straße"
 housenumber: 27

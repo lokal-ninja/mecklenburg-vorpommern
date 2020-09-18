@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 54.085686800000005
 longitude: 12.1059719
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Dethardingstraße"
 housenumber: 11

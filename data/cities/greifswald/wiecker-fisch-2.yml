@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 54.093227500000005
 longitude: 13.4495041
-postcode: 17493
+postcode: "17493"
 city: Greifswald
 street: "Yachtweg"
 housenumber: 1

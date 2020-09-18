@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.0847659
 longitude: 12.1409418
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Augustenstraße"
 housenumber: 1

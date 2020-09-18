@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.802424900000005
 longitude: 12.2009234
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Ziegeleiweg"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.3126953
 longitude: 13.0898488
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Ossenreyerstraße"
 housenumber: 30

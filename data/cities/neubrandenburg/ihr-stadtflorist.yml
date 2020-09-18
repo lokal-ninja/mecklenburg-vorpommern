@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.5544383
 longitude: 13.2921443
-postcode: 17036
+postcode: "17036"
 city: Neubrandenburg
 street: "Juri-Gagarin-Ring"
 housenumber: 8

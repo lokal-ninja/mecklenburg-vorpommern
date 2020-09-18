@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.156071100000005
 longitude: 12.0634776
-postcode: 18109
+postcode: "18109"
 city: Rostock
 street: "Bützower Straße"
 housenumber: 12

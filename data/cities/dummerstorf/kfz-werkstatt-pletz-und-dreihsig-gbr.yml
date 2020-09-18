@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.013615800000004
 longitude: 12.1983961
-postcode: 18196
+postcode: "18196"
 city: Dummerstorf
 street: "Zur Radewiese"
 housenumber: 2

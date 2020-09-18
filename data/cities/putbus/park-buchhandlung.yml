@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.353253
 longitude: 13.4720309
-postcode: 18581
+postcode: "18581"
 city: Putbus
 street: "Alleestraße"
 housenumber: 4

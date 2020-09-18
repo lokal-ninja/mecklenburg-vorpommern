@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.0879185
 longitude: 12.1209477
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Am Brink"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 54.11768240000001
 longitude: 13.8310612
-postcode: 17449
+postcode: "17449"
 city: Karlshagen
 street: "Strandstraße"
 housenumber: 4a

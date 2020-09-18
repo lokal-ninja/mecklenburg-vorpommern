@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.624281100000005
 longitude: 11.4011189
-postcode: 19053
+postcode: "19053"
 city: Schwerin
 street: "Obotritenring"
 housenumber: 170

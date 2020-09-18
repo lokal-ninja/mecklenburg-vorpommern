@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.5979
 longitude: 11.450094700000001
-postcode: 19063
+postcode: "19063"
 city: Schwerin
 street: "Rostocker Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.57686
 longitude: 13.281435400000001
-postcode: 17034
+postcode: "17034"
 city: Neubrandenburg
 street: "Max-Adrion-Straße"
 housenumber: 1

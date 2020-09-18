@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 54.15061540000001
 longitude: 11.759643700000002
-postcode: 18225
+postcode: "18225"
 city: Kühlungsborn
 street: "Strandstraße"
 housenumber: 41a

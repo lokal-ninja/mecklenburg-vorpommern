@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.7375235
 longitude: 12.778040200000001
-postcode: 17139
+postcode: "17139"
 city: Malchin
 street: "Stavenhagener Straße"
 housenumber: 40

@@ -1,12 +1,12 @@
-id: 34413282
-type: way
+id: 7387532806
+type: node
 shop: Supermarkt
-latitude: 54.1198059
-longitude: 12.0596449
-postcode: 18106
+latitude: 54.1118431
+longitude: 12.1650088
+postcode: "18146"
 city: Rostock
-street: "Henrik-Ibsen-Straße"
-housenumber: 29
+street: "Hinrichsdorfer Straße"
+housenumber: 7
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

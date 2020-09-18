@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 53.5562709
 longitude: 13.2636716
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Neutorstraße"
 housenumber: 9

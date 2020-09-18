@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.624472100000006
 longitude: 11.4017394
-postcode: 19053
+postcode: "19053"
 city: Schwerin
 street: "Wallstraße"
 housenumber: 66

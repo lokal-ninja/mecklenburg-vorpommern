@@ -1,6 +1,6 @@
 ---
 title: Glowe
 url: /glowe/
-latitude: 54.569791200000004
-longitude: 13.4710593
+latitude: 54.569878300000006
+longitude: 13.4712685
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.0893577
 longitude: 12.1360199
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Eselföterstraße"
 housenumber: 20

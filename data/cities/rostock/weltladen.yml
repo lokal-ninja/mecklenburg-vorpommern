@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.0858847
 longitude: 12.135997600000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Hermannstraße"
 housenumber: 36

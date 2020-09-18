@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.091544400000004
 longitude: 13.3759999
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Pfarrer-Wachsmann-Straße"
 housenumber: 10

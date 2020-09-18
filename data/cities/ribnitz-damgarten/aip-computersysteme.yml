@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 54.242935300000006
 longitude: 12.442691
-postcode: 18311
+postcode: "18311"
 city: Ribnitz-Damgarten
 street: "Damgartener Chaussee"
 housenumber: 39

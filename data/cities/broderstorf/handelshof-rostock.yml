@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 54.084404600000006
 longitude: 12.2037799
-postcode: 18184
+postcode: "18184"
 city: Broderstorf
 street: "Am Handelspark"
 housenumber: 1

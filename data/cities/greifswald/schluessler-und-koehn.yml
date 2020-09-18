@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.0927845
 longitude: 13.448366700000001
-postcode: 17493
+postcode: "17493"
 city: Greifswald
 street: "An der Mühle"
 housenumber: 7a

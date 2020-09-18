@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.0793808
 longitude: 13.908216000000001
-postcode: 17454
+postcode: "17454"
 city: Zinnowitz
 street: "Dr.-Wachsmann-Straße"
 housenumber: 30A

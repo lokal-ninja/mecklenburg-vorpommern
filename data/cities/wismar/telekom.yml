@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.8921633
 longitude: 11.4659443
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Hinter dem Rathaus"
 housenumber: 10

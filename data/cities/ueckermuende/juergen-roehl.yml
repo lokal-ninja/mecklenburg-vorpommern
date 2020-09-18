@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.7382818
 longitude: 14.043670500000001
-postcode: 17373
+postcode: "17373"
 city: Ueckermünde
 street: "Ueckerstraße"
 housenumber: 58

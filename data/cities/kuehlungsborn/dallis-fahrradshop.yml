@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.150263900000006
 longitude: 11.733579500000001
-postcode: 18225
+postcode: "18225"
 city: Kühlungsborn
 street: "Hermannstraße"
 housenumber: 19

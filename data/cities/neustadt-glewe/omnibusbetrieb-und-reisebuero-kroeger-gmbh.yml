@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 53.3773763
 longitude: 11.594919500000001
-postcode: 19306
+postcode: "19306"
 city: Neustadt-Glewe
 street: "Sandstraße"
 housenumber: 3a

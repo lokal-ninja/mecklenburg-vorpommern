@@ -1,6 +1,6 @@
 ---
 title: Karnin
 url: /karnin/
-latitude: 53.679883200000006
-longitude: 11.568603900000001
+latitude: 53.67964490000001
+longitude: 11.5686093
 ---

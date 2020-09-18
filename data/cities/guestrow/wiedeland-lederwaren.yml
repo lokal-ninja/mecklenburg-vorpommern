@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 53.7959705
 longitude: 12.172817100000001
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Pferdemarkt"
 housenumber: 23

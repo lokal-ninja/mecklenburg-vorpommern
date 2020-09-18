@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 54.368328700000006
 longitude: 12.725171000000001
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 12

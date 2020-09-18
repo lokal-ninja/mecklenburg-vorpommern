@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.630022100000005
 longitude: 14.024320800000002
-postcode: 17358
+postcode: "17358"
 city: Torgelow
 street: "Ukranenstraße"
 housenumber: 1a

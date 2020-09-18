@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.5567044
 longitude: 13.2635287
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Wartlaustraße"
 housenumber: 11

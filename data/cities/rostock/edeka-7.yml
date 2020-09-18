@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.0675651
 longitude: 12.118104200000001
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Tychsenstraße"
 housenumber: 20-21

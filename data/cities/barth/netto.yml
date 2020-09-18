@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.356605900000005
 longitude: 12.721829300000001
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Hölzern-Kreuz-Weg"
 housenumber: 13b

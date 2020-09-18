@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 53.6291767
 longitude: 11.413323100000001
-postcode: 19053
+postcode: "19053"
 city: Schwerin
 street: "Schmiedestraße"
 housenumber: 17

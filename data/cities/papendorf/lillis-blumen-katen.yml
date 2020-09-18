@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.0319748
 longitude: 12.098431300000001
-postcode: 18059
+postcode: "18059"
 city: Papendorf
 street: "Eichholz"
 housenumber: 5

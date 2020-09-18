@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.5117728
 longitude: 11.0730061
-postcode: 19243
+postcode: "19243"
 city: Wittenburg
 street: "Spiegelberg"
 housenumber: 1

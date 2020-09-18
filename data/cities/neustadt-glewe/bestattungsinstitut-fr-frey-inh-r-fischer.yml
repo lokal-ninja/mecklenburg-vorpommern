@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 53.3821506
 longitude: 11.5873893
-postcode: 19306
+postcode: "19306"
 city: Neustadt-Glewe
 street: "Breitscheidstraße"
 housenumber: 1

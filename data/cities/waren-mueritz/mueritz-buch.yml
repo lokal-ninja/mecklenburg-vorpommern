@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.5145265
 longitude: 12.6875484
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Lange Straße"
 housenumber: 13

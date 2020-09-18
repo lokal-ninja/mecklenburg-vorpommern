@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.7952256
 longitude: 12.174038900000001
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Pferdemarkt"
 housenumber: 30

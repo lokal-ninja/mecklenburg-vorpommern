@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.3642757
 longitude: 13.0643522
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Glambecker Straße"
 housenumber: 36

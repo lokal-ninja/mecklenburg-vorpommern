@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 54.0865817
 longitude: 12.104966000000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Dethardingstraße"
 housenumber: 17

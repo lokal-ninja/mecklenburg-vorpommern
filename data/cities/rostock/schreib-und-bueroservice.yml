@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 54.0897652
 longitude: 12.1240728
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Neue Werderstraße"
 housenumber: 16

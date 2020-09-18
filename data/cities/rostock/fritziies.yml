@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.08963000000001
 longitude: 12.136389000000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Lange Straße"
 housenumber: 26

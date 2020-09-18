@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.2405873
 longitude: 12.414552400000002
-postcode: 18311
+postcode: "18311"
 city: Ribnitz-Damgarten
 street: "Geschwister-Scholl-Straße"
 housenumber: 12

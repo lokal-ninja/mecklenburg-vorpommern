@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 54.085692200000004
 longitude: 12.1121491
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Ulmenmarkt"
 housenumber: 6

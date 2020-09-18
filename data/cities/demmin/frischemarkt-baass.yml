@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.9022397
 longitude: 13.0487734
-postcode: 17109
+postcode: "17109"
 city: Demmin
 street: "Adolf-Pompe-Straße"
 housenumber: 17

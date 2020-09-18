@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.0849461
 longitude: 12.1236922
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Feldstraße"
 housenumber: 48

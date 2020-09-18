@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.049647300000004
 longitude: 13.999584800000001
-postcode: 17459
+postcode: "17459"
 city: Koserow
 street: "Hauptstraße"
 housenumber: 65

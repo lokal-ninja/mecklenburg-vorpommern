@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.079149300000005
 longitude: 13.9132248
-postcode: 17454
+postcode: "17454"
 city: Zinnowitz
 street: "Neue Strandstraße"
 housenumber: 22

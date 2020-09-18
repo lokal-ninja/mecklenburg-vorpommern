@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.499551700000005
 longitude: 13.316460500000002
-postcode: 17094
+postcode: "17094"
 city: Burg Stargard
 street: "Carl-Stolte-Straße"
 housenumber: 21

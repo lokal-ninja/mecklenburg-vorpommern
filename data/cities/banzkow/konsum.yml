@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5245934
 longitude: 11.5164367
-postcode: 19079
+postcode: "19079"
 city: Banzkow
 street: "Schulsteig"
 housenumber: 6

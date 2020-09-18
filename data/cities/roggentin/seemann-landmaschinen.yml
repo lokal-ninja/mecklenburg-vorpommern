@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.0777992
 longitude: 12.205464200000002
-postcode: 18184
+postcode: "18184"
 city: Roggentin
 street: "Globusring"
 housenumber: 3

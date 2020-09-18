@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.32430170000001
 longitude: 11.5007768
-postcode: 19288
+postcode: "19288"
 city: Ludwigslust
 street: "Christian-Ludwig-Straße"
 housenumber: 2

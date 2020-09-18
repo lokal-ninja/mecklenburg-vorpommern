@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.0870376
 longitude: 12.1203029
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Wismarsche Straße"
 housenumber: 62

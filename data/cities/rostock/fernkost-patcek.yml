@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 54.0887278
 longitude: 12.117701700000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Niklotstraße"
 housenumber: 11

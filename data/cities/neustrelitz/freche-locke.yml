@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.367735100000004
 longitude: 13.068730200000001
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Glambecker Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.24262950000001
 longitude: 12.436924000000001
-postcode: 18311
+postcode: "18311"
 city: Ribnitz-Damgarten
 street: "Lange Straße"
 housenumber: 7

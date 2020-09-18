@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.090908500000005
 longitude: 12.116112300000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Doberaner Straße"
 housenumber: 127

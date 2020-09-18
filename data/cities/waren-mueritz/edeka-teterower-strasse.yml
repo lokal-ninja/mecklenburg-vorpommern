@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.526785600000004
 longitude: 12.672211800000001
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Teterower Straße"
 housenumber: 29

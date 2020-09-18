@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 54.2192481
 longitude: 12.6195421
-postcode: 18320
+postcode: "18320"
 city: Ahrenshagen-Daskow
 street: "Hauptstraße"
 housenumber: 147

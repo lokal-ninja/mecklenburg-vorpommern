@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5755295
 longitude: 13.279557800000001
-postcode: 17034
+postcode: "17034"
 city: Neubrandenburg
 street: "Max-Adrion-Straße"
 housenumber: 6

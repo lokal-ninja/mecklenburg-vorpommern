@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 54.3544222
 longitude: 12.711079300000002
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Nelkenstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 53.331304800000005
 longitude: 13.0990111
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Fürstenberger Straße"
 housenumber: 8

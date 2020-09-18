@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.157338800000005
 longitude: 12.078692700000001
-postcode: 18109
+postcode: "18109"
 city: Rostock
 street: "Werftallee"
 housenumber: 20

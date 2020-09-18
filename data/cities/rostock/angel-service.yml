@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 54.17812180000001
 longitude: 12.088891100000001
-postcode: 18119
+postcode: "18119"
 city: Rostock
 street: "Am Bahnhof"
 housenumber: 1C

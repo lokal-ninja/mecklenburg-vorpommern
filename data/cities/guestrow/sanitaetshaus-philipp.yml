@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.791310800000005
 longitude: 12.1795
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Gleviner Straße"
 housenumber: 19

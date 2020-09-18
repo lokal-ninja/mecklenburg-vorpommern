@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.4005093
 longitude: 13.6103891
-postcode: 18609
+postcode: "18609"
 city: Binz
 street: "Zeppelinstraße"
 housenumber: 5

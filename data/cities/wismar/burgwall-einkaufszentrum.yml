@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 53.8934093
 longitude: 11.4463018
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Lübsche Straße"
 housenumber: 146-148

@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 53.5053324
 longitude: 13.0835506
-postcode: 17217
+postcode: "17217"
 city: Penzlin
 street: "Bahnhofstraße"
-housenumber: 
+housenumber: 19a
 phone: ""
 opening_hours: ""
 website: ""

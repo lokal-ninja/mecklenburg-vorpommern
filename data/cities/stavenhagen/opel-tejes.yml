@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.6870917
 longitude: 12.9087274
-postcode: 17153
+postcode: "17153"
 city: Stavenhagen
 street: "Rösterweg"
 housenumber: 3

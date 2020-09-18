@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.095732600000005
 longitude: 13.3794742
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Fischmarkt"
 housenumber: 28

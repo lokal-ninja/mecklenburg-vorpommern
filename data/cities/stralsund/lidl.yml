@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.327235200000004
 longitude: 13.0646388
-postcode: 18435
+postcode: "18435"
 city: Stralsund
 street: "Heinrich-v.-Stephan-Straße"
 housenumber: 6

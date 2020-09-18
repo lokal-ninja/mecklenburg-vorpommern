@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 53.567534
 longitude: 11.3732314
-postcode: 19061
+postcode: "19061"
 city: Schwerin
 street: "Heinrich-Hertz-Ring"
 housenumber: 6

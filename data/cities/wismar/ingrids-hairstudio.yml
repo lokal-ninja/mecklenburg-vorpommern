@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.8942412
 longitude: 11.477418
-postcode: 23970
+postcode: "23970"
 city: Wismar
 street: "Rostocker Straße"
 housenumber: 49

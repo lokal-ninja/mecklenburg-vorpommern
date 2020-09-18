@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.764281100000005
 longitude: 12.3514979
-postcode: 18279
+postcode: "18279"
 city: Lalendorf
 street: "Güstrower Chaussee"
 housenumber: 2

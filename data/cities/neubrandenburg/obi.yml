@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.587799700000005
 longitude: 13.273085100000001
-postcode: 17034
+postcode: "17034"
 city: Neubrandenburg
 street: "Eschengrunder Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5590806
 longitude: 13.2613956
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Friedländer Straße"
 housenumber: 1

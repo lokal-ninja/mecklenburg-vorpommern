@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 53.5567937
 longitude: 13.2632443
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Wartlaustraße"
 housenumber: 10

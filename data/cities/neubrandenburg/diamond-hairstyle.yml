@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5566492
 longitude: 13.2800227
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Ziegelbergstraße"
 housenumber: 59

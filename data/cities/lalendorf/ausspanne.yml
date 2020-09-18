@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.782087100000005
 longitude: 12.3252395
-postcode: 18279
+postcode: "18279"
 city: Lalendorf
 street: "Kirchstraße"
 housenumber: 21

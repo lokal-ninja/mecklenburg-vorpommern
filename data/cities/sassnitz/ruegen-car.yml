@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.514549300000006
 longitude: 13.6034761
-postcode: 18546
+postcode: "18546"
 city: Sassnitz
 street: "Gewerbepark"
 housenumber: 8

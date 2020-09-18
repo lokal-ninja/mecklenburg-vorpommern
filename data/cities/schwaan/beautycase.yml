@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.938280600000006
 longitude: 12.107349600000001
-postcode: 18258
+postcode: "18258"
 city: Schwaan
 street: "Warnowstraße"
 housenumber: 37

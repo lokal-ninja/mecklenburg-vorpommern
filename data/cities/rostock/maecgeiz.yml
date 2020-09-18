@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.16966540000001
 longitude: 12.0829292
-postcode: 18119
+postcode: "18119"
 city: Rostock
 street: "Lortzingstraße"
 housenumber: 21

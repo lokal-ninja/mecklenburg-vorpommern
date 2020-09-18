@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.3827221
 longitude: 11.5866707
-postcode: 19306
+postcode: "19306"
 city: Neustadt-Glewe
 street: "Breitscheidstraße"
 housenumber: 5

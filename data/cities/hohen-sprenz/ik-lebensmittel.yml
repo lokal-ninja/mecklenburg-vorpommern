@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.910461000000005
 longitude: 12.1948903
-postcode: 18299
+postcode: "18299"
 city: Hohen Sprenz
 street: "Hauptstraße"
 housenumber: 13

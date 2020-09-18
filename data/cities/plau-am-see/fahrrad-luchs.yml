@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.4588806
 longitude: 12.2618708
-postcode: 19395
+postcode: "19395"
 city: Plau am See
 street: "Steinstraße"
 housenumber: 38

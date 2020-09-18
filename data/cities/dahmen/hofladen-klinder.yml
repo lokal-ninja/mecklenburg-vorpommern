@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.6608955
 longitude: 12.5683868
-postcode: 17166
+postcode: "17166"
 city: Dahmen
 street: "Dorfstraße"
 housenumber: 2

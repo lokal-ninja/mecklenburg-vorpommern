@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 54.417327900000004
 longitude: 13.4286794
-postcode: 18528
+postcode: "18528"
 city: Bergen auf Rügen
 street: "Bahnhofstraße"
 housenumber: 65

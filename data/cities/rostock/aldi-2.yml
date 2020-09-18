@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.094165000000004
 longitude: 12.1074093
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Werftstraße"
 housenumber: 50

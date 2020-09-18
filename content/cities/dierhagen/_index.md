@@ -1,6 +1,6 @@
 ---
 title: Dierhagen
 url: /dierhagen/
-latitude: 
-longitude: 
+latitude: 54.2918991
+longitude: 12.351915
 ---

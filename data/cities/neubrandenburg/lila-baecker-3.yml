@@ -1,12 +1,12 @@
-id: 5875934569
+id: 5211221309
 type: node
 shop: Bäckerei
-latitude: 53.576562100000004
-longitude: 13.280550900000001
-postcode: 17034
+latitude: 53.5641253
+longitude: 13.2679231
+postcode: "17034"
 city: Neubrandenburg
-street: "Max-Adrion-Straße"
-housenumber: 1
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+street: "Straußstraße"
+housenumber: 12
+phone: "+49 395 36310439"
+opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-18:00; PH off"
 website: ""

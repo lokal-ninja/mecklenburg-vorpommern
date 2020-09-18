@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.6355354
 longitude: 13.341868100000001
-postcode: 18556
+postcode: "18556"
 city: Altenkirchen
 street: "Karl-Marx-Platz"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.552803000000004
 longitude: 13.295083700000001
-postcode: 17036
+postcode: "17036"
 city: Neubrandenburg
 street: "Ziolkowskistraße"
 housenumber: 2

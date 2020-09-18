@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 54.0452978
 longitude: 12.035688500000001
-postcode: 18198
+postcode: "18198"
 city: Stäbelow
 street: "Erlenweg"
 housenumber: 4

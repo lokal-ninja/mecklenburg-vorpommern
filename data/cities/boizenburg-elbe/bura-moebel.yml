@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.3814153
 longitude: 10.7699197
-postcode: 19258
+postcode: "19258"
 city: Boizenburg/Elbe
 street: "Berliner Straße"
 housenumber: 28

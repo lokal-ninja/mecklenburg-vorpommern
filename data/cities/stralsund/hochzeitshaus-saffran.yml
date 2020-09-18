@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.3116052
 longitude: 13.088344200000002
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Mönchstraße"
 housenumber: 35

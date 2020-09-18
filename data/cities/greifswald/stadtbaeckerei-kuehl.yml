@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.075684800000005
 longitude: 13.428873000000001
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Anklamer Landstraße"
 housenumber: 1

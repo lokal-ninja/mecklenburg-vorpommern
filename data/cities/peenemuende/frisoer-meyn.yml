@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.1351797
 longitude: 13.774044900000002
-postcode: 17449
+postcode: "17449"
 city: Peenemünde
 street: "Feldstraße"
 housenumber: 1a

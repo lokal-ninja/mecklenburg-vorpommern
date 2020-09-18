@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.0959456
 longitude: 13.377547000000002
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Lange Straße"
 housenumber: 65

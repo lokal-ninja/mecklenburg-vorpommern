@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.109223400000005
 longitude: 12.1622689
-postcode: 18146
+postcode: "18146"
 city: Rostock
 street: "Hinrichsdorfer Straße"
 housenumber: 8

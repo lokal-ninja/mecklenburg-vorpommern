@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.3783861
 longitude: 11.079417600000001
-postcode: 19230
+postcode: "19230"
 city: Pritzier
 street: "Hamburger Straße"
 housenumber: 10

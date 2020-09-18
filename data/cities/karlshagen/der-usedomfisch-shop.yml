@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.119322700000005
 longitude: 13.835634500000001
-postcode: 17449
+postcode: "17449"
 city: Karlshagen
 street: "Strandstraße"
 housenumber: 18

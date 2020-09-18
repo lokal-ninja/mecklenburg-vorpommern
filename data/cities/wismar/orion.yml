@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 53.9034186
 longitude: 11.4076801
-postcode: 23968
+postcode: "23968"
 city: Wismar
 street: "Zierower Landstraße"
 housenumber: 3-9

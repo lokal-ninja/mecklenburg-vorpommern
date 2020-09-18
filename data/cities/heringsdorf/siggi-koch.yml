@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.962917000000004
 longitude: 14.1349481
-postcode: 17429
+postcode: "17429"
 city: Heringsdorf
 street: "Ahlbecker Chaussee"
 housenumber: 1

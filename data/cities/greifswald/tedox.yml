@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.0737649
 longitude: 13.391138300000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Querfeld"
 housenumber: 10

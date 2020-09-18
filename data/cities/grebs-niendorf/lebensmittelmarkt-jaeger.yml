@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.2412963
 longitude: 11.3190994
-postcode: 19294
+postcode: "19294"
 city: Grebs-Niendorf
 street: "Lindenstraße"
 housenumber: 1

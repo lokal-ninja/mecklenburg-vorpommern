@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 54.1443833
 longitude: 11.723499400000001
-postcode: 18225
+postcode: "18225"
 city: Kühlungsborn
 street: "Reriker Straße"
 housenumber: 27

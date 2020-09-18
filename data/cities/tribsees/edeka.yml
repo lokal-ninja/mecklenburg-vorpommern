@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.0911959
 longitude: 12.7588924
-postcode: 18465
+postcode: "18465"
 city: Tribsees
 street: "Verbindungsweg"
 housenumber: 24a

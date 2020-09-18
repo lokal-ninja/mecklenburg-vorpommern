@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 53.522653000000005
 longitude: 12.719261600000001
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Siegfried-Marcus-Straße"
 housenumber: 23

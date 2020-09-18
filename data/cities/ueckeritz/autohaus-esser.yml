@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.0112615
 longitude: 14.049729000000001
-postcode: 17459
+postcode: "17459"
 city: Ückeritz
 street: "Gartenweg"
 housenumber: 10

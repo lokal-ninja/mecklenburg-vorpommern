@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.6296946
 longitude: 11.410544100000001
-postcode: 19053
+postcode: "19053"
 city: Schwerin
 street: "Wismarsche Straße"
 housenumber: 117

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.0984519
 longitude: 12.158426100000002
-postcode: 18146
+postcode: "18146"
 city: Rostock
 street: "Dierkower Damm"
 housenumber: 38c

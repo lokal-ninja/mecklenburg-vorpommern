@@ -3,7 +3,7 @@ type: node
 shop: Milch
 latitude: 54.106304400000006
 longitude: 12.031661900000001
-postcode: 18069
+postcode: "18069"
 city: Lambrechtshagen
 street: "Ostsee-Park-Straße"
 housenumber: 3

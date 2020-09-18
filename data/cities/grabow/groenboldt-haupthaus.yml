@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.27653230000001
 longitude: 11.5644679
-postcode: 19300
+postcode: "19300"
 city: Grabow
 street: "Willi-Fründt-Straße"
 housenumber: 1

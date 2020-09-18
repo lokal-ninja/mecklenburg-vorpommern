@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.0786141
 longitude: 13.3218565
-postcode: 17498
+postcode: "17498"
 city: Hinrichshagen
 street: "Feldstraße"
 housenumber: 34

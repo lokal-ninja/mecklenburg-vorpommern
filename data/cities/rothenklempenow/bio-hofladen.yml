@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5223644
 longitude: 14.206412700000001
-postcode: 17321
+postcode: "17321"
 city: Rothenklempenow
 street: "Dorfstraße"
 housenumber: 56

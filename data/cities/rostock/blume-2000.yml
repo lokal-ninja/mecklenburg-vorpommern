@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.088349
 longitude: 12.132711
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Kröpeliner Straße"
 housenumber: 

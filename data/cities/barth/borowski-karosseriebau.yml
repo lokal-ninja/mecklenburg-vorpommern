@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.3624887
 longitude: 12.7124953
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Mastweg"
 housenumber: 54

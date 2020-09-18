@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6515831
 longitude: 12.266871400000001
-postcode: 18292
+postcode: "18292"
 city: Krakow am See
 street: "Bahnhofsplatz"
 housenumber: 3

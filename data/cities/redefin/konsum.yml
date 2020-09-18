@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.3484811
 longitude: 11.201604600000001
-postcode: 19230
+postcode: "19230"
 city: Redefin
 street: "An der B5"
 housenumber: 5

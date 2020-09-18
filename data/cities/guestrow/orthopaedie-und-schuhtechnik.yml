@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.804662400000005
 longitude: 12.1941786
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Niklotstraße"
 housenumber: 38

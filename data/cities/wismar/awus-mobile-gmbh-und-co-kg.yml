@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.87954310000001
 longitude: 11.4555371
-postcode: 23970
+postcode: "23970"
 city: Wismar
 street: "Schweriner Straße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.6611582
 longitude: 11.903428
-postcode: 19406
+postcode: "19406"
 city: Dabel
 street: "Wilhelm-Pieck-Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.38329160000001
 longitude: 12.6058245
-postcode: 17207
+postcode: "17207"
 city: Röbel/Müritz
 street: "Warener Chaussee"
 housenumber: 11

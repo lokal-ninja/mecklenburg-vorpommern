@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.59137440000001
 longitude: 11.402137300000001
-postcode: 19061
+postcode: "19061"
 city: Schwerin
 street: "Karl-Kleinschmidt-Straße"
 housenumber: 24

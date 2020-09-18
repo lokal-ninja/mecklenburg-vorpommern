@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.0971739
 longitude: 13.375655700000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Lange Straße"
 housenumber: 40-42

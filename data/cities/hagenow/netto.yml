@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.4351112
 longitude: 11.2015217
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Goethestraße"
 housenumber: 6

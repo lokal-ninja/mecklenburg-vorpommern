@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5691415
 longitude: 13.2618997
-postcode: 17034
+postcode: "17034"
 city: Neubrandenburg
 street: "Traberallee"
 housenumber: 11

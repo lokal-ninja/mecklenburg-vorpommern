@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 54.088488500000004
 longitude: 12.1325243
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Kröpeliner Straße"
 housenumber: 61

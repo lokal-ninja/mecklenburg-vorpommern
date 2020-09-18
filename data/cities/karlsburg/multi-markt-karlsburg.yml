@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.96988880000001
 longitude: 13.6052586
-postcode: 17495
+postcode: "17495"
 city: Karlsburg
 street: "Gartenstraße"
 housenumber: 15

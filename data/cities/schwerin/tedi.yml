@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.586978900000005
 longitude: 11.4699218
-postcode: 19063
+postcode: "19063"
 city: Schwerin
 street: "Pawlowstraße"
 housenumber: 3

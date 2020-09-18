@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 54.616108600000004
 longitude: 13.3659858
-postcode: 18556
+postcode: "18556"
 city: Breege
 street: "Dorfstraße"
 housenumber: 90a

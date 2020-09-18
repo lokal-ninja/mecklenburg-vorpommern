@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.548447200000005
 longitude: 13.3100392
-postcode: 17036
+postcode: "17036"
 city: Neubrandenburg
 street: "Wismutstraße"
 housenumber: 43

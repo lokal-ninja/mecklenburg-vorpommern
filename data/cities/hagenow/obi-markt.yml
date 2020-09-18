@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.4259531
 longitude: 11.198576800000001
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Bahnhofstraße"
 housenumber: 54

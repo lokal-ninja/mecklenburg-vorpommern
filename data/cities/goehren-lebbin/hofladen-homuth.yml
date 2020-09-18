@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 53.479928300000005
 longitude: 12.5079834
-postcode: 17213
+postcode: "17213"
 city: Göhren-Lebbin
 street: "Untergöhrener Straße"
 housenumber: 20

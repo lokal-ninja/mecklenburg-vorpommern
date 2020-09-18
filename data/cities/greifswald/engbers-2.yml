@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.0765492
 longitude: 13.4305122
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Anklamer Landstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.793298
 longitude: 12.1744763
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Hageböcker Straße"
 housenumber: 3

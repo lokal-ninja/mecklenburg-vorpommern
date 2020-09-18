@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.3165776
 longitude: 13.350645
-postcode: 18574
+postcode: "18574"
 city: Garz/Rügen
 street: "Lange Straße"
 housenumber: 4

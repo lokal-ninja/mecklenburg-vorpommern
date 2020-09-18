@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 54.0805361
 longitude: 12.139493900000002
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Stephanstraße"
 housenumber: 2

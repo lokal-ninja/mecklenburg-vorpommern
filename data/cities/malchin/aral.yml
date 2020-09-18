@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.741746600000006
 longitude: 12.7666768
-postcode: 17139
+postcode: "17139"
 city: Malchin
 street: "Poststraße"
 housenumber: 21

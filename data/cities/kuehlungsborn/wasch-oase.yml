@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 54.14976720000001
 longitude: 11.7561791
-postcode: 18225
+postcode: "18225"
 city: Kühlungsborn
 street: "Dünenstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.42692340000001
 longitude: 11.846337
-postcode: 19370
+postcode: "19370"
 city: Parchim
 street: "Blutstraße"
 housenumber: 9-12

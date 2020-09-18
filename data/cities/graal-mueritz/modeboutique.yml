@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 54.249920900000006
 longitude: 12.234166100000001
-postcode: 18181
+postcode: "18181"
 city: Graal-Müritz
 street: "Onkel-Bräsig-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.4314431
 longitude: 11.195348800000001
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Robert-Stock-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.8648122
 longitude: 11.174515300000001
-postcode: 23936
+postcode: "23936"
 city: Grevesmühlen
 street: "Lübecker Straße"
 housenumber: 19a

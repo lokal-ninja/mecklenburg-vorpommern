@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.4327082
 longitude: 11.189983600000001
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Lange Straße"
 housenumber: 87-89

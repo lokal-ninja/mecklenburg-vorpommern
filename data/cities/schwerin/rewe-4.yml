@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.66058030000001
 longitude: 11.3570492
-postcode: 19057
+postcode: "19057"
 city: Schwerin
 street: "Am Margaretenhof"
 housenumber: 8

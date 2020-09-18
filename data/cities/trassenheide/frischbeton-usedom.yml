@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.0784341
 longitude: 13.868389700000002
-postcode: 17449
+postcode: "17449"
 city: Trassenheide
 street: "Wiesenweg"
 housenumber: 7

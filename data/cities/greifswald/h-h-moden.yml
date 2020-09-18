@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.0826221
 longitude: 13.405382600000001
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Lomonossowallee"
 housenumber: 58

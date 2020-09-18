@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.440395900000006
 longitude: 12.6781526
-postcode: 18374
+postcode: "18374"
 city: Zingst
 street: "Seestraße"
 housenumber: 71

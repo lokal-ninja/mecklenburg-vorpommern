@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.6094439
 longitude: 12.4214751
-postcode: 17194
+postcode: "17194"
 city: Hohen Wangelin
 street: "Hans-Beimler-Straße"
 housenumber: 43

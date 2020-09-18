@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.306526500000004
 longitude: 11.0808643
-postcode: 19249
+postcode: "19249"
 city: Lübtheen
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 24

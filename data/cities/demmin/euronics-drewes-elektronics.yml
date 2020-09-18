@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.906828100000006
 longitude: 13.0273169
-postcode: 17109
+postcode: "17109"
 city: Demmin
 street: "Baumannstraße"
 housenumber: 1

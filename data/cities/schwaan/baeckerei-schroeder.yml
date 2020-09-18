@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.9391984
 longitude: 12.1073865
-postcode: 18258
+postcode: "18258"
 city: Schwaan
 street: "Markt"
 housenumber: 31

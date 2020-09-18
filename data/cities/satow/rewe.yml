@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.989088800000005
 longitude: 11.891419
-postcode: 18239
+postcode: "18239"
 city: Satow
 street: "Fritz-Reuter-Straße"
 housenumber: 2

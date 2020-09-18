@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.6622421
 longitude: 11.4981757
-postcode: 19067
+postcode: "19067"
 city: Leezen
 street: "Schloßstraße"
 housenumber: 1

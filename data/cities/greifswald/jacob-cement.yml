@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 54.0672493
 longitude: 13.393792000000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "An der Thronpost"
 housenumber: 5

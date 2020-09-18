@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2715687
 longitude: 12.808638400000001
-postcode: 18469
+postcode: "18469"
 city: Velgast
 street: "Straße der Jugend"
 housenumber: 35

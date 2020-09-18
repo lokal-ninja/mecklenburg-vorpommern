@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 53.3615433
 longitude: 13.064706900000001
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Strelitzer Straße"
 housenumber: 50

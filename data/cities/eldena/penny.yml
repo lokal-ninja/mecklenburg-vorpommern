@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.2296424
 longitude: 11.410747200000001
-postcode: 19294
+postcode: "19294"
 city: Eldena
 street: "Dömitzer Straße"
 housenumber: 41

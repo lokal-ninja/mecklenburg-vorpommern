@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.133207500000005
 longitude: 13.616001500000001
-postcode: 17509
+postcode: "17509"
 city: Lubmin
 street: "Spandowerhagener Weg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.56951170000001
 longitude: 13.469949900000001
-postcode: 18551
+postcode: "18551"
 city: Glowe
 street: "An den Boddenwiesen"
 housenumber: 11

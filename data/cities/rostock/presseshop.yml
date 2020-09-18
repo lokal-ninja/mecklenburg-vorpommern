@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 54.0937866
 longitude: 12.1079488
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Werftstraße"
 housenumber: 50

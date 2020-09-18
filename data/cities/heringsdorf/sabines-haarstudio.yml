@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.95553090000001
 longitude: 14.1678218
-postcode: 17424
+postcode: "17424"
 city: Heringsdorf
 street: "Delbrückstraße"
 housenumber: 1-4

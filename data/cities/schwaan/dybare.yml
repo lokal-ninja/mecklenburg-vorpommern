@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.940294300000005
 longitude: 12.103564100000002
-postcode: 18258
+postcode: "18258"
 city: Schwaan
 street: "Mühlenteichplatz"
 housenumber: 1

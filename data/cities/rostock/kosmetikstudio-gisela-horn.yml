@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.08667380000001
 longitude: 12.121794300000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Bergstraße"
 housenumber: 10

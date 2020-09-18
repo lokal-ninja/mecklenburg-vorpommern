@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.0902754
 longitude: 12.135833
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Lange Straße"
 housenumber: 12

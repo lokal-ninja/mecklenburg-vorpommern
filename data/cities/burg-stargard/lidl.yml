@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.499271400000005
 longitude: 13.315711400000001
-postcode: 17094
+postcode: "17094"
 city: Burg Stargard
 street: "Carl-Stolte-Straße"
 housenumber: 21

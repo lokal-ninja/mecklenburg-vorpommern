@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 53.7385876
 longitude: 12.7618434
-postcode: 17139
+postcode: "17139"
 city: Malchin
 street: "Schweriner Straße"
 housenumber: 1

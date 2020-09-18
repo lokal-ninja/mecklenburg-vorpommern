@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.0873086
 longitude: 12.117793800000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Ottostraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 54.378629600000004
 longitude: 13.693233000000001
-postcode: 18586
+postcode: "18586"
 city: Sellin
 street: "August-Bebel-Straße"
 housenumber: 5

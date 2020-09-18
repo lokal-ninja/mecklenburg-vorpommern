@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.2968404
 longitude: 11.0837339
-postcode: 19249
+postcode: "19249"
 city: Lübtheen
 street: "Grüner Weg"
 housenumber: 1

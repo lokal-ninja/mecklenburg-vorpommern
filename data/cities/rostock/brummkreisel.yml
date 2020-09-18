@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 54.176630100000004
 longitude: 12.087892400000001
-postcode: 18119
+postcode: "18119"
 city: Rostock
 street: "Alexandrinenstraße"
 housenumber: 119a

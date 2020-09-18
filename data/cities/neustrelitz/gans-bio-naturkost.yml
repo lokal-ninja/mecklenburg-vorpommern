@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.360844900000004
 longitude: 13.066802500000001
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Elisabethstraße"
 housenumber: 1

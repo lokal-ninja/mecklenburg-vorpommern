@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.743307800000004
 longitude: 12.7579387
-postcode: 17139
+postcode: "17139"
 city: Malchin
 street: "Bürgermeister-Tretow-Straße"
 housenumber: 9

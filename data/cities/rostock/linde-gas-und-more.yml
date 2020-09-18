@@ -3,10 +3,10 @@ type: way
 shop: Gasflaschen
 latitude: 54.0955686
 longitude: 12.104921800000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Neptunallee"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 06:00-17:00; Fr 06:00-16:00"
 website: ""

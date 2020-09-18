@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.27390930000001
 longitude: 12.6449327
-postcode: 17209
+postcode: "17209"
 city: Buchholz
 street: "Dorfstraße"
 housenumber: 45

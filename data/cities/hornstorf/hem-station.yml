@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.890232600000004
 longitude: 11.5305969
-postcode: 23970
+postcode: "23970"
 city: Hornstorf
 street: "Karpendiek"
 housenumber: 1

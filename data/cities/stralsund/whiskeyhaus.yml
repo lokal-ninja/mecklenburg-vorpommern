@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 54.31398840000001
 longitude: 13.0957562
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Wasserstraße"
 housenumber: 25

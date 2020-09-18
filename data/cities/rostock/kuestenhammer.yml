@@ -3,7 +3,7 @@ type: node
 shop: Auktionshaus
 latitude: 54.089710600000004
 longitude: 12.136204900000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Lange Straße"
 housenumber: 26

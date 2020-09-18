@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.08723740000001
 longitude: 12.143495900000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Beginenberg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 53.73364170000001
 longitude: 14.0290675
-postcode: 17373
+postcode: "17373"
 city: Ueckermünde
 street: "Chausseestraße"
 housenumber: 71

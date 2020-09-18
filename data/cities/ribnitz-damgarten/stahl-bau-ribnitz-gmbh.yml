@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 54.248265700000005
 longitude: 12.400628900000001
-postcode: 18311
+postcode: "18311"
 city: Ribnitz-Damgarten
 street: "Körkwitzer Weg"
 housenumber: 54

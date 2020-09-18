@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 53.848350100000005
 longitude: 11.9768398
-postcode: 18246
+postcode: "18246"
 city: Bützow
 street: "Vor dem Rühner Tor"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.445067400000006
 longitude: 12.5681876
-postcode: 18375
+postcode: "18375"
 city: Prerow
 street: "Bergstraße"
 housenumber: 10

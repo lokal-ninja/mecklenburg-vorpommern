@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 54.178449
 longitude: 12.0791888
-postcode: 18119
+postcode: "18119"
 city: Rostock
 street: "Kurhausstraße"
 housenumber: 18

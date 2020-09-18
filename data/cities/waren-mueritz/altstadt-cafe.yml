@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.514574800000005
 longitude: 12.688731
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Neuer Markt"
 housenumber: 19

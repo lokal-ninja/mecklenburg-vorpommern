@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 53.359302500000005
 longitude: 13.0742118
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Rudi-Arndt-Platz"
 housenumber: 2

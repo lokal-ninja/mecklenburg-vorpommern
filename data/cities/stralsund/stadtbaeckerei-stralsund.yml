@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3096697
 longitude: 13.084638
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Tribseer Straße"
 housenumber: 30

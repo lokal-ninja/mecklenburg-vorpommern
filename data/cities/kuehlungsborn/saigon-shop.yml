@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.150227
 longitude: 11.733833
-postcode: 18225
+postcode: "18225"
 city: Kühlungsborn
 street: "Hermannstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.087415
 longitude: 12.135987700000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Kröpeliner Straße"
 housenumber: 26-28

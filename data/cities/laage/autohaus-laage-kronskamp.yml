@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.931609800000004
 longitude: 12.3076495
-postcode: 18299
+postcode: "18299"
 city: Laage
 street: "Ernst-Heinkel-Straße"
 housenumber: 1

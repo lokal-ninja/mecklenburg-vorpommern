@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.527169900000004
 longitude: 13.265214400000001
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Birnenstraße"
 housenumber: 4

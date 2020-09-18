@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.634460100000005
 longitude: 11.426800100000001
-postcode: 19055
+postcode: "19055"
 city: Schwerin
 street: "Bornhövedstraße"
 housenumber: 52

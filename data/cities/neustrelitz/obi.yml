@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.349044400000004
 longitude: 13.076632
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Kühlhausberg"
 housenumber: 1

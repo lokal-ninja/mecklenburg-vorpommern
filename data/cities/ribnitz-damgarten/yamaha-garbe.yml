@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 54.241626000000004
 longitude: 12.3992742
-postcode: 18311
+postcode: "18311"
 city: Ribnitz-Damgarten
 street: "Am Nettelrade"
 housenumber: 1a

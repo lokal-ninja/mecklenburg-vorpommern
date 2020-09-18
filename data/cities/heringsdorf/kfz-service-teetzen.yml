@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.959646600000006
 longitude: 14.1110553
-postcode: 17429
+postcode: "17429"
 city: Heringsdorf
 street: "An den Krebsseen"
 housenumber: 29

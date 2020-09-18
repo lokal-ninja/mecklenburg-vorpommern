@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.097197300000005
 longitude: 13.3821454
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Knopfstraße"
 housenumber: 6a

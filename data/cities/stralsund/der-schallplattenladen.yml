@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 54.3161907
 longitude: 13.0894714
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Mühlenstraße"
 housenumber: 1

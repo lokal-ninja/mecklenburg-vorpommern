@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.2426339
 longitude: 12.9522592
-postcode: 17255
+postcode: "17255"
 city: Wustrow
 street: ""
 housenumber: 5a

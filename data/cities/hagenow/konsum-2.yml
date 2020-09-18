@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.434285200000005
 longitude: 11.205677000000001
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Rudolf-Tarnow-Straße"
 housenumber: 28

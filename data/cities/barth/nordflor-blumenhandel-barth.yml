@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.3550236
 longitude: 12.710181200000001
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Nelkenstraße"
 housenumber: 18

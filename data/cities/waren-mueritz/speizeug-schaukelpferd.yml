@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.514273900000006
 longitude: 12.689636
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Neuer Markt"
 housenumber: 25

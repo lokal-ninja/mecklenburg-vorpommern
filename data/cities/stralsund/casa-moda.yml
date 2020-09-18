@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.312067600000006
 longitude: 13.088876
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Apollonienmarkt"
 housenumber: 3

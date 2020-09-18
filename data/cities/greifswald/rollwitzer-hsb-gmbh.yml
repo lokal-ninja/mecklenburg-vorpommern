@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 54.071408000000005
 longitude: 13.383400100000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Am Helmshäger Berg"
 housenumber: 2

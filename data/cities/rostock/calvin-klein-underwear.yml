@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.0882304
 longitude: 12.1358756
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Kröpeliner Straße"
 housenumber: 

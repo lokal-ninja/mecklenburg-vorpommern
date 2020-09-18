@@ -3,10 +3,10 @@ type: node
 shop: Wäscherei
 latitude: 54.446769
 longitude: 12.5627198
-postcode: 18375
+postcode: "18375"
 city: Prerow
 street: "Hülsenstraße"
 housenumber: 12a
 phone: "+49 1715228284"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; So 09:00-13:00"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 09:00-13:00"
 website: ""

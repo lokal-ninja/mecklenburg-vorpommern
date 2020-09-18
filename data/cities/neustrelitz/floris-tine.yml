@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.34192
 longitude: 13.099468400000001
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Güstrower Straße"
 housenumber: 1

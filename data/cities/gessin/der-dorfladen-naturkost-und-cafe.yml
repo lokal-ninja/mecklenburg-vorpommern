@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.697128500000005
 longitude: 12.7124462
-postcode: 17139
+postcode: "17139"
 city: Gessin
 street: "Gessin"
 housenumber: 7b

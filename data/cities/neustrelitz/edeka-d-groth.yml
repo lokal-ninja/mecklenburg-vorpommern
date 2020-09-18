@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.3473802
 longitude: 13.078516700000002
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Kühlhausberg"
 housenumber: 7

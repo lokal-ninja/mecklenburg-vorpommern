@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.475627800000005
 longitude: 12.4256478
-postcode: 17213
+postcode: "17213"
 city: Malchow
 street: "Güstrower Straße"
 housenumber: 23

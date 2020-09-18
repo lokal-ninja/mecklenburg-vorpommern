@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.875221
 longitude: 11.448554000000001
-postcode: 23970
+postcode: "23970"
 city: Wismar
 street: "Flinkerskoppel"
 housenumber: 2

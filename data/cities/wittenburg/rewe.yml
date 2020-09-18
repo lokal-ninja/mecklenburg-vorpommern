@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.502525600000006
 longitude: 11.0883456
-postcode: 19243
+postcode: "19243"
 city: Wittenburg
 street: "Mühlenring"
 housenumber: 3

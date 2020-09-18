@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.3271433
 longitude: 13.0618735
-postcode: 18435
+postcode: "18435"
 city: Stralsund
 street: "Heinrich-Heine-Ring"
 housenumber: 98

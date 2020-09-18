@@ -1,12 +1,12 @@
-id: 33740212
-type: way
+id: 5048162250
+type: node
 shop: Supermarkt
-latitude: 54.0731034
-longitude: 12.1116092
-postcode: 18059
+latitude: 54.0917922
+longitude: 12.1230018
+postcode: "18057"
 city: Rostock
-street: "Brahestraße"
-housenumber: 44
+street: "Friedrichstraße"
+housenumber: 22
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.11113460000001
 longitude: 12.138074000000001
-postcode: 18147
+postcode: "18147"
 city: Rostock
 street: "Bertha-von-Suttner-Ring"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.0861017
 longitude: 12.118488500000002
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Wismarsche Straße"
 housenumber: 47

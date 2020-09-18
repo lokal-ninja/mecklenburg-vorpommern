@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.0818189
 longitude: 12.112416000000001
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Laurembergstraße"
 housenumber: 26

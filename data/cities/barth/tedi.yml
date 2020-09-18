@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 54.3670436
 longitude: 12.7255353
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 35

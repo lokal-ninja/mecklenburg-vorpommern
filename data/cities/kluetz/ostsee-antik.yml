@@ -3,7 +3,7 @@ type: way
 shop: Antiquitäten
 latitude: 53.9663254
 longitude: 11.167583500000001
-postcode: 23948
+postcode: "23948"
 city: Klütz
 street: "Boltenhagener Straße"
 housenumber: 18

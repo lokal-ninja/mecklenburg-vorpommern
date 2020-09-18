@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.8479201
 longitude: 11.9802415
-postcode: 18246
+postcode: "18246"
 city: Bützow
 street: "Langestraße"
 housenumber: 65

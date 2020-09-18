@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 54.087959500000004
 longitude: 12.118287
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Barnstorfer Weg"
 housenumber: 34

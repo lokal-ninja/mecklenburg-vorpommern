@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 53.4388761
 longitude: 11.8415359
-postcode: 19370
+postcode: "19370"
 city: Parchim
 street: "Bleichertannenweg"
 housenumber: 23

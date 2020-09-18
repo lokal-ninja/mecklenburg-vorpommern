@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.0846266
 longitude: 12.1100852
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Am Röper"
 housenumber: 1

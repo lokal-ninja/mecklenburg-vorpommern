@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.339907700000005
 longitude: 13.4704958
-postcode: 17258
+postcode: "17258"
 city: Feldberger Seenlandschaft
 street: "Hullerbuscher Weg"
 housenumber: 18

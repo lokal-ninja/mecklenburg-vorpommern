@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5526118
 longitude: 13.2999901
-postcode: 17036
+postcode: "17036"
 city: Neubrandenburg
 street: "Einsteinstraße"
 housenumber: 37

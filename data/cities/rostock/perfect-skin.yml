@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.085661300000005
 longitude: 12.1238194
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Arnold-Bernhard-Straße"
 housenumber: 33

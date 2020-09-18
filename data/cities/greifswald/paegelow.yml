@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.091714
 longitude: 13.3915021
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Brinkstraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.632041300000004
 longitude: 11.4201385
-postcode: 19055
+postcode: "19055"
 city: Schwerin
 street: "Ziegenmarkt"
 housenumber: 6

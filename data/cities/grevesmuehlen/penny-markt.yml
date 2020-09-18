@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.865793200000006
 longitude: 11.2077342
-postcode: 23936
+postcode: "23936"
 city: Grevesmühlen
 street: "Wismarsche Straße"
 housenumber: 152

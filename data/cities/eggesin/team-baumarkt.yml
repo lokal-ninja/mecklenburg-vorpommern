@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.6814004
 longitude: 14.064711500000001
-postcode: 17367
+postcode: "17367"
 city: Eggesin
 street: "Pasewalker Straße"
 housenumber: 1

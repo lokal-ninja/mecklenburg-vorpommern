@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 53.34879230000001
 longitude: 11.489335700000002
-postcode: 19288
+postcode: "19288"
 city: Ludwigslust
 street: "Wöbbeliner Straße"
 housenumber: 92
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.5683591
 longitude: 13.4868172
-postcode: 18551
+postcode: "18551"
 city: Glowe
 street: "Rügen Radio"
 housenumber: 21

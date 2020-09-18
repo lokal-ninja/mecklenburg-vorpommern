@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3124479
 longitude: 13.089780500000002
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Ossenreyerstraße"
 housenumber: 33

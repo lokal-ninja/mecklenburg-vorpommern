@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.968120500000005
 longitude: 11.8463588
-postcode: 18239
+postcode: "18239"
 city: Satow
 street: "Am Faden Grund"
 housenumber: 35

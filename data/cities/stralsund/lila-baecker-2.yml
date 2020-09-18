@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.302308100000005
 longitude: 13.0910425
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Am Zuckergraben"
 housenumber: 1

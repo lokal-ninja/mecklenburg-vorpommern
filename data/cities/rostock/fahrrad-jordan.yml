@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.0874724
 longitude: 12.1210494
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Wismarsche Straße"
 housenumber: 69

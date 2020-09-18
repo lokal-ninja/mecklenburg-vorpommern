@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.0784029
 longitude: 12.364307
-postcode: 18190
+postcode: "18190"
 city: Sanitz
 street: "Am Erlenhain"
 housenumber: 2

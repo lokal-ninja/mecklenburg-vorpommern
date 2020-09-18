@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 54.09214480000001
 longitude: 12.1280557
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Warnowufer"
 housenumber: 65

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6009116
 longitude: 11.387024700000001
-postcode: 19061
+postcode: "19061"
 city: Schwerin
 street: "Grabenstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.928215
 longitude: 13.469075
-postcode: 17506
+postcode: "17506"
 city: Owstin
 street: "Dorfstraße"
 housenumber: 18

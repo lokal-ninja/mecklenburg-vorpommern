@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.1075036
 longitude: 13.0271664
-postcode: 18507
+postcode: "18507"
 city: Grimmen
 street: "Tribseeser Straße"
 housenumber: 20b

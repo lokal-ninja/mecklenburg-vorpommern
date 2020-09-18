@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.556989900000005
 longitude: 13.2639861
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Turmstraße"
 housenumber: 16-18

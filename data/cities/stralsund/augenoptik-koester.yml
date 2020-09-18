@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.3135824
 longitude: 13.087918100000001
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Mönchstraße"
 housenumber: 21

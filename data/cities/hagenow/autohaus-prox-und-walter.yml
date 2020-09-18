@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.4444254
 longitude: 11.2130747
-postcode: 19230
+postcode: "19230"
 city: Hagenow
 street: "Sudenhofer Straße"
 housenumber: 1

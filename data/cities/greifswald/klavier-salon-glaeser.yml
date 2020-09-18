@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 54.089844500000005
 longitude: 13.3877144
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Brinkstraße"
 housenumber: 27a

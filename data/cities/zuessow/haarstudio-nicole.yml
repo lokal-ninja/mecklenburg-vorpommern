@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.9790508
 longitude: 13.5482454
-postcode: 17495
+postcode: "17495"
 city: Züssow
 street: "Dorfstraße"
 housenumber: 3

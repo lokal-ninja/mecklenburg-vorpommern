@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 53.792185200000006
 longitude: 12.1782559
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Gleviner Straße"
 housenumber: 12

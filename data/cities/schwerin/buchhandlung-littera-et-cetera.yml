@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 53.631085500000005
 longitude: 11.4168091
-postcode: 19055
+postcode: "19055"
 city: Schwerin
 street: "Schliemannstraße"
 housenumber: 2
-phone: ""
+phone: "+49 385 5572065"
 opening_hours: ""
-website: ""
+website: "https://littera-etc.buchkatalog.de/"

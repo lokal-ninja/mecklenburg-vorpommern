@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.3864986
 longitude: 10.729684200000001
-postcode: 19258
+postcode: "19258"
 city: Boizenburg/Elbe
 street: "Dr.-Alexander-Straße"
 housenumber: 78

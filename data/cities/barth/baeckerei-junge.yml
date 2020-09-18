@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.359401600000005
 longitude: 12.7115573
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Gewerbegebiet am Mastweg"
 housenumber: 6

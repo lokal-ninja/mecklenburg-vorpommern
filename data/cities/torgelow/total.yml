@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.629916300000005
 longitude: 13.999785200000002
-postcode: 17358
+postcode: "17358"
 city: Torgelow
 street: "Lindenstraße"
 housenumber: 9-10

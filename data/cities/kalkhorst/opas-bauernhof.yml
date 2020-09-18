@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.947464700000005
 longitude: 11.0080539
-postcode: 23942
+postcode: "23942"
 city: Kalkhorst
 street: "Dassower Straße"
 housenumber: 26

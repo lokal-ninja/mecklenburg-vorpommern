@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.403277200000005
 longitude: 13.602801900000001
-postcode: 18609
+postcode: "18609"
 city: Binz
 street: "Proraer Chaussee"
 housenumber: 2

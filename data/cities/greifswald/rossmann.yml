@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.0961201
 longitude: 13.384938700000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Schuhhagen"
 housenumber: 3

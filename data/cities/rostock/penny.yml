@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.0714374
 longitude: 12.117400100000001
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Nobelstraße"
 housenumber: 51

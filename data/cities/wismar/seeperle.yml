@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.8951974
 longitude: 11.4590803
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Schiffbauerdamm"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 53.2851015
 longitude: 13.202833900000002
-postcode: 17237
+postcode: "17237"
 city: Wokuhl
 street: "Lychener Straße"
 housenumber: 6

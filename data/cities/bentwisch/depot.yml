@@ -3,10 +3,10 @@ type: node
 shop: Raumausstattung
 latitude: 54.114548600000006
 longitude: 12.190684200000002
-postcode: 18182
+postcode: "18182"
 city: Bentwisch
 street: "Hansestraße"
-housenumber: 37
+housenumber: 31
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"
 website: ""

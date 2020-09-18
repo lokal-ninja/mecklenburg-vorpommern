@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.8933211
 longitude: 11.4615179
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Speicherstraße"
 housenumber: 10

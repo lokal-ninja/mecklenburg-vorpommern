@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.3688512
 longitude: 13.633908000000002
-postcode: 18586
+postcode: "18586"
 city: Lancken-Granitz
 street: "Dorfstraße"
 housenumber: 1

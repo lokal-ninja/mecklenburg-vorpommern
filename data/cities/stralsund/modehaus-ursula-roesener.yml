@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.3128493
 longitude: 13.090078
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Ossenreyerstraße"
 housenumber: 41

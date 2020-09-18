@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.123532700000005
 longitude: 12.165586000000001
-postcode: 18146
+postcode: "18146"
 city: Rostock
 street: "Neu Hinrichsdorf"
 housenumber: 1b

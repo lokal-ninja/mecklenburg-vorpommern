@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.271596100000004
 longitude: 12.8088624
-postcode: 18469
+postcode: "18469"
 city: Velgast
 street: "Straße der Jugend"
 housenumber: 35

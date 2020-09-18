@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 54.304768700000004
 longitude: 13.2722475
-postcode: 18574
+postcode: "18574"
 city: Poseritz
 street: ""
 housenumber: 15

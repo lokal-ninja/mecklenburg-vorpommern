@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.792779100000004
 longitude: 12.177514
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Gleviner Straße"
 housenumber: 5

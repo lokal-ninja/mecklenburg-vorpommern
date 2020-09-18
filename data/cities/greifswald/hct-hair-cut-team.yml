@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.094935400000004
 longitude: 13.380835900000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Fleischerstraße"
 housenumber: 6

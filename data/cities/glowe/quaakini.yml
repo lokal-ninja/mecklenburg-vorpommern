@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 54.569411800000005
 longitude: 13.458241000000001
-postcode: 18551
+postcode: "18551"
 city: Glowe
 street: "Am Kurplatz"
 housenumber: 5

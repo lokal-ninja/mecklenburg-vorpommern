@@ -1,4 +1,4 @@
 ---
-title: "...einfach anders..."
+title: "Einfach anders"
 url: /rostock/einfach-anders/
 ---

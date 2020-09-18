@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 54.515588900000004
 longitude: 13.6426288
-postcode: 18546
+postcode: "18546"
 city: Sassnitz
 street: "Hauptstraße"
 housenumber: 65

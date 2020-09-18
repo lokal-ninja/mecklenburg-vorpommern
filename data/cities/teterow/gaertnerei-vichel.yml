@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.774087
 longitude: 12.581805800000001
-postcode: 17166
+postcode: "17166"
 city: Teterow
 street: "Neukalener Straße"
 housenumber: 20

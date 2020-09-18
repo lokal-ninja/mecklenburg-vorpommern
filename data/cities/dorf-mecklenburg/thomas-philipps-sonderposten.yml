@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.848972200000006
 longitude: 11.4598098
-postcode: 23972
+postcode: "23972"
 city: Dorf Mecklenburg
 street: "Schweriner Straße"
 housenumber: 44

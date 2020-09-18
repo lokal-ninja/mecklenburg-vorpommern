@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.5206467
 longitude: 12.721265800000001
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Siegfried-Marcus-Straße"
 housenumber: 7

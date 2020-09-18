@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5579455
 longitude: 13.262781100000002
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Badstüberstraße"
 housenumber: 12

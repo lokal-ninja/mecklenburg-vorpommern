@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.076493400000004
 longitude: 13.4292902
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Anklamer Landstraße"
 housenumber: 1

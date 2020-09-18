@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.96019810000001
 longitude: 14.1532368
-postcode: 17424
+postcode: "17424"
 city: Heringsdorf
 street: "Im Mühlenkamp"
 housenumber: 1

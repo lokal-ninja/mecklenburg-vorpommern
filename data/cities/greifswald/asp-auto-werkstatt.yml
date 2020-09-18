@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.0949521
 longitude: 13.3998656
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Wolgaster Straße"
 housenumber: 116

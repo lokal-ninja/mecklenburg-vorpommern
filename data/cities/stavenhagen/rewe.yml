@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.689136100000006
 longitude: 12.9158696
-postcode: 17153
+postcode: "17153"
 city: Stavenhagen
 street: "Werdohler Straße"
 housenumber: 3

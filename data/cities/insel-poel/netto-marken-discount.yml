@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.0011002
 longitude: 11.4436964
-postcode: 23999
+postcode: "23999"
 city: Insel Poel
 street: "Wismarsche Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 54.088322700000006
 longitude: 12.1365756
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Kröpeliner Straße"
 housenumber: 22

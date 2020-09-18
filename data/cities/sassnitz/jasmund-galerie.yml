@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.515329900000005
 longitude: 13.6414083
-postcode: 18546
+postcode: "18546"
 city: Sassnitz
 street: "Rügen-Galerie"
 housenumber: 3

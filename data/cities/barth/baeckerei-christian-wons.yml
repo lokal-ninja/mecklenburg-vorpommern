@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.367515000000004
 longitude: 12.7267679
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Badstüberstraße"
 housenumber: 31

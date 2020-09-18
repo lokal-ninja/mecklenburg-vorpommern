@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.5142425
 longitude: 12.682244800000001
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Kietzstraße"
 housenumber: 17-21

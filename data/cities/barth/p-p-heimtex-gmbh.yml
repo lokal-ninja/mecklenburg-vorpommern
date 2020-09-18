@@ -3,7 +3,7 @@ type: way
 shop: Gardinen
 latitude: 54.3552729
 longitude: 12.7191817
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Louis-Fürnberg-Straße"
 housenumber: 3

@@ -1,12 +1,12 @@
-id: 3241832329
+id: 2934671944
 type: node
 shop: Supermarkt
-latitude: 54.104367
-longitude: 12.1150251
-postcode: 18147
+latitude: 54.0916718
+longitude: 12.1426429
+postcode: "18055"
 city: Rostock
-street: "Pressentinstraße"
-housenumber: 63b
+street: "Grubenstraße"
+housenumber: 24
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 08:00-21:00; PH off"
 website: ""

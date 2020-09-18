@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.8080262
 longitude: 12.1862081
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Rostocker Chaussee"
 housenumber: 9

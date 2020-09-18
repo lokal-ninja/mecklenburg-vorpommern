@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 54.114525900000004
 longitude: 13.376950500000001
-postcode: 17498
+postcode: "17498"
 city: Neuenkirchen
 street: "Theodor-Körner-Straße"
 housenumber: 20b

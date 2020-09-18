@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.7934361
 longitude: 12.174879800000001
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Markt"
 housenumber: 34

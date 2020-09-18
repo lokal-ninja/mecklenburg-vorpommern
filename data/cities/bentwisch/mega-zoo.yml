@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 54.114096200000006
 longitude: 12.1892118
-postcode: 18182
+postcode: "18182"
 city: Bentwisch
 street: "Hansestraße"
 housenumber: 28

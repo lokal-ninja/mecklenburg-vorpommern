@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 54.037594600000006
 longitude: 14.0139709
-postcode: 17459
+postcode: "17459"
 city: Loddin
 street: "Zum Herrenberg"
 housenumber: 1

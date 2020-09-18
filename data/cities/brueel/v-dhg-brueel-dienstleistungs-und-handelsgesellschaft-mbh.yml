@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.7439905
 longitude: 11.7206021
-postcode: 19412
+postcode: "19412"
 city: Brüel
 street: "Bahnhofstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.9057186
 longitude: 13.0319572
-postcode: 17109
+postcode: "17109"
 city: Demmin
 street: "Hanseufer"
 housenumber: 4

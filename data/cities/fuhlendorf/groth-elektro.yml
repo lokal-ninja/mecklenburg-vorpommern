@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 54.372733600000004
 longitude: 12.6328186
-postcode: 18356
+postcode: "18356"
 city: Fuhlendorf
 street: "Danckwardt-Straße"
 housenumber: 30

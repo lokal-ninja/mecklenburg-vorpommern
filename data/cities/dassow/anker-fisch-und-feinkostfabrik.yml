@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 53.9058252
 longitude: 10.999072400000001
-postcode: 23942
+postcode: "23942"
 city: Dassow
 street: "Gewerbestraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3134086
 longitude: 13.0767197
-postcode: 18437
+postcode: "18437"
 city: Stralsund
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 5

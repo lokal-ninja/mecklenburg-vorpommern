@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.089151300000005
 longitude: 12.1348946
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Breite Straße"
 housenumber: 13

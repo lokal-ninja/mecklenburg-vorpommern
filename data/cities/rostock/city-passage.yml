@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 54.0894612
 longitude: 12.1352001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Breite Straße"
 housenumber: 12

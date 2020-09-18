@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.90339590000001
 longitude: 13.0417398
-postcode: 17109
+postcode: "17109"
 city: Demmin
 street: "Wollweberstraße"
 housenumber: 2

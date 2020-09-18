@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5065437
 longitude: 13.9905854
-postcode: 17309
+postcode: "17309"
 city: Pasewalk
 street: "Marktstraße"
 housenumber: 37

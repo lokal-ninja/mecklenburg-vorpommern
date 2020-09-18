@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 54.0843714
 longitude: 12.113759700000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Parkstraße"
 housenumber: 5

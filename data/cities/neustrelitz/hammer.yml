@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 53.3469677
 longitude: 13.07881
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Kühlhausberg"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.977964400000005
 longitude: 11.0965038
-postcode: 23948
+postcode: "23948"
 city: Kalkhorst
 street: "Kalkhorster Straße"
 housenumber: 37

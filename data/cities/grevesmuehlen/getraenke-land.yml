@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.865277400000004
 longitude: 11.208347600000002
-postcode: 23936
+postcode: "23936"
 city: Grevesmühlen
 street: "Wismarsche Straße"
 housenumber: 152a

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.9047575
 longitude: 13.0422384
-postcode: 17109
+postcode: "17109"
 city: Demmin
 street: "Gartenstraße"
 housenumber: 2

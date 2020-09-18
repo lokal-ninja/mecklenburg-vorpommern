@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.688549200000004
 longitude: 13.250160800000002
-postcode: 17087
+postcode: "17087"
 city: Altentreptow
 street: "Grüner Gang"
 housenumber: 10

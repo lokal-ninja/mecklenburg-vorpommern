@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.569998500000004
 longitude: 13.261900800000001
-postcode: 17034
+postcode: "17034"
 city: Neubrandenburg
 street: "Sattelplatz"
 housenumber: 2

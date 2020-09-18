@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.632765400000004
 longitude: 11.4171949
-postcode: 19055
+postcode: "19055"
 city: Schwerin
 street: "Puschkinstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.514659
 longitude: 14.0135698
-postcode: 17309
+postcode: "17309"
 city: Pasewalk
 street: "Am Gnädigspark"
 housenumber: 2

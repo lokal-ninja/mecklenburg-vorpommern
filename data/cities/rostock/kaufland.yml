@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.075931000000004
 longitude: 12.1206914
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Pütterweg"
 housenumber: 1

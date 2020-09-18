@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.152718400000005
 longitude: 12.06484
-postcode: 18109
+postcode: "18109"
 city: Rostock
 street: "Güstrower Straße"
 housenumber: 6a

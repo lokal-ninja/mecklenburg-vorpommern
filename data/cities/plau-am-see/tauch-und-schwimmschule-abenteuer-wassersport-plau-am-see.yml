@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 53.4594182
 longitude: 12.259263
-postcode: 19395
+postcode: "19395"
 city: Plau am See
 street: "Schulstraße"
 housenumber: 58

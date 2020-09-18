@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.521480100000005
 longitude: 12.682306500000001
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Lloydstraße"
 housenumber: 2b

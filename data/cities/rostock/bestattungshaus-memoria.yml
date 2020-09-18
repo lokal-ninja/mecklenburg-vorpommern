@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 54.0904387
 longitude: 12.116688
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Doberaner Straße"
 housenumber: 38

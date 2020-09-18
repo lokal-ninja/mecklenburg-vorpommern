@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.310085900000004
 longitude: 11.079047800000001
-postcode: 19249
+postcode: "19249"
 city: Lübtheen
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 32A

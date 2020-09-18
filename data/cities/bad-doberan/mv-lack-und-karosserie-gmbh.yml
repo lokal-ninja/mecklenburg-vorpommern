@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.10449680000001
 longitude: 11.931765
-postcode: 18209
+postcode: "18209"
 city: Bad Doberan
 street: "Am Waldrand"
 housenumber: 8

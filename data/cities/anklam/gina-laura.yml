@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.8556322
 longitude: 13.687343400000001
-postcode: 17389
+postcode: "17389"
 city: Anklam
 street: "Markt"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.348359800000004
 longitude: 13.078054300000002
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Kühlhausberg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 54.3683246
 longitude: 12.7249645
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 14

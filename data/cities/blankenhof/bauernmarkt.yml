@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.580159300000005
 longitude: 13.1617546
-postcode: 17039
+postcode: "17039"
 city: Blankenhof
 street: "Neubrandenburger Straße"
 housenumber: 1

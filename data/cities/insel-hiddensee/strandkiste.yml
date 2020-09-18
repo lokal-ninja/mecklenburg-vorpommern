@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 54.5847076
 longitude: 13.1116389
-postcode: 18565
+postcode: "18565"
 city: Insel Hiddensee
 street: "Hafenweg"
 housenumber: 10

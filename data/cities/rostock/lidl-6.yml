@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.11706160000001
 longitude: 12.053260700000001
-postcode: 18106
+postcode: "18106"
 city: Rostock
 street: "Maxim-Gorki-Straße"
 housenumber: 66/67

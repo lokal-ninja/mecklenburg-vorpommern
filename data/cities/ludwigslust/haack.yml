@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.320263000000004
 longitude: 11.481315
-postcode: 19288
+postcode: "19288"
 city: Ludwigslust
 street: "Suhrlandtstraße"
 housenumber: 4

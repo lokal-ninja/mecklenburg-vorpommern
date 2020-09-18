@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.249355900000005
 longitude: 12.237003300000001
-postcode: 18181
+postcode: "18181"
 city: Graal-Müritz
 street: "Lange Straße"
 housenumber: 1

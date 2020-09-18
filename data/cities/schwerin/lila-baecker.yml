@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 53.6350106
 longitude: 11.4288694
-postcode: 19055
+postcode: "19055"
 city: Schwerin
 street: "Bornhövedstraße"
 housenumber: 76
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:30-18:00; Sa-Su 07:00-11:00"
 website: ""

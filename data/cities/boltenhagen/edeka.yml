@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.98183220000001
 longitude: 11.2155771
-postcode: 23946
+postcode: "23946"
 city: Boltenhagen
 street: "Ostseeallee"
 housenumber: 52-54

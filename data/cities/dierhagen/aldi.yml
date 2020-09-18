@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.293528800000004
 longitude: 12.353017300000001
-postcode: 18347
+postcode: "18347"
 city: Dierhagen
 street: "Strandstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.9573302
 longitude: 14.166707
-postcode: 17424
+postcode: "17424"
 city: Heringsdorf
 street: "Kulmstraße"
 housenumber: 31

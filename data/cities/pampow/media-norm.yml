@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 53.5700487
 longitude: 11.3675773
-postcode: 19075
+postcode: "19075"
 city: Pampow
 street: "Lindenweg"
 housenumber: 4

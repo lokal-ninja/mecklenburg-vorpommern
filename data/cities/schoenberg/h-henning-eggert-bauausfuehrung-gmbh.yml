@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.844504400000005
 longitude: 10.9457454
-postcode: 23923
+postcode: "23923"
 city: Schönberg
 street: "Rottensdorfer Straße"
 housenumber: 21

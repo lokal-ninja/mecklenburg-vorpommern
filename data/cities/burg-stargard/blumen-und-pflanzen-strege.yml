@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.494742
 longitude: 13.3100242
-postcode: 17094
+postcode: "17094"
 city: Burg Stargard
 street: "Lange Straße"
 housenumber: 7

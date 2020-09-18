@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.5569344
 longitude: 13.261448900000001
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Stargarder Straße"
 housenumber: 19

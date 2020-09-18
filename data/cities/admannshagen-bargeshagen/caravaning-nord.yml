@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.112176500000004
 longitude: 11.9720355
-postcode: 18211
+postcode: "18211"
 city: Admannshagen-Bargeshagen
 street: "Rabenhorster Damm"
 housenumber: 3

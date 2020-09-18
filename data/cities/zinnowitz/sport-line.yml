@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 54.0780758
 longitude: 13.911495500000001
-postcode: 17454
+postcode: "17454"
 city: Zinnowitz
 street: "Neue Strandstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8937858
 longitude: 11.452169600000001
-postcode: 23966
+postcode: "23966"
 city: Wismar
 street: "Lübsche Straße"
 housenumber: 99

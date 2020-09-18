@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.6090576
 longitude: 11.367749100000001
-postcode: 19061
+postcode: "19061"
 city: Schwerin
 street: "Am Fasanenhof"
 housenumber: 5

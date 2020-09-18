@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.3198396
 longitude: 12.2404802
-postcode: 16945
+postcode: "16945"
 city: Meyenburg
 street: "Plauer Straße"
 housenumber: 31

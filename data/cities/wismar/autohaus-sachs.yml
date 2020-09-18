@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.8797744
 longitude: 11.453575800000001
-postcode: 23970
+postcode: "23970"
 city: Wismar
 street: "Gewerbehof"
 housenumber: 3

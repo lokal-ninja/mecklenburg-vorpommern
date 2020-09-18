@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.1041517
 longitude: 12.1676651
-postcode: 18146
+postcode: "18146"
 city: Rostock
 street: "Hannes-Meyer-Platz"
 housenumber: 23

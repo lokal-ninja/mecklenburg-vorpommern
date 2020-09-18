@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.477092500000005
 longitude: 12.4206763
-postcode: 17213
+postcode: "17213"
 city: Malchow
 street: "Friedrich-Ebert-Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Dorfladen
 latitude: 54.0828855
 longitude: 13.405043200000001
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Lomonossowallee"
 housenumber: 58

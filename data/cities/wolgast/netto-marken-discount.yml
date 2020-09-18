@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.052119600000005
 longitude: 13.773738400000001
-postcode: 17438
+postcode: "17438"
 city: Wolgast
 street: "Chausseestraße"
 housenumber: 5

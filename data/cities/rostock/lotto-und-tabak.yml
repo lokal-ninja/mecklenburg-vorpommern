@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 54.0785276
 longitude: 12.131842800000001
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Konrad-Adenauer-Platz"
 housenumber: 4

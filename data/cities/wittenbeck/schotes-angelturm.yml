@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 54.1297981
 longitude: 11.793484000000001
-postcode: 18209
+postcode: "18209"
 city: Wittenbeck
 street: "Kühlungsborner Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.6276269
 longitude: 14.012496100000002
-postcode: 17358
+postcode: "17358"
 city: Torgelow
 street: "Pasewalker Straße"
 housenumber: 7E

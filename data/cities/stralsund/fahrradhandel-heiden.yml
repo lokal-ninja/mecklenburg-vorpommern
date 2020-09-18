@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.3108293
 longitude: 13.048193900000001
-postcode: 18437
+postcode: "18437"
 city: Stralsund
 street: "Handwerkerring"
 housenumber: 16

@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 54.367878100000006
 longitude: 12.725434900000002
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 19
 phone: "+49 38231 450235"
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
 website: ""

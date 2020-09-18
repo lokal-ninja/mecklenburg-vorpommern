@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 53.514989400000005
 longitude: 12.697033800000002
-postcode: 17192
+postcode: "17192"
 city: Waren (Müritz)
 street: "Strelitzer Straße"
 housenumber: 36

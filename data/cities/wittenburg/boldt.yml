@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.509575000000005
 longitude: 11.077431200000001
-postcode: 
+postcode: ""
 city: Wittenburg
 street: "Steintor"
 housenumber: 9

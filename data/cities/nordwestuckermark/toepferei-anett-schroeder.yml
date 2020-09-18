@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 53.3928534
 longitude: 13.5838631
-postcode: 17291
+postcode: "17291"
 city: Nordwestuckermark
 street: "Kirchstraße"
 housenumber: 1

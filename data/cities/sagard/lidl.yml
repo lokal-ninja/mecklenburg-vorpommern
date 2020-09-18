@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.528050300000004
 longitude: 13.543721000000001
-postcode: 18551
+postcode: "18551"
 city: Sagard
 street: "Glower Straße"
 housenumber: 31

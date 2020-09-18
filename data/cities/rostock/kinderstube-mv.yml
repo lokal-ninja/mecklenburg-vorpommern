@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.0859468
 longitude: 12.1242335
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Stampfmüllerstraße"
 housenumber: 24

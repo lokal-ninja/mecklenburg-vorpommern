@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.9558113
 longitude: 13.1131901
-postcode: 17121
+postcode: "17121"
 city: Loitz
 street: "Peenestraße"
 housenumber: 2a

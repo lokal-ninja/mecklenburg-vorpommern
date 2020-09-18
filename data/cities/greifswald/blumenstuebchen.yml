@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.095804900000005
 longitude: 13.372987700000001
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Lange Straße"
 housenumber: 19

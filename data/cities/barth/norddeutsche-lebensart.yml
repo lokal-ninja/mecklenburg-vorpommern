@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.367457900000005
 longitude: 12.7252589
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 34

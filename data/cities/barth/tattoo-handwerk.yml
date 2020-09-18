@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 54.366556300000006
 longitude: 12.725557100000001
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Lange Straße"
 housenumber: 45

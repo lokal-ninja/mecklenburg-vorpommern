@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.08850210000001
 longitude: 12.1028184
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Karl-Marx-Straße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 54.0831342
 longitude: 13.4052197
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Lomonossowallee"
 housenumber: 58

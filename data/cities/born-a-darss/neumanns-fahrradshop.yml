@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.3830753
 longitude: 12.5261914
-postcode: 18375
+postcode: "18375"
 city: Born a. Darß
 street: "Im Moor"
 housenumber: 2

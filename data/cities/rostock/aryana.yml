@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 54.123360000000005
 longitude: 12.0579461
-postcode: 18106
+postcode: "18106"
 city: Rostock
 street: ""
 housenumber: 

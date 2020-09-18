@@ -3,10 +3,10 @@ type: way
 shop: Schuhe
 latitude: 54.0880134
 longitude: 12.116052100000001
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Margaretenstraße"
 housenumber: 12
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-13:00, Mo,Tu,Th 14:00-18:00"
 website: "www.bequemschuhhaus-dethloff.de"

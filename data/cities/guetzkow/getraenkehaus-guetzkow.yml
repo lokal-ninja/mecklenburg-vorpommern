@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.9334855
 longitude: 13.414969600000001
-postcode: 17506
+postcode: "17506"
 city: Gützkow
 street: "Mascowstraße"
 housenumber: 12b

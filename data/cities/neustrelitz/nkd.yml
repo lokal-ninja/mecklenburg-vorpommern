@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 53.361260900000005
 longitude: 13.0651691
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Strelitzer Straße"
 housenumber: 48

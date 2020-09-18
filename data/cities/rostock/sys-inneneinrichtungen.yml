@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.0902723
 longitude: 12.1359814
-postcode: 18055
+postcode: "18055"
 city: Rostock
 street: "Lange Straße"
 housenumber: 12

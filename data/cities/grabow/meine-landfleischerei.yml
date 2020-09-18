@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 53.279248900000006
 longitude: 11.5636753
-postcode: 19300
+postcode: "19300"
 city: Grabow
 street: "Marktstraße"
 housenumber: 12

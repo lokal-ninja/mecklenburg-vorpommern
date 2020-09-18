@@ -1,12 +1,12 @@
-id: 38561065
+id: 38561482
 type: way
 shop: Supermarkt
-latitude: 53.80913880000001
-longitude: 12.190715800000001
-postcode: 18273
+latitude: 53.774097600000005
+longitude: 12.168685900000002
+postcode: "18273"
 city: Güstrow
-street: "Ebereschenweg"
-housenumber: 1
+street: "Goldberger Straße"
+housenumber: 65
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

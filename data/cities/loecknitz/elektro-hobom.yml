@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.4563293
 longitude: 14.210339200000002
-postcode: 17321
+postcode: "17321"
 city: Löcknitz
 street: "Straße der Republik"
 housenumber: 13

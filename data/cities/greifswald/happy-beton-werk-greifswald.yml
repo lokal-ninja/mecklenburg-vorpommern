@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.068784900000004
 longitude: 13.3729352
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Helmshäger Straße"
 housenumber: 12

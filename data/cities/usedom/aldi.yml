@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8755559
 longitude: 13.9188434
-postcode: 17406
+postcode: "17406"
 city: Usedom
 street: "Bäderstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 53.5563159
 longitude: 13.275255900000001
-postcode: 17033
+postcode: "17033"
 city: Neubrandenburg
 street: "Molkereistraße"
 housenumber: 3

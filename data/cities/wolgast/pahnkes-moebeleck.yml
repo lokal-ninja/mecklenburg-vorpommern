@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.0554185
 longitude: 13.7920195
-postcode: 17438
+postcode: "17438"
 city: Wolgast
 street: "Straße der Freundschaft"
 housenumber: 8

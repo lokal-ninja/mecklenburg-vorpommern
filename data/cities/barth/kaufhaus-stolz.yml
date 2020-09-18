@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.3618596
 longitude: 12.712702700000001
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Gewerbegebiet am Mastweg"
 housenumber: 3

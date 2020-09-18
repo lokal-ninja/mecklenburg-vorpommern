@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.5131226
 longitude: 14.009413
-postcode: 17309
+postcode: "17309"
 city: Pasewalk
 street: "Torgelower Straße"
 housenumber: 24

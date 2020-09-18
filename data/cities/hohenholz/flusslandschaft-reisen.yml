@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.3494302
 longitude: 14.311322200000001
-postcode: 17329
+postcode: "17329"
 city: Hohenholz
 street: "Dorfstraße"
 housenumber: 16a

@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 54.4542135
 longitude: 13.311089500000001
-postcode: 18569
+postcode: "18569"
 city: Kluis
 street: "Pansevitz"
 housenumber: 4

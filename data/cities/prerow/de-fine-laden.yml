@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.446824500000005
 longitude: 12.5671102
-postcode: 18375
+postcode: "18375"
 city: Prerow
 street: "Buchenstraße"
 housenumber: 2

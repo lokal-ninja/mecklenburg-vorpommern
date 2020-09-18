@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.307693400000005
 longitude: 13.097759400000001
-postcode: 18439
+postcode: "18439"
 city: Stralsund
 street: "Frankendamm"
 housenumber: 27

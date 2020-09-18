@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.0853097
 longitude: 12.1128432
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Ulmenmarkt"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.361396500000005
 longitude: 12.7161466
-postcode: 18356
+postcode: "18356"
 city: Barth
 street: "Mastweg"
 housenumber: 24

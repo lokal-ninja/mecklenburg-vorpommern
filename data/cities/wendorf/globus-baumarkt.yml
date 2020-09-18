@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.2810162
 longitude: 13.054458400000001
-postcode: 18442
+postcode: "18442"
 city: Wendorf
 street: "Albert-Schweitzer-Straße"
 housenumber: 9

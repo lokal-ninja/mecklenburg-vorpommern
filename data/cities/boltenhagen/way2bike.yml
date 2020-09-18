@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.9857985
 longitude: 11.207590000000001
-postcode: 23946
+postcode: "23946"
 city: Boltenhagen
 street: "Ostseeallee"
 housenumber: 15b

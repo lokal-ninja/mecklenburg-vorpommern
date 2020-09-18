@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 54.0878102
 longitude: 12.1161986
-postcode: 18057
+postcode: "18057"
 city: Rostock
 street: "Barnstorfer Weg"
 housenumber: 22

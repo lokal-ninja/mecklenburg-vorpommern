@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.6358808
 longitude: 14.0334368
-postcode: 17358
+postcode: "17358"
 city: Torgelow
 street: "Tschaikowskistraße"
 housenumber: 13

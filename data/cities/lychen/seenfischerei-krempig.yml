@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.2539122
 longitude: 13.343140900000002
-postcode: 17279
+postcode: "17279"
 city: Lychen
 street: "Beenzhof"
 housenumber: 1

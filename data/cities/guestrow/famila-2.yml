@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7997731
 longitude: 12.154638100000001
-postcode: 18273
+postcode: "18273"
 city: Güstrow
 street: "Heideweg"
 housenumber: 25

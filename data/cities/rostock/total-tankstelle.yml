@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.0765917
 longitude: 12.1192413
-postcode: 18059
+postcode: "18059"
 city: Rostock
 street: "Erich-Schlesinger-Straße"
 housenumber: 26

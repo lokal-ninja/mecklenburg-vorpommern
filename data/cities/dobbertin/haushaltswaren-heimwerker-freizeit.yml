@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.6234801
 longitude: 12.0745486
-postcode: 19399
+postcode: "19399"
 city: Dobbertin
 street: "Kleestener Weg"
 housenumber: 9

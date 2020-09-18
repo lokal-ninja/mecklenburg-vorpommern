@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.0807566
 longitude: 13.427802900000001
-postcode: 17491
+postcode: "17491"
 city: Greifswald
 street: "Koitenhäger Landstraße"
 housenumber: 21

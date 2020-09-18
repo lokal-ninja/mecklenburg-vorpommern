@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.3286427
 longitude: 11.502475
-postcode: 19288
+postcode: "19288"
 city: Ludwigslust
 street: "Neue Torstraße"
 housenumber: 15A

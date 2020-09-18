@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.355986300000005
 longitude: 13.0813591
-postcode: 17235
+postcode: "17235"
 city: Neustrelitz
 street: "Lessingstraße"
 housenumber: 42a

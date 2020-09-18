@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 54.068217600000004
 longitude: 13.393438000000002
-postcode: 17489
+postcode: "17489"
 city: Greifswald
 street: "Am Koppelberg"
 housenumber: 16
