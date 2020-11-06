@@ -1,4 +1,4 @@
-baseURL = "https://lokal.ninja/mecklenburg-vorpommern"
+baseURL = "https://de.shoogle.net/mecklenburg-vorpommern"
 languageCode = "de-DE"
 title = "Mecklenburg-Vorpommern"
 theme = "ln-base"
@@ -10,6 +10,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   section = ["HTML", "JSON"]
 
 [params]
-  site = "Lokal Ninja"
+  site = "Shoogle"
   org = "lokal-ninja"
   repo = "mecklenburg-vorpommern"
