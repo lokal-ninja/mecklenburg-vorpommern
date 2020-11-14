@@ -1,12 +1,12 @@
-id: 33839253
-type: way
-shop: Eisenwaren
-latitude: 54.093792300000004
-longitude: 12.1554754
+id: 7951606860
+type: node
+shop: Baustoffe
+latitude: 54.092840100000004
+longitude: 12.156495900000001
 postcode: "18146"
 city: Rostock
 street: "Altkarlshof"
-housenumber: 3
+housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 06:30-17:00; Fr 06:30-15:00; Sa,Su,PH off"
 website: ""

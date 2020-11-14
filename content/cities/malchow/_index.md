@@ -1,6 +1,6 @@
 ---
 title: Malchow
 url: /malchow/
-latitude: 53.4775641
-longitude: 12.4245172
+latitude: 53.419224500000006
+longitude: 13.925662800000001
 ---

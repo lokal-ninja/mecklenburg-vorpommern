@@ -1,4 +1,4 @@
 ---
-title: "khair"
+title: "KHair"
 url: /rostock/khair/
 ---

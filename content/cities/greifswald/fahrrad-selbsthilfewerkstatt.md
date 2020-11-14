@@ -1,4 +1,4 @@
 ---
-title: "Fahrrad Selbsthilfewerkstatt"
+title: "Fahrrad-Selbsthilfewerkstatt"
 url: /greifswald/fahrrad-selbsthilfewerkstatt/
 ---

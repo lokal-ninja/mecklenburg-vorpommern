@@ -1,6 +1,6 @@
 ---
 title: Lütow
 url: /luetow/
-latitude: 54.013518600000005
-longitude: 13.878854700000002
+latitude: 54.013513200000006
+longitude: 13.878732900000001
 ---
