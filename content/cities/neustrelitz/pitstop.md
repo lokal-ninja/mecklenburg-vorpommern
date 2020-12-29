@@ -1,4 +1,4 @@
 ---
-title: "Pitstop"
+title: "pitstop"
 url: /neustrelitz/pitstop/
 ---

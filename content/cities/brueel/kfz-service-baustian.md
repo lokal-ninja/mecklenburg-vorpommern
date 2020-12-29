@@ -1,4 +1,4 @@
 ---
-title: "KFZ-SERVICE-BAUSTIAN"
+title: "KFZ-Service-Baustian"
 url: /brueel/kfz-service-baustian/
 ---

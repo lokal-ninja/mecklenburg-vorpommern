@@ -1,4 +1,4 @@
 ---
-title: "mobilcom debitel"
+title: "Mobilcom Debitel"
 url: /guestrow/mobilcom-debitel/
 ---

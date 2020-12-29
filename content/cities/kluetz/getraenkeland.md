@@ -1,4 +1,4 @@
 ---
-title: "GetränkeLand"
+title: "Getränkeland"
 url: /kluetz/getraenkeland/
 ---

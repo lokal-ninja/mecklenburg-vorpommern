@@ -1,4 +1,4 @@
 ---
-title: "EUROMASTER"
+title: "Euromaster"
 url: /neuenkirchen/euromaster/
 ---

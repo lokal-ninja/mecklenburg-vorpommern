@@ -1,4 +1,4 @@
 ---
-title: "first stop"
+title: "First Stop"
 url: /schwerin/first-stop/
 ---

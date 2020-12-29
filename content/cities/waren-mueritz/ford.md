@@ -1,4 +1,4 @@
 ---
-title: "FORD"
+title: "Ford"
 url: /waren-mueritz/ford/
 ---
