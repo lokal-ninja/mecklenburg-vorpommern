@@ -1,12 +1,11 @@
-id: 4220204634
-type: node
-shop: Kosmetik
-latitude: 54.087447700000006
-longitude: 12.1144884
-postcode: "18057"
+id: 34392336
+type: way
+latitude: 54.091658100000004
+longitude: 12.135779300000001
+postcode: "18055"
 city: Rostock
-street: "Waldemarstraße"
-housenumber: 4
+street: "Wokrenterstraße"
+housenumber: 31
 phone: ""
-opening_hours: "Mo-Th nach Vereinbarung"
+opening_hours: ""
 website: ""

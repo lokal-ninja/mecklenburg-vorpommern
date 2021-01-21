@@ -1,6 +1,5 @@
 id: 7277977438
 type: node
-shop: Autohaus
 latitude: 53.37166190000001
 longitude: 13.073660100000001
 postcode: "17235"
@@ -9,4 +8,4 @@ street: "Hohenzieritzer Straße"
 housenumber: 35
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.autokuhn.com/"

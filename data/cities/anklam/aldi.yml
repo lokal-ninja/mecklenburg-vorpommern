@@ -1,6 +1,5 @@
 id: 143245094
 type: way
-shop: Supermarkt
 latitude: 53.8595303
 longitude: 13.6934941
 postcode: "17389"
@@ -8,5 +7,5 @@ city: Anklam
 street: "Silostraße"
 housenumber: 3a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""
