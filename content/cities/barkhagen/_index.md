@@ -1,6 +1,6 @@
 ---
 title: Barkhagen
 url: /barkhagen/
-latitude: 53.463
-longitude: 12.176
+latitude: 53.497
+longitude: 12.211
 ---
