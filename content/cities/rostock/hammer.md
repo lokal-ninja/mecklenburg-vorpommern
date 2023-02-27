@@ -1,5 +1,5 @@
 ---
 title: "Hammer"
 url: /rostock/hammer/
-shop: Raumausstattung
+shop: Baumarkt
 ---
