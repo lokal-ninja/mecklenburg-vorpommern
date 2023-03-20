@@ -1,5 +1,5 @@
 ---
-title: "Bugatti"
+title: "bugatti"
 url: /stralsund/bugatti/
 shop: Kleidung
 ---
