@@ -1,6 +1,6 @@
 ---
 title: Zarrentin am Schaalsee
 url: /zarrentin-am-schaalsee/
-latitude: 53.546
-longitude: 10.978
+latitude: 53.548
+longitude: 10.92
 ---

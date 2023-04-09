@@ -1,11 +1,11 @@
-id: 34384619
-type: way
-latitude: 54.14153
-longitude: 12.06593
-postcode: "18109"
+id: 10781992315
+type: node
+latitude: 54.17382
+longitude: 12.08703
+postcode: "18119"
 city: Rostock
-street: "Alte Warnemünder Chaussee"
-housenumber: 6
+street: "Rostocker Straße"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 9:00-19:00, Sa 9:00-18:00"
-website: "https://www.futterhaus.de/"
+opening_hours: ""
+website: ""
