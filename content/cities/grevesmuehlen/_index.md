@@ -1,6 +1,6 @@
 ---
 title: Grevesmühlen
 url: /grevesmuehlen/
-latitude: 53.867
-longitude: 11.185
+latitude: 53.853
+longitude: 11.18
 ---
