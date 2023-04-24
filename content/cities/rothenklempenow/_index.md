@@ -1,6 +1,6 @@
 ---
 title: Rothenklempenow
 url: /rothenklempenow/
-latitude: 53.486
+latitude: 53.485
 longitude: 14.213
 ---
