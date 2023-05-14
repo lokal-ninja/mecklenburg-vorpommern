@@ -1,5 +1,5 @@
 ---
 title: "topwell"
 url: /greifswald/topwell/
-shop: Allgemein
+shop: Friseurbedarf
 ---
