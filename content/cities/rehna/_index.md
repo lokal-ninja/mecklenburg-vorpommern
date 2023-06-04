@@ -1,6 +1,6 @@
 ---
 title: Rehna
 url: /rehna/
-latitude: 53.781
-longitude: 11.045
+latitude: 53.779
+longitude: 11.049
 ---
