@@ -1,5 +1,5 @@
 ---
-title: "Vodafone"
+title: "vodafone"
 url: /wismar/vodafone/
 shop: Handy
 ---
