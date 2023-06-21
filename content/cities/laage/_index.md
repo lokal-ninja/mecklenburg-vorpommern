@@ -1,6 +1,6 @@
 ---
 title: Laage
 url: /laage/
-latitude: 53.928
-longitude: 12.346
+latitude: 53.932
+longitude: 12.31
 ---
