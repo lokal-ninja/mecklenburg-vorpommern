@@ -1,6 +1,6 @@
 ---
 title: Gnoien
 url: /gnoien/
-latitude: 53.974
-longitude: 12.696
+latitude: 53.969
+longitude: 12.709
 ---
