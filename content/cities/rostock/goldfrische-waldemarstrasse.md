@@ -1,5 +1,5 @@
 ---
-title: "Goldfrische"
+title: "goldfrische"
 url: /rostock/goldfrische/
 shop: Schmuck
 ---
