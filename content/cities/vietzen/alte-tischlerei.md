@@ -1,5 +1,5 @@
 ---
 title: "Alte Tischlerei"
-url: /rechlin/alte-tischlerei/
+url: /vietzen/alte-tischlerei/
 shop: Lebensmittel
 ---
