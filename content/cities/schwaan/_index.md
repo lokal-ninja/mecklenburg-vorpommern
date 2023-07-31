@@ -1,6 +1,6 @@
 ---
 title: Schwaan
 url: /schwaan/
-latitude: 53.94
+latitude: 53.939
 longitude: 12.107
 ---
