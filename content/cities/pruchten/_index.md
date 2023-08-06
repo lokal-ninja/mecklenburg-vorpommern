@@ -1,6 +1,6 @@
 ---
 title: Pruchten
 url: /pruchten/
-latitude: 54.381
-longitude: 12.68
+latitude: 54.379
+longitude: 12.673
 ---
