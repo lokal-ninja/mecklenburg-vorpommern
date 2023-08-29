@@ -1,5 +1,5 @@
 ---
-title: "NETTO"
+title: "Netto"
 url: /pasewalk/netto/
 shop: Supermarkt
 ---

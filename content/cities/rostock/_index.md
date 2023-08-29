@@ -1,6 +1,6 @@
 ---
 title: Rostock
 url: /rostock/
-latitude: 54.089
-longitude: 12.103
+latitude: 54.113
+longitude: 12.138
 ---
