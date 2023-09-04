@@ -1,5 +1,5 @@
 ---
 title: "Umsonstladen"
 url: /penzlin/umsonstladen/
-shop: Allgemein
+shop: Gebrauchtwaren
 ---
