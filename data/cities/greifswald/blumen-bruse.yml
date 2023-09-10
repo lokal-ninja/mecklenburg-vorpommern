@@ -1,11 +1,11 @@
-id: 892458075
-type: node
-latitude: 54.07913
-longitude: 13.41323
+id: 603393493
+type: way
+latitude: 54.07664
+longitude: 13.43072
 postcode: "17491"
 city: Greifswald
-street: "Ernst-Thälmann-Ring"
-housenumber: 4c
+street: "Anklamer Landstraße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su 09:00-11:00; PH closed"
+opening_hours: "Mo-Sa 08:00-20:00; PH closed"
 website: ""
