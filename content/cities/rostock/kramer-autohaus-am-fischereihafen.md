@@ -1,5 +1,5 @@
 ---
 title: "Kramer Autohaus"
-url: /rostock/kramer-autohaus/
+url: /rostock/kramer-autohaus-am-fischereihafen/
 shop: Autohaus
 ---

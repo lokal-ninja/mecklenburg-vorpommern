@@ -1,5 +1,5 @@
 ---
 title: "Usedomer Wild"
-url: /krummin-ot-neeberg/usedomer-wild/
+url: /krummin/usedomer-wild/
 shop: Metzgerei
 ---

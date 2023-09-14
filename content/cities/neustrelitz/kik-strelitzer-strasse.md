@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /neustrelitz/kik/
+url: /neustrelitz/kik-strelitzer-strasse/
 shop: Kleidung
 ---

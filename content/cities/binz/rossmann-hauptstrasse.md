@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /binz/rossmann/
+url: /binz/rossmann-hauptstrasse/
 shop: Drogerie
 ---

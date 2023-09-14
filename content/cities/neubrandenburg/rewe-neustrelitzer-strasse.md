@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /neubrandenburg/rewe/
+url: /neubrandenburg/rewe-neustrelitzer-strasse/
 shop: Supermarkt
 ---

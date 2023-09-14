@@ -1,5 +1,5 @@
 ---
 title: "Junge"
-url: /barth/junge/
+url: /barth/junge-lange-strasse/
 shop: Bäckerei
 ---

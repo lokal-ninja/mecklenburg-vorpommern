@@ -1,5 +1,5 @@
 ---
 title: "Getränkeland"
-url: /greifswald/getraenkeland/
+url: /greifswald/getraenkeland-sandfuhr/
 shop: Getränke
 ---

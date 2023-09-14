@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /rostock/tedi/
+url: /rostock/tedi-albert-schweitzer-strasse/
 shop: Kramladen
 ---

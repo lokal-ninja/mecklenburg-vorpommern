@@ -1,5 +1,5 @@
 ---
 title: "Nobelviertel"
-url: /neubrandenburg/nobelviertel/
+url: /neubrandenburg/nobelviertel-turmstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /parchim/lidl/
+url: /parchim/lidl-ludwigsluster-chaussee/
 shop: Supermarkt
 ---

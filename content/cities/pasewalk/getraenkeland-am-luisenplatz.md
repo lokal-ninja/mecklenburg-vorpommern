@@ -1,5 +1,5 @@
 ---
 title: "Getränkeland"
-url: /pasewalk/getraenkeland/
+url: /pasewalk/getraenkeland-am-luisenplatz/
 shop: Getränke
 ---

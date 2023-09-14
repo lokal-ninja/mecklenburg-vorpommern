@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /rostock/norma/
+url: /rostock/norma-hundsburgallee/
 shop: Supermarkt
 ---

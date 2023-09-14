@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /binz/edeka/
+url: /binz/edeka-schillerstrasse/
 shop: Supermarkt
 ---

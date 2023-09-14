@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /greifswald/rossmann/
+url: /greifswald/rossmann-ernst-thaelmann-ring/
 shop: Drogerie
 ---

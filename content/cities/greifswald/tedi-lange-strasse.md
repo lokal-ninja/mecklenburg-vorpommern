@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /greifswald/tedi/
+url: /greifswald/tedi-lange-strasse/
 shop: Kramladen
 ---

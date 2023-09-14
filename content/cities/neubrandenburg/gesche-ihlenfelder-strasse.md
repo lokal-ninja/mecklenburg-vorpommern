@@ -1,5 +1,5 @@
 ---
 title: "Gesche"
-url: /neubrandenburg/gesche/
+url: /neubrandenburg/gesche-ihlenfelder-strasse/
 shop: Bäckerei
 ---

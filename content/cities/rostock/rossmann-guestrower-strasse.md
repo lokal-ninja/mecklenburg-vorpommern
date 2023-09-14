@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /rostock/rossmann/
+url: /rostock/rossmann-guestrower-strasse/
 shop: Drogerie
 ---

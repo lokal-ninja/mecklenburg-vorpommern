@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /guestrow/netto/
+url: /guestrow/netto-platz-der-freundschaft/
 shop: Supermarkt
 ---

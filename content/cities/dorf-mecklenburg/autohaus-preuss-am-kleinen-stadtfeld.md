@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Preuss"
-url: /dorf-mecklenburg/autohaus-preuss/
+url: /dorf-mecklenburg/autohaus-preuss-am-kleinen-stadtfeld/
 shop: Autohaus
 ---

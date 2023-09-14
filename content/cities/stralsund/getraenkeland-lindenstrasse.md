@@ -1,5 +1,5 @@
 ---
 title: "Getränkeland"
-url: /stralsund/getraenkeland/
+url: /stralsund/getraenkeland-lindenstrasse/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marzin"
-url: /heringsdorf/marzin/
+url: /heringsdorf/marzin-duenenstrasse/
 shop: Kleidung
 ---

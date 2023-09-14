@@ -1,5 +1,5 @@
 ---
 title: "Boboq"
-url: /neubrandenburg/boboq/
+url: /neubrandenburg/boboq-marktplatz/
 shop: Getränke
 ---

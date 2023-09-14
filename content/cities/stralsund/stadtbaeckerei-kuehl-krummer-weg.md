@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäckerei Kühl"
-url: /stralsund/stadtbaeckerei-kuehl/
+url: /stralsund/stadtbaeckerei-kuehl-krummer-weg/
 shop: Bäckerei
 ---

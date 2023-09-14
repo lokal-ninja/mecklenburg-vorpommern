@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /neubrandenburg/kik/
+url: /neubrandenburg/kik-akeleiweg/
 shop: Kleidung
 ---

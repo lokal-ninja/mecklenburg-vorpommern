@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /greifswald/dm/
+url: /greifswald/dm-bahnhofstrasse/
 shop: Drogerie
 ---

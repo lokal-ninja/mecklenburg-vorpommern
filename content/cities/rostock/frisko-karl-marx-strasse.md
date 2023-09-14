@@ -1,5 +1,5 @@
 ---
 title: "Frisko"
-url: /rostock/frisko/
+url: /rostock/frisko-karl-marx-strasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /neubrandenburg/aldi/
+url: /neubrandenburg/aldi-eschenhof/
 shop: Supermarkt
 ---

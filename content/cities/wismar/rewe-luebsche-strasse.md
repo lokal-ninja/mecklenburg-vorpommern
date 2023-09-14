@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /wismar/rewe/
+url: /wismar/rewe-luebsche-strasse/
 shop: Supermarkt
 ---

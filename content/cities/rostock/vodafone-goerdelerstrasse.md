@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /rostock/vodafone/
+url: /rostock/vodafone-goerdelerstrasse/
 shop: Handy
 ---

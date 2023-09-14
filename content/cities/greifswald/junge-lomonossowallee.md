@@ -1,5 +1,5 @@
 ---
 title: "Junge"
-url: /greifswald/junge/
+url: /greifswald/junge-lomonossowallee/
 shop: Bäckerei
 ---

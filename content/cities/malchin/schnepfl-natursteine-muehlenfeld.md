@@ -1,5 +1,5 @@
 ---
 title: "Schnepfl Natursteine"
-url: /malchin/schnepfl-natursteine/
+url: /malchin/schnepfl-natursteine-muehlenfeld/
 shop: Baumarkt
 ---

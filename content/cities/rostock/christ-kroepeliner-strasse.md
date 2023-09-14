@@ -1,5 +1,5 @@
 ---
 title: "Christ"
-url: /rostock/christ/
+url: /rostock/christ-kroepeliner-strasse/
 shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ditsch"
-url: /rostock/ditsch/
+url: /rostock/ditsch-konrad-adenauer-platz/
 shop: Bäckerei
 ---

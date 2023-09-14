@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /neubrandenburg/kaufland/
+url: /neubrandenburg/kaufland-juri-gagarin-ring-2/
 shop: Einkaufszentrum
 ---

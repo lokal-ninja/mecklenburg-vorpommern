@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /stralsund/deichmann/
+url: /stralsund/deichmann-rostocker-chaussee/
 shop: Schuhe
 ---

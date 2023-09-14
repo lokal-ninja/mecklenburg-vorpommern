@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /stralsund/rewe/
+url: /stralsund/rewe-heinrich-heine-ring/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bräsel & Sohn"
-url: /demmin/braesel-und-sohn/
+url: /demmin/braesel-und-sohn-rosestrasse/
 shop: Bäckerei
 ---

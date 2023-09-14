@@ -1,5 +1,5 @@
 ---
 title: "Ford"
-url: /neubrandenburg/ford/
+url: /neubrandenburg/ford-am-gartenbau/
 shop: Autohaus
 ---

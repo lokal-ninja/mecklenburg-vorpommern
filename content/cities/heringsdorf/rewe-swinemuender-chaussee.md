@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /heringsdorf/rewe/
+url: /heringsdorf/rewe-swinemuender-chaussee/
 shop: Supermarkt
 ---

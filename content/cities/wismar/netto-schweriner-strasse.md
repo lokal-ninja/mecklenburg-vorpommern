@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /wismar/netto/
+url: /wismar/netto-schweriner-strasse/
 shop: Supermarkt
 ---

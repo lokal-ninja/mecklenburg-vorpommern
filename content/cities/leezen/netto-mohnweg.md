@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /leezen/netto/
+url: /leezen/netto-mohnweg/
 shop: Einkaufszentrum
 ---

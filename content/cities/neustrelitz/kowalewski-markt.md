@@ -1,5 +1,5 @@
 ---
 title: "Kowalewski"
-url: /neustrelitz/kowalewski/
+url: /neustrelitz/kowalewski-markt/
 shop: Bäckerei
 ---

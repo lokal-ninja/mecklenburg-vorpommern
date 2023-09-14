@@ -1,5 +1,5 @@
 ---
 title: "Lila Bäcker"
-url: /loecknitz/lila-baecker/
+url: /loecknitz/lila-baecker-chausseestrasse/
 shop: Bäckerei
 ---

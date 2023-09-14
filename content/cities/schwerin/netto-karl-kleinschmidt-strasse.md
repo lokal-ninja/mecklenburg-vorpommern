@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /schwerin/netto/
+url: /schwerin/netto-karl-kleinschmidt-strasse/
 shop: Supermarkt
 ---

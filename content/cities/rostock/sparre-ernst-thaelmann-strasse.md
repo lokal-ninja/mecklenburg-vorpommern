@@ -1,5 +1,5 @@
 ---
 title: "Sparre"
-url: /rostock/sparre/
+url: /rostock/sparre-ernst-thaelmann-strasse/
 shop: Bäckerei
 ---

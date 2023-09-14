@@ -1,5 +1,5 @@
 ---
 title: "Greifenwerkstatt"
-url: /greifswald/greifenwerkstatt/
+url: /greifswald/greifenwerkstatt-feldstrasse/
 shop: Fahrrad
 ---

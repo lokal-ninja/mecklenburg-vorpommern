@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /greifswald/kik/
+url: /greifswald/kik-grimmer-strasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /wismar/rossmann/
+url: /wismar/rossmann-am-wiesengrund/
 shop: Drogerie
 ---

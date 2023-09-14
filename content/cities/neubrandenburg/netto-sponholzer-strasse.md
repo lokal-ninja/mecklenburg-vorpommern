@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /neubrandenburg/netto/
+url: /neubrandenburg/netto-sponholzer-strasse/
 shop: Supermarkt
 ---

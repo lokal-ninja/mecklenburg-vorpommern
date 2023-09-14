@@ -1,5 +1,5 @@
 ---
 title: "Junge"
-url: /heringsdorf/junge/
+url: /heringsdorf/junge-promenade/
 shop: Bäckerei
 ---

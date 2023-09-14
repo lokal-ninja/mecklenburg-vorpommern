@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /rostock/tedi/
+url: /rostock/tedi-hannes-meyer-platz/
 shop: Kramladen
 ---

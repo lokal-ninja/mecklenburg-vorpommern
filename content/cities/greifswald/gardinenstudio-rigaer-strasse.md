@@ -1,5 +1,5 @@
 ---
 title: "Gardinenstudio"
-url: /greifswald/gardinenstudio/
+url: /greifswald/gardinenstudio-rigaer-strasse/
 shop: Textil
 ---

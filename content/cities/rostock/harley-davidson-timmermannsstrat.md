@@ -1,5 +1,5 @@
 ---
 title: "Harley-Davidson"
-url: /rostock/harley-davidson/
+url: /rostock/harley-davidson-timmermannsstrat/
 shop: Motorrad
 ---

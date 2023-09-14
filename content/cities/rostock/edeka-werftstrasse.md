@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /rostock/edeka/
+url: /rostock/edeka-werftstrasse/
 shop: Supermarkt
 ---

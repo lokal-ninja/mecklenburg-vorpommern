@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /rostock/netto/
+url: /rostock/netto-flasskoppweg/
 shop: Supermarkt
 ---

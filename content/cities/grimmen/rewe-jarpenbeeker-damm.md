@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /grimmen/rewe/
+url: /grimmen/rewe-jarpenbeeker-damm/
 shop: Supermarkt
 ---

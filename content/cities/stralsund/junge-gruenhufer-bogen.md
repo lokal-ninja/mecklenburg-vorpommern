@@ -1,5 +1,5 @@
 ---
 title: "Junge"
-url: /stralsund/junge/
+url: /stralsund/junge-gruenhufer-bogen/
 shop: Bäckerei
 ---

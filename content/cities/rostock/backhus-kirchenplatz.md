@@ -1,5 +1,5 @@
 ---
 title: "Backhus"
-url: /rostock/backhus/
+url: /rostock/backhus-kirchenplatz/
 shop: Bäckerei
 ---

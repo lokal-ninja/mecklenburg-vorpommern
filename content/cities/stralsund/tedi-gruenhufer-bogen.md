@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /stralsund/tedi/
+url: /stralsund/tedi-gruenhufer-bogen/
 shop: Kramladen
 ---

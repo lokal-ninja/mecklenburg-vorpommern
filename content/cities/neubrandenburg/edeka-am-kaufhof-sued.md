@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /neubrandenburg/edeka/
+url: /neubrandenburg/edeka-am-kaufhof-sued/
 shop: Supermarkt
 ---

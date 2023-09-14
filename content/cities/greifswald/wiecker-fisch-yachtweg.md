@@ -1,5 +1,5 @@
 ---
 title: "Wiecker Fisch"
-url: /greifswald/wiecker-fisch/
+url: /greifswald/wiecker-fisch-yachtweg/
 shop: Fisch
 ---

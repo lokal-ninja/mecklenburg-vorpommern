@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /leezen/norma/
+url: /leezen/norma-zittower-strasse/
 shop: Einkaufszentrum
 ---

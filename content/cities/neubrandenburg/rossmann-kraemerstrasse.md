@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /neubrandenburg/rossmann/
+url: /neubrandenburg/rossmann-kraemerstrasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /schwerin/edeka/
+url: /schwerin/edeka-wismarsche-strasse/
 shop: Supermarkt
 ---

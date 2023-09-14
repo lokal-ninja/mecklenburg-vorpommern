@@ -1,5 +1,5 @@
 ---
 title: "Sundflor"
-url: /stralsund/sundflor/
+url: /stralsund/sundflor-heilgeiststrasse/
 shop: Blumen
 ---

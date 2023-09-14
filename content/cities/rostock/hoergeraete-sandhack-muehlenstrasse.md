@@ -1,5 +1,5 @@
 ---
 title: "Hörgeräte Sandhack"
-url: /rostock/hoergeraete-sandhack/
+url: /rostock/hoergeraete-sandhack-muehlenstrasse/
 shop: Hörgeräte
 ---

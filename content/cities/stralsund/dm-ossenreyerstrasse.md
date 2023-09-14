@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /stralsund/dm/
+url: /stralsund/dm-ossenreyerstrasse/
 shop: Drogerie
 ---

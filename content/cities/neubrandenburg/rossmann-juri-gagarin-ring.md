@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /neubrandenburg/rossmann/
+url: /neubrandenburg/rossmann-juri-gagarin-ring/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /guestrow/lidl/
+url: /guestrow/lidl-rostocker-chaussee/
 shop: Supermarkt
 ---

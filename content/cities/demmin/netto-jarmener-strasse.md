@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /demmin/netto/
+url: /demmin/netto-jarmener-strasse/
 shop: Supermarkt
 ---

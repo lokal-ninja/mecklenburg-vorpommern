@@ -1,5 +1,5 @@
 ---
 title: "Gesche"
-url: /neubrandenburg/gesche/
+url: /neubrandenburg/gesche-ziolkowskistrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /greifswald/lidl/
+url: /greifswald/lidl-hasenwinkel/
 shop: Supermarkt
 ---

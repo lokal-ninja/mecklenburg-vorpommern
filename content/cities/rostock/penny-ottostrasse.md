@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /rostock/penny/
+url: /rostock/penny-ottostrasse/
 shop: Supermarkt
 ---

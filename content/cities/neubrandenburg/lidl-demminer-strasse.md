@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /neubrandenburg/lidl/
+url: /neubrandenburg/lidl-demminer-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Junge"
-url: /kuehlungsborn/junge/
+url: /kuehlungsborn/junge-strandstrasse/
 shop: Bäckerei
 ---

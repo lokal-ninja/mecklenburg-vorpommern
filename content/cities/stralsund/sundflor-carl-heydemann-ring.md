@@ -1,5 +1,5 @@
 ---
 title: "Sundflor"
-url: /stralsund/sundflor/
+url: /stralsund/sundflor-carl-heydemann-ring/
 shop: Blumen
 ---

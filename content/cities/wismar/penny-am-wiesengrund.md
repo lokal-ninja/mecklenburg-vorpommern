@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /wismar/penny/
+url: /wismar/penny-am-wiesengrund/
 shop: Supermarkt
 ---

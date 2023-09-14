@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /schwerin/rossmann/
+url: /schwerin/rossmann-lessingstrasse/
 shop: Drogerie
 ---

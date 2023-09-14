@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /rostock/douglas/
+url: /rostock/douglas-kroepeliner-strasse/
 shop: Parfümerie
 ---

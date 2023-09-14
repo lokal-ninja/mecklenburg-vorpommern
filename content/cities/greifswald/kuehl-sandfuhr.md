@@ -1,5 +1,5 @@
 ---
 title: "Kühl"
-url: /greifswald/kuehl/
+url: /greifswald/kuehl-sandfuhr/
 shop: Bäckerei
 ---

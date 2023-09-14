@@ -1,5 +1,5 @@
 ---
 title: "BONITA"
-url: /stralsund/bonita/
+url: /stralsund/bonita-gruenhufer-bogen/
 shop: Kleidung
 ---

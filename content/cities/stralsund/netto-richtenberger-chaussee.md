@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /stralsund/netto/
+url: /stralsund/netto-richtenberger-chaussee/
 shop: Supermarkt
 ---

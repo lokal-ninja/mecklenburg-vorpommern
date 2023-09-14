@@ -1,5 +1,5 @@
 ---
 title: "Junge"
-url: /rostock/junge/
+url: /rostock/junge-schillingallee/
 shop: Bäckerei
 ---

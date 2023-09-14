@@ -1,5 +1,5 @@
 ---
 title: "XXXLutz"
-url: /neubrandenburg/xxxlutz/
+url: /neubrandenburg/xxxlutz-akeleiweg/
 shop: Möbel
 ---

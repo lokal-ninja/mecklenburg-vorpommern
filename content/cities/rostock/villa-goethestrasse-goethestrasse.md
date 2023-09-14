@@ -1,5 +1,5 @@
 ---
 title: "Villa Goethestraße"
-url: /rostock/villa-goethestrasse/
+url: /rostock/villa-goethestrasse-goethestrasse/
 shop: Friseur
 ---

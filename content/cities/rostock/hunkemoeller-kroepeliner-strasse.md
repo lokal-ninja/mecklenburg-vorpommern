@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /rostock/hunkemoeller/
+url: /rostock/hunkemoeller-kroepeliner-strasse/
 shop: Kleidung
 ---

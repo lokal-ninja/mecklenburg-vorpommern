@@ -1,5 +1,5 @@
 ---
 title: "Kadatz"
-url: /neubrandenburg/kadatz/
+url: /neubrandenburg/kadatz-burgholzstrasse/
 shop: Bäckerei
 ---

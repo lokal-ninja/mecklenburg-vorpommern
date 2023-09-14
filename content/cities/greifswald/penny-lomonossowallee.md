@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /greifswald/penny/
+url: /greifswald/penny-lomonossowallee/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /stralsund/tchibo/
+url: /stralsund/tchibo-gruenhufer-bogen/
 shop: Kaffee
 ---

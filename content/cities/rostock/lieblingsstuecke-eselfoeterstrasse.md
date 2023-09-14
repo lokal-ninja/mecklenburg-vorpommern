@@ -1,5 +1,5 @@
 ---
 title: "Lieblingsstücke"
-url: /rostock/lieblingsstuecke/
+url: /rostock/lieblingsstuecke-eselfoeterstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dybaré"
-url: /rostock/dybare/
+url: /rostock/dybare-kroepeliner-strasse/
 shop: Friseur
 ---

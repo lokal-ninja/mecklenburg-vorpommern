@@ -1,5 +1,5 @@
 ---
 title: "Wiecker Backstube"
-url: /wieck-a-darss/wiecker-backstube/
+url: /wieck-a-darss/wiecker-backstube-postreihe/
 shop: Bäckerei
 ---

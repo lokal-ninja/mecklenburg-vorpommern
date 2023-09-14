@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /schwerin/kaufland/
+url: /schwerin/kaufland-hamburger-allee/
 shop: Supermarkt
 ---

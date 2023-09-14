@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /greifswald/rewe/
+url: /greifswald/rewe-grimmer-strasse/
 shop: Supermarkt
 ---

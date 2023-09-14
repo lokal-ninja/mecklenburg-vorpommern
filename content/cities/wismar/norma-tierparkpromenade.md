@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /wismar/norma/
+url: /wismar/norma-tierparkpromenade/
 shop: Supermarkt
 ---

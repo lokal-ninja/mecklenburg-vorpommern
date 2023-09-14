@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /bergen-auf-ruegen/tedi/
+url: /bergen-auf-ruegen/tedi-ruschwitzstrasse/
 shop: Kramladen
 ---

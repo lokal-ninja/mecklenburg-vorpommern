@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /rostock/rossmann/
+url: /rostock/rossmann-bertolt-brecht-strasse/
 shop: Drogerie
 ---

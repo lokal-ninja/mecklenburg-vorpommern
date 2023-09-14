@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /boizenburg-elbe/rossmann/
+url: /boizenburg-elbe/rossmann-markt/
 shop: Drogerie
 ---

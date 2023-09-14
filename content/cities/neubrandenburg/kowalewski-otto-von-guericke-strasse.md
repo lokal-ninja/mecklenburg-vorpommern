@@ -1,5 +1,5 @@
 ---
 title: "Kowalewski"
-url: /neubrandenburg/kowalewski/
+url: /neubrandenburg/kowalewski-otto-von-guericke-strasse/
 shop: Bäckerei
 ---

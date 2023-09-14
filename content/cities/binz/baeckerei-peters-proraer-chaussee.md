@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Peters"
-url: /binz/baeckerei-peters/
+url: /binz/baeckerei-peters-proraer-chaussee/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kosmetiksalon"
-url: /rostock/kosmetiksalon/
+url: /rostock/kosmetiksalon-henrik-ibsen-strasse/
 shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /neustrelitz/netto/
+url: /neustrelitz/netto-zierker-strasse/
 shop: Supermarkt
 ---

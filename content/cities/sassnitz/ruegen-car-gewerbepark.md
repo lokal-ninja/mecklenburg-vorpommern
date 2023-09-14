@@ -1,5 +1,5 @@
 ---
 title: "RÜGEN-CAR"
-url: /sassnitz/ruegen-car/
+url: /sassnitz/ruegen-car-gewerbepark/
 shop: Autowerkstatt
 ---

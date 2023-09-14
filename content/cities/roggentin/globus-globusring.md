@@ -1,5 +1,5 @@
 ---
 title: "Globus"
-url: /roggentin/globus/
+url: /roggentin/globus-globusring/
 shop: Einkaufszentrum
 ---

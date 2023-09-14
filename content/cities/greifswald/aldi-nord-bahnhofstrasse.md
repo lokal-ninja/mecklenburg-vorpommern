@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /greifswald/aldi-nord/
+url: /greifswald/aldi-nord-bahnhofstrasse/
 shop: Supermarkt
 ---

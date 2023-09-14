@@ -1,5 +1,5 @@
 ---
 title: "Hansecenter"
-url: /bentwisch/hansecenter/
+url: /bentwisch/hansecenter-hansestrasse/
 shop: Einkaufszentrum
 ---

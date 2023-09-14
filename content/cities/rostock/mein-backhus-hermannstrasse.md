@@ -1,5 +1,5 @@
 ---
 title: "Mein Backhus"
-url: /rostock/mein-backhus/
+url: /rostock/mein-backhus-hermannstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sparre"
-url: /rostock/sparre/
+url: /rostock/sparre-walter-stoecker-strasse/
 shop: Bäckerei
 ---

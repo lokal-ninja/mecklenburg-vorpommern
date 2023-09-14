@@ -1,5 +1,5 @@
 ---
 title: "Nagelstudio"
-url: /rostock/nagelstudio/
+url: /rostock/nagelstudio-wokrenterstrasse/
 shop: Kosmetik
 ---

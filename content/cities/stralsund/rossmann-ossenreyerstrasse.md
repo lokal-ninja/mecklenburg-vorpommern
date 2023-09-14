@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /stralsund/rossmann/
+url: /stralsund/rossmann-ossenreyerstrasse/
 shop: Drogerie
 ---

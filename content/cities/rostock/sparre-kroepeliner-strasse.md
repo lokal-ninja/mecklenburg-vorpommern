@@ -1,5 +1,5 @@
 ---
 title: "Sparre"
-url: /rostock/sparre/
+url: /rostock/sparre-kroepeliner-strasse/
 shop: Bäckerei
 ---

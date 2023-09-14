@@ -1,5 +1,5 @@
 ---
 title: "Lila Bäcker"
-url: /rostock/lila-baecker/
+url: /rostock/lila-baecker-muehlenstrasse/
 shop: Bäckerei
 ---

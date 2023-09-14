@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Krämer"
-url: /stralsund/baeckerei-kraemer/
+url: /stralsund/baeckerei-kraemer-frankendamm/
 shop: Bäckerei
 ---

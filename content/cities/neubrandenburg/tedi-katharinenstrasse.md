@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /neubrandenburg/tedi/
+url: /neubrandenburg/tedi-katharinenstrasse/
 shop: Kramladen
 ---

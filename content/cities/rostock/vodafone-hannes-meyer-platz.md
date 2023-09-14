@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /rostock/vodafone/
+url: /rostock/vodafone-hannes-meyer-platz/
 shop: Handy
 ---

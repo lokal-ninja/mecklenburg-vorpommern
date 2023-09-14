@@ -1,6 +1,6 @@
 ---
 title: Kuchelmiß
 url: /kuchelmiss/
-latitude: 53.666
-longitude: 12.347
+latitude: 53.681
+longitude: 12.363
 ---

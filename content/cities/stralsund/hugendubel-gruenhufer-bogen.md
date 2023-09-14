@@ -1,5 +1,5 @@
 ---
 title: "Hugendubel"
-url: /stralsund/hugendubel/
+url: /stralsund/hugendubel-gruenhufer-bogen/
 shop: Bücher
 ---

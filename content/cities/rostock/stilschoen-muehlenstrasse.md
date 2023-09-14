@@ -1,5 +1,5 @@
 ---
 title: "Stilschön"
-url: /rostock/stilschoen/
+url: /rostock/stilschoen-muehlenstrasse/
 shop: Raumausstattung
 ---

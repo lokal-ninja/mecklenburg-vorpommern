@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /rostock/aldi-nord/
+url: /rostock/aldi-nord-hinrichsdorfer-strasse/
 shop: Supermarkt
 ---

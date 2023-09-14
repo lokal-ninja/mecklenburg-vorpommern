@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /stralsund/hunkemoeller/
+url: /stralsund/hunkemoeller-gruenhufer-bogen/
 shop: Kleidung
 ---

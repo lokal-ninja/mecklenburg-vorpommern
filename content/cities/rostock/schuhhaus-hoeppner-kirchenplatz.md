@@ -1,5 +1,5 @@
 ---
 title: "Schuhhaus Höppner"
-url: /rostock/schuhhaus-hoeppner/
+url: /rostock/schuhhaus-hoeppner-kirchenplatz/
 shop: Schuhe
 ---

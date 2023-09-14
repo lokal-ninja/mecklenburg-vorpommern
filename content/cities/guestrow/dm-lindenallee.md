@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /guestrow/dm/
+url: /guestrow/dm-lindenallee/
 shop: Drogerie
 ---

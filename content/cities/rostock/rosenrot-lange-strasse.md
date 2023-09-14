@@ -1,5 +1,5 @@
 ---
 title: "Rosenrot"
-url: /rostock/rosenrot/
+url: /rostock/rosenrot-lange-strasse/
 shop: Andenken
 ---

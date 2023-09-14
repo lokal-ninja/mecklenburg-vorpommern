@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /rostock/aenderungsschneiderei/
+url: /rostock/aenderungsschneiderei-kroepeliner-strasse/
 shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blumenhof Griem"
-url: /guestrow/blumenhof-griem/
+url: /guestrow/blumenhof-griem-seidelstrasse/
 shop: Blumen
 ---

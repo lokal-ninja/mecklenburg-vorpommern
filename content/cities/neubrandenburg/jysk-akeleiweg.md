@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /neubrandenburg/jysk/
+url: /neubrandenburg/jysk-akeleiweg/
 shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /guestrow/kik/
+url: /guestrow/kik-2/
 shop: Kleidung
 ---

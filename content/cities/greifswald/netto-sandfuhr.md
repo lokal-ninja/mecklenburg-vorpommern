@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /greifswald/netto/
+url: /greifswald/netto-sandfuhr/
 shop: Supermarkt
 ---

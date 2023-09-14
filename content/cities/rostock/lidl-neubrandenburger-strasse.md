@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /rostock/lidl/
+url: /rostock/lidl-neubrandenburger-strasse/
 shop: Supermarkt
 ---

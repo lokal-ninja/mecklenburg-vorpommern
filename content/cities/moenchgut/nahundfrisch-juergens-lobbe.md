@@ -1,5 +1,5 @@
 ---
 title: "nah&frisch Jürgens"
-url: /moenchgut/nahundfrisch-juergens/
+url: /moenchgut/nahundfrisch-juergens-lobbe/
 shop: Lebensmittel
 ---

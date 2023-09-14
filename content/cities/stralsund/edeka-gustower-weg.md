@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /stralsund/edeka/
+url: /stralsund/edeka-gustower-weg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marktkauf"
-url: /wismar/marktkauf/
+url: /wismar/marktkauf-zierower-landstrasse/
 shop: Supermarkt
 ---

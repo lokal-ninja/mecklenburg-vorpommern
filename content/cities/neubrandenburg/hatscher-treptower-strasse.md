@@ -1,5 +1,5 @@
 ---
 title: "Hatscher"
-url: /neubrandenburg/hatscher/
+url: /neubrandenburg/hatscher-treptower-strasse/
 shop: Bäckerei
 ---

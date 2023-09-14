@@ -1,5 +1,5 @@
 ---
 title: "Sparre"
-url: /rostock/sparre/
+url: /rostock/sparre-joliot-curie-allee/
 shop: Bäckerei
 ---

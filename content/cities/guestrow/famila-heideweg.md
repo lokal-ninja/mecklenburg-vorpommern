@@ -1,5 +1,5 @@
 ---
 title: "Famila"
-url: /guestrow/famila/
+url: /guestrow/famila-heideweg/
 shop: Supermarkt
 ---

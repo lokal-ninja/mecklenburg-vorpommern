@@ -1,5 +1,5 @@
 ---
 title: "Wolfsteller"
-url: /koserow/wolfsteller/
+url: /koserow/wolfsteller-hauptstrasse/
 shop: Bäckerei
 ---

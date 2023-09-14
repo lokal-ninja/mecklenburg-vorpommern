@@ -1,5 +1,5 @@
 ---
 title: "Spürsinn"
-url: /rostock/spuersinn/
+url: /rostock/spuersinn-eselfoeterstrasse/
 shop: Kleidung
 ---
