@@ -1,6 +1,6 @@
 ---
 title: Trassenheide
 url: /trassenheide/
-latitude: 54.078
-longitude: 13.868
+latitude: 54.088
+longitude: 13.862
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pferdesportbedarf"
 url: /sagard/pferdesportbedarf/
-shop: Einkaufszentrum
+shop: Pferde
 ---
