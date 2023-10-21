@@ -1,6 +1,6 @@
 ---
 title: Fuhlendorf
 url: /fuhlendorf/
-latitude: 54.368
-longitude: 12.609
+latitude: 54.36
+longitude: 12.603
 ---
