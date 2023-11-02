@@ -1,6 +1,6 @@
 ---
 title: Pasewalk
 url: /pasewalk/
-latitude: 53.504
-longitude: 14
+latitude: 53.507
+longitude: 13.99
 ---
