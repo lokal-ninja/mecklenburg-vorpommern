@@ -1,6 +1,6 @@
 ---
 title: Sievershagen
 url: /sievershagen/
-latitude: 54.107
-longitude: 12.036
+latitude: 54.106
+longitude: 12.031
 ---
