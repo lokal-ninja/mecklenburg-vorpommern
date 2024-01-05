@@ -1,5 +1,5 @@
 ---
-title: "Kiek In"
+title: "KIEK IN"
 url: /sassnitz/kiek-in/
 shop: Tee
 ---
