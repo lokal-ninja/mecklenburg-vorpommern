@@ -1,6 +1,6 @@
 ---
 title: Penkun
 url: /penkun/
-latitude: 53.307
-longitude: 14.247
+latitude: 53.297
+longitude: 14.235
 ---
