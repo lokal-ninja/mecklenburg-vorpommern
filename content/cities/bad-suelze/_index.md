@@ -1,6 +1,6 @@
 ---
 title: Bad Sülze
 url: /bad-suelze/
-latitude: 54.11
-longitude: 12.664
+latitude: 54.114
+longitude: 12.665
 ---
