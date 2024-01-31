@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /sievershagen/norma/
+url: /guestrow/norma/
 shop: Supermarkt
 ---
