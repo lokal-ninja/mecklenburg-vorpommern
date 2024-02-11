@@ -1,6 +1,6 @@
 ---
 title: Feldberger Seenlandschaft
 url: /feldberger-seenlandschaft/
-latitude: 53.335
-longitude: 13.439
+latitude: 53.319
+longitude: 13.443
 ---
