@@ -1,5 +1,5 @@
 ---
-title: "Arko"
+title: "arko"
 url: /neubrandenburg/arko/
-shop: Feinkost
+shop: Süßwaren
 ---
