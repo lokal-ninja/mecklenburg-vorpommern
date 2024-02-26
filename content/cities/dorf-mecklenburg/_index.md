@@ -1,6 +1,6 @@
 ---
 title: Dorf Mecklenburg
 url: /dorf-mecklenburg/
-latitude: 53.852
-longitude: 11.457
+latitude: 53.849
+longitude: 11.46
 ---
