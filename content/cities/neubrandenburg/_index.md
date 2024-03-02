@@ -1,6 +1,6 @@
 ---
 title: Neubrandenburg
 url: /neubrandenburg/
-latitude: 53.576
-longitude: 13.281
+latitude: 53.553
+longitude: 13.295
 ---
