@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Horn"
-url: /binz/baeckerei-horn/
+url: /ostseebad-binz/baeckerei-horn/
 shop: Bäckerei
 ---

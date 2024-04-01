@@ -1,5 +1,5 @@
 ---
 title: "Due Amiche Store"
-url: /binz/due-amiche-store/
+url: /ostseebad-binz/due-amiche-store/
 shop: Kleidung
 ---

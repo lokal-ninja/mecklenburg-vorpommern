@@ -1,5 +1,5 @@
 ---
-title: "Bau und Freizeitmarkt Glowe"
+title: "Bau- & Freizeitmarkt Glowe"
 url: /glowe/bau-und-freizeitmarkt-glowe/
-shop: Baumarkt
+shop: Eisenwaren
 ---
