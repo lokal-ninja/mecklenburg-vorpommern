@@ -1,5 +1,5 @@
 ---
-title: "PENNY | Am Finkenkamp"
+title: "PENNY Am Finkenkamp"
 url: /sternberg/penny-am-finkenkamp/
 shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Binz
 url: /binz/
-latitude: 54.401
-longitude: 13.605
+latitude: 54.409
+longitude: 13.6
 ---
