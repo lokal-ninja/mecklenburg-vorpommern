@@ -1,5 +1,5 @@
 ---
-title: "raab Karcher"
+title: "Raab Karcher"
 url: /rostock/raab-karcher/
-shop: Baumarkt
+shop: Baustoffe
 ---
