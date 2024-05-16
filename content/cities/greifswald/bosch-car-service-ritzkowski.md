@@ -1,5 +1,5 @@
 ---
-title: "Bosch car service Ritzkowski"
+title: "Bosch Car Service Ritzkowski"
 url: /greifswald/bosch-car-service-ritzkowski/
 shop: Autowerkstatt
 ---

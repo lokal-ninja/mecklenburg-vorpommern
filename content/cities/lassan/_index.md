@@ -1,6 +1,6 @@
 ---
 title: Lassan
 url: /lassan/
-latitude: 53.943
-longitude: 13.842
+latitude: 53.95
+longitude: 13.852
 ---
