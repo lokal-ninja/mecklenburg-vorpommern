@@ -1,5 +1,5 @@
 ---
 title: "Holzlädchen"
 url: /neustrelitz/holzlaedchen/
-shop: Basteln
+shop: Spielzeug
 ---
