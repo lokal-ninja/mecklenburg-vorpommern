@@ -1,5 +1,5 @@
 ---
 title: "Outlet Fleesensee"
-url: /penkow/outlet-fleesensee/
+url: /goehren-lebbin/outlet-fleesensee/
 shop: Kleidung
 ---

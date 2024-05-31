@@ -1,6 +1,6 @@
 ---
 title: Lübz
 url: /luebz/
-latitude: 53.461
-longitude: 12.028
+latitude: 53.466
+longitude: 12.039
 ---
