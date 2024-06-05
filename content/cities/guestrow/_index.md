@@ -1,6 +1,6 @@
 ---
 title: Güstrow
 url: /guestrow/
-latitude: 53.795
-longitude: 12.173
+latitude: 53.791
+longitude: 12.179
 ---

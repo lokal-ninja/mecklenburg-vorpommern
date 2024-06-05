@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /luebz/aldi/
 shop: Supermarkt
 ---
