@@ -1,5 +1,5 @@
 ---
-title: "Tavus"
+title: "TAVUS"
 url: /neubrandenburg/tavus/
 shop: Autohaus
 ---

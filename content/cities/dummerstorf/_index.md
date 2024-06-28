@@ -1,6 +1,6 @@
 ---
 title: Dummerstorf
 url: /dummerstorf/
-latitude: 54.038
-longitude: 12.296
+latitude: 54.062
+longitude: 12.179
 ---

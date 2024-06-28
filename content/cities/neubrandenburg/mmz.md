@@ -1,5 +1,5 @@
 ---
-title: "MMZ"
+title: "mmz"
 url: /neubrandenburg/mmz/
 shop: Möbel
 ---
