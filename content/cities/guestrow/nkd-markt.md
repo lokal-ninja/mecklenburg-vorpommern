@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /guestrow/nkd-pferdemarkt/
+url: /guestrow/nkd-markt/
 shop: Kleidung
 ---

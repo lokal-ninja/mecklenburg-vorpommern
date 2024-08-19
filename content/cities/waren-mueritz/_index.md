@@ -1,6 +1,6 @@
 ---
 title: Waren (Müritz)
 url: /waren-mueritz/
-latitude: 53.525
-longitude: 12.708
+latitude: 53.52
+longitude: 12.716
 ---
