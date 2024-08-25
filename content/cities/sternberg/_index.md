@@ -1,6 +1,6 @@
 ---
 title: Sternberg
 url: /sternberg/
-latitude: 53.713
-longitude: 11.823
+latitude: 53.712
+longitude: 11.828
 ---
