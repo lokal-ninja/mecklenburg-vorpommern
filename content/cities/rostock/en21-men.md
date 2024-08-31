@@ -1,5 +1,5 @@
 ---
-title: "eN21 men"
+title: "éN21 men"
 url: /rostock/en21-men/
 shop: Kleidung
 ---
