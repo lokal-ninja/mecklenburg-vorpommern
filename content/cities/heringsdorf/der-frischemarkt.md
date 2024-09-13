@@ -1,5 +1,5 @@
 ---
-title: "Der Frischemarkt"
+title: "DER Frischemarkt"
 url: /heringsdorf/der-frischemarkt/
 shop: Lebensmittel
 ---
