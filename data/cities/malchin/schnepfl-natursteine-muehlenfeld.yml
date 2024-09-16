@@ -1,11 +1,11 @@
 id: 121986621
-type: way
+type: node
 latitude: 53.738
 longitude: 12.78235
 postcode: "17139"
 city: Malchin
-street: "Mühlenfeld"
-housenumber: 24
+street: Mühlenfeld
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.89504
 longitude: 11.46681
 postcode: "23966"
 city: Wismar
-street: "Schweinsbrücke"
-housenumber: 9
-phone: "+49 3841 223597"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-13:00"
-website: "https://stiel-blüte-wismar.de"
+street: Schweinsbrücke
+housenumber: "9"
+phone: +49 3841 223597
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-13:00
+website: https://stiel-blüte-wismar.de

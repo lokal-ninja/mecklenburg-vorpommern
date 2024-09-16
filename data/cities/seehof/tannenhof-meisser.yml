@@ -1,11 +1,11 @@
 id: 89405710
-type: way
+type: node
 latitude: 53.70073
 longitude: 11.42012
 postcode: "19069"
 city: Seehof
-street: "Holunderweg"
-housenumber: 4
+street: Holunderweg
+housenumber: "4"
 phone: ""
 opening_hours: "off"
-website: "https://www.tannenhof-meisser.de"
+website: https://www.tannenhof-meisser.de

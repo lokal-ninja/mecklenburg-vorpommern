@@ -1,11 +1,11 @@
 id: 93429706
-type: way
+type: node
 latitude: 53.72273
 longitude: 11.50753
 postcode: "19067"
 city: Dobin am See
-street: "Seestraße"
-housenumber: 19
+street: Seestraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

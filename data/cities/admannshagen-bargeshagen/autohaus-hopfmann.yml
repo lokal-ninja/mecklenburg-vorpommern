@@ -1,11 +1,11 @@
 id: 89474703
-type: way
+type: node
 latitude: 54.11266
 longitude: 11.99316
 postcode: "18211"
 city: Admannshagen-Bargeshagen
-street: "Admannshäger Damm"
-housenumber: 12
+street: Admannshäger Damm
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

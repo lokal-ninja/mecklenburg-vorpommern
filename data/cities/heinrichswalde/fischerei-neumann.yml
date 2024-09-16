@@ -1,11 +1,11 @@
 id: 278790726
-type: way
+type: node
 latitude: 53.62166
 longitude: 13.76133
 postcode: "17379"
 city: Heinrichswalde
-street: "Dorfstraße"
-housenumber: 133
+street: Dorfstraße
+housenumber: "133"
 phone: ""
-opening_hours: "Mo-We 08:00-16:30; Th,Fr 08:00-18:00; Sa 08:00-11:00"
-website: "https://www.brohmerberge.de/gastgeber/gastgeber/heinrichswalde-fischerei-neumann"
+opening_hours: Mo-We 08:00-16:30; Th,Fr 08:00-18:00; Sa 08:00-11:00
+website: https://www.brohmerberge.de/gastgeber/gastgeber/heinrichswalde-fischerei-neumann

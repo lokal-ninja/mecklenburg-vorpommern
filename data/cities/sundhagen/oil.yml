@@ -1,11 +1,11 @@
 id: 188746806
-type: way
+type: node
 latitude: 54.20246
 longitude: 13.20148
 postcode: "18519"
 city: Sundhagen
-street: "Reinberger Straße"
-housenumber: 26
-phone: "+49 38328 70745"
-opening_hours: "24/7"
-website: "https://www.oil-tankstellen.de/tankstellen-tankstationen/tankstellenfinder-kraftstoffpreise-benzinpreise/tankstelle/reinberger-strasse-26-18519-sundhagen-ot-miltzow/"
+street: Reinberger Straße
+housenumber: "26"
+phone: +49 38328 70745
+opening_hours: 24/7
+website: https://www.oil-tankstellen.de/tankstellen-tankstationen/tankstellenfinder-kraftstoffpreise-benzinpreise/tankstelle/reinberger-strasse-26-18519-sundhagen-ot-miltzow/

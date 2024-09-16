@@ -1,11 +1,11 @@
 id: 338520491
-type: way
+type: node
 latitude: 53.79949
 longitude: 12.17659
 postcode: "18273"
 city: Güstrow
-street: "Neue Straße"
-housenumber: 39
+street: Neue Straße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

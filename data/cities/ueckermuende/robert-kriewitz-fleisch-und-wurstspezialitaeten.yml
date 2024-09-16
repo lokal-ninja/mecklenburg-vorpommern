@@ -4,8 +4,8 @@ latitude: 53.73793
 longitude: 14.0438
 postcode: "17373"
 city: Ueckermünde
-street: "Ueckerstraße"
-housenumber: 55
+street: Ueckerstraße
+housenumber: "55"
 phone: "+493977124760"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00"
-website: "https://robertkriewitz.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00
+website: https://robertkriewitz.de/

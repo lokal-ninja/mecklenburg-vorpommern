@@ -1,11 +1,11 @@
 id: 100603838
-type: way
+type: node
 latitude: 54.07107
 longitude: 11.80324
 postcode: "18236"
 city: Kröpelin
-street: "Rostocker Straße"
-housenumber: 88
+street: Rostocker Straße
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

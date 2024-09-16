@@ -1,11 +1,11 @@
 id: 135303839
-type: way
+type: node
 latitude: 53.34879
 longitude: 11.48934
 postcode: "19288"
 city: Ludwigslust
-street: "Wöbbeliner Straße"
-housenumber: 92
+street: Wöbbeliner Straße
+housenumber: "92"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

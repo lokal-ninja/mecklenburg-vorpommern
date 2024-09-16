@@ -1,11 +1,11 @@
 id: 129102760
-type: way
+type: node
 latitude: 53.98828
 longitude: 11.89217
 postcode: "18239"
 city: Satow
-street: "Fritz-Reuter-Straße"
-housenumber: 8
+street: Fritz-Reuter-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

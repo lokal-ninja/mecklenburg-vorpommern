@@ -4,8 +4,8 @@ latitude: 53.62835
 longitude: 11.41332
 postcode: "19053"
 city: Schwerin
-street: "Buschstraße"
-housenumber: 16
+street: Buschstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.onkeleisenbahn.de.tl/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.onkeleisenbahn.de.tl/

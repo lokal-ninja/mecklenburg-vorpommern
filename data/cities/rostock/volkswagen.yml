@@ -1,11 +1,11 @@
 id: 37871224
-type: way
+type: node
 latitude: 54.10172
 longitude: 12.18104
 postcode: "18146"
 city: Rostock
-street: "Rövershäger Chaussee"
-housenumber: 5
+street: Rövershäger Chaussee
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.vw-rostock.de/"
+website: https://www.vw-rostock.de/

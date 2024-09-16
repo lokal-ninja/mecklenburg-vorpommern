@@ -1,11 +1,11 @@
 id: 48797553
-type: way
+type: node
 latitude: 54.10407
 longitude: 11.9515
 postcode: "18209"
 city: Bartenshagen-Parkentin
-street: "Am Stegebach"
-housenumber: 1
+street: Am Stegebach
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-12:00"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-12:00
 website: ""

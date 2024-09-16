@@ -1,11 +1,11 @@
 id: 113615589
-type: way
+type: node
 latitude: 53.8378
 longitude: 10.7624
 postcode: "23923"
 city: Lüdersdorf
-street: "Am Bahnhof"
-housenumber: 1
+street: Am Bahnhof
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

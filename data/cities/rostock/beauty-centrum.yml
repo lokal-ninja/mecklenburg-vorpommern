@@ -4,8 +4,9 @@ latitude: 54.08196
 longitude: 12.14053
 postcode: "18055"
 city: Rostock
-street: "St.-Georg-Straße"
-housenumber: 111
+street: St.-Georg-Straße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo, We-Fr 09:00-17:00; Tu 09:00-19:00; Sa[2]09:00-13:00 || Termine nach Vereinbarung"
+opening_hours: Mo, We-Fr 09:00-17:00; Tu 09:00-19:00; Sa[2]09:00-13:00 || "Termine
+    nach Vereinbarung"
 website: ""

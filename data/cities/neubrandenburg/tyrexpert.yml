@@ -1,11 +1,11 @@
 id: 99860268
-type: way
+type: node
 latitude: 53.53752
 longitude: 13.2631
 postcode: "17033"
 city: Neubrandenburg
-street: "Neustrelitzer Straße"
+street: Neustrelitzer Straße
 housenumber: 70g
-phone: "+49 395 3682278"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.tyrexpert.de/standorte/detail/22-tyrexpert-neubrandenburg-sued.html"
+phone: +49 395 3682278
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.tyrexpert.de/standorte/detail/22-tyrexpert-neubrandenburg-sued.html

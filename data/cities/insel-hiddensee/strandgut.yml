@@ -1,11 +1,11 @@
 id: 525825197
-type: way
+type: node
 latitude: 54.52635
 longitude: 13.08752
 postcode: "18565"
 city: Insel Hiddensee
-street: "Dörpstraat"
-housenumber: 9
+street: Dörpstraat
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:00,14:00-17:00"
+opening_hours: Mo-Sa 10:00-12:00,14:00-17:00
 website: ""

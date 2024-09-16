@@ -1,11 +1,11 @@
 id: 150068558
-type: way
+type: node
 latitude: 53.9875
 longitude: 11.20469
 postcode: "23946"
 city: Boltenhagen
-street: "Mittelpromenade"
-housenumber: 15
+street: Mittelpromenade
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

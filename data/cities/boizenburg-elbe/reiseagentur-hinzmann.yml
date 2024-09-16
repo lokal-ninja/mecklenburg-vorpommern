@@ -4,8 +4,8 @@ latitude: 53.37872
 longitude: 10.76359
 postcode: "19258"
 city: Boizenburg/Elbe
-street: "Ringstraße"
-housenumber: 10
+street: Ringstraße
+housenumber: "10"
 phone: "+493884733515"
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://reiseagentur-hinzmann.de"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-19:00; Sa 08:00-16:00
+website: https://reiseagentur-hinzmann.de

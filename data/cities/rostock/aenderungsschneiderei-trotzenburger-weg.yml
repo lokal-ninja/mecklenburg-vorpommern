@@ -1,11 +1,11 @@
 id: 33781644
-type: way
+type: node
 latitude: 54.08493
 longitude: 12.08733
 postcode: "18057"
 city: Rostock
-street: "Trotzenburger Weg"
-housenumber: 10
+street: Trotzenburger Weg
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

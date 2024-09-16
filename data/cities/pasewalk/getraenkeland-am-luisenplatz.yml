@@ -1,11 +1,11 @@
 id: 172435945
-type: way
+type: node
 latitude: 53.50095
 longitude: 13.99311
 postcode: "17309"
 city: Pasewalk
-street: "Am Luisenplatz"
-housenumber: 2
+street: Am Luisenplatz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

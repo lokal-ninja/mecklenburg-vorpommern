@@ -1,11 +1,11 @@
 id: 167260753
-type: way
+type: node
 latitude: 54.09077
 longitude: 13.36249
 postcode: "17489"
 city: Greifswald
-street: "Loitzer Straße"
-housenumber: 21
+street: Loitzer Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.pur-autoservice.de"
+website: https://www.pur-autoservice.de

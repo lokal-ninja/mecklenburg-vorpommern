@@ -1,11 +1,11 @@
 id: 180571117
-type: way
+type: node
 latitude: 54.36302
 longitude: 12.73019
 postcode: "18356"
 city: Barth
-street: "Sundische Straße"
-housenumber: 55
+street: Sundische Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

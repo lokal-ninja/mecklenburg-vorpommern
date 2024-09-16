@@ -1,11 +1,11 @@
 id: 38561482
-type: way
+type: node
 latitude: 53.7741
 longitude: 12.16869
 postcode: "18273"
 city: Güstrow
-street: "Goldberger Straße"
-housenumber: 65
+street: Goldberger Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

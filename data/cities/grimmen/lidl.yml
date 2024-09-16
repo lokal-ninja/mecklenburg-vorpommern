@@ -1,11 +1,11 @@
 id: 187841127
-type: way
+type: node
 latitude: 54.11621
 longitude: 13.04211
 postcode: "18507"
 city: Grimmen
-street: "Stralsunder Straße"
-housenumber: 8
+street: Stralsunder Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

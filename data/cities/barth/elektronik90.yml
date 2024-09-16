@@ -1,11 +1,11 @@
 id: 212721581
-type: way
+type: node
 latitude: 54.36851
 longitude: 12.72563
 postcode: "18356"
 city: Barth
-street: "Lange Straße"
-housenumber: 5
-phone: "+4938231 2884"
-opening_hours: "Mo-Fr 09:00-13:00"
-website: "https://www.elektronik90.de/"
+street: Lange Straße
+housenumber: "5"
+phone: +4938231 2884
+opening_hours: Mo-Fr 09:00-13:00
+website: https://www.elektronik90.de/

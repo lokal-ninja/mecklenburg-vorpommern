@@ -1,11 +1,11 @@
 id: 133885962
-type: way
+type: node
 latitude: 54.38245
 longitude: 12.52363
 postcode: "18375"
 city: Born a. Darß
-street: "Im Moor"
-housenumber: 7
+street: Im Moor
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:30-14:00; Su 08:00-10:00"
+opening_hours: Mo-Sa 07:30-14:00; Su 08:00-10:00
 website: ""

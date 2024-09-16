@@ -1,11 +1,11 @@
 id: 367301259
-type: way
+type: node
 latitude: 54.11376
 longitude: 11.91105
 postcode: "18209"
 city: Bad Doberan
-street: "An den Salzwiesen"
-housenumber: 40
+street: An den Salzwiesen
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00, Su 12:00-18:00"
+opening_hours: Mo-Sa 07:00-21:00, Su 12:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 83042498
-type: way
+type: node
 latitude: 53.60136
 longitude: 11.38977
 postcode: "19061"
 city: Schwerin
-street: "Grabenstraße"
-housenumber: 8
+street: Grabenstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

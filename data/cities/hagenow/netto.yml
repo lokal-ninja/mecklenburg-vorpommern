@@ -1,11 +1,11 @@
 id: 132487699
-type: way
+type: node
 latitude: 53.43511
 longitude: 11.20152
 postcode: "19230"
 city: Hagenow
-street: "Goethestraße"
-housenumber: 6
+street: Goethestraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

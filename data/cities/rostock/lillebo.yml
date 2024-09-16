@@ -4,8 +4,9 @@ latitude: 54.1774
 longitude: 12.08919
 postcode: "18119"
 city: Rostock
-street: "Am Bahnhof"
+street: Am Bahnhof
 housenumber: 1a
 phone: ""
-opening_hours: "Nov-May: Mo-Sa 10:00-18:00; Su 11:30-16:30; Jun-Oct: Mo-Sa 10:00-19:00; Su 11:30-18:00"
+opening_hours: 'Nov-May: Mo-Sa 10:00-18:00; Su 11:30-16:30; Jun-Oct: Mo-Sa 10:00-19:00;
+    Su 11:30-18:00'
 website: ""

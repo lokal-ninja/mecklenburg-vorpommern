@@ -1,11 +1,11 @@
 id: 37870909
-type: way
+type: node
 latitude: 54.10421
 longitude: 12.18168
 postcode: "18146"
 city: Rostock
-street: "Dierkower Allee"
-housenumber: 3
+street: Dierkower Allee
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.kruell.com/"
+website: https://www.kruell.com/

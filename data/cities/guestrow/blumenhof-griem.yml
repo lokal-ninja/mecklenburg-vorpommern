@@ -4,8 +4,8 @@ latitude: 53.7946
 longitude: 12.1756
 postcode: "18273"
 city: Güstrow
-street: "Pferdemarkt"
-housenumber: 42
-phone: "+49 3843 684935"
-opening_hours: "Mo-Fr 09:00-14:00"
-website: "https://www.blumenhof-griem.de"
+street: Pferdemarkt
+housenumber: "42"
+phone: +49 3843 684935
+opening_hours: Mo-Fr 09:00-14:00
+website: https://www.blumenhof-griem.de

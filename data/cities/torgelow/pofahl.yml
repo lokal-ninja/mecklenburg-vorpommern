@@ -1,11 +1,11 @@
 id: 215119836
-type: way
+type: node
 latitude: 53.62918
 longitude: 14.00974
 postcode: "17358"
 city: Torgelow
-street: "Breite Straße"
-housenumber: 27
+street: Breite Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

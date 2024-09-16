@@ -4,8 +4,8 @@ latitude: 54.05443
 longitude: 13.77686
 postcode: "17438"
 city: Wolgast
-street: "Rathausplatz"
-housenumber: 3
-phone: "+49 3836 233578"
-opening_hours: "Mo-Fr 07:00-17:30; Sa,Su 07:30-17:00"
-website: "https://www.jb.de/"
+street: Rathausplatz
+housenumber: "3"
+phone: +49 3836 233578
+opening_hours: Mo-Fr 07:00-17:30; Sa,Su 07:30-17:00
+website: https://www.jb.de/

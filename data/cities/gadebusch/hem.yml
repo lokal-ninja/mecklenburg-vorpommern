@@ -1,11 +1,11 @@
 id: 977077230
-type: way
+type: node
 latitude: 53.68478
 longitude: 11.13442
 postcode: "19205"
 city: Gadebusch
-street: "Am Kalkbruch"
-housenumber: 2
+street: Am Kalkbruch
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

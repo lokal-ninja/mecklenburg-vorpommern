@@ -1,11 +1,11 @@
 id: 100464243
-type: way
+type: node
 latitude: 53.52065
 longitude: 12.72127
 postcode: "17192"
 city: Waren (Müritz)
-street: "Siegfried-Marcus-Straße"
-housenumber: 7
+street: Siegfried-Marcus-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

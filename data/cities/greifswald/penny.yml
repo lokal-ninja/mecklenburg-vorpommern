@@ -1,11 +1,11 @@
 id: 156263845
-type: way
+type: node
 latitude: 54.08178
 longitude: 13.41865
 postcode: "17491"
 city: Greifswald
-street: "Ernst-Thälmann-Ring"
-housenumber: 14
+street: Ernst-Thälmann-Ring
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

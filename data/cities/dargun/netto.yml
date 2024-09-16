@@ -1,11 +1,11 @@
 id: 193464583
-type: way
+type: node
 latitude: 53.895
 longitude: 12.8589
 postcode: "17159"
 city: Dargun
-street: "Schloßstraße"
-housenumber: 74
+street: Schloßstraße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

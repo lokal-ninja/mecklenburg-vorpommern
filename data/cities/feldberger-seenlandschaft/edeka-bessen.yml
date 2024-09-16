@@ -1,11 +1,11 @@
 id: 70765010
-type: way
+type: node
 latitude: 53.33445
 longitude: 13.43918
 postcode: "17258"
 city: Feldberger Seenlandschaft
-street: "Prenzlauer Straße"
-housenumber: 4
+street: Prenzlauer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; Jul-Aug: Su 13:00-18:00; PH off"
+opening_hours: 'Mo-Sa 07:30-20:00; Jul-Aug: Su 13:00-18:00; PH off'
 website: ""

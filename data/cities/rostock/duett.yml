@@ -4,8 +4,8 @@ latitude: 54.15246
 longitude: 12.06319
 postcode: "18109"
 city: Rostock
-street: "Parchimer Straße"
+street: Parchimer Straße
 housenumber: 10a
-phone: "+49 381 7998505"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00 || nach Vereinbarung"
-website: "https://www.friseur-ostseewelle.de/"
+phone: +49 381 7998505
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00 || "nach Vereinbarung"
+website: https://www.friseur-ostseewelle.de/

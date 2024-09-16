@@ -1,11 +1,11 @@
 id: 33839150
-type: way
+type: node
 latitude: 54.09845
 longitude: 12.15843
 postcode: "18146"
 city: Rostock
-street: "Dierkower Damm"
+street: Dierkower Damm
 housenumber: 38c
 phone: ""
 opening_hours: ""
-website: "https://portal.man-mn.com/mndemucxwas/mansettlementwebapp/LimitedSearchDetailsAction.do?type=SETTLEMENT&id=40295"
+website: https://portal.man-mn.com/mndemucxwas/mansettlementwebapp/LimitedSearchDetailsAction.do?type=SETTLEMENT&id=40295

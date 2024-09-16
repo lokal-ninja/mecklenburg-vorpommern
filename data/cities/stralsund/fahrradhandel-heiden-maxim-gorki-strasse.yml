@@ -4,8 +4,8 @@ latitude: 54.32596
 longitude: 13.05457
 postcode: "18435"
 city: Stralsund
-street: "Maxim-Gorki-Straße"
-housenumber: 28
-phone: "+49 3831 48 28 999"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-17:00; Oct-Mar abweichend"
-website: "https://www.fahrradhandel-heiden.de/"
+street: Maxim-Gorki-Straße
+housenumber: "28"
+phone: +49 3831 48 28 999
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-17:00; Oct-Mar "abweichend"
+website: https://www.fahrradhandel-heiden.de/

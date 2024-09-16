@@ -4,8 +4,8 @@ latitude: 53.8925
 longitude: 11.46509
 postcode: "23966"
 city: Wismar
-street: "Krämerstraße"
-housenumber: 5
+street: Krämerstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://www.foto-manthey.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: https://www.foto-manthey.de/

@@ -1,11 +1,11 @@
 id: 174283282
-type: way
+type: node
 latitude: 54.14729
 longitude: 12.56842
 postcode: "18337"
 city: Marlow
-street: "Carl-Kossow-Straße"
-housenumber: 64
+street: Carl-Kossow-Straße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

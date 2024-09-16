@@ -1,11 +1,11 @@
 id: 85389607
-type: way
+type: node
 latitude: 53.84677
 longitude: 13.7074
 postcode: "17389"
 city: Anklam
-street: "Pasewalker Allee"
-housenumber: 47
+street: Pasewalker Allee
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

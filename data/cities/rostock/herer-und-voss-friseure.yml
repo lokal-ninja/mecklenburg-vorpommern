@@ -4,8 +4,8 @@ latitude: 54.08793
 longitude: 12.10007
 postcode: "18057"
 city: Rostock
-street: "Kölner Straße"
-housenumber: 11
+street: Kölner Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa nach Vereinbarung"
-website: "https://www.herervoss-friseure.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa "nach Vereinbarung"
+website: https://www.herervoss-friseure.de/

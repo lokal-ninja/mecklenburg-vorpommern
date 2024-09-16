@@ -1,11 +1,11 @@
 id: 125349781
-type: way
+type: node
 latitude: 54.14219
 longitude: 11.93153
 postcode: "18211"
 city: Börgerende-Rethwisch
-street: "Börgerender Straße"
-housenumber: 5
+street: Börgerender Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Su 11:00-18:00"
-website: "http://kunstscheune-rethwisch.meinatelier.de/"
+opening_hours: Tu-Su 11:00-18:00
+website: http://kunstscheune-rethwisch.meinatelier.de/

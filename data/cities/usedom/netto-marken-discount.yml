@@ -1,11 +1,11 @@
 id: 179639739
-type: way
+type: node
 latitude: 53.87707
 longitude: 13.92347
 postcode: "17406"
 city: Usedom
-street: "Swinemünder Straße"
-housenumber: 71
+street: Swinemünder Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
-website: "https://netto-online.de/angebote/handzettel.php?id=75271"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
+website: https://netto-online.de/angebote/handzettel.php?id=75271

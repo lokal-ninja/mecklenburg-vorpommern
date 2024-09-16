@@ -1,11 +1,11 @@
 id: 126834139
-type: way
+type: node
 latitude: 54.24061
 longitude: 12.41908
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "John-Brinckman-Straße"
-housenumber: 9
+street: John-Brinckman-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

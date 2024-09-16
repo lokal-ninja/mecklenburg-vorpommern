@@ -1,11 +1,11 @@
 id: 298339283
-type: way
+type: node
 latitude: 54.40176
 longitude: 13.60394
 postcode: "18609"
 city: Ostseebad Binz
-street: "Proraer Chaussee"
+street: Proraer Chaussee
 housenumber: 4c
-phone: "+49 38393 2330"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
-website: "http://www.binzer-baumarkt.de"
+phone: +49 38393 2330
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
+website: http://www.binzer-baumarkt.de

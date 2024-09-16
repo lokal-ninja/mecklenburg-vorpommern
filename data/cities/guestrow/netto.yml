@@ -1,11 +1,11 @@
 id: 38561088
-type: way
+type: node
 latitude: 53.80212
 longitude: 12.18829
 postcode: "18273"
 city: Güstrow
-street: "Wendenstraße"
-housenumber: 31
+street: Wendenstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH closed"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH closed
 website: ""

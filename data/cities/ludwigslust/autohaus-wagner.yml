@@ -1,11 +1,11 @@
 id: 400578336
-type: way
+type: node
 latitude: 53.31205
 longitude: 11.48781
 postcode: "19288"
 city: Ludwigslust
-street: "Bauernallee"
-housenumber: 6
+street: Bauernallee
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.toyota-wagner-ludwigslust.de/"
+website: https://www.toyota-wagner-ludwigslust.de/

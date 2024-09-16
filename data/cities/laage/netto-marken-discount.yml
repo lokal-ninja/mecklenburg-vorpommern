@@ -1,11 +1,11 @@
 id: 227568102
-type: way
+type: node
 latitude: 53.92939
 longitude: 12.35364
 postcode: "18299"
 city: Laage
-street: "Fischteichallee"
-housenumber: 1
+street: Fischteichallee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

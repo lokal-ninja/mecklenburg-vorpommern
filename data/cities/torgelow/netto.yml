@@ -1,11 +1,11 @@
 id: 154801517
-type: way
+type: node
 latitude: 53.63529
 longitude: 14.01632
 postcode: "17358"
 city: Torgelow
-street: "Albert-Einstein-Straße"
-housenumber: 80
+street: Albert-Einstein-Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 8:00-20:00"
+opening_hours: Mo-Sa 8:00-20:00
 website: ""

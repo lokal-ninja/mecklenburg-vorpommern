@@ -1,11 +1,11 @@
 id: 151174123
-type: way
+type: node
 latitude: 53.33193
 longitude: 13.09296
 postcode: "17235"
 city: Neustrelitz
-street: "Stendlitzstraße"
-housenumber: 2
-phone: "+49 39 81 44 73 43"
+street: Stendlitzstraße
+housenumber: "2"
+phone: +49 39 81 44 73 43
 opening_hours: ""
 website: ""

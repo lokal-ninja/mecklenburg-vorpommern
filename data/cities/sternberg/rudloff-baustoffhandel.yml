@@ -1,11 +1,11 @@
 id: 320155167
-type: way
+type: node
 latitude: 53.70845
 longitude: 11.82264
 postcode: "19406"
 city: Sternberg
-street: "Fritz-Reuter-Straße"
-housenumber: 12
+street: Fritz-Reuter-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

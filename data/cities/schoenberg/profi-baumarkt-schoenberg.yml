@@ -1,11 +1,11 @@
 id: 189701494
-type: way
+type: node
 latitude: 53.8457
 longitude: 10.94176
 postcode: "23923"
 city: Schönberg
-street: "Fritz-Reuter-Straße"
-housenumber: 62
-phone: "+49 38828 349 710"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+street: Fritz-Reuter-Straße
+housenumber: "62"
+phone: +49 38828 349 710
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
 website: ""

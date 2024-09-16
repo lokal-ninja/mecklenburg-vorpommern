@@ -1,11 +1,11 @@
 id: 96620177
-type: way
+type: node
 latitude: 54.10757
 longitude: 12.65632
 postcode: "18334"
 city: Bad Sülze
-street: "Müllerberg"
-housenumber: 4
+street: Müllerberg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

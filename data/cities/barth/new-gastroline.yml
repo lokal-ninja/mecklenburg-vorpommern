@@ -4,8 +4,8 @@ latitude: 54.36741
 longitude: 12.70485
 postcode: "18356"
 city: Barth
-street: "Barthestraße"
-housenumber: 115
-phone: "+49 38231 6760"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.newgastroline.de/"
+street: Barthestraße
+housenumber: "115"
+phone: +49 38231 6760
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.newgastroline.de/

@@ -1,11 +1,11 @@
 id: 132700467
-type: way
+type: node
 latitude: 53.42636
 longitude: 11.18922
 postcode: "19230"
 city: Hagenow
-street: "Friedrich-Heincke-Straße"
-housenumber: 54
+street: Friedrich-Heincke-Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "http://www.opel-lindemann.de"
+website: http://www.opel-lindemann.de

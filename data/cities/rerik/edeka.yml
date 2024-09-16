@@ -1,11 +1,11 @@
 id: 241216875
-type: way
+type: node
 latitude: 54.10682
 longitude: 11.62032
 postcode: "18230"
 city: Rerik
-street: "Am Parkplatz"
-housenumber: 10
+street: Am Parkplatz
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

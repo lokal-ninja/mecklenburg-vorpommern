@@ -1,11 +1,11 @@
 id: 193466260
-type: way
+type: node
 latitude: 54.25562
 longitude: 12.25167
 postcode: "18181"
 city: Graal-Müritz
-street: "Birkenallee"
-housenumber: 34
+street: Birkenallee
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.fahrrad-thon.de/"
+website: https://www.fahrrad-thon.de/

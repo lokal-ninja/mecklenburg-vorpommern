@@ -1,11 +1,12 @@
 id: 124039206
-type: way
+type: node
 latitude: 54.43532
 longitude: 12.68881
 postcode: "18374"
 city: Zingst
-street: "Boddenhörn"
+street: Boddenhörn
 housenumber: 1b
-phone: "+49 38232  17579"
-opening_hours: "May-Sep Mo-Fr 08:00-20:00; May-Sep Sa 08:00-20:00; May-Sep Su 12:00-18:00; May-Sep PH off; Oct-Apr Mo-Fr 08:00-19:00; Oct-Apr Sa 08:00-18:00"
-website: "https://www.edeka-horsch.de"
+phone: +49 38232  17579
+opening_hours: May-Sep Mo-Fr 08:00-20:00; May-Sep Sa 08:00-20:00; May-Sep Su 12:00-18:00;
+    May-Sep PH off; Oct-Apr Mo-Fr 08:00-19:00; Oct-Apr Sa 08:00-18:00
+website: https://www.edeka-horsch.de

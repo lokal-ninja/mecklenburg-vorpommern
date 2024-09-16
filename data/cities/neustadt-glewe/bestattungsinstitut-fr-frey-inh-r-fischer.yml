@@ -1,11 +1,11 @@
 id: 202611482
-type: way
+type: node
 latitude: 53.38215
 longitude: 11.58739
 postcode: "19306"
 city: Neustadt-Glewe
-street: "Breitscheidstraße"
-housenumber: 1
-phone: "+49 38757 246 12"
+street: Breitscheidstraße
+housenumber: "1"
+phone: +49 38757 246 12
 opening_hours: ""
-website: "https://www.bestattung-grabow.de/"
+website: https://www.bestattung-grabow.de/

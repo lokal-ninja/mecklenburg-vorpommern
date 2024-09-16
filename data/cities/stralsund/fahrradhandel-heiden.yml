@@ -4,8 +4,8 @@ latitude: 54.31083
 longitude: 13.04819
 postcode: "18437"
 city: Stralsund
-street: "Handwerkerring"
-housenumber: 16
+street: Handwerkerring
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://www.fahrradhandel-heiden.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://www.fahrradhandel-heiden.de/

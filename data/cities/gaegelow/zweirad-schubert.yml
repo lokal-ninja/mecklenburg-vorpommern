@@ -1,11 +1,11 @@
 id: 91427680
-type: way
+type: node
 latitude: 53.90141
 longitude: 11.39032
 postcode: "23968"
 city: Gägelow
-street: "Gewerbering"
-housenumber: 18
-phone: "+49 3841 644 980"
+street: Gewerbering
+housenumber: "18"
+phone: +49 3841 644 980
 opening_hours: ""
-website: "http://www.zweirad-schubert.de"
+website: http://www.zweirad-schubert.de

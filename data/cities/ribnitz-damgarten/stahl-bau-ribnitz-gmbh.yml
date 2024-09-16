@@ -1,11 +1,11 @@
 id: 261098263
-type: way
+type: node
 latitude: 54.24827
 longitude: 12.40063
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Körkwitzer Weg"
-housenumber: 54
-phone: "+493821 8785 0"
+street: Körkwitzer Weg
+housenumber: "54"
+phone: +493821 8785 0
 opening_hours: ""
-website: "http://www.stahl-bau-ribnitz.de/"
+website: http://www.stahl-bau-ribnitz.de/

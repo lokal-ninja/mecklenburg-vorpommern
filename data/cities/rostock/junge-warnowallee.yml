@@ -4,8 +4,8 @@ latitude: 54.13845
 longitude: 12.05431
 postcode: "18107"
 city: Rostock
-street: "Warnowallee"
-housenumber: 30
-phone: "+49 381 87729025"
-opening_hours: "Mo-Fr 06:30-18:30; Sa,Su 07:00-18:00"
-website: "https://shop.jb.de/geschaeftefinder"
+street: Warnowallee
+housenumber: "30"
+phone: +49 381 87729025
+opening_hours: Mo-Fr 06:30-18:30; Sa,Su 07:00-18:00
+website: https://shop.jb.de/geschaeftefinder

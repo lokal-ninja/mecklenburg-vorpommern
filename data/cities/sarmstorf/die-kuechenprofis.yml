@@ -1,11 +1,11 @@
 id: 393876114
-type: way
+type: node
 latitude: 53.84123
 longitude: 12.21642
 postcode: "18276"
 city: Sarmstorf
-street: "Rostocker Chaussee"
-housenumber: 11
+street: Rostocker Chaussee
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 157021364
-type: way
+type: node
 latitude: 53.96841
 longitude: 11.1725
 postcode: "23948"
 city: Klütz
-street: "Boltenhagener Straße"
+street: Boltenhagener Straße
 housenumber: 10d
-phone: "+49 38825 376862"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-14:00; PH,Su off"
-website: "https://www.getraenkeland.com/"
+phone: +49 38825 376862
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-14:00; PH,Su off
+website: https://www.getraenkeland.com/

@@ -1,11 +1,11 @@
 id: 171205049
-type: way
+type: node
 latitude: 54.56836
 longitude: 13.48682
 postcode: "18551"
 city: Glowe
-street: "Rügen Radio"
-housenumber: 21
+street: Rügen Radio
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

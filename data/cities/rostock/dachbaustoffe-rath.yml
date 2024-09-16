@@ -1,11 +1,11 @@
 id: 34548625
-type: way
+type: node
 latitude: 54.1004
 longitude: 12.0939
 postcode: "18069"
 city: Rostock
-street: "Carl-Hopp-Straße"
-housenumber: 26
+street: Carl-Hopp-Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
 website: ""

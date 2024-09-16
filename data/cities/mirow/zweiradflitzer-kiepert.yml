@@ -4,8 +4,8 @@ latitude: 53.27432
 longitude: 12.81668
 postcode: "17252"
 city: Mirow
-street: "Strelitzer Straße"
-housenumber: 4
+street: Strelitzer Straße
+housenumber: "4"
 phone: "+493983320519"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.zweirad-flitzer.de"
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.zweirad-flitzer.de

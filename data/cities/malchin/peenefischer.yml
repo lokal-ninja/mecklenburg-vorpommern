@@ -1,11 +1,11 @@
 id: 764127718
-type: way
+type: node
 latitude: 53.78981
 longitude: 12.81038
 postcode: ""
 city: Malchin
-street: "Salem"
-housenumber: 21
+street: Salem
+housenumber: "21"
 phone: ""
-opening_hours: "Mo 12:00-17:00; Tu-Fr 09:00-17:00; Sa 09:00-13:00"
+opening_hours: Mo 12:00-17:00; Tu-Fr 09:00-17:00; Sa 09:00-13:00
 website: ""

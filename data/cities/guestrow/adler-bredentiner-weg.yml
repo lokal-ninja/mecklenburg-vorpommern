@@ -1,11 +1,11 @@
 id: 166880419
-type: way
+type: node
 latitude: 53.80514
 longitude: 12.17702
 postcode: "18273"
 city: Güstrow
-street: "Bredentiner Weg"
-housenumber: 1
+street: Bredentiner Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

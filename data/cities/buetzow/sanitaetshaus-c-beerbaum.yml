@@ -4,8 +4,9 @@ latitude: 53.84785
 longitude: 11.98319
 postcode: "18246"
 city: Bützow
-street: "Langestraße"
-housenumber: 33
+street: Langestraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo 08:30-13:00,14:00-17:00; Tu,Th 08:30-13:00,14:00-18:00; We,Fr 08:30-13:00; Sa-Su,PH off"
-website: "https://www.beerbaum-ortho.de"
+opening_hours: Mo 08:30-13:00,14:00-17:00; Tu,Th 08:30-13:00,14:00-18:00; We,Fr 08:30-13:00;
+    Sa-Su,PH off
+website: https://www.beerbaum-ortho.de

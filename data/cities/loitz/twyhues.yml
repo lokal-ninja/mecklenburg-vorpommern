@@ -1,11 +1,11 @@
 id: 94120435
-type: way
+type: node
 latitude: 53.96982
 longitude: 13.12377
 postcode: "17121"
 city: Loitz
-street: "Steintor"
-housenumber: 20
+street: Steintor
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

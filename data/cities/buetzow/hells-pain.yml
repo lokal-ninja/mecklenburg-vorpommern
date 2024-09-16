@@ -1,11 +1,11 @@
 id: 239620494
-type: way
+type: node
 latitude: 53.8463
 longitude: 11.98888
 postcode: "18246"
 city: Bützow
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 6b
 phone: ""
-opening_hours: "Tu-Fr 09:00-16:00; Termine nach vereinbarung"
+opening_hours: Tu-Fr 09:00-16:00; "Termine nach vereinbarung"
 website: ""

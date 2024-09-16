@@ -1,11 +1,11 @@
 id: 168171451
-type: way
+type: node
 latitude: 53.14135
 longitude: 11.24961
 postcode: "19303"
 city: Dömitz
-street: "Goethestraße"
-housenumber: 1
-phone: "+49 38758 356 614"
+street: Goethestraße
+housenumber: "1"
+phone: +49 38758 356 614
 opening_hours: ""
-website: "https://www.schmidt-maury.de/bestattungen-schmidt-maury.html"
+website: https://www.schmidt-maury.de/bestattungen-schmidt-maury.html

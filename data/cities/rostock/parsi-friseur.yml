@@ -4,8 +4,8 @@ latitude: 54.08206
 longitude: 12.12795
 postcode: "18055"
 city: Rostock
-street: "Goetheplatz"
-housenumber: 1
+street: Goetheplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
 website: ""

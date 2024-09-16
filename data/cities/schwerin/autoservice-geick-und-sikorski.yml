@@ -1,11 +1,11 @@
 id: 87949088
-type: way
+type: node
 latitude: 53.56676
 longitude: 11.38913
 postcode: "19061"
 city: Schwerin
-street: "Eugen-Langen-Straße"
-housenumber: 2
+street: Eugen-Langen-Straße
+housenumber: "2"
 phone: "+49385644110"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 10:00-12:00; Su off"
-website: "https://www.autoservice-schwerin.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 10:00-12:00; Su off
+website: https://www.autoservice-schwerin.de/

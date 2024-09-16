@@ -1,11 +1,11 @@
 id: 90683014
-type: way
+type: node
 latitude: 53.56976
 longitude: 11.66043
 postcode: "19089"
 city: Crivitz
-street: "Parchimer Straße"
-housenumber: 64
+street: Parchimer Straße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

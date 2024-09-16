@@ -1,11 +1,11 @@
 id: 760184404
-type: way
+type: node
 latitude: 53.30693
 longitude: 14.2472
 postcode: "17328"
 city: Penkun
-street: "Stettiner Chaussee"
-housenumber: 34
+street: Stettiner Chaussee
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

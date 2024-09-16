@@ -1,11 +1,11 @@
 id: 302082763
-type: way
+type: node
 latitude: 53.94039
 longitude: 12.12001
 postcode: "18258"
 city: Schwaan
-street: "Niendorfer Chaussee"
-housenumber: 13
+street: Niendorfer Chaussee
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

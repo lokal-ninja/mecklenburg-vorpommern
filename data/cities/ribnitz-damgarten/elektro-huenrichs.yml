@@ -1,11 +1,11 @@
 id: 127532078
-type: way
+type: node
 latitude: 54.25384
 longitude: 12.4901
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "An der Mühle"
-housenumber: 8
-phone: "+493821 62073"
-opening_hours: "Mo-Dor 07:00-16:00"
+street: An der Mühle
+housenumber: "8"
+phone: +493821 62073
+opening_hours: Mo-Dor 07:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 197702173
-type: way
+type: node
 latitude: 54.04688
 longitude: 14.00149
 postcode: "17459"
 city: Koserow
-street: "Hauptstraße"
-housenumber: 87
-phone: "+49-38375-24073"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
-website: "https://www.getraenkeland.com/index.php?id=62&marketid=731"
+street: Hauptstraße
+housenumber: "87"
+phone: +49-38375-24073
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
+website: https://www.getraenkeland.com/index.php?id=62&marketid=731

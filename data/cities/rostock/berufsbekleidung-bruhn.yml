@@ -1,11 +1,11 @@
 id: 34548439
-type: way
+type: node
 latitude: 54.10598
 longitude: 12.08986
 postcode: "18069"
 city: Rostock
-street: "Schlachthofstraße"
-housenumber: 1
+street: Schlachthofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00"
-website: "https://bb-bruhn.jimdo.com/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00
+website: https://bb-bruhn.jimdo.com/

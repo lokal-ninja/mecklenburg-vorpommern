@@ -1,11 +1,11 @@
 id: 138628679
-type: way
+type: node
 latitude: 53.62874
 longitude: 14.01387
 postcode: "17358"
 city: Torgelow
-street: "Pasewalker Straße"
-housenumber: 5
+street: Pasewalker Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

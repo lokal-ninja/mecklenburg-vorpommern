@@ -1,11 +1,11 @@
 id: 34413048
-type: way
+type: node
 latitude: 54.12382
 longitude: 12.0486
 postcode: "18106"
 city: Rostock
-street: "Theodor-Körner-Straße"
-housenumber: 37
+street: Theodor-Körner-Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 33774451
-type: way
+type: node
 latitude: 54.07308
 longitude: 12.12348
 postcode: "18059"
 city: Rostock
-street: "Ziolkowskistraße"
-housenumber: 1
+street: Ziolkowskistraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

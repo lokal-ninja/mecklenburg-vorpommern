@@ -4,8 +4,8 @@ latitude: 54.08547
 longitude: 12.11235
 postcode: "18057"
 city: Rostock
-street: "Ulmenmarkt"
-housenumber: 5
+street: Ulmenmarkt
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "http://www.witts-textilpflege.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: http://www.witts-textilpflege.de/

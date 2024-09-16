@@ -1,11 +1,11 @@
 id: 33839139
-type: way
+type: node
 latitude: 54.09587
 longitude: 12.15736
 postcode: "18146"
 city: Rostock
-street: "Dierkower Damm"
-housenumber: 20
+street: Dierkower Damm
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-We 07:00-17:00; Th 07:00-18:00; Fr 07:00-13:00"
-website: "http://www.reha-möller.de/"
+opening_hours: Mo-We 07:00-17:00; Th 07:00-18:00; Fr 07:00-13:00
+website: http://www.reha-möller.de/

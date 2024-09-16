@@ -1,11 +1,11 @@
 id: 431829245
-type: way
+type: node
 latitude: 54.05784
 longitude: 12.11762
 postcode: "18059"
 city: Rostock
-street: "Ferdinand-Porsche-Straße"
-housenumber: 1
+street: Ferdinand-Porsche-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

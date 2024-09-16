@@ -1,11 +1,11 @@
 id: 33780134
-type: way
+type: node
 latitude: 54.09156
 longitude: 12.08031
 postcode: "18069"
 city: Rostock
-street: "Reutershäger Weg"
-housenumber: 15
+street: Reutershäger Weg
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

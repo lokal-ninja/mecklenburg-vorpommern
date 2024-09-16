@@ -1,11 +1,11 @@
 id: 116953802
-type: way
+type: node
 latitude: 54.42779
 longitude: 12.67359
 postcode: "18374"
 city: Zingst
-street: "Zur Wellenwiese"
-housenumber: 2
+street: Zur Wellenwiese
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 07:00-20:00; Su 12:00-18:00
 website: ""

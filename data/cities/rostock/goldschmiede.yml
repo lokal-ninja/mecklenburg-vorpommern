@@ -4,8 +4,8 @@ latitude: 54.08407
 longitude: 12.13266
 postcode: "18055"
 city: Rostock
-street: "Augustenstraße"
-housenumber: 90
-phone: "+49 381 44431679"
-opening_hours: "Tu, Th 10:00-15:30; We, Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://goldschmiedewerkstatt.biz/"
+street: Augustenstraße
+housenumber: "90"
+phone: +49 381 44431679
+opening_hours: Tu, Th 10:00-15:30; We, Fr 10:00-18:00; Sa 10:00-14:00
+website: https://goldschmiedewerkstatt.biz/

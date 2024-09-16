@@ -1,11 +1,11 @@
 id: 168106317
-type: way
+type: node
 latitude: 54.14954
 longitude: 12.42955
 postcode: "18337"
 city: Marlow
-street: "Marlower Straße"
-housenumber: 35
+street: Marlower Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00"
+opening_hours: Mo-Fr 08:30-20:00
 website: ""

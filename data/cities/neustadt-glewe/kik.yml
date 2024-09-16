@@ -1,11 +1,11 @@
 id: 202760401
-type: way
+type: node
 latitude: 53.38426
 longitude: 11.58153
 postcode: "19306"
 city: Neustadt-Glewe
-street: "Schweriner Straße"
-housenumber: 2
+street: Schweriner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

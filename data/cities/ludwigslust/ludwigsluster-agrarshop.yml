@@ -1,11 +1,11 @@
 id: 115880049
-type: way
+type: node
 latitude: 53.32885
 longitude: 11.50279
 postcode: "19288"
 city: Ludwigslust
-street: "Neue Torstraße"
+street: Neue Torstraße
 housenumber: 15a
-phone: "+49 3874 570852"
+phone: +49 3874 570852
 opening_hours: ""
-website: "https://www.lwl-agrarshop.de/"
+website: https://www.lwl-agrarshop.de/

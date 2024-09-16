@@ -4,8 +4,8 @@ latitude: 54.08437
 longitude: 12.11376
 postcode: "18057"
 city: Rostock
-street: "Parkstraße"
-housenumber: 5
+street: Parkstraße
+housenumber: "5"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

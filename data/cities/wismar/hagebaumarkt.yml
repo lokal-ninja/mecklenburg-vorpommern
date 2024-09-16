@@ -1,11 +1,11 @@
 id: 89375262
-type: way
+type: node
 latitude: 53.89558
 longitude: 11.43773
 postcode: "23966"
 city: Wismar
-street: "Werftstraße"
-housenumber: 2
+street: Werftstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.hagebau.de/baumarkt/hagebaumaerkte-mecklenburg-gmbh-co-kg-hagebaumarkt-wismar-wismar-sn180705/"
+website: https://www.hagebau.de/baumarkt/hagebaumaerkte-mecklenburg-gmbh-co-kg-hagebaumarkt-wismar-wismar-sn180705/

@@ -1,11 +1,11 @@
 id: 193196961
-type: way
+type: node
 latitude: 53.34507
 longitude: 13.08185
 postcode: "17235"
 city: Neustrelitz
-street: "Strelitzer Chaussee"
-housenumber: 235
+street: Strelitzer Chaussee
+housenumber: "235"
 phone: "+493981447503"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 08:00-12:00"
-website: "https://www.reifenhelm.de/standorte-kontakt/"
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 08:00-12:00
+website: https://www.reifenhelm.de/standorte-kontakt/

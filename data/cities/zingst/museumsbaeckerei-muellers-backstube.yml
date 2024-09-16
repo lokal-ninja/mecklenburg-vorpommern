@@ -4,8 +4,8 @@ latitude: 54.43271
 longitude: 12.68252
 postcode: "18374"
 city: Zingst
-street: "Strandstraße"
-housenumber: 3
-phone: "+49 1511 8253220"
-opening_hours: "Mo-Sa 07:00-17:00"
-website: "http://www.museumsbaeckerei.de/"
+street: Strandstraße
+housenumber: "3"
+phone: +49 1511 8253220
+opening_hours: Mo-Sa 07:00-17:00
+website: http://www.museumsbaeckerei.de/

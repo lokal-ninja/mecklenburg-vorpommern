@@ -1,11 +1,11 @@
 id: 141257467
-type: way
+type: node
 latitude: 53.80022
 longitude: 11.70333
 postcode: "19417"
 city: Warin
-street: "Am Mühlentor"
-housenumber: 7
+street: Am Mühlentor
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

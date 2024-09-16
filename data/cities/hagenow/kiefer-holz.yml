@@ -1,11 +1,11 @@
 id: 132620295
-type: way
+type: node
 latitude: 53.42019
 longitude: 11.18791
 postcode: "19230"
 city: Hagenow
-street: "Steegener Chaussee"
-housenumber: 12
-phone: "+49 34241 – 5749 0"
+street: Steegener Chaussee
+housenumber: "12"
+phone: +49 34241 – 5749 0
 opening_hours: ""
-website: "https://www.kieferholz.de/"
+website: https://www.kieferholz.de/

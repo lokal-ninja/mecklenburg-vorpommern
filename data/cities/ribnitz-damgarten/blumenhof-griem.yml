@@ -1,11 +1,11 @@
 id: 127295633
-type: way
+type: node
 latitude: 54.25324
 longitude: 12.47382
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Barther Straße"
-housenumber: 18
-phone: "+49 3821 62049"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.blumenhof-griem.de/home/fillialen/ribnitz-damgarten-ii/"
+street: Barther Straße
+housenumber: "18"
+phone: +49 3821 62049
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.blumenhof-griem.de/home/fillialen/ribnitz-damgarten-ii/

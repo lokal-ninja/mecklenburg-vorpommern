@@ -1,11 +1,11 @@
 id: 81633154
-type: way
+type: node
 latitude: 53.27315
 longitude: 11.56271
 postcode: "19300"
 city: Grabow
-street: "Fliederweg"
-housenumber: 6
+street: Fliederweg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

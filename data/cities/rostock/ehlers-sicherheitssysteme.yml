@@ -4,8 +4,8 @@ latitude: 54.17664
 longitude: 12.08111
 postcode: "18119"
 city: Rostock
-street: "Mühlenstraße"
-housenumber: 10
+street: Mühlenstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.ehlers-sicherheitssysteme.de/"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.ehlers-sicherheitssysteme.de/

@@ -4,8 +4,8 @@ latitude: 54.08984
 longitude: 13.38771
 postcode: "17489"
 city: Greifswald
-street: "Brinkstraße"
+street: Brinkstraße
 housenumber: 27a
 phone: "01627696442"
-opening_hours: "Nur nach Vereinbarung!"
-website: "https://klaviersalonglaeser.de/"
+opening_hours: '"Nur nach Vereinbarung!"'
+website: https://klaviersalonglaeser.de/

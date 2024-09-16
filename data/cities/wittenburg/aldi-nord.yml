@@ -1,11 +1,11 @@
 id: 1092503794
-type: way
+type: node
 latitude: 53.50381
 longitude: 11.08544
 postcode: "19243"
 city: Wittenburg
-street: "Hagenower Chaussee"
-housenumber: 29
+street: Hagenower Chaussee
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

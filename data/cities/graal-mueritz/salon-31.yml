@@ -1,11 +1,11 @@
 id: 127582771
-type: way
+type: node
 latitude: 54.25003
 longitude: 12.22985
 postcode: "18181"
 city: Graal-Müritz
-street: "Kurstraße"
-housenumber: 31
+street: Kurstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

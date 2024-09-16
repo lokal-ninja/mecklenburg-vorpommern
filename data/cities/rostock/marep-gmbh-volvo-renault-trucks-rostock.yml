@@ -1,11 +1,11 @@
 id: 34410924
-type: way
+type: node
 latitude: 54.12652
 longitude: 12.16434
 postcode: "18147"
 city: Rostock
-street: "Koppelsollstraße"
-housenumber: 1
+street: Koppelsollstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.dealer.volvotrucks.de/nord-gmbh/de-de/"
+website: https://www.dealer.volvotrucks.de/nord-gmbh/de-de/

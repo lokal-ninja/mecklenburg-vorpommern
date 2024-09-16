@@ -4,8 +4,8 @@ latitude: 53.42888
 longitude: 12.94731
 postcode: "17237"
 city: Kratzeburg
-street: "Dorfstraße Kratzeburg"
-housenumber: 34
+street: Dorfstraße Kratzeburg
+housenumber: "34"
 phone: ""
-opening_hours: "offen ist, wenn offen ist"
+opening_hours: '"offen ist, wenn offen ist"'
 website: ""

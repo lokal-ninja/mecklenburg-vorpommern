@@ -1,11 +1,11 @@
 id: 95550625
-type: way
+type: node
 latitude: 53.51948
 longitude: 12.64921
 postcode: "17192"
 city: Waren (Müritz)
-street: "Warendorfer Straße"
-housenumber: 6
-phone: "+49 3991 187800"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"
-website: "https://www.bbm-moebel.de/u/bbm-einrichtungshaus-waren/"
+street: Warendorfer Straße
+housenumber: "6"
+phone: +49 3991 187800
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00
+website: https://www.bbm-moebel.de/u/bbm-einrichtungshaus-waren/

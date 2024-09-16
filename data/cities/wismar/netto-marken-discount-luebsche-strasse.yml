@@ -1,11 +1,11 @@
 id: 266434504
-type: way
+type: node
 latitude: 53.8938
 longitude: 11.45218
 postcode: "23966"
 city: Wismar
-street: "Lübsche Straße"
-housenumber: 99
+street: Lübsche Straße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+website: https://www.netto-online.de

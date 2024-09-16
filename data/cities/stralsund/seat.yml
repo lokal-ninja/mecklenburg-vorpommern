@@ -1,11 +1,11 @@
 id: 109977958
-type: way
+type: node
 latitude: 54.30348
 longitude: 13.10156
 postcode: "18439"
 city: Stralsund
-street: "Werftstraße"
-housenumber: 4
+street: Werftstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

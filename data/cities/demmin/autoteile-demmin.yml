@@ -1,11 +1,11 @@
 id: 147465697
-type: way
+type: node
 latitude: 53.911
 longitude: 13.02837
 postcode: "17109"
 city: Demmin
-street: "Loitzer Straße"
-housenumber: 6
+street: Loitzer Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00, Sa 09:00-12:00
 website: ""

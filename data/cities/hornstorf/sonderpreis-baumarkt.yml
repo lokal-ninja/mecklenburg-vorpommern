@@ -1,11 +1,11 @@
 id: 87647530
-type: way
+type: node
 latitude: 53.89024
 longitude: 11.53304
 postcode: "23970"
 city: Hornstorf
-street: "Karpendiek"
-housenumber: 6
+street: Karpendiek
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

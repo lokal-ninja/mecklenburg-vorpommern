@@ -1,11 +1,11 @@
 id: 102403735
-type: way
+type: node
 latitude: 53.58217
 longitude: 13.27194
 postcode: "17034"
 city: Neubrandenburg
-street: "Demminer Straße"
-housenumber: 75
+street: Demminer Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

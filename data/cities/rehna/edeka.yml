@@ -1,11 +1,11 @@
 id: 142497995
-type: way
+type: node
 latitude: 53.77899
 longitude: 11.04873
 postcode: "19217"
 city: Rehna
-street: "Schweriner Straße"
-housenumber: 4
+street: Schweriner Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

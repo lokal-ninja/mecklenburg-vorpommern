@@ -1,11 +1,11 @@
 id: 75038158
-type: way
+type: node
 latitude: 53.97473
 longitude: 13.12953
 postcode: "17121"
 city: Loitz
-street: "Gartenstraße"
-housenumber: 80
+street: Gartenstraße
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://www.getraenke-laengert.de/"
+website: https://www.getraenke-laengert.de/

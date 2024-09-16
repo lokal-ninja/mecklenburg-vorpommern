@@ -1,11 +1,11 @@
 id: 33838964
-type: way
+type: node
 latitude: 54.09333
 longitude: 12.15886
 postcode: "18146"
 city: Rostock
-street: "Kadammsweg"
-housenumber: 11
+street: Kadammsweg
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00
 website: ""

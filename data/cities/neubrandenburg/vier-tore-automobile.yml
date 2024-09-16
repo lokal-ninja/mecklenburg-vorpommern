@@ -1,11 +1,11 @@
 id: 783852308
-type: way
+type: node
 latitude: 53.56837
 longitude: 13.21014
 postcode: ""
 city: Neubrandenburg
-street: "Otto-von-Guericke-Straße"
-housenumber: 3
-phone: "+49 171 7412111"
-opening_hours: "Mo-Fr 07:00-19:00"
+street: Otto-von-Guericke-Straße
+housenumber: "3"
+phone: +49 171 7412111
+opening_hours: Mo-Fr 07:00-19:00
 website: ""

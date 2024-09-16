@@ -4,8 +4,9 @@ latitude: 53.37947
 longitude: 10.72669
 postcode: "19258"
 city: Boizenburg/Elbe
-street: "Schwartower Straße"
+street: Schwartower Straße
 housenumber: 44a
 phone: "+493884962266"
-opening_hours: "Su-Mo off; Tu 09:00-18:00; We 09:00-14:00; Th 14:00-18:00; Fr 09:00-14:00; Sa 09:00-12:00; PH off"
+opening_hours: Su-Mo off; Tu 09:00-18:00; We 09:00-14:00; Th 14:00-18:00; Fr 09:00-14:00;
+    Sa 09:00-12:00; PH off
 website: ""

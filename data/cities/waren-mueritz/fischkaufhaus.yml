@@ -4,8 +4,8 @@ latitude: 53.51217
 longitude: 12.63943
 postcode: "17192"
 city: Waren (Müritz)
-street: "Eldenholz"
-housenumber: 42
+street: Eldenholz
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00,Sa 09:00-15:00"
-website: "https://www.fischkaufhaus.de/"
+opening_hours: Mo-Fr 09:00-17:00,Sa 09:00-15:00
+website: https://www.fischkaufhaus.de/

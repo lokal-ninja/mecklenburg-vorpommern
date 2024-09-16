@@ -1,11 +1,11 @@
 id: 349465996
-type: way
+type: node
 latitude: 53.84469
 longitude: 11.46146
 postcode: "23972"
 city: Dorf Mecklenburg
-street: "Karl-Marx-Straße"
+street: Karl-Marx-Straße
 housenumber: 11a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de

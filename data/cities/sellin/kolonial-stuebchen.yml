@@ -4,8 +4,8 @@ latitude: 54.37863
 longitude: 13.69323
 postcode: "18586"
 city: Sellin
-street: "August-Bebel-Straße"
-housenumber: 5
-phone: "+49 174 909 1777"
-opening_hours: "Th-Sa 09:00-17:00; Su 09:00-13:00"
-website: "https://kolonialstuebchen.de"
+street: August-Bebel-Straße
+housenumber: "5"
+phone: +49 174 909 1777
+opening_hours: Th-Sa 09:00-17:00; Su 09:00-13:00
+website: https://kolonialstuebchen.de

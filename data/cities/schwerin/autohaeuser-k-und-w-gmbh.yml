@@ -1,11 +1,11 @@
 id: 222807055
-type: way
+type: node
 latitude: 53.61037
 longitude: 11.37939
 postcode: "19061"
 city: Schwerin
-street: "Rogahner Straße"
-housenumber: 64
+street: Rogahner Straße
+housenumber: "64"
 phone: "+49385773320"
 opening_hours: ""
-website: "https://www.honda-kw-schwerin.de/"
+website: https://www.honda-kw-schwerin.de/

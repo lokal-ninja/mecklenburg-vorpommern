@@ -4,8 +4,8 @@ latitude: 54.09062
 longitude: 12.14204
 postcode: "18055"
 city: Rostock
-street: "Krämerstraße"
-housenumber: 8
-phone: "+49 381 452835"
-opening_hours: "Mo-Fr 08:00-19:00"
-website: "https://www.cityfriseur-rostock.de/"
+street: Krämerstraße
+housenumber: "8"
+phone: +49 381 452835
+opening_hours: Mo-Fr 08:00-19:00
+website: https://www.cityfriseur-rostock.de/

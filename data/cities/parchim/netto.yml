@@ -1,11 +1,11 @@
 id: 144701126
-type: way
+type: node
 latitude: 53.42623
 longitude: 11.82745
 postcode: "19370"
 city: Parchim
-street: "Westring"
-housenumber: 39
+street: Westring
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://www.netto.de/"
+website: https://www.netto.de/

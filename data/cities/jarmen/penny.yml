@@ -1,11 +1,11 @@
 id: 145036463
-type: way
+type: node
 latitude: 53.9212
 longitude: 13.3468
 postcode: "17126"
 city: Jarmen
-street: "Anklamer Straße"
-housenumber: 3
+street: Anklamer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

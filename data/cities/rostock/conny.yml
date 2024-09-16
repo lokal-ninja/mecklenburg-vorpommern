@@ -1,11 +1,11 @@
 id: 34950282
-type: way
+type: node
 latitude: 54.10047
 longitude: 12.1724
 postcode: "18146"
 city: Rostock
-street: "Gutenbergstraße"
-housenumber: 13
+street: Gutenbergstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Th 08:00-20:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:30; Th 08:00-20:00; Sa 08:00-12:00
 website: ""

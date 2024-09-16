@@ -1,11 +1,11 @@
 id: 135208277
-type: way
+type: node
 latitude: 54.44306
 longitude: 12.56994
 postcode: "18375"
 city: Prerow
-street: "Mühlenstraße"
-housenumber: 16
+street: Mühlenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

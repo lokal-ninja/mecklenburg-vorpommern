@@ -1,11 +1,11 @@
 id: 114251938
-type: way
+type: node
 latitude: 53.41781
 longitude: 11.8268
 postcode: "19370"
 city: Parchim
-street: "Friedrich-Wilhelm-Raiffeisen-Ring"
-housenumber: 6
+street: Friedrich-Wilhelm-Raiffeisen-Ring
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

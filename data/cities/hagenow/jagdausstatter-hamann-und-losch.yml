@@ -1,11 +1,11 @@
 id: 132935912
-type: way
+type: node
 latitude: 53.4322
 longitude: 11.1913
 postcode: "19230"
 city: Hagenow
-street: "Lange Straße"
-housenumber: 99
+street: Lange Straße
+housenumber: "99"
 phone: ""
 opening_hours: ""
-website: "https://www.hamann-losch.de/"
+website: https://www.hamann-losch.de/

@@ -1,11 +1,11 @@
 id: 345941929
-type: way
+type: node
 latitude: 53.34292
 longitude: 13.08337
 postcode: "17235"
 city: Neustrelitz
-street: "Wilhelm-Stolte-Straße"
-housenumber: 413
+street: Wilhelm-Stolte-Straße
+housenumber: "413"
 phone: "+493981489881"
 opening_hours: ""
-website: "https://www.autodiscount-strelitz.de/"
+website: https://www.autodiscount-strelitz.de/

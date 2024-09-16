@@ -1,11 +1,11 @@
 id: 192434289
-type: way
+type: node
 latitude: 54.37273
 longitude: 12.63282
 postcode: "18356"
 city: Fuhlendorf
-street: "Danckwardt-Straße"
-housenumber: 30
+street: Danckwardt-Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

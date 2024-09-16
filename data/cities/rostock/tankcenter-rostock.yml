@@ -1,11 +1,11 @@
 id: 985618974
-type: way
+type: node
 latitude: 54.09959
 longitude: 12.17759
 postcode: "18146"
 city: Rostock
-street: "Rövershäger Chaussee"
-housenumber: 3
+street: Rövershäger Chaussee
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

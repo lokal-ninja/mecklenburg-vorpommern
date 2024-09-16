@@ -1,11 +1,11 @@
 id: 299125811
-type: way
+type: node
 latitude: 54.06787
 longitude: 12.16802
 postcode: "18196"
 city: Dummerstorf
-street: "Neubrandenburger Straße"
-housenumber: 48
-phone: "+49 381 692 926"
-opening_hours: "Mo-Fr 09:30-17:00"
-website: "https://blumenstrassburg.wpcomstaging.com/"
+street: Neubrandenburger Straße
+housenumber: "48"
+phone: +49 381 692 926
+opening_hours: Mo-Fr 09:30-17:00
+website: https://blumenstrassburg.wpcomstaging.com/

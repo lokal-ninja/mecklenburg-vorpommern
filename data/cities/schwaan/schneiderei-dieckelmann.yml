@@ -4,8 +4,9 @@ latitude: 53.93772
 longitude: 12.10695
 postcode: "18258"
 city: Schwaan
-street: "Bützower Straße"
-housenumber: 9
+street: Bützower Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo 09:00-12:00,16:30-18:00; Tu 09:00-12:00,17:00-18:00; We 09:00-12:00; Th 14:00-16:00; Fr 09:00-12:00,13:30-15:30"
+opening_hours: Mo 09:00-12:00,16:30-18:00; Tu 09:00-12:00,17:00-18:00; We 09:00-12:00;
+    Th 14:00-16:00; Fr 09:00-12:00,13:30-15:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.24266
 longitude: 12.43252
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Neue Klosterstraße"
-housenumber: 2
+street: Neue Klosterstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo nach Vereinbarung; Tu-Fr 08:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo "nach Vereinbarung"; Tu-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

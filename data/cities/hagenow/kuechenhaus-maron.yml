@@ -1,11 +1,11 @@
 id: 132935948
-type: way
+type: node
 latitude: 53.43268
 longitude: 11.18973
 postcode: "19230"
 city: Hagenow
-street: "Lange Straße"
-housenumber: 90
+street: Lange Straße
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

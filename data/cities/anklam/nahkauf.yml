@@ -4,8 +4,8 @@ latitude: 53.85487
 longitude: 13.68762
 postcode: "17389"
 city: Anklam
-street: "Markt"
-housenumber: 7
-phone: "+49 3971 831252"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.nahkauf.de/"
+street: Markt
+housenumber: "7"
+phone: +49 3971 831252
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.nahkauf.de/

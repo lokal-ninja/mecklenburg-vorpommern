@@ -1,11 +1,11 @@
 id: 127532106
-type: way
+type: node
 latitude: 54.25363
 longitude: 12.48949
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "An der Mühle"
-housenumber: 10
+street: An der Mühle
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

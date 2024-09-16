@@ -1,11 +1,11 @@
 id: 33780570
-type: way
+type: node
 latitude: 54.08763
 longitude: 12.08746
 postcode: "18069"
 city: Rostock
-street: "Tschaikowskistraße"
-housenumber: 39
+street: Tschaikowskistraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

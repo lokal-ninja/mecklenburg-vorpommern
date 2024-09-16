@@ -1,11 +1,11 @@
 id: 429242596
-type: way
+type: node
 latitude: 54.15417
 longitude: 12.01371
 postcode: "18107"
 city: Elmenhorst/Lichtenhagen
-street: "Feldweg"
-housenumber: 2
+street: Feldweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

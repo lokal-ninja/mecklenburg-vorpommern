@@ -1,11 +1,11 @@
 id: 1010814951
-type: way
+type: node
 latitude: 53.54302
 longitude: 13.31678
 postcode: "17036"
 city: Neubrandenburg
-street: "Quarzstraße"
-housenumber: 10
+street: Quarzstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

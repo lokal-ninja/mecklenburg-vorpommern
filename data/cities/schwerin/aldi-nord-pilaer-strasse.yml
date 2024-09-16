@@ -1,11 +1,11 @@
 id: 437344286
-type: way
+type: node
 latitude: 53.60286
 longitude: 11.4445
 postcode: "19063"
 city: Schwerin
-street: "Pilaer Straße"
-housenumber: 3
+street: Pilaer Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/schwerin/pilaer-strasse-3/3182571"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/schwerin/pilaer-strasse-3/3182571

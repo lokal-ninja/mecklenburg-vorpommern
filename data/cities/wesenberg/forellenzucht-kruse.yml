@@ -1,11 +1,11 @@
 id: 118266718
-type: way
+type: node
 latitude: 53.20682
 longitude: 12.99773
 postcode: ""
 city: Wesenberg
-street: "Eichenweg"
-housenumber: 5
+street: Eichenweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

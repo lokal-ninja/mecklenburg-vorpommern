@@ -1,11 +1,11 @@
 id: 783852309
-type: way
+type: node
 latitude: 53.57036
 longitude: 13.20442
 postcode: "17033"
 city: Neubrandenburg
-street: "Friedrich-Schott-Straße"
-housenumber: 15
+street: Friedrich-Schott-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 13:00-17:30; Tu-Fr 10:00-12:00; Sa,PH off"
+opening_hours: Mo-Fr 13:00-17:30; Tu-Fr 10:00-12:00; Sa,PH off
 website: ""

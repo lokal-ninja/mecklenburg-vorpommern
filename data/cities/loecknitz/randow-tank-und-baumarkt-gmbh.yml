@@ -1,11 +1,11 @@
 id: 381741747
-type: way
+type: node
 latitude: 53.46016
 longitude: 14.20846
 postcode: "17321"
 city: Löcknitz
-street: "Rothenklempenower Straße"
-housenumber: 49
-phone: "+49 39754 20667"
-opening_hours: "Mo-Fr 08:30-18:00, Sa 08:30 - 15:00"
-website: "https://www.randow-gruppe.de/"
+street: Rothenklempenower Straße
+housenumber: "49"
+phone: +49 39754 20667
+opening_hours: Mo-Fr 08:30-18:00, Sa 08:30 - 15:00
+website: https://www.randow-gruppe.de/

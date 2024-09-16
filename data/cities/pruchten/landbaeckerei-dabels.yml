@@ -1,11 +1,11 @@
 id: 192698685
-type: way
+type: node
 latitude: 54.38085
 longitude: 12.68004
 postcode: "18356"
 city: Pruchten
-street: "Zum Hafen"
-housenumber: 4
-phone: "+49 38231 80621"
-opening_hours: "Mo 06:30-11:00; Tu-Fr 06:30-17:00; Sa 06:30-11:30; Su 07:00-11:00"
+street: Zum Hafen
+housenumber: "4"
+phone: +49 38231 80621
+opening_hours: Mo 06:30-11:00; Tu-Fr 06:30-17:00; Sa 06:30-11:30; Su 07:00-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 116719889
-type: way
+type: node
 latitude: 54.23852
 longitude: 12.40285
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Beim Handweiser"
-housenumber: 17
-phone: "+493821 8774 0"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.gohs.de/"
+street: Beim Handweiser
+housenumber: "17"
+phone: +493821 8774 0
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.gohs.de/

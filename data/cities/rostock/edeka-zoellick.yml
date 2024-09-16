@@ -1,11 +1,11 @@
 id: 33896596
-type: way
+type: node
 latitude: 54.08295
 longitude: 12.13509
 postcode: "18055"
 city: Rostock
-street: "Hermannstraße"
-housenumber: 30
+street: Hermannstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

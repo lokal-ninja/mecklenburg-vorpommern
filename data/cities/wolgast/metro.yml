@@ -1,11 +1,11 @@
 id: 28072422
-type: way
+type: node
 latitude: 54.04649
 longitude: 13.75275
 postcode: "17438"
 city: Wolgast
-street: "Leeraner Straße"
-housenumber: 4
+street: Leeraner Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

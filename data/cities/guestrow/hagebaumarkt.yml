@@ -1,11 +1,11 @@
 id: 38572682
-type: way
+type: node
 latitude: 53.81606
 longitude: 12.19259
 postcode: "18273"
 city: Güstrow
-street: "Lindbruch"
-housenumber: 7
+street: Lindbruch
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.hagebau.de/baumarkt/hass-hatje-diy-gmbh-ndl-hbm-guestrow-guestrow-sn116010/"
+website: https://www.hagebau.de/baumarkt/hass-hatje-diy-gmbh-ndl-hbm-guestrow-guestrow-sn116010/

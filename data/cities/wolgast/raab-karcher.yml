@@ -1,11 +1,11 @@
 id: 1120166126
-type: way
+type: node
 latitude: 54.05539
 longitude: 13.79293
 postcode: "17438"
 city: Wolgast
-street: "Sauziner Straße"
-housenumber: 8
+street: Sauziner Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00; PH off"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00; PH off
 website: ""

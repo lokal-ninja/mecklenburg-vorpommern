@@ -1,11 +1,11 @@
 id: 41646691
-type: way
+type: node
 latitude: 54.01422
 longitude: 12.20401
 postcode: "18196"
 city: Dummerstorf
-street: "Silder Moor"
-housenumber: 5
-phone: "+49 38208 650"
+street: Silder Moor
+housenumber: "5"
+phone: +49 38208 650
 opening_hours: ""
 website: ""

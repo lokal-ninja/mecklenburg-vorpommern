@@ -1,11 +1,11 @@
 id: 33813624
-type: way
+type: node
 latitude: 54.05892
 longitude: 12.11906
 postcode: "18059"
 city: Rostock
-street: "Lise-Meitner-Ring"
-housenumber: 3
+street: Lise-Meitner-Ring
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

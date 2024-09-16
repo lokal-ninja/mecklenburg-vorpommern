@@ -4,8 +4,8 @@ latitude: 54.10023
 longitude: 13.37901
 postcode: "17489"
 city: Greifswald
-street: "Stralsunder Straße"
-housenumber: 10
+street: Stralsunder Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu 10:00-14:00; Th 16:00-20:00; PH off"
-website: "https://www.kabutze-greifswald.de/"
+opening_hours: Tu 10:00-14:00; Th 16:00-20:00; PH off
+website: https://www.kabutze-greifswald.de/

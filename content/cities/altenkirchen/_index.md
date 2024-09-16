@@ -1,6 +1,6 @@
 ---
 title: Altenkirchen
 url: /altenkirchen/
-latitude: 54.635
-longitude: 13.343
+latitude: 54.633
+longitude: 13.347
 ---

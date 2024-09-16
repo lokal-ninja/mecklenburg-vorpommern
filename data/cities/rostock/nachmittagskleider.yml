@@ -4,8 +4,8 @@ latitude: 54.08758
 longitude: 12.14312
 postcode: "18055"
 city: Rostock
-street: "Kleine Wasserstraße"
-housenumber: 3
+street: Kleine Wasserstraße
+housenumber: "3"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "http://www.nachmittagskleider.de"
+opening_hours: '"nach Vereinbarung"'
+website: http://www.nachmittagskleider.de

@@ -1,11 +1,11 @@
 id: 33642609
-type: way
+type: node
 latitude: 54.10207
 longitude: 12.11762
 postcode: "18147"
 city: Rostock
-street: "Fährstraße"
-housenumber: 
+street: Fährstraße
+housenumber: ""
 phone: "+49381699097"
-opening_hours: "Mo-Th 08:00-12:30,13:30-17:00; Fr 09:00-12:00"
+opening_hours: Mo-Th 08:00-12:30,13:30-17:00; Fr 09:00-12:00
 website: ""

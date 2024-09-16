@@ -1,11 +1,11 @@
 id: 192752157
-type: way
+type: node
 latitude: 54.38001
 longitude: 12.67856
 postcode: "18356"
 city: Pruchten
-street: "Dorfstraße"
-housenumber: 34
+street: Dorfstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

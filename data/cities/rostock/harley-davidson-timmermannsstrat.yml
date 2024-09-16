@@ -1,11 +1,11 @@
 id: 681653710
-type: way
+type: node
 latitude: 54.08225
 longitude: 12.19251
 postcode: "18055"
 city: Rostock
-street: "Timmermannsstrat"
-housenumber: 2
+street: Timmermannsstrat
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 34356453
-type: way
+type: node
 latitude: 54.17535
 longitude: 12.08722
 postcode: "18119"
 city: Rostock
-street: "Poststraße"
-housenumber: 28
+street: Poststraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

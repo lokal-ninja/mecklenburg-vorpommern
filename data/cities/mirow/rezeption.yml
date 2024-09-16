@@ -1,11 +1,11 @@
 id: 1080937159
-type: way
+type: node
 latitude: 53.34733
 longitude: 12.82599
 postcode: "17252"
 city: Mirow
-street: "Bungalowsiedlung Leppinsee"
-housenumber: 25
+street: Bungalowsiedlung Leppinsee
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

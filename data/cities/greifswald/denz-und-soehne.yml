@@ -1,11 +1,11 @@
 id: 697743628
-type: way
+type: node
 latitude: 54.06681
 longitude: 13.37887
 postcode: "17489"
 city: Greifswald
-street: "Studentenberg"
-housenumber: 12
-phone: "+49 3834 504650"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-12:00; PH off"
-website: "http://www.denz-greifswald.de/"
+street: Studentenberg
+housenumber: "12"
+phone: +49 3834 504650
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-12:00; PH off
+website: http://www.denz-greifswald.de/

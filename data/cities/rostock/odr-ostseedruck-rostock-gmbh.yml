@@ -4,8 +4,8 @@ latitude: 54.14044
 longitude: 12.03968
 postcode: "18107"
 city: Rostock
-street: "Koppelweg"
-housenumber: 2
-phone: "+49 381 776570"
+street: Koppelweg
+housenumber: "2"
+phone: +49 381 776570
 opening_hours: ""
-website: "https://www.odr-rostock.de/"
+website: https://www.odr-rostock.de/

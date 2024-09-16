@@ -5,7 +5,7 @@ longitude: 12.23634
 postcode: "18182"
 city: Rövershagen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.torney-landfleischerei.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.torney-landfleischerei.de/

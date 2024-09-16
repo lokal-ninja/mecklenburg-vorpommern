@@ -1,11 +1,11 @@
 id: 236648542
-type: way
+type: node
 latitude: 53.62676
 longitude: 11.41229
 postcode: "19053"
 city: Schwerin
-street: "Mecklenburgstraße"
-housenumber: 40
-phone: "+49 385 5936850"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 12:00-18:00"
-website: "https://www.kaufhaus-stolz.com/filialen"
+street: Mecklenburgstraße
+housenumber: "40"
+phone: +49 385 5936850
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 12:00-18:00
+website: https://www.kaufhaus-stolz.com/filialen

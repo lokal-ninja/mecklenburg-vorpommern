@@ -1,11 +1,11 @@
 id: 168354077
-type: way
+type: node
 latitude: 54.36582
 longitude: 12.67691
 postcode: "18356"
 city: Barth
-street: "Zingster Straße"
-housenumber: 2
+street: Zingster Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

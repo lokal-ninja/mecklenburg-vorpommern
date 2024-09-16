@@ -1,11 +1,11 @@
 id: 93569175
-type: way
+type: node
 latitude: 53.66643
 longitude: 11.49177
 postcode: "19067"
 city: Leezen
-street: "Mohnweg"
-housenumber: 1
+street: Mohnweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

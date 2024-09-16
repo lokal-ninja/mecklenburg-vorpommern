@@ -4,8 +4,8 @@ latitude: 53.63109
 longitude: 11.41681
 postcode: "19055"
 city: Schwerin
-street: "Schliemannstraße"
-housenumber: 2
-phone: "+49 385 5572065"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://littera-etc.buchkatalog.de/"
+street: Schliemannstraße
+housenumber: "2"
+phone: +49 385 5572065
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://littera-etc.buchkatalog.de/

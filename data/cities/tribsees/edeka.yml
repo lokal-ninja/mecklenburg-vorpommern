@@ -1,11 +1,11 @@
 id: 140244996
-type: way
+type: node
 latitude: 54.0912
 longitude: 12.75889
 postcode: "18465"
 city: Tribsees
-street: "Verbindungsweg"
+street: Verbindungsweg
 housenumber: 24a
-phone: "+49 38320 80775"
-opening_hours: "Mo-Fr 07:00-20:00;Sa 08:00-16:00; PH off"
+phone: +49 38320 80775
+opening_hours: Mo-Fr 07:00-20:00;Sa 08:00-16:00; PH off
 website: ""

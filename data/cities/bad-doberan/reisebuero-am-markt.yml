@@ -4,8 +4,8 @@ latitude: 54.10634
 longitude: 11.8988
 postcode: "18209"
 city: Bad Doberan
-street: "Am Markt"
-housenumber: 13
-phone: "+49 38203 13648"
-opening_hours: "Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 15:00-17:00"
-website: "https://reisebuero-bad-doberan.de"
+street: Am Markt
+housenumber: "13"
+phone: +49 38203 13648
+opening_hours: Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 15:00-17:00
+website: https://reisebuero-bad-doberan.de

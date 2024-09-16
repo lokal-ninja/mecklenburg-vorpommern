@@ -1,11 +1,11 @@
 id: 104957772
-type: way
+type: node
 latitude: 54.09231
 longitude: 12.12007
 postcode: ""
 city: Rostock
-street: "Warnowufer"
+street: Warnowufer
 housenumber: 33,34,35
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-warnow.de/"
+website: https://www.autohaus-warnow.de/

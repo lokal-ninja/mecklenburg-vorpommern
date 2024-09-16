@@ -1,11 +1,11 @@
 id: 88741922
-type: way
+type: node
 latitude: 53.69679
 longitude: 11.10313
 postcode: "19205"
 city: Gadebusch
-street: "Ratzeburger Chaussee"
-housenumber: 2
-phone: "+49 3886 36020"
-opening_hours: "Mo-Sa 07:00-22:00;PH off"
+street: Ratzeburger Chaussee
+housenumber: "2"
+phone: +49 3886 36020
+opening_hours: Mo-Sa 07:00-22:00;PH off
 website: ""

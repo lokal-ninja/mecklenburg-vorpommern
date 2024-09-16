@@ -4,8 +4,8 @@ latitude: 53.73364
 longitude: 14.02907
 postcode: "17373"
 city: Ueckermünde
-street: "Chausseestraße"
-housenumber: 71
+street: Chausseestraße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.repo-markt.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.repo-markt.de/

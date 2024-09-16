@@ -1,11 +1,11 @@
 id: 121884328
-type: way
+type: node
 latitude: 54.30619
 longitude: 13.07047
 postcode: "18437"
 city: Stralsund
-street: "Carl-Heydemann-Ring"
-housenumber: 128
+street: Carl-Heydemann-Ring
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://autohaus.toyota.de/schuett-und-ahrens/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://autohaus.toyota.de/schuett-und-ahrens/

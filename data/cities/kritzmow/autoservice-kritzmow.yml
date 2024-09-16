@@ -1,11 +1,11 @@
 id: 90462689
-type: way
+type: node
 latitude: 54.04709
 longitude: 12.04603
 postcode: "18198"
 city: Kritzmow
-street: "Satower Straße"
-housenumber: 53
+street: Satower Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

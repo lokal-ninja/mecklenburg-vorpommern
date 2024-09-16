@@ -4,8 +4,8 @@ latitude: 54.44736
 longitude: 12.55814
 postcode: "18375"
 city: Prerow
-street: "Waldstraße"
-housenumber: 50
-phone: "+49 38233 60845"
-opening_hours: "Mo-Sa 11:00-18:00"
+street: Waldstraße
+housenumber: "50"
+phone: +49 38233 60845
+opening_hours: Mo-Sa 11:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.10676
 longitude: 11.89896
 postcode: "18209"
 city: Bad Doberan
-street: "Am Markt"
-housenumber: 5
-phone: "+4938203 747800"
-opening_hours: "Th,Fr 08:00-18:00; Sa 08:00-14:00; Mo-We 08:00-17:00"
-website: "https://www.fleischerei-hackendahl.de/"
+street: Am Markt
+housenumber: "5"
+phone: +4938203 747800
+opening_hours: Th,Fr 08:00-18:00; Sa 08:00-14:00; Mo-We 08:00-17:00
+website: https://www.fleischerei-hackendahl.de/

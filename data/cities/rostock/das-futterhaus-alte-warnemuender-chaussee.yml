@@ -4,8 +4,8 @@ latitude: 54.14141
 longitude: 12.06576
 postcode: "18109"
 city: Rostock
-street: "Alte Warnemünder Chaussee"
-housenumber: 6
+street: Alte Warnemünder Chaussee
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "https://www.futterhaus.de/"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: https://www.futterhaus.de/

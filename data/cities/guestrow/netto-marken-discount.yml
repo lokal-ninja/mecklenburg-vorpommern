@@ -1,11 +1,11 @@
 id: 38561008
-type: way
+type: node
 latitude: 53.79926
 longitude: 12.15753
 postcode: "18273"
 city: Güstrow
-street: "Heideweg"
-housenumber: 50
+street: Heideweg
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

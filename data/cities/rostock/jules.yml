@@ -4,8 +4,8 @@ latitude: 54.10331
 longitude: 12.11554
 postcode: "18147"
 city: Rostock
-street: "Fährstraße"
-housenumber: 48
-phone: "+49 381 6865392"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://julesstudiofurkosmetik.business.site/"
+street: Fährstraße
+housenumber: "48"
+phone: +49 381 6865392
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://julesstudiofurkosmetik.business.site/

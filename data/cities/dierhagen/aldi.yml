@@ -1,11 +1,11 @@
 id: 117858455
-type: way
+type: node
 latitude: 54.29353
 longitude: 12.35302
 postcode: "18347"
 city: Dierhagen
-street: "Strandstraße"
-housenumber: 28
+street: Strandstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 12:00-18:00
 website: ""

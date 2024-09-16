@@ -1,11 +1,11 @@
 id: 88741946
-type: way
+type: node
 latitude: 53.69764
 longitude: 11.10436
 postcode: "19205"
 city: Gadebusch
-street: "Ratzeburger Chaussee"
-housenumber: 1
+street: Ratzeburger Chaussee
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

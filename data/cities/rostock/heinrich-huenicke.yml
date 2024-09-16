@@ -1,11 +1,11 @@
 id: 33524344
-type: way
+type: node
 latitude: 54.10822
 longitude: 12.06919
 postcode: "18069"
 city: Rostock
-street: "Schutower Ringstraße"
-housenumber: 1
+street: Schutower Ringstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.buerokompetenz.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.buerokompetenz.de/

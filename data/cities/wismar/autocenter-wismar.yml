@@ -1,11 +1,11 @@
 id: 129797058
-type: way
+type: node
 latitude: 53.87522
 longitude: 11.44855
 postcode: "23970"
 city: Wismar
-street: "Flinkerskoppel"
-housenumber: 2
+street: Flinkerskoppel
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

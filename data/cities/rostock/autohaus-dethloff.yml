@@ -1,11 +1,11 @@
 id: 34413358
-type: way
+type: node
 latitude: 54.12439
 longitude: 12.05161
 postcode: "18106"
 city: Rostock
-street: "Theodor-Körner-Straße"
-housenumber: 45
+street: Theodor-Körner-Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
-website: "https://www.autohaus-dethloff.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
+website: https://www.autohaus-dethloff.de/

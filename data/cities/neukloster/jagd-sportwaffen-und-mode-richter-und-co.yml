@@ -1,11 +1,11 @@
 id: 231139196
-type: way
+type: node
 latitude: 53.86484
 longitude: 11.67836
 postcode: "23992"
 city: Neukloster
-street: "Bahnhofstraße"
-housenumber: 20
+street: Bahnhofstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.jagdundsportwaffen.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.jagdundsportwaffen.de/

@@ -1,11 +1,11 @@
 id: 129797068
-type: way
+type: node
 latitude: 53.87361
 longitude: 11.44643
 postcode: ""
 city: Dorf Mecklenburg
-street: "Am kleinen Stadtfeld"
-housenumber: 4
+street: Am kleinen Stadtfeld
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

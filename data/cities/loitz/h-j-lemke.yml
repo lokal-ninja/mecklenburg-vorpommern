@@ -1,11 +1,11 @@
 id: 94120427
-type: way
+type: node
 latitude: 53.97396
 longitude: 13.12922
 postcode: "17121"
 city: Loitz
-street: "Am Postberg"
-housenumber: 2
+street: Am Postberg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

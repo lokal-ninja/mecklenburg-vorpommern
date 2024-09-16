@@ -4,8 +4,8 @@ latitude: 54.08965
 longitude: 12.13187
 postcode: "18055"
 city: Rostock
-street: "Lange Straße"
-housenumber: 36
+street: Lange Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.dessousundlingerie.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.dessousundlingerie.de/

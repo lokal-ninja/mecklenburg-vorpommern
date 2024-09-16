@@ -4,8 +4,8 @@ latitude: 53.42698
 longitude: 11.84742
 postcode: "19370"
 city: Parchim
-street: "Schuhmarkt"
-housenumber: 3
-phone: "+49 3871 26 94 222"
-opening_hours: "Mo-Fr 10:00-17:00"
-website: "https://teamsportcorner.de/"
+street: Schuhmarkt
+housenumber: "3"
+phone: +49 3871 26 94 222
+opening_hours: Mo-Fr 10:00-17:00
+website: https://teamsportcorner.de/

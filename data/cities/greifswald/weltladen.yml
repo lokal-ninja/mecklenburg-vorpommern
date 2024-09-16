@@ -4,8 +4,8 @@ latitude: 54.09588
 longitude: 13.376
 postcode: "17489"
 city: Greifswald
-street: "Lange Straße"
-housenumber: 49
-phone: "+49 3834 761818"
-opening_hours: "PH off; Tu,Th,Fr 12:00-18:00; Sa 11:00-14:00"
-website: "http://www.weltladen-greifswald.de"
+street: Lange Straße
+housenumber: "49"
+phone: +49 3834 761818
+opening_hours: PH off; Tu,Th,Fr 12:00-18:00; Sa 11:00-14:00
+website: http://www.weltladen-greifswald.de

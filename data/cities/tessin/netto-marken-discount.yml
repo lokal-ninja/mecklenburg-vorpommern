@@ -1,11 +1,11 @@
 id: 95956979
-type: way
+type: node
 latitude: 54.03002
 longitude: 12.45849
 postcode: "18195"
 city: Tessin
-street: "August-Bebel-Straße"
-housenumber: 2
+street: August-Bebel-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

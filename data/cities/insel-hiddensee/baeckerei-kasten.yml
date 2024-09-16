@@ -1,11 +1,11 @@
 id: 71009583
-type: way
+type: node
 latitude: 54.58606
 longitude: 13.10656
 postcode: "18565"
 city: Insel Hiddensee
-street: "Kirchweg"
-housenumber: 25
+street: Kirchweg
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-17:00; Su 07:00-16:00"
+opening_hours: Mo-Sa 07:00-17:00; Su 07:00-16:00
 website: ""

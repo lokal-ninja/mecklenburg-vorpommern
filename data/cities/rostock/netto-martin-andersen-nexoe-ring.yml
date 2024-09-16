@@ -1,11 +1,11 @@
 id: 34413272
-type: way
+type: node
 latitude: 54.11885
 longitude: 12.06012
 postcode: "18106"
 city: Rostock
-street: "Martin-Andersen-Nexö-Ring"
-housenumber: 1
+street: Martin-Andersen-Nexö-Ring
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

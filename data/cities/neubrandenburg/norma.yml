@@ -1,11 +1,11 @@
 id: 87987957
-type: way
+type: node
 latitude: 53.55261
 longitude: 13.29999
 postcode: "17036"
 city: Neubrandenburg
-street: "Einsteinstraße"
-housenumber: 37
+street: Einsteinstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

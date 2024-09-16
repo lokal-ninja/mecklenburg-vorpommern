@@ -1,11 +1,11 @@
 id: 358130147
-type: way
+type: node
 latitude: 53.87954
 longitude: 11.45554
 postcode: "23970"
 city: Wismar
-street: "Schweriner Straße"
-housenumber: 31
+street: Schweriner Straße
+housenumber: "31"
 phone: ""
-opening_hours: "08:00-19:00"
-website: "https://www.awus-mobile.de/"
+opening_hours: 08:00-19:00
+website: https://www.awus-mobile.de/

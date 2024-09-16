@@ -1,11 +1,11 @@
 id: 168104283
-type: way
+type: node
 latitude: 54.24077
 longitude: 12.40378
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Alte Klockenhäger Landstraße"
-housenumber: 5
-phone: "+493821 8880 0"
+street: Alte Klockenhäger Landstraße
+housenumber: "5"
+phone: +493821 8880 0
 opening_hours: ""
-website: "https://www.ostseeland-bau.de/"
+website: https://www.ostseeland-bau.de/

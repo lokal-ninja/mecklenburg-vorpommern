@@ -4,8 +4,8 @@ latitude: 53.7994
 longitude: 12.15544
 postcode: "18273"
 city: Güstrow
-street: "Heideweg"
-housenumber: 25
-phone: "+49 3843 687870"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.jb.de"
+street: Heideweg
+housenumber: "25"
+phone: +49 3843 687870
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.jb.de

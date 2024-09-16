@@ -1,11 +1,11 @@
 id: 87342288
-type: way
+type: node
 latitude: 54.07178
 longitude: 12.05716
 postcode: "18198"
 city: Kritzmow
-street: "Rothbäk"
-housenumber: 7
+street: Rothbäk
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

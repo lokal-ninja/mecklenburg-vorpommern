@@ -1,11 +1,11 @@
 id: 147521575
-type: way
+type: node
 latitude: 54.24253
 longitude: 12.43085
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Steinstraße"
-housenumber: 8
+street: Steinstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

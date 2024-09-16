@@ -4,8 +4,8 @@ latitude: 54.11264
 longitude: 12.10649
 postcode: "18147"
 city: Rostock
-street: "Pressentinstraße"
-housenumber: 32
+street: Pressentinstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Termine nur nach telefonischer Vereinbarung"
+opening_hours: '"Termine nur nach telefonischer Vereinbarung"'
 website: ""

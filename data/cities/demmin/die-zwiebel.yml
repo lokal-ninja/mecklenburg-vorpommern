@@ -4,8 +4,8 @@ latitude: 53.90715
 longitude: 13.04148
 postcode: "17109"
 city: Demmin
-street: "Mühlenstraße"
-housenumber: 6
-phone: "+49 3998 282835"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Mühlenstraße
+housenumber: "6"
+phone: +49 3998 282835
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

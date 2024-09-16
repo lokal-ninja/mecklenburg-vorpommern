@@ -1,11 +1,11 @@
 id: 193454456
-type: way
+type: node
 latitude: 53.90369
 longitude: 12.86414
 postcode: "17159"
 city: Dargun
-street: "Demminer Straße"
-housenumber: 44
+street: Demminer Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.egn-dargun.de/"
+website: https://www.egn-dargun.de/

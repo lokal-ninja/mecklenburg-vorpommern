@@ -1,11 +1,11 @@
 id: 135071650
-type: way
+type: node
 latitude: 53.58731
 longitude: 11.46892
 postcode: "19063"
 city: Schwerin
-street: "Pawlowstraße"
-housenumber: 1
+street: Pawlowstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/schwerin/pawlowstrasse-1/5753"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/schwerin/pawlowstrasse-1/5753

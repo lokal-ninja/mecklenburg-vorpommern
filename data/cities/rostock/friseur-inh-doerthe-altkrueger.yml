@@ -4,8 +4,8 @@ latitude: 54.12033
 longitude: 12.05773
 postcode: "18106"
 city: Rostock
-street: "Ehm-Welk-Straße"
-housenumber: 14
-phone: "0381 7680360"
-opening_hours: "Mo 09:00-17:30; Tu-Fr 08:00-18:30; PH closed"
+street: Ehm-Welk-Straße
+housenumber: "14"
+phone: 0381 7680360
+opening_hours: Mo 09:00-17:30; Tu-Fr 08:00-18:30; PH closed
 website: ""

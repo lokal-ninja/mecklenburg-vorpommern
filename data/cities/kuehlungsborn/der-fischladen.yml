@@ -1,11 +1,11 @@
 id: 219124654
-type: way
+type: node
 latitude: 54.14183
 longitude: 11.73407
 postcode: "18225"
 city: Kühlungsborn
-street: "Zur Asbeck"
-housenumber: 22
+street: Zur Asbeck
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 108572313
-type: way
+type: node
 latitude: 53.87061
 longitude: 11.69317
 postcode: "23992"
 city: Neukloster
-street: "Pernieker Straße"
-housenumber: 26
-phone: "+4938422 434 0"
+street: Pernieker Straße
+housenumber: "26"
+phone: +4938422 434 0
 opening_hours: ""
-website: "https://www.jacob-cement.de/standorte/neukloster.html"
+website: https://www.jacob-cement.de/standorte/neukloster.html

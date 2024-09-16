@@ -4,8 +4,8 @@ latitude: 54.24996
 longitude: 12.23217
 postcode: "18181"
 city: Graal-Müritz
-street: "Kurstraße"
-housenumber: 22
+street: Kurstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Tu,Th 09:00-13:00,14:00-17:30; Mo,We,Fr 09:00-14:00"
+opening_hours: Tu,Th 09:00-13:00,14:00-17:30; Mo,We,Fr 09:00-14:00
 website: ""

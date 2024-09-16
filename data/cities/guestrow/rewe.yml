@@ -1,11 +1,11 @@
 id: 38560976
-type: way
+type: node
 latitude: 53.80775
 longitude: 12.18766
 postcode: "18273"
 city: Güstrow
-street: "Lindenallee"
-housenumber: 14
+street: Lindenallee
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 07:00-23:00; Sa 07:00-22:00"
+opening_hours: Mo-Fr 07:00-23:00; Sa 07:00-22:00
 website: ""

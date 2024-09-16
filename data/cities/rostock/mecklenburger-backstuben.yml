@@ -4,8 +4,8 @@ latitude: 54.15606
 longitude: 12.06282
 postcode: "18109"
 city: Rostock
-street: "Bützower Straße"
-housenumber: 13
+street: Bützower Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-12:00, Su 07:30-10:00"
-website: "https://www.meckback.de/"
+opening_hours: Mo-Fr 07:00-18:00, Sa 07:00-12:00, Su 07:30-10:00
+website: https://www.meckback.de/

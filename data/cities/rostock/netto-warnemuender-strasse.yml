@@ -1,11 +1,11 @@
 id: 71568424
-type: way
+type: node
 latitude: 54.19255
 longitude: 12.1471
 postcode: "18146"
 city: Rostock
-street: "Warnemünder Straße"
-housenumber: 2
+street: Warnemünder Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

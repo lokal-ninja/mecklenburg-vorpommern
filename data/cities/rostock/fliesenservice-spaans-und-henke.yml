@@ -1,11 +1,11 @@
 id: 34548910
-type: way
+type: node
 latitude: 54.10144
 longitude: 12.08969
 postcode: "18069"
 city: Rostock
-street: "Fritz-Triddelfitz-Weg"
+street: Fritz-Triddelfitz-Weg
 housenumber: 1a
 phone: ""
 opening_hours: ""
-website: "https://www.spaans-henke.de/"
+website: https://www.spaans-henke.de/

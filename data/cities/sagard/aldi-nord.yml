@@ -1,11 +1,11 @@
 id: 39667371
-type: way
+type: node
 latitude: 54.52823
 longitude: 13.54656
 postcode: "18551"
 city: Sagard
-street: "Schulstraße"
-housenumber: 21
+street: Schulstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

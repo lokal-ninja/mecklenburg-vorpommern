@@ -1,11 +1,11 @@
 id: 89596915
-type: way
+type: node
 latitude: 54.04094
 longitude: 12.0889
 postcode: "18059"
 city: Papendorf
-street: "Landgut"
-housenumber: 11
+street: Landgut
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-16:00"
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-16:00
 website: ""

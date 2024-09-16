@@ -1,11 +1,11 @@
 id: 105756223
-type: way
+type: node
 latitude: 54.09021
 longitude: 12.26324
 postcode: "18184"
 city: Broderstorf
-street: "Alte Dorfstraße"
-housenumber: 48
+street: Alte Dorfstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
-website: "http://www.beautyandnails-studio.de/"
+website: http://www.beautyandnails-studio.de/

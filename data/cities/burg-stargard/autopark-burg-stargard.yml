@@ -1,11 +1,11 @@
 id: 169928756
-type: way
+type: node
 latitude: 53.5007
 longitude: 13.30065
 postcode: "17094"
 city: Burg Stargard
-street: "Strelitzer Straße"
-housenumber: 8
+street: Strelitzer Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

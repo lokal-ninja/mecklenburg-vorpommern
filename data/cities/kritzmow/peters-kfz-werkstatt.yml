@@ -1,11 +1,11 @@
 id: 132915412
-type: way
+type: node
 latitude: 54.07695
 longitude: 12.0362
 postcode: "18198"
 city: Kritzmow
-street: "Rostocker Straße"
-housenumber: 6
+street: Rostocker Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.autos-peters.de/"
+website: https://www.autos-peters.de/

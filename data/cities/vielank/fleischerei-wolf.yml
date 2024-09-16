@@ -1,11 +1,11 @@
 id: 736572204
-type: way
+type: node
 latitude: 53.23365
 longitude: 11.14455
 postcode: "19303"
 city: Vielank
-street: "Friedensstraße"
-housenumber: 1
+street: Friedensstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

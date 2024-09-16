@@ -4,8 +4,8 @@ latitude: 53.795
 longitude: 12.17441
 postcode: "18273"
 city: Güstrow
-street: "Pferdemarkt"
-housenumber: 34
-phone: "+49 3843 7284860"
-opening_hours: "Mo-Sa 07:00-18:00; Su 07:30-16:00"
-website: "https://www.baeckerei-hatscher.de"
+street: Pferdemarkt
+housenumber: "34"
+phone: +49 3843 7284860
+opening_hours: Mo-Sa 07:00-18:00; Su 07:30-16:00
+website: https://www.baeckerei-hatscher.de

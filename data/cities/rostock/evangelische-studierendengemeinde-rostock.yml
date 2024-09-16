@@ -4,8 +4,8 @@ latitude: 54.09055
 longitude: 12.14807
 postcode: "18055"
 city: Rostock
-street: "Alter Markt"
-housenumber: 1
+street: Alter Markt
+housenumber: "1"
 phone: "+491624487436"
-opening_hours: "Tu 19:00-23:00"
-website: "https://www.esg.uni-rostock.de/"
+opening_hours: Tu 19:00-23:00
+website: https://www.esg.uni-rostock.de/

@@ -1,11 +1,11 @@
 id: 91351298
-type: way
+type: node
 latitude: 53.90538
 longitude: 11.40776
 postcode: "23968"
 city: Wismar
-street: "Zierower Landstraße"
-housenumber: 9
+street: Zierower Landstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su, PH off"
-website: "https://www.roller.de/store/Roller%20M%C3%B6bel%20-%20Wismar"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su, PH off
+website: https://www.roller.de/store/Roller%20M%C3%B6bel%20-%20Wismar

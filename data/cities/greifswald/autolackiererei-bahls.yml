@@ -1,11 +1,11 @@
 id: 290352634
-type: way
+type: node
 latitude: 54.07101
 longitude: 13.38546
 postcode: "17489"
 city: Greifswald
-street: "Am Helmshäger Berg"
-housenumber: 8
+street: Am Helmshäger Berg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00; PH off"
+opening_hours: Mo-Fr 07:00-16:00; PH off
 website: ""

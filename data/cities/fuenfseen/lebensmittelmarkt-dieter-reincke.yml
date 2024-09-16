@@ -1,11 +1,11 @@
 id: 298390049
-type: way
+type: node
 latitude: 53.40927
 longitude: 12.41342
 postcode: "17213"
 city: Fünfseen
-street: "Lindenstraße"
-housenumber: 10
+street: Lindenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

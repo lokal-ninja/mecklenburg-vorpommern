@@ -1,11 +1,11 @@
 id: 384609538
-type: way
+type: node
 latitude: 53.37418
 longitude: 12.5909
 postcode: "17207"
 city: Röbel/Müritz
-street: "Bahnhofstraße"
-housenumber: 6
+street: Bahnhofstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

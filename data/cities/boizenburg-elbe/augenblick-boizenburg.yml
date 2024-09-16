@@ -4,8 +4,8 @@ latitude: 53.37389
 longitude: 10.72315
 postcode: "19258"
 city: Boizenburg/Elbe
-street: "Markt"
-housenumber: 8
+street: Markt
+housenumber: "8"
 phone: "+493884738128"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00"
-website: "https://www.augenblick-boizenburg.com"
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00
+website: https://www.augenblick-boizenburg.com

@@ -1,11 +1,11 @@
 id: 732751600
-type: way
+type: node
 latitude: 54.07624
 longitude: 12.09986
 postcode: "18059"
 city: Rostock
-street: "Satower Straße"
-housenumber: 7
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/f/rostock-sued/satower-strasse-7.html"
+street: Satower Straße
+housenumber: "7"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/f/rostock-sued/satower-strasse-7.html

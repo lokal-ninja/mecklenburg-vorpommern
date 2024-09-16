@@ -1,11 +1,11 @@
 id: 89938817
-type: way
+type: node
 latitude: 53.6933
 longitude: 11.01462
 postcode: ""
 city: Roggendorf
-street: "Kneeser Straße Roggendorf"
-housenumber: 2
+street: Kneeser Straße Roggendorf
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 188448259
-type: way
+type: node
 latitude: 54.35061
 longitude: 12.39002
 postcode: "18347"
 city: Wustrow
-street: "Strandstraße"
-housenumber: 
+street: Strandstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

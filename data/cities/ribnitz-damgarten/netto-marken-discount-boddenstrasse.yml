@@ -1,11 +1,11 @@
 id: 116464580
-type: way
+type: node
 latitude: 54.24565
 longitude: 12.4081
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Boddenstraße"
-housenumber: 2
+street: Boddenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

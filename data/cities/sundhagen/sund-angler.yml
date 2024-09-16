@@ -1,11 +1,11 @@
 id: 116344110
-type: way
+type: node
 latitude: 54.26378
 longitude: 13.18124
 postcode: "18519"
 city: Sundhagen
-street: "Am Strelasund"
-housenumber: 1
+street: Am Strelasund
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 08:00-17:00"
+opening_hours: Mo-Su 08:00-17:00
 website: ""

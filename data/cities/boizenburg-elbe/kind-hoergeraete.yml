@@ -4,8 +4,9 @@ latitude: 53.3739
 longitude: 10.72331
 postcode: "19258"
 city: Boizenburg/Elbe
-street: "Markt"
-housenumber: 8
+street: Markt
+housenumber: "8"
 phone: "+493884733278"
-opening_hours: "Mo-Tu 09:00-13:00, 14:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00, 14:00-18:00"
-website: "https://www.kind.com/de-de/fachgeschaefte/hoergeraete-boizenburg"
+opening_hours: Mo-Tu 09:00-13:00, 14:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,
+    14:00-18:00
+website: https://www.kind.com/de-de/fachgeschaefte/hoergeraete-boizenburg

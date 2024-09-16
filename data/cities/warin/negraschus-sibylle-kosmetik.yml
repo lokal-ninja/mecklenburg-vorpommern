@@ -1,11 +1,11 @@
 id: 141236814
-type: way
+type: node
 latitude: 53.79706
 longitude: 11.72462
 postcode: "19417"
 city: Warin
-street: "Graupenmühler Weg"
-housenumber: 42
-phone: "+49 38482 622 14"
+street: Graupenmühler Weg
+housenumber: "42"
+phone: +49 38482 622 14
 opening_hours: ""
 website: ""

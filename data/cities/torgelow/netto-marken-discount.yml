@@ -1,11 +1,11 @@
 id: 60120572
-type: way
+type: node
 latitude: 53.63282
 longitude: 14.01031
 postcode: "17358"
 city: Torgelow
-street: "Bahnhofstraße"
-housenumber: 17
+street: Bahnhofstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

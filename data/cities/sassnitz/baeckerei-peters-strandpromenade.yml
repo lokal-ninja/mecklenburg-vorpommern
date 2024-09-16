@@ -1,11 +1,11 @@
 id: 448142583
-type: way
+type: node
 latitude: 54.51688
 longitude: 13.65666
 postcode: "18546"
 city: Sassnitz
-street: "Strandpromenade"
+street: Strandpromenade
 housenumber: 8a
-phone: "+4938392 674684"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://www.baeckerei-peters.de/"
+phone: +4938392 674684
+opening_hours: Mo-Su 08:00-18:00
+website: https://www.baeckerei-peters.de/

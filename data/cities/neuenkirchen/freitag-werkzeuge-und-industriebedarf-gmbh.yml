@@ -1,11 +1,11 @@
 id: 98784566
-type: way
+type: node
 latitude: 54.11686
 longitude: 13.36812
 postcode: "17498"
 city: Neuenkirchen
-street: "Marktflecken"
-housenumber: 10
+street: Marktflecken
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

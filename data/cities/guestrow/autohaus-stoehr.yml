@@ -1,11 +1,11 @@
 id: 168533625
-type: way
+type: node
 latitude: 53.79204
 longitude: 12.14683
 postcode: "18273"
 city: Güstrow
-street: "Schweriner Chaussee"
-housenumber: 13
-phone: "+49 3843 684839"
+street: Schweriner Chaussee
+housenumber: "13"
+phone: +49 3843 684839
 opening_hours: ""
-website: "https://stoehr.seat.de/services"
+website: https://stoehr.seat.de/services

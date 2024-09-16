@@ -1,11 +1,11 @@
 id: 270848510
-type: way
+type: node
 latitude: 53.50017
 longitude: 11.08487
 postcode: "19243"
 city: Wittenburg
-street: "Südring"
-housenumber: 6
+street: Südring
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://sparmartin.de"
+website: https://sparmartin.de

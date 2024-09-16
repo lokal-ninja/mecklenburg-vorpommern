@@ -4,8 +4,8 @@ latitude: 53.32464
 longitude: 11.49642
 postcode: "19288"
 city: Ludwigslust
-street: "Schloßstraße"
-housenumber: 50
-phone: "+49 3874 21607"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://www.mode-schneider.de/filialen.html"
+street: Schloßstraße
+housenumber: "50"
+phone: +49 3874 21607
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://www.mode-schneider.de/filialen.html

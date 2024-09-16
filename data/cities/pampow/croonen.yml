@@ -1,11 +1,11 @@
 id: 96953320
-type: way
+type: node
 latitude: 53.57033
 longitude: 11.36831
 postcode: "19075"
 city: Pampow
-street: "Lindenweg"
-housenumber: 2
-phone: "+49 3865 2918 0"
+street: Lindenweg
+housenumber: "2"
+phone: +49 3865 2918 0
 opening_hours: ""
-website: "https://www.croonen.de/schwerin"
+website: https://www.croonen.de/schwerin

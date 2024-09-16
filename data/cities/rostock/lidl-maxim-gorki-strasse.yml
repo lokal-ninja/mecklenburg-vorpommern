@@ -1,11 +1,11 @@
 id: 34413030
-type: way
+type: node
 latitude: 54.11696
 longitude: 12.05331
 postcode: "18106"
 city: Rostock
-street: "Maxim-Gorki-Straße"
+street: Maxim-Gorki-Straße
 housenumber: 66/67
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.lidl.de/

@@ -1,11 +1,11 @@
 id: 326978804
-type: way
+type: node
 latitude: 53.84552
 longitude: 11.97248
 postcode: "18246"
 city: Bützow
-street: "Wismarsche Straße"
-housenumber: 2
+street: Wismarsche Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

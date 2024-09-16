@@ -4,8 +4,9 @@ latitude: 53.98821
 longitude: 11.19579
 postcode: "23946"
 city: Boltenhagen
-street: "Kastanienallee"
+street: Kastanienallee
 housenumber: 2-6
-phone: "+49 38825 3020"
-opening_hours: "Mar-Oct: Mo-Sa 07:00-21:00; Mar-Oct: Su 12:00-18:00; Nov-Feb: Mo-Fr 07:00-19:00; Nov-Feb: Sa 07:00-18:00; PH off"
-website: "https://www.markant-online.de/markt/boltenhagen/"
+phone: +49 38825 3020
+opening_hours: 'Mar-Oct: Mo-Sa 07:00-21:00; Mar-Oct: Su 12:00-18:00; Nov-Feb: Mo-Fr
+    07:00-19:00; Nov-Feb: Sa 07:00-18:00; PH off'
+website: https://www.markant-online.de/markt/boltenhagen/

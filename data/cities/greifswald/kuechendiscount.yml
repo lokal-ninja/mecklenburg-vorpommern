@@ -4,8 +4,8 @@ latitude: 54.07356
 longitude: 13.39052
 postcode: "17489"
 city: Greifswald
-street: "Querfeld"
-housenumber: 13
+street: Querfeld
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.kuechendiscount.com/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.kuechendiscount.com/

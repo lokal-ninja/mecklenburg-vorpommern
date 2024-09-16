@@ -1,11 +1,11 @@
 id: 765164043
-type: way
+type: node
 latitude: 53.27891
 longitude: 12.97263
 postcode: "17255"
 city: Wesenberg
-street: "Am Borgwall"
-housenumber: 1
+street: Am Borgwall
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa,PH off"
+opening_hours: Mo-Fr 09:00-17:00; Sa,PH off
 website: ""

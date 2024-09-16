@@ -1,11 +1,11 @@
 id: 486922644
-type: way
+type: node
 latitude: 53.89189
 longitude: 11.4635
 postcode: "23966"
 city: Wismar
-street: "Lübsche Straße"
-housenumber: 14
+street: Lübsche Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su, PH off"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su, PH off
 website: ""

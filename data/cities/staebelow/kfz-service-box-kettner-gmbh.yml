@@ -1,11 +1,11 @@
 id: 87659839
-type: way
+type: node
 latitude: 54.04489
 longitude: 12.03949
 postcode: "18198"
 city: Stäbelow
-street: "Mühlenweg"
-housenumber: 1
+street: Mühlenweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

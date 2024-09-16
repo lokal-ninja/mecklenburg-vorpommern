@@ -1,11 +1,11 @@
 id: 180049103
-type: way
+type: node
 latitude: 54.36086
 longitude: 12.71087
 postcode: "18356"
 city: Barth
-street: "Gewerbegebiet am Mastweg"
-housenumber: 2
-phone: "+49 38231 3901"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-13:00 nach Absprache"
-website: "https://www.kuechenkomfort.de/"
+street: Gewerbegebiet am Mastweg
+housenumber: "2"
+phone: +49 38231 3901
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-13:00 "nach Absprache"
+website: https://www.kuechenkomfort.de/

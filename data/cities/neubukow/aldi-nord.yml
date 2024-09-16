@@ -1,11 +1,11 @@
 id: 747198920
-type: way
+type: node
 latitude: 54.03684
 longitude: 11.68254
 postcode: "18233"
 city: Neubukow
-street: "Am Stellwerk"
-housenumber: 13
+street: Am Stellwerk
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/neubukow/am-stellwerk-13/3182061"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/neubukow/am-stellwerk-13/3182061

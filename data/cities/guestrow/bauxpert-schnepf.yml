@@ -1,11 +1,11 @@
 id: 109603789
-type: way
+type: node
 latitude: 53.81394
 longitude: 12.18924
 postcode: "18273"
 city: Güstrow
-street: "Lindbruch"
-housenumber: 12
+street: Lindbruch
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.bauxpert-schnepf.de/kontakt-bauxpert-guestrow/"
+website: https://www.bauxpert-schnepf.de/kontakt-bauxpert-guestrow/

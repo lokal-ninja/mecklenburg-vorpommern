@@ -1,11 +1,11 @@
 id: 105801455
-type: way
+type: node
 latitude: 53.93028
 longitude: 12.31236
 postcode: "18299"
 city: Laage
-street: "Otto-Lilienthal-Allee"
-housenumber: 3
-phone: "+49 38459 35233"
-opening_hours: "Mo-Fr 07:45-18:00; Sa 08:00-11:00"
-website: "https://www.autohaus-dumke.de/"
+street: Otto-Lilienthal-Allee
+housenumber: "3"
+phone: +49 38459 35233
+opening_hours: Mo-Fr 07:45-18:00; Sa 08:00-11:00
+website: https://www.autohaus-dumke.de/

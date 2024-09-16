@@ -1,11 +1,11 @@
 id: 1206565589
-type: way
+type: node
 latitude: 53.90071
 longitude: 13.05165
 postcode: "17109"
 city: Demmin
-street: "Mozartstraße"
-housenumber: 25
+street: Mozartstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

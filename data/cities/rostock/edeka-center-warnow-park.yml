@@ -1,11 +1,11 @@
 id: 34173782
-type: way
+type: node
 latitude: 54.13865
 longitude: 12.0577
 postcode: "18107"
 city: Rostock
-street: "Rigaer Straße"
-housenumber: 5
+street: Rigaer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-We 8:00-20:00; Th-Sa 8:00-21:00"
-website: "http://www.edeka-center.de/warnowpark/"
+opening_hours: Mo-We 8:00-20:00; Th-Sa 8:00-21:00
+website: http://www.edeka-center.de/warnowpark/

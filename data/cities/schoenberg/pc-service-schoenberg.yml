@@ -1,11 +1,11 @@
 id: 192757739
-type: way
+type: node
 latitude: 53.84369
 longitude: 10.94045
 postcode: "23923"
 city: Schönberg
-street: "Schlauentrift"
-housenumber: 5
+street: Schlauentrift
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

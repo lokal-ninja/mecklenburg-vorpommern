@@ -4,8 +4,8 @@ latitude: 54.31165
 longitude: 13.08813
 postcode: "18439"
 city: Stralsund
-street: "Mönchstraße"
-housenumber: 32
+street: Mönchstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.haircosmeticteam.de/stralsund"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.haircosmeticteam.de/stralsund

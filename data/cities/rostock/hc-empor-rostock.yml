@@ -4,8 +4,8 @@ latitude: 54.10001
 longitude: 12.09006
 postcode: "18069"
 city: Rostock
-street: "Schwarzer Weg"
-housenumber: 2
+street: Schwarzer Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo, Tu 10:00-16:30; Th 10:00-18:00; Fr 10:00-14:00"
+opening_hours: Mo, Tu 10:00-16:30; Th 10:00-18:00; Fr 10:00-14:00
 website: ""

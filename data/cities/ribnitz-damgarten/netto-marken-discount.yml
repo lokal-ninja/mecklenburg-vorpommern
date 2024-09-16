@@ -1,11 +1,11 @@
 id: 57358781
-type: way
+type: node
 latitude: 54.25214
 longitude: 12.47718
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Stralsunder Straße"
-housenumber: 44
+street: Stralsunder Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

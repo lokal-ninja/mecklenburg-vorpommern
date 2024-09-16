@@ -1,11 +1,11 @@
 id: 121986600
-type: way
+type: node
 latitude: 53.73203
 longitude: 12.7837
 postcode: "17139"
 city: Malchin
-street: "Stavenhagener Straße"
-housenumber: 1
+street: Stavenhagener Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

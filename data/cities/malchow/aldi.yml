@@ -1,11 +1,11 @@
 id: 200831214
-type: way
+type: node
 latitude: 53.47958
 longitude: 12.42266
 postcode: "17213"
 city: Malchow
-street: "Friedrich-Ebert-Straße"
-housenumber: 6
+street: Friedrich-Ebert-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH 12:00-18:00"
+opening_hours: Mo-Sa 07:00-20:00; PH 12:00-18:00
 website: ""

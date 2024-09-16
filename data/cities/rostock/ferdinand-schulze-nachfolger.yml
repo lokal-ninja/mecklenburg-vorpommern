@@ -1,11 +1,11 @@
 id: 33839206
-type: way
+type: node
 latitude: 54.09466
 longitude: 12.15344
 postcode: ""
 city: Rostock
-street: "Altkarlshof"
-housenumber: 6
+street: Altkarlshof
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.fsn.de/"
+website: https://www.fsn.de/

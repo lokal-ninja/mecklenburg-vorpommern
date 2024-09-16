@@ -1,11 +1,11 @@
 id: 263990390
-type: way
+type: node
 latitude: 53.56972
 longitude: 13.27026
 postcode: "17034"
 city: Neubrandenburg
-street: "Demminer Straße"
-housenumber: 49
+street: Demminer Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.lidl.de/filialen/neubrandenburg/demminer-str-49.html"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.lidl.de/filialen/neubrandenburg/demminer-str-49.html

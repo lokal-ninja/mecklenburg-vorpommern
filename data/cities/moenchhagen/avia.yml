@@ -4,8 +4,8 @@ latitude: 54.15689
 longitude: 12.23292
 postcode: "18182"
 city: Mönchhagen
-street: "An der B105"
-housenumber: 16
-phone: "+49 38 202 2805"
-opening_hours: "24/7"
+street: An der B105
+housenumber: "16"
+phone: +49 38 202 2805
+opening_hours: 24/7
 website: ""

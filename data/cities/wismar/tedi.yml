@@ -1,11 +1,11 @@
 id: 117366420
-type: way
+type: node
 latitude: 53.9119
 longitude: 11.48425
 postcode: "23970"
 city: Wismar
-street: "Am Wiesengrund"
-housenumber: 6
+street: Am Wiesengrund
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 142531035
-type: way
+type: node
 latitude: 53.42798
 longitude: 11.82605
 postcode: "19370"
 city: Parchim
-street: "Ludwigsluster Chaussee"
-housenumber: 30
+street: Ludwigsluster Chaussee
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

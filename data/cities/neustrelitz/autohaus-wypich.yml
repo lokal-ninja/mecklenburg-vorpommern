@@ -1,11 +1,11 @@
 id: 158272424
-type: way
+type: node
 latitude: 53.33332
 longitude: 13.06405
 postcode: "17235"
 city: Neustrelitz
-street: "Kranichstraße"
-housenumber: 20
+street: Kranichstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

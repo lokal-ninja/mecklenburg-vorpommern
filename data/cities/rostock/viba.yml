@@ -4,8 +4,8 @@ latitude: 54.0884
 longitude: 12.1371
 postcode: "18055"
 city: Rostock
-street: "Kröpeliner Straße"
-housenumber: 18
-phone: "+49 381 1285546"
-opening_hours: "Mo-Fr 09:30-13:30,14:00-17:00; Dec: Sa 09:00-12:00"
+street: Kröpeliner Straße
+housenumber: "18"
+phone: +49 381 1285546
+opening_hours: 'Mo-Fr 09:30-13:30,14:00-17:00; Dec: Sa 09:00-12:00'
 website: ""

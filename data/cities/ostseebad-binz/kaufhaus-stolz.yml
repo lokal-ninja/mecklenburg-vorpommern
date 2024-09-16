@@ -1,11 +1,11 @@
 id: 70532464
-type: way
+type: node
 latitude: 54.4039
 longitude: 13.60027
 postcode: "18609"
 city: Ostseebad Binz
-street: "Proraer Chaussee"
-housenumber: 6
-phone: "+4938393 6666 0"
-opening_hours: "Mo-Sa 09:00-19:00; Su 12:00-18:00"
-website: "https://www.kaufhaus-stolz.com/"
+street: Proraer Chaussee
+housenumber: "6"
+phone: +4938393 6666 0
+opening_hours: Mo-Sa 09:00-19:00; Su 12:00-18:00
+website: https://www.kaufhaus-stolz.com/

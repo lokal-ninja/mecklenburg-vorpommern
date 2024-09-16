@@ -4,8 +4,8 @@ latitude: 53.79277
 longitude: 12.17748
 postcode: "18273"
 city: Güstrow
-street: "Gleviner Straße"
-housenumber: 5
+street: Gleviner Straße
+housenumber: "5"
 phone: ""
-opening_hours: "03843 85 99 380 Tag & Nacht"
+opening_hours: '"03843 85 99 380 Tag & Nacht"'
 website: ""

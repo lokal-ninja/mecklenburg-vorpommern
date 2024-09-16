@@ -1,11 +1,11 @@
 id: 34413596
-type: way
+type: node
 latitude: 54.1248
 longitude: 12.04994
 postcode: "18106"
 city: Rostock
-street: "Theodor-Körner-Straße"
-housenumber: 7
+street: Theodor-Körner-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.hanse-sound.de/"
+website: https://www.hanse-sound.de/

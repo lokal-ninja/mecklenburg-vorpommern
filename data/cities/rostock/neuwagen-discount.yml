@@ -1,11 +1,11 @@
 id: 34949807
-type: way
+type: node
 latitude: 54.10848
 longitude: 12.15871
 postcode: "18146"
 city: Rostock
-street: "Hinrichsdorfer Straße"
+street: Hinrichsdorfer Straße
 housenumber: 12a
 phone: ""
 opening_hours: ""
-website: "http://www.neuwagen-discount.de"
+website: http://www.neuwagen-discount.de

@@ -4,8 +4,8 @@ latitude: 54.08562
 longitude: 12.14936
 postcode: "18055"
 city: Rostock
-street: "Mühlendamm"
-housenumber: 7
+street: Mühlendamm
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,Tu,Th 07:00-18:00; We 07:00-15:00; Fr 07:00-16:00; Sa 09:00-12:00"
+opening_hours: Mo,Tu,Th 07:00-18:00; We 07:00-15:00; Fr 07:00-16:00; Sa 09:00-12:00
 website: ""

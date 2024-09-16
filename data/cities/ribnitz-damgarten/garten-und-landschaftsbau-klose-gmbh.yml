@@ -1,11 +1,12 @@
 id: 127538347
-type: way
+type: node
 latitude: 54.25019
 longitude: 12.49027
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Richtenberger Straße"
-housenumber: 38
-phone: "+49 3821 8695892"
-opening_hours: "Mar-Jun: Mo-Fr 09:00-13:00,14:00-18:00; Sa 08:00-14:00; Jul-Sep: Mo-Fr 09:00-13:00; Sa 08:00-12:00; Oct-Dec: Mo-Fr 09:00-13:00,14:00-17:00; Sa 08:00-12:00"
-website: "https://www.klose-gartenbau.de"
+street: Richtenberger Straße
+housenumber: "38"
+phone: +49 3821 8695892
+opening_hours: 'Mar-Jun: Mo-Fr 09:00-13:00,14:00-18:00; Sa 08:00-14:00; Jul-Sep: Mo-Fr
+    09:00-13:00; Sa 08:00-12:00; Oct-Dec: Mo-Fr 09:00-13:00,14:00-17:00; Sa 08:00-12:00'
+website: https://www.klose-gartenbau.de

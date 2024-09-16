@@ -1,11 +1,11 @@
 id: 96054561
-type: way
+type: node
 latitude: 53.63307
 longitude: 11.4219
 postcode: "19055"
 city: Schwerin
-street: "Werderstraße"
-housenumber: 67
-phone: "+49 (0)38547901095"
+street: Werderstraße
+housenumber: "67"
+phone: +49 (0)38547901095
 opening_hours: ""
 website: ""

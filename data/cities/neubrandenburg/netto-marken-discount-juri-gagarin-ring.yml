@@ -1,11 +1,11 @@
 id: 52772611
-type: way
+type: node
 latitude: 53.5537
 longitude: 13.29592
 postcode: "17036"
 city: Neubrandenburg
-street: "Juri-Gagarin-Ring"
-housenumber: 28
+street: Juri-Gagarin-Ring
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

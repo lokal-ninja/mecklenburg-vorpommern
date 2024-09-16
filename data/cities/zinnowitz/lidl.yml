@@ -1,11 +1,11 @@
 id: 276928601
-type: way
+type: node
 latitude: 54.07951
 longitude: 13.90343
 postcode: "17454"
 city: Zinnowitz
-street: "Salzhorstweg"
+street: Salzhorstweg
 housenumber: 9b
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 12:00-18:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su 12:00-18:00
+website: https://www.lidl.de/

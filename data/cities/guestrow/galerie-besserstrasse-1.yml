@@ -4,8 +4,8 @@ latitude: 53.79263
 longitude: 12.16942
 postcode: "18273"
 city: Güstrow
-street: "Besserstraße"
-housenumber: 1
-phone: "+49 3843 682360"
-opening_hours: "Tu,Sa 14:00-17:00; by appointment"
-website: "https://www.galerie-guestrow.de/"
+street: Besserstraße
+housenumber: "1"
+phone: +49 3843 682360
+opening_hours: Tu,Sa 14:00-17:00; by appointment
+website: https://www.galerie-guestrow.de/

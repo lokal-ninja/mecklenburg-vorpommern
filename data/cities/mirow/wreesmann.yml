@@ -1,11 +1,11 @@
 id: 129750041
-type: way
+type: node
 latitude: 53.27404
 longitude: 12.82283
 postcode: "17252"
 city: Mirow
-street: "Wesenberger Chaussee"
-housenumber: 2
+street: Wesenberger Chaussee
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

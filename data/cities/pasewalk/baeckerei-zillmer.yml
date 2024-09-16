@@ -1,11 +1,11 @@
 id: 171224824
-type: way
+type: node
 latitude: 53.5082
 longitude: 13.98884
 postcode: ""
 city: Pasewalk
-street: "Mühlenstraße"
-housenumber: 21
+street: Mühlenstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00"
+opening_hours: Mo-Fr 06:00-17:00
 website: ""

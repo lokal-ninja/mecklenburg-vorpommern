@@ -4,8 +4,8 @@ latitude: 54.40066
 longitude: 13.61319
 postcode: "18609"
 city: Ostseebad Binz
-street: "Heinrich-Heine-Straße"
-housenumber: 2
-phone: "+4938393 30488"
-opening_hours: "Mo-Su 07:00-18:00"
-website: "https://www.baeckerei-peters.de/"
+street: Heinrich-Heine-Straße
+housenumber: "2"
+phone: +4938393 30488
+opening_hours: Mo-Su 07:00-18:00
+website: https://www.baeckerei-peters.de/

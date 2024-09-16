@@ -1,11 +1,11 @@
 id: 26418650
-type: way
+type: node
 latitude: 54.24737
 longitude: 12.40759
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Boddenstraße"
-housenumber: 5
-phone: "+493821 39021 0"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://toom.de/m/ribnitz-damgarten/"
+street: Boddenstraße
+housenumber: "5"
+phone: +493821 39021 0
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://toom.de/m/ribnitz-damgarten/

@@ -1,11 +1,11 @@
 id: 116397096
-type: way
+type: node
 latitude: 53.57553
 longitude: 13.27956
 postcode: "17034"
 city: Neubrandenburg
-street: "Max-Adrion-Straße"
-housenumber: 6
+street: Max-Adrion-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

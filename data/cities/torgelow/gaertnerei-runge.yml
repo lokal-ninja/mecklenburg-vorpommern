@@ -1,11 +1,11 @@
 id: 154475938
-type: way
+type: node
 latitude: 53.6311
 longitude: 14.02362
 postcode: "17358"
 city: Torgelow
-street: "Eggesiner Straße"
-housenumber: 2
+street: Eggesiner Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

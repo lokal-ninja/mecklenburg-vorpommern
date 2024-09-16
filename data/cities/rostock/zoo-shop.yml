@@ -1,11 +1,11 @@
 id: 33780487
-type: way
+type: node
 latitude: 54.07947
 longitude: 12.08373
 postcode: "18059"
 city: Rostock
-street: "Barnstorfer Ring"
-housenumber: 1
+street: Barnstorfer Ring
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

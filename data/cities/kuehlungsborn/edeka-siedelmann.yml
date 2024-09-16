@@ -4,8 +4,8 @@ latitude: 54.15064
 longitude: 11.76145
 postcode: "18225"
 city: Kühlungsborn
-street: "Hafenstraße"
-housenumber: 1
+street: Hafenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 12:00-18:00
 website: ""

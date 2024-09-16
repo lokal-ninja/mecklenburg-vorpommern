@@ -4,8 +4,8 @@ latitude: 54.06701
 longitude: 13.39361
 postcode: "17489"
 city: Greifswald
-street: "An der Thronpost"
-housenumber: 6
-phone: "+49 3834 542 0"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 09:00-12:00; PH closed"
-website: "https://www.meesenburg.com/"
+street: An der Thronpost
+housenumber: "6"
+phone: +49 3834 542 0
+opening_hours: Mo-Fr 06:30-17:00; Sa 09:00-12:00; PH closed
+website: https://www.meesenburg.com/

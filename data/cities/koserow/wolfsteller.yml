@@ -4,8 +4,8 @@ latitude: 54.04648
 longitude: 14.00293
 postcode: "17459"
 city: Koserow
-street: "Hauptstraße"
-housenumber: 57
-phone: "+49 38375 21462"
-opening_hours: "Mo-Sa 06:45-21:00; Su 13:00-18:00"
-website: "https://www.baeckerei-wolfsteller.de/"
+street: Hauptstraße
+housenumber: "57"
+phone: +49 38375 21462
+opening_hours: Mo-Sa 06:45-21:00; Su 13:00-18:00
+website: https://www.baeckerei-wolfsteller.de/

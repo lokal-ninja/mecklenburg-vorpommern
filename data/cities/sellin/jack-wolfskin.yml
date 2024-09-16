@@ -4,8 +4,8 @@ latitude: 54.36661
 longitude: 13.7023
 postcode: "18586"
 city: Sellin
-street: "Friedrich-von-Hagenow-Straße"
-housenumber: 3
-phone: "+49 38303 12870"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-18:00"
+street: Friedrich-von-Hagenow-Straße
+housenumber: "3"
+phone: +49 38303 12870
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-18:00
 website: ""

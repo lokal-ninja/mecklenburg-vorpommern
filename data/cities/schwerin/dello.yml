@@ -1,11 +1,11 @@
 id: 78303691
-type: way
+type: node
 latitude: 53.59905
 longitude: 11.4166
 postcode: "19061"
 city: Schwerin
-street: "Hagenower Straße"
-housenumber: 75
+street: Hagenower Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

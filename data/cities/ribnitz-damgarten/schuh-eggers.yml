@@ -1,11 +1,11 @@
 id: 116464573
-type: way
+type: node
 latitude: 54.24572
 longitude: 12.40828
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Boddenstraße"
-housenumber: 2
-phone: "+493821 7099821"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; PH,Su off"
-website: "https://schaufenster.schuheggers.de/virtuelles_schaufenster/schuh-eggers-ribnitz-damgarten"
+street: Boddenstraße
+housenumber: "2"
+phone: +493821 7099821
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; PH,Su off
+website: https://schaufenster.schuheggers.de/virtuelles_schaufenster/schuh-eggers-ribnitz-damgarten

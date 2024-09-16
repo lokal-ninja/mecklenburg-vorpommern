@@ -4,8 +4,8 @@ latitude: 54.11176
 longitude: 12.13711
 postcode: "18147"
 city: Rostock
-street: "Joliot-Curie-Allee"
-housenumber: 47
+street: Joliot-Curie-Allee
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-12:00"
-website: "https://www.baeckerei-sparre.de/toitenwinkel"
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-12:00
+website: https://www.baeckerei-sparre.de/toitenwinkel

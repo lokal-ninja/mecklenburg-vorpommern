@@ -1,11 +1,11 @@
 id: 128045497
-type: way
+type: node
 latitude: 54.34684
 longitude: 12.39821
 postcode: "18347"
 city: Wustrow
-street: "Ernst-Thälmann-Straße"
-housenumber: 20
+street: Ernst-Thälmann-Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

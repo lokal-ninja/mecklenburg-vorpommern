@@ -4,8 +4,8 @@ latitude: 54.08965
 longitude: 12.13108
 postcode: "18055"
 city: Rostock
-street: "Lange Straße"
-housenumber: 37
-phone: "+49 381 377 99 97"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.cafeshop-especial.de/de/unsere_shops/cafeshop_rostock"
+street: Lange Straße
+housenumber: "37"
+phone: +49 381 377 99 97
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.cafeshop-especial.de/de/unsere_shops/cafeshop_rostock

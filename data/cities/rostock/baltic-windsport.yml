@@ -4,8 +4,8 @@ latitude: 54.09214
 longitude: 12.12677
 postcode: "18057"
 city: Rostock
-street: "Warnowufer"
-housenumber: 65
+street: Warnowufer
+housenumber: "65"
 phone: "+493812009555"
 opening_hours: ""
-website: "https://baltic-sport.de/index.php"
+website: https://baltic-sport.de/index.php

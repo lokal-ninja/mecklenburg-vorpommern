@@ -1,11 +1,11 @@
 id: 33894673
-type: way
+type: node
 latitude: 54.10488
 longitude: 12.07432
 postcode: "18069"
 city: Rostock
-street: "Krischanweg"
-housenumber: 7
+street: Krischanweg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00"
-website: "http://www.eikboomgmbh.de/"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00
+website: http://www.eikboomgmbh.de/

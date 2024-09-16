@@ -1,11 +1,11 @@
 id: 266434503
-type: way
+type: node
 latitude: 53.89347
 longitude: 11.45299
 postcode: "23966"
 city: Wismar
-street: "Holzdamm"
-housenumber: 5
+street: Holzdamm
+housenumber: "5"
 phone: "+493841334824"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
-website: "https://www.getraenkeland.com/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
+website: https://www.getraenkeland.com/

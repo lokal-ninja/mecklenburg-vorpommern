@@ -1,11 +1,11 @@
 id: 121986620
-type: way
+type: node
 latitude: 53.73752
 longitude: 12.77804
 postcode: "17139"
 city: Malchin
-street: "Stavenhagener Straße"
-housenumber: 40
+street: Stavenhagener Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "http://www.bauzentrum-schnepf.de/www2/bz-navi.html#/baumaerkte/bz-malchin/"
+website: http://www.bauzentrum-schnepf.de/www2/bz-navi.html#/baumaerkte/bz-malchin/

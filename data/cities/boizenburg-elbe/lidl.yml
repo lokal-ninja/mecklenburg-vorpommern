@@ -1,11 +1,11 @@
 id: 142418540
-type: way
+type: node
 latitude: 53.38689
 longitude: 10.73532
 postcode: "19258"
 city: Boizenburg/Elbe
-street: "Am Keesboom"
-housenumber: 4
+street: Am Keesboom
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

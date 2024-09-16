@@ -1,11 +1,11 @@
 id: 97696659
-type: way
+type: node
 latitude: 53.63921
 longitude: 11.43542
 postcode: "19055"
 city: Schwerin
-street: "Bornhövedstraße"
-housenumber: 105
-phone: "+49 385 561345"
+street: Bornhövedstraße
+housenumber: "105"
+phone: +49 385 561345
 opening_hours: ""
 website: ""

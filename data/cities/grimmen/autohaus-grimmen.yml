@@ -1,11 +1,11 @@
 id: 186964394
-type: way
+type: node
 latitude: 54.12668
 longitude: 13.04165
 postcode: "18507"
 city: Grimmen
-street: "An der Bollenkoppel"
-housenumber: 4
+street: An der Bollenkoppel
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

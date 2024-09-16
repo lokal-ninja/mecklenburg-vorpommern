@@ -1,11 +1,11 @@
 id: 149314229
-type: way
+type: node
 latitude: 54.41436
 longitude: 13.42864
 postcode: "18528"
 city: Bergen auf Rügen
-street: "Dammstraße"
-housenumber: 31
-phone: "+49 3838 256620"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.zweirad-kresse.de/"
+street: Dammstraße
+housenumber: "31"
+phone: +49 3838 256620
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.zweirad-kresse.de/

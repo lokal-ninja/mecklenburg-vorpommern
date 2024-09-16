@@ -4,8 +4,8 @@ latitude: 53.56154
 longitude: 13.26148
 postcode: "17033"
 city: Neubrandenburg
-street: "Am Bahnhof"
-housenumber: 5
+street: Am Bahnhof
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 06:00 - 20:00; Su,PH 7:00-20:00; "
+opening_hours: 'Mo-Sa 06:00 - 20:00; Su,PH 7:00-20:00; '
 website: ""

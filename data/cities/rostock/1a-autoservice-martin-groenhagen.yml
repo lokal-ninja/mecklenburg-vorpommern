@@ -1,11 +1,11 @@
 id: 34950023
-type: way
+type: node
 latitude: 54.11069
 longitude: 12.16397
 postcode: "18146"
 city: Rostock
-street: "Hinrichsdorfer Straße"
+street: Hinrichsdorfer Straße
 housenumber: 7g
-phone: "+49 381 609440"
+phone: +49 381 609440
 opening_hours: ""
-website: "https://www.1a-groenhagen.de/"
+website: https://www.1a-groenhagen.de/

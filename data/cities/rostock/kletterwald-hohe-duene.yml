@@ -4,8 +4,9 @@ latitude: 54.19341
 longitude: 12.14142
 postcode: "18146"
 city: Rostock
-street: "Warnemünder Straße"
-housenumber: 20
+street: Warnemünder Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Apr 21-May 31: We-Su 10:00-15:00; Jun 01-Aug 08: Mo-Su 10:00-16:30; Aug 15-31: Tu-Su 10:00-16:30"
+opening_hours: 'Apr 21-May 31: We-Su 10:00-15:00; Jun 01-Aug 08: Mo-Su 10:00-16:30;
+    Aug 15-31: Tu-Su 10:00-16:30'
 website: ""

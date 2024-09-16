@@ -4,8 +4,8 @@ latitude: 54.5159
 longitude: 13.64051
 postcode: "18546"
 city: Sassnitz
-street: "Rügen-Galerie"
-housenumber: 16
-phone: "+49 38392 22344"
-opening_hours: "Mo-Sa 06:00-22:00; Su 12:00-18:00"
-website: "https://www.rewe.de/marktseite/sassnitz/565041/rewe-markt-ruegen-galerie-16/"
+street: Rügen-Galerie
+housenumber: "16"
+phone: +49 38392 22344
+opening_hours: Mo-Sa 06:00-22:00; Su 12:00-18:00
+website: https://www.rewe.de/marktseite/sassnitz/565041/rewe-markt-ruegen-galerie-16/

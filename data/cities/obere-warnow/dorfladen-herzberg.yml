@@ -1,11 +1,11 @@
 id: 38075380
-type: way
+type: node
 latitude: 53.52897
 longitude: 11.92728
 postcode: "19374"
 city: Obere Warnow
-street: "Lindenstraße"
-housenumber: 9
+street: Lindenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.08731
 longitude: 12.11779
 postcode: "18057"
 city: Rostock
-street: "Ottostraße"
-housenumber: 5
+street: Ottostraße
+housenumber: "5"
 phone: ""
-opening_hours: "Terminvereinbarung für Dienstag bis Sonnabend.; Mo off"
+opening_hours: '"Terminvereinbarung für Dienstag bis Sonnabend."; Mo off'
 website: ""

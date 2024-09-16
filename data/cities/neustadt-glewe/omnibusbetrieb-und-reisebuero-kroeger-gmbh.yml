@@ -1,11 +1,11 @@
 id: 202582911
-type: way
+type: node
 latitude: 53.37738
 longitude: 11.59492
 postcode: "19306"
 city: Neustadt-Glewe
-street: "Sandstraße"
+street: Sandstraße
 housenumber: 3a
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.busbetrieb-kroeger.de/index.php?id=8"
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.busbetrieb-kroeger.de/index.php?id=8

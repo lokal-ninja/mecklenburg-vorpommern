@@ -1,11 +1,11 @@
 id: 180005664
-type: way
+type: node
 latitude: 54.36865
 longitude: 12.69647
 postcode: "18356"
 city: Barth
-street: "Uhlenflucht"
-housenumber: 1
+street: Uhlenflucht
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

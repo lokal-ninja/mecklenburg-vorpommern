@@ -1,11 +1,11 @@
 id: 169272852
-type: way
+type: node
 latitude: 53.78756
 longitude: 12.18236
 postcode: "18273"
 city: Güstrow
-street: "Plauer Straße"
-housenumber: 71
+street: Plauer Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

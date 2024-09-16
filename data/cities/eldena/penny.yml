@@ -1,11 +1,11 @@
 id: 398753979
-type: way
+type: node
 latitude: 53.22836
 longitude: 11.41008
 postcode: "19294"
 city: Eldena
-street: "Dömitzer Straße"
-housenumber: 42
+street: Dömitzer Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

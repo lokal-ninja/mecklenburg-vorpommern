@@ -1,11 +1,11 @@
 id: 34548945
-type: way
+type: node
 latitude: 54.09398
 longitude: 12.10885
 postcode: ""
 city: Rostock
-street: "Werftstraße"
-housenumber: 50
+street: Werftstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

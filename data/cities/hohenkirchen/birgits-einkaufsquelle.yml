@@ -1,11 +1,11 @@
 id: 434395039
-type: way
+type: node
 latitude: 53.92979
 longitude: 11.3302
 postcode: "23968"
 city: Hohenkirchen
-street: "Schulzenhufe"
-housenumber: 1
+street: Schulzenhufe
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

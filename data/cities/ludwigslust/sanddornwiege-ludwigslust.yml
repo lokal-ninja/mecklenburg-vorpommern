@@ -4,8 +4,9 @@ latitude: 53.32635
 longitude: 11.49002
 postcode: "19288"
 city: Ludwigslust
-street: "Friedrich-Naumann-Allee"
-housenumber: 26
+street: Friedrich-Naumann-Allee
+housenumber: "26"
 phone: ""
-opening_hours: "Mar-Nov:Mo-Fr 09:00-18:00; Sa 08:00-13:00; Su 09:30-12:00 ,Dec-Feb:Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "https://www.pg-storchennest.de/gartenmarkt/sortiment"
+opening_hours: Mar-Nov:Mo-Fr 09:00-18:00; Sa 08:00-13:00; Su 09:30-12:00 ,Dec-Feb:Mo-Fr
+    09:00-17:00; Sa 09:00-13:00
+website: https://www.pg-storchennest.de/gartenmarkt/sortiment

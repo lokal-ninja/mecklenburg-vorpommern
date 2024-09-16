@@ -1,11 +1,11 @@
 id: 657402180
-type: way
+type: node
 latitude: 53.38256
 longitude: 11.58669
 postcode: "19306"
 city: Neustadt-Glewe
-street: "Breitscheidstraße"
-housenumber: 3
+street: Breitscheidstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

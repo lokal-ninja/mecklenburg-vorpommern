@@ -1,11 +1,11 @@
 id: 978564888
-type: way
+type: node
 latitude: 53.49484
 longitude: 13.32123
 postcode: "17094"
 city: Burg Stargard
-street: "Dewitzer Chaussee"
-housenumber: 3
+street: Dewitzer Chaussee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 34549136
-type: way
+type: node
 latitude: 54.09766
 longitude: 12.09699
 postcode: ""
 city: Rostock
-street: "Carl-Hopp-Straße"
-housenumber: 15
+street: Carl-Hopp-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

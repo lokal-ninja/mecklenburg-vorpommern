@@ -4,8 +4,8 @@ latitude: 54.24413
 longitude: 12.4326
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Grüne Straße"
-housenumber: 8
-phone: "+493821 813026"
-opening_hours: "Mo-Th 09:00-13:00,13:30-18:00; Fr 09:00-13:00"
-website: "https://standorte.geers.de/ribnitz-damgarten/gruene-strasse-6.html"
+street: Grüne Straße
+housenumber: "8"
+phone: +493821 813026
+opening_hours: Mo-Th 09:00-13:00,13:30-18:00; Fr 09:00-13:00
+website: https://standorte.geers.de/ribnitz-damgarten/gruene-strasse-6.html

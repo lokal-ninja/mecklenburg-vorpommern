@@ -1,11 +1,11 @@
 id: 119027680
-type: way
+type: node
 latitude: 54.32025
 longitude: 13.05482
 postcode: "18435"
 city: Stralsund
-street: "Heinrich-Heine-Ring"
-housenumber: 133
+street: Heinrich-Heine-Ring
+housenumber: "133"
 phone: ""
 opening_hours: ""
-website: "https://car-center-grassow.de/"
+website: https://car-center-grassow.de/

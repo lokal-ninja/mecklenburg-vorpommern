@@ -1,11 +1,11 @@
 id: 718196516
-type: way
+type: node
 latitude: 53.57551
 longitude: 11.92395
 postcode: ""
 city: Mestlin
-street: "Schweriner Chaussee"
-housenumber: 1
+street: Schweriner Chaussee
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

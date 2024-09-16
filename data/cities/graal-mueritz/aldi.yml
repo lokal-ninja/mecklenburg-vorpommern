@@ -1,11 +1,11 @@
 id: 108878201
-type: way
+type: node
 latitude: 54.24961
 longitude: 12.24776
 postcode: "18181"
 city: Graal-Müritz
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 12:00-18:00
 website: ""

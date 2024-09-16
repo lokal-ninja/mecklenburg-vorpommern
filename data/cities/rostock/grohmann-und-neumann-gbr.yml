@@ -1,11 +1,11 @@
 id: 34173989
-type: way
+type: node
 latitude: 54.13287
 longitude: 12.05904
 postcode: "18107"
 city: Rostock
-street: "Talliner Straße"
-housenumber: 2
+street: Talliner Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.identica-gn.de"
+website: http://www.identica-gn.de

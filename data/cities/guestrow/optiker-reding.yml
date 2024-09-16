@@ -4,8 +4,8 @@ latitude: 53.79437
 longitude: 12.17681
 postcode: "18273"
 city: Güstrow
-street: "Enge Straße"
-housenumber: 4
+street: Enge Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-17:00"
-website: "https://www.schaufenster-guestrow.de/optiker_reding"
+opening_hours: Mo-Fr 09:00-13:00,14:00-17:00
+website: https://www.schaufenster-guestrow.de/optiker_reding

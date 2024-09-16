@@ -1,11 +1,11 @@
 id: 601680714
-type: way
+type: node
 latitude: 54.0151
 longitude: 12.1984
 postcode: "18196"
 city: Dummerstorf
-street: "Holzweg"
-housenumber: 1
+street: Holzweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

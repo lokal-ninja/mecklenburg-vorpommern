@@ -4,8 +4,8 @@ latitude: 54.08837
 longitude: 12.13779
 postcode: "18055"
 city: Rostock
-street: "Kröpeliner Straße"
-housenumber: 15
+street: Kröpeliner Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-We, Fr 09:30-18:00; Th 09:30-20:00; Sa 10:00-13:00"
-website: "https://www.blickkontakt-rostock.de/"
+opening_hours: Mo-We, Fr 09:30-18:00; Th 09:30-20:00; Sa 10:00-13:00
+website: https://www.blickkontakt-rostock.de/

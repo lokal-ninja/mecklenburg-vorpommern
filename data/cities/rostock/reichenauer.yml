@@ -1,11 +1,11 @@
 id: 34008948
-type: way
+type: node
 latitude: 54.11994
 longitude: 12.14738
 postcode: "18147"
 city: Rostock
-street: "Ligusterweg"
-housenumber: 6
+street: Ligusterweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.kfzwerkstattreichenauer.de/"
+website: http://www.kfzwerkstattreichenauer.de/

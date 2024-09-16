@@ -1,11 +1,11 @@
 id: 197944238
-type: way
+type: node
 latitude: 53.65266
 longitude: 11.33155
 postcode: "19057"
 city: Schwerin
-street: "Lärchenallee"
-housenumber: 32
+street: Lärchenallee
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

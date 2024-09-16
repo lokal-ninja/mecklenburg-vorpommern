@@ -1,11 +1,11 @@
 id: 265765147
-type: way
+type: node
 latitude: 53.70172
 longitude: 11.11543
 postcode: "19205"
 city: Gadebusch
-street: "Lübsche Straße"
-housenumber: 12
+street: Lübsche Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00;Sa 05:30-12:00; Su 06:30-10:00"
-website: "https://www.klugs-backstube-gadebusch.de/"
+opening_hours: Mo-Fr 05:30-18:00;Sa 05:30-12:00; Su 06:30-10:00
+website: https://www.klugs-backstube-gadebusch.de/

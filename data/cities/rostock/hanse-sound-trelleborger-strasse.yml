@@ -1,11 +1,11 @@
 id: 238238250
-type: way
+type: node
 latitude: 54.13337
 longitude: 12.06056
 postcode: "18107"
 city: Rostock
-street: "Trelleborger Straße"
-housenumber: 4
+street: Trelleborger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 11:00-14:00"
-website: "https://www.hanse-sound.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 11:00-14:00
+website: https://www.hanse-sound.de/

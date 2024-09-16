@@ -1,11 +1,11 @@
 id: 116464565
-type: way
+type: node
 latitude: 54.24225
 longitude: 12.40222
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Am Nettelrade"
-housenumber: 6
-phone: "+493821 8937 0"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-12:00"
-website: "https://www.jacob-cement.de/standorte/standort/ribnitz-damgarten"
+street: Am Nettelrade
+housenumber: "6"
+phone: +493821 8937 0
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-12:00
+website: https://www.jacob-cement.de/standorte/standort/ribnitz-damgarten

@@ -1,11 +1,11 @@
 id: 133538696
-type: way
+type: node
 latitude: 53.43364
 longitude: 11.19259
 postcode: "19230"
 city: Hagenow
-street: "Teichstraße"
-housenumber: 18
-phone: "+49 3883 724 104"
-opening_hours: "Mo-Fr 08:00-13:00,13:45-17:00"
+street: Teichstraße
+housenumber: "18"
+phone: +49 3883 724 104
+opening_hours: Mo-Fr 08:00-13:00,13:45-17:00
 website: ""

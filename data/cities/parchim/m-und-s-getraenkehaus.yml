@@ -1,11 +1,11 @@
 id: 113674867
-type: way
+type: node
 latitude: 53.43351
 longitude: 11.86655
 postcode: "19370"
 city: Parchim
-street: "Am Eichberg"
-housenumber: 1
+street: Am Eichberg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

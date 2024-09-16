@@ -4,8 +4,8 @@ latitude: 53.89386
 longitude: 11.4674
 postcode: "23966"
 city: Wismar
-street: "ABC-Straße"
-housenumber: 11
+street: ABC-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.getraenke-tabakwismar.de/"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.getraenke-tabakwismar.de/

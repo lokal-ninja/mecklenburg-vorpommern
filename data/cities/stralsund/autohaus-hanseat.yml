@@ -1,11 +1,11 @@
 id: 109977957
-type: way
+type: node
 latitude: 54.30346
 longitude: 13.10195
 postcode: "18439"
 city: Stralsund
-street: "Werftstraße"
-housenumber: 4
-phone: "+493831 293298"
+street: Werftstraße
+housenumber: "4"
+phone: +493831 293298
 opening_hours: ""
-website: "https://neu-gruppe.com/"
+website: https://neu-gruppe.com/

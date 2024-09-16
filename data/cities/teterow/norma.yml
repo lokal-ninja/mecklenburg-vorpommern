@@ -1,11 +1,11 @@
 id: 95127272
-type: way
+type: node
 latitude: 53.7688
 longitude: 12.58299
 postcode: "17166"
 city: Teterow
-street: "Malchiner Straße"
-housenumber: 88
+street: Malchiner Straße
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 513026783
-type: way
+type: node
 latitude: 53.71379
 longitude: 11.98233
 postcode: "19406"
 city: Mustin
-street: "Dorfstraße"
-housenumber: 16
+street: Dorfstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "http://www.biohof-kroeger.de/"
+website: http://www.biohof-kroeger.de/

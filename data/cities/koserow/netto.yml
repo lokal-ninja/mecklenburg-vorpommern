@@ -1,11 +1,11 @@
 id: 197702167
-type: way
+type: node
 latitude: 54.04665
 longitude: 14.00329
 postcode: "17459"
 city: Koserow
-street: "Hauptstraße"
-housenumber: 85
+street: Hauptstraße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

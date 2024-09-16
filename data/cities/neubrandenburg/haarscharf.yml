@@ -4,8 +4,8 @@ latitude: 53.55608
 longitude: 13.2624
 postcode: "17033"
 city: Neubrandenburg
-street: "Neutorstraße"
-housenumber: 8
-phone: "+49 395 57069292"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00; PH off"
-website: "http://haarscharf-nb.de"
+street: Neutorstraße
+housenumber: "8"
+phone: +49 395 57069292
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-13:00; PH off
+website: http://haarscharf-nb.de

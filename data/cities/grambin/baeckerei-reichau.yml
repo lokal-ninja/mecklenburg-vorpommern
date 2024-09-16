@@ -1,11 +1,11 @@
 id: 77028882
-type: way
+type: node
 latitude: 53.7544
 longitude: 14.01921
 postcode: "17375"
 city: Grambin
-street: "Dorfstraße"
-housenumber: 101
+street: Dorfstraße
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:00-10:00"
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:00-10:00
 website: ""

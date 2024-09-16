@@ -4,8 +4,8 @@ latitude: 53.62901
 longitude: 11.41855
 postcode: ""
 city: Schwerin
-street: "Burgstraße"
-housenumber: 18
-phone: "+49 385 5219192"
-opening_hours: "Mo-Fr 09:00-12:00"
-website: "https://www.fahrrad.de/haendler/bens-fahrrad-werkstatt-schwerin-8440.html"
+street: Burgstraße
+housenumber: "18"
+phone: +49 385 5219192
+opening_hours: Mo-Fr 09:00-12:00
+website: https://www.fahrrad.de/haendler/bens-fahrrad-werkstatt-schwerin-8440.html

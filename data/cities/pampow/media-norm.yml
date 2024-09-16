@@ -1,11 +1,11 @@
 id: 96953299
-type: way
+type: node
 latitude: 53.57005
 longitude: 11.36758
 postcode: "19075"
 city: Pampow
-street: "Lindenweg"
-housenumber: 4
-phone: "+49 385 30 518 318"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://medianorm.de/"
+street: Lindenweg
+housenumber: "4"
+phone: +49 385 30 518 318
+opening_hours: Mo-Fr 09:00-17:00
+website: https://medianorm.de/

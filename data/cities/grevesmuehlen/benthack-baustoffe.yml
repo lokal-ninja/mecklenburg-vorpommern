@@ -1,11 +1,12 @@
 id: 125371651
-type: way
+type: node
 latitude: 53.86284
 longitude: 11.21137
 postcode: "23936"
 city: Grevesmühlen
-street: "Langer Steinschlag"
+street: Langer Steinschlag
 housenumber: 6a
-phone: "+49 3881 78140"
-opening_hours: "Mar-Oct: Mo-Fr 06:00-17:00; Sa 08:00-12:00; PH off; Nov-Feb: Mo-Fr 06:00-17:00; PH off"
-website: "https://benthack.de/standorte/standort-grevesmuehlen"
+phone: +49 3881 78140
+opening_hours: 'Mar-Oct: Mo-Fr 06:00-17:00; Sa 08:00-12:00; PH off; Nov-Feb: Mo-Fr
+    06:00-17:00; PH off'
+website: https://benthack.de/standorte/standort-grevesmuehlen

@@ -1,11 +1,11 @@
 id: 94521480
-type: way
+type: node
 latitude: 53.47677
 longitude: 12.51518
 postcode: "17213"
 city: Göhren-Lebbin
-street: "Wendhofer Straße"
-housenumber: 26
+street: Wendhofer Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

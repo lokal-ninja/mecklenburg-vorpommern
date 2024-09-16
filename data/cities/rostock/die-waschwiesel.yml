@@ -4,8 +4,8 @@ latitude: 54.09091
 longitude: 12.11303
 postcode: "18057"
 city: Rostock
-street: "Budapester Straße"
-housenumber: 80
+street: Budapester Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 08:00-20:00; Su 10:00-20:00"
-website: "https://www.diewaschwiesel.de/"
+opening_hours: Mo-Fr 06:00-22:00; Sa 08:00-20:00; Su 10:00-20:00
+website: https://www.diewaschwiesel.de/

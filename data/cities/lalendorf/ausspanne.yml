@@ -1,11 +1,11 @@
 id: 108264130
-type: way
+type: node
 latitude: 53.78209
 longitude: 12.32524
 postcode: "18279"
 city: Lalendorf
-street: "Kirchstraße"
-housenumber: 21
+street: Kirchstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Sa,Su 12:30-18:30"
-website: "https://www.ausspanne-ev.de/"
+opening_hours: Sa,Su 12:30-18:30
+website: https://www.ausspanne-ev.de/

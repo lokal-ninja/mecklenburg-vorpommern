@@ -1,11 +1,11 @@
 id: 25893422
-type: way
+type: node
 latitude: 54.04921
 longitude: 13.75302
 postcode: "17438"
 city: Wolgast
-street: "Wedeler Straße"
-housenumber: 6
+street: Wedeler Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

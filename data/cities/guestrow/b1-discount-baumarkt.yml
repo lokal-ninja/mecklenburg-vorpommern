@@ -1,11 +1,11 @@
 id: 168252051
-type: way
+type: node
 latitude: 53.80072
 longitude: 12.15865
 postcode: "18273"
 city: Güstrow
-street: "Heideweg"
-housenumber: 49
+street: Heideweg
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 87660710
-type: way
+type: node
 latitude: 54.10663
 longitude: 11.92531
 postcode: "18209"
 city: Bad Doberan
-street: "An der Gartenanlage"
-housenumber: 8
+street: An der Gartenanlage
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa nur nach Terminvereinbarung"
+opening_hours: Mo-Fr 07:00-18:00; Sa "nur nach Terminvereinbarung"
 website: ""

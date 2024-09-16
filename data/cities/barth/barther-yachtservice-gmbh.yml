@@ -4,8 +4,8 @@ latitude: 54.3702
 longitude: 12.72271
 postcode: "18356"
 city: Barth
-street: "Hafenstraße"
-housenumber: 28
-phone: "+49 38231 274 0"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.barther-yacht-service.de/"
+street: Hafenstraße
+housenumber: "28"
+phone: +49 38231 274 0
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.barther-yacht-service.de/

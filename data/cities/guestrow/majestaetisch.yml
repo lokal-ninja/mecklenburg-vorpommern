@@ -4,8 +4,8 @@ latitude: 53.79301
 longitude: 12.17502
 postcode: "18273"
 city: Güstrow
-street: "Markt"
-housenumber: 30
+street: Markt
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-13:00"
-website: "https://www.majestaetisch.de/laden-in-g%C3%BCstrow/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-13:00
+website: https://www.majestaetisch.de/laden-in-g%C3%BCstrow/

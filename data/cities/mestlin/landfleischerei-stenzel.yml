@@ -1,11 +1,11 @@
 id: 338901880
-type: way
+type: node
 latitude: 53.61173
 longitude: 11.91134
 postcode: "19374"
 city: Mestlin
-street: "Ruest-Krug"
-housenumber: 4
+street: Ruest-Krug
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 33839225
-type: way
+type: node
 latitude: 54.08257
 longitude: 12.15736
 postcode: "18055"
 city: Rostock
-street: "Mühlendamm"
-housenumber: 15
+street: Mühlendamm
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

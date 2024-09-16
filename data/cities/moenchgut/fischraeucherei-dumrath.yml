@@ -1,11 +1,11 @@
 id: 331529775
-type: way
+type: node
 latitude: 54.29631
 longitude: 13.68687
 postcode: "18586"
 city: Mönchgut
-street: "Boddenstraße"
-housenumber: 25
+street: Boddenstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Th-Tu 11:00-17:00; We off"
+opening_hours: Th-Tu 11:00-17:00; We off
 website: ""

@@ -1,11 +1,11 @@
 id: 96050491
-type: way
+type: node
 latitude: 54.11074
 longitude: 12.63585
 postcode: "18334"
 city: Bad Sülze
-street: "Am alten Bahndamm"
-housenumber: 10
-phone: "+4938229 746 0"
+street: Am alten Bahndamm
+housenumber: "10"
+phone: +4938229 746 0
 opening_hours: ""
-website: "https://neu-gruppe.com/"
+website: https://neu-gruppe.com/

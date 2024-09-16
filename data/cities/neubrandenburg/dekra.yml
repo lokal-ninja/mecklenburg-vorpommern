@@ -1,11 +1,11 @@
 id: 102183968
-type: way
+type: node
 latitude: 53.52648
 longitude: 13.26469
 postcode: "17033"
 city: Neubrandenburg
-street: "Birnenstraße"
-housenumber: 2
+street: Birnenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

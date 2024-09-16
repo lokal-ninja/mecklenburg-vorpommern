@@ -1,11 +1,11 @@
 id: 274458606
-type: way
+type: node
 latitude: 53.42301
 longitude: 11.8228
 postcode: "19370"
 city: Parchim
-street: "Karl-Liebknecht-Straße"
-housenumber: 10
+street: Karl-Liebknecht-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "06:00-20:00"
+opening_hours: 06:00-20:00
 website: ""

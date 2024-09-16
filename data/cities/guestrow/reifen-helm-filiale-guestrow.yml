@@ -1,11 +1,11 @@
 id: 166491060
-type: way
+type: node
 latitude: 53.8095
 longitude: 12.18841
 postcode: "18273"
 city: Güstrow
-street: "Rostocker Chaussee"
-housenumber: 19
+street: Rostocker Chaussee
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:00, Fr 07:30-17:00, Sa 08:00-12:00"
-website: "https://www.reifenhelm.de/standorte-kontakt/"
+opening_hours: Mo-Th 07:30-18:00, Fr 07:30-17:00, Sa 08:00-12:00
+website: https://www.reifenhelm.de/standorte-kontakt/

@@ -1,11 +1,11 @@
 id: 102413108
-type: way
+type: node
 latitude: 53.6031
 longitude: 11.44172
 postcode: "19061"
 city: Schwerin
-street: "An der Crivitzer Chaussee"
-housenumber: 16
+street: An der Crivitzer Chaussee
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

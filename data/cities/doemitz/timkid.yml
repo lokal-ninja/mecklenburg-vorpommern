@@ -1,11 +1,11 @@
 id: 95207357
-type: way
+type: node
 latitude: 53.1429
 longitude: 11.25098
 postcode: "19303"
 city: Dömitz
-street: "Mühlendeich"
-housenumber: 15
+street: Mühlendeich
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.timkid.de/"
+website: https://www.timkid.de/

@@ -1,11 +1,11 @@
 id: 147956129
-type: way
+type: node
 latitude: 53.46307
 longitude: 12.03665
 postcode: "19386"
 city: Lübz
-street: "Ferdinand-von-Schill-Straße"
-housenumber: 11
+street: Ferdinand-von-Schill-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

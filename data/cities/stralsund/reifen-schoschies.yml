@@ -4,8 +4,8 @@ latitude: 54.29912
 longitude: 13.02958
 postcode: "18437"
 city: Stralsund
-street: "Werner-von-Siemens-Straße"
-housenumber: 2
-phone: "+493831 494975"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.reifen-schoschies.de/"
+street: Werner-von-Siemens-Straße
+housenumber: "2"
+phone: +493831 494975
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.reifen-schoschies.de/

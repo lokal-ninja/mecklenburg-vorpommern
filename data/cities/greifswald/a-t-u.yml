@@ -1,11 +1,11 @@
 id: 188147086
-type: way
+type: node
 latitude: 54.08076
 longitude: 13.4278
 postcode: "17491"
 city: Greifswald
-street: "Koitenhäger Landstraße"
-housenumber: 21
+street: Koitenhäger Landstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

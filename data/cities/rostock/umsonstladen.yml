@@ -4,8 +4,8 @@ latitude: 54.09981
 longitude: 12.08138
 postcode: "18069"
 city: Rostock
-street: "Anton-Saefkow-Straße"
-housenumber: 1
+street: Anton-Saefkow-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "geschlossen bis zum 31.03.2022"
-website: "https://www.rostock-umsonst.de/"
+opening_hours: '"geschlossen bis zum 31.03.2022"'
+website: https://www.rostock-umsonst.de/

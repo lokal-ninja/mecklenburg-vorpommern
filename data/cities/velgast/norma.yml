@@ -1,11 +1,11 @@
 id: 403432272
-type: way
+type: node
 latitude: 54.2716
 longitude: 12.80886
 postcode: "18469"
 city: Velgast
-street: "Straße der Jugend"
-housenumber: 35
+street: Straße der Jugend
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

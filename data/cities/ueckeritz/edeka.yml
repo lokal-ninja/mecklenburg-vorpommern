@@ -1,11 +1,11 @@
 id: 67521739
-type: way
+type: node
 latitude: 54.01365
 longitude: 14.04899
 postcode: "17459"
 city: Ückeritz
-street: "Bäderstraße"
+street: Bäderstraße
 housenumber: 2 B
-phone: "+49 38375 24852"
-opening_hours: "Mo-Sa 08:00-20:00; Su 12:00-18:00"
+phone: +49 38375 24852
+opening_hours: Mo-Sa 08:00-20:00; Su 12:00-18:00
 website: ""

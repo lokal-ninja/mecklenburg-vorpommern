@@ -1,11 +1,11 @@
 id: 1030950741
-type: way
+type: node
 latitude: 53.55164
 longitude: 10.91427
 postcode: "19246"
 city: Zarrentin am Schaalsee
-street: "Hauptstraße"
-housenumber: 6
-phone: "+49 38851 679960"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite/zarrentin/1766185/rewe-markt-hauptstr-6/"
+street: Hauptstraße
+housenumber: "6"
+phone: +49 38851 679960
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/marktseite/zarrentin/1766185/rewe-markt-hauptstr-6/

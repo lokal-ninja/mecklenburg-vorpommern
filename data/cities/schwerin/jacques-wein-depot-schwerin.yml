@@ -4,8 +4,8 @@ latitude: 53.62776
 longitude: 11.41943
 postcode: "19055"
 city: Schwerin
-street: "Großer Moor"
-housenumber: 45
+street: Großer Moor
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-We 15:00-19:00; Th,Fr 12:00-19:00; Sa 10:00-15:00"
-website: "https://www.jacques.de/depot/207/schwerin/"
+opening_hours: Mo-We 15:00-19:00; Th,Fr 12:00-19:00; Sa 10:00-15:00
+website: https://www.jacques.de/depot/207/schwerin/

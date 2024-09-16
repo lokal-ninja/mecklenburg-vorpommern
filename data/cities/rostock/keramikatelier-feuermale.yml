@@ -1,11 +1,11 @@
 id: 33839002
-type: way
+type: node
 latitude: 54.08647
 longitude: 12.15056
 postcode: "18055"
 city: Rostock
-street: "Fischerbruch"
-housenumber: 23
+street: Fischerbruch
+housenumber: "23"
 phone: ""
-opening_hours: "auf gut Glück oder nach telefonischer Absprache vorbeischauen"
-website: "https://www.feuermale-schuergut.de/"
+opening_hours: '"auf gut Glück oder nach telefonischer Absprache vorbeischauen"'
+website: https://www.feuermale-schuergut.de/

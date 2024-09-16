@@ -1,11 +1,11 @@
 id: 202013403
-type: way
+type: node
 latitude: 54.28255
 longitude: 12.97349
 postcode: "18442"
 city: Pantelitz
-street: "Am Holländer"
-housenumber: 20
+street: Am Holländer
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://huepfburgvermietung-stralsund.de/"
+website: https://huepfburgvermietung-stralsund.de/

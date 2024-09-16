@@ -4,8 +4,8 @@ latitude: 54.15524
 longitude: 12.01436
 postcode: "18107"
 city: Elmenhorst/Lichtenhagen
-street: "Feldweg"
-housenumber: 5
-phone: "+49 381 72 55 99"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:00"
-website: "https://www.radcentrum.de/"
+street: Feldweg
+housenumber: "5"
+phone: +49 381 72 55 99
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-12:00
+website: https://www.radcentrum.de/

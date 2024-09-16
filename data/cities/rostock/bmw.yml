@@ -1,11 +1,11 @@
 id: 985618895
-type: way
+type: node
 latitude: 54.10055
 longitude: 12.18165
 postcode: "18146"
 city: Rostock
-street: "Alte Dorfstraße"
-housenumber: 25
+street: Alte Dorfstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.bmw-wigger.de/de/home"
+website: https://www.bmw-wigger.de/de/home

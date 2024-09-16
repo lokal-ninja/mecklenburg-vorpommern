@@ -1,11 +1,11 @@
 id: 970423748
-type: way
+type: node
 latitude: 53.97868
 longitude: 13.1478
 postcode: "17121"
 city: Loitz
-street: "Hiddenhausener Straße"
-housenumber: 61
+street: Hiddenhausener Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

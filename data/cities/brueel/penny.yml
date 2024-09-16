@@ -1,11 +1,11 @@
 id: 215287698
-type: way
+type: node
 latitude: 53.73637
 longitude: 11.71356
 postcode: "19412"
 city: Brüel
-street: "Ernst-Thälmann-Straße"
-housenumber: 27
+street: Ernst-Thälmann-Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

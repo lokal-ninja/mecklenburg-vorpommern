@@ -1,11 +1,11 @@
 id: 96168192
-type: way
+type: node
 latitude: 54.03615
 longitude: 11.68181
 postcode: "18233"
 city: Neubukow
-street: "Am Stellwerk"
-housenumber: 11
+street: Am Stellwerk
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

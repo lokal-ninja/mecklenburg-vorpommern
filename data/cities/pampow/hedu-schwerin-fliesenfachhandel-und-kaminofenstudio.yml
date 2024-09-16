@@ -1,11 +1,11 @@
 id: 96953801
-type: way
+type: node
 latitude: 53.56954
 longitude: 11.366
 postcode: "19075"
 city: Pampow
-street: "Fährweg"
-housenumber: 7
-phone: "+49 3865 859900 0"
+street: Fährweg
+housenumber: "7"
+phone: +49 3865 859900 0
 opening_hours: ""
-website: "https://www.hedu-fliesen-kamine.de/"
+website: https://www.hedu-fliesen-kamine.de/

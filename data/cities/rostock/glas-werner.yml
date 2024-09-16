@@ -4,8 +4,8 @@ latitude: 54.08775
 longitude: 12.11443
 postcode: "18057"
 city: Rostock
-street: "Waldemarstraße"
-housenumber: 59
-phone: "+49381 4923917"
-opening_hours: "We 13:00-17:00"
-website: "https://glas-werner.de/"
+street: Waldemarstraße
+housenumber: "59"
+phone: +49381 4923917
+opening_hours: We 13:00-17:00
+website: https://glas-werner.de/

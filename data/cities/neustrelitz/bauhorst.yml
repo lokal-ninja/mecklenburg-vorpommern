@@ -1,11 +1,11 @@
 id: 283784933
-type: way
+type: node
 latitude: 53.33779
 longitude: 13.04697
 postcode: "17235"
 city: Neustrelitz
-street: "Bürgerseeweg"
-housenumber: 31
-phone: "+49 3981 24540"
+street: Bürgerseeweg
+housenumber: "31"
+phone: +49 3981 24540
 opening_hours: ""
 website: ""

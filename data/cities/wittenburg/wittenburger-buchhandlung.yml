@@ -1,11 +1,11 @@
 id: 271227322
-type: way
+type: node
 latitude: 53.51194
 longitude: 11.07365
 postcode: "19243"
 city: Wittenburg
-street: "Große Straße"
-housenumber: 38
+street: Große Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 65673934
-type: way
+type: node
 latitude: 53.38146
 longitude: 10.77082
 postcode: "19258"
 city: Boizenburg/Elbe
-street: "Berliner Straße"
-housenumber: 30
+street: Berliner Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

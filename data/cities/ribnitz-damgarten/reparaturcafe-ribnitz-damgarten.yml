@@ -4,8 +4,8 @@ latitude: 54.24376
 longitude: 12.42815
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Mühlenstraße"
-housenumber: 10
+street: Mühlenstraße
+housenumber: "10"
 phone: "+4915737101641"
-opening_hours: "Fr[2] 13:00-16:00; Fr[4] 13:00-16:00"
-website: "https://www.reparatur-initiativen.de/reparaturcafe-ribnitz"
+opening_hours: Fr[2] 13:00-16:00; Fr[4] 13:00-16:00
+website: https://www.reparatur-initiativen.de/reparaturcafe-ribnitz

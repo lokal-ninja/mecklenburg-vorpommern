@@ -1,11 +1,11 @@
 id: 46615290
-type: way
+type: node
 latitude: 53.73922
 longitude: 14.08006
 postcode: "17373"
 city: Ueckermünde
-street: "Haffring"
-housenumber: 24
+street: Haffring
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

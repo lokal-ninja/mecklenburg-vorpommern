@@ -4,8 +4,8 @@ latitude: 54.4404
 longitude: 12.67815
 postcode: "18374"
 city: Zingst
-street: "Seestraße"
-housenumber: 71
-phone: "+4938232 843170"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.fahrrad-shop-8.de/"
+street: Seestraße
+housenumber: "71"
+phone: +4938232 843170
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.fahrrad-shop-8.de/

@@ -1,11 +1,11 @@
 id: 316394778
-type: way
+type: node
 latitude: 53.87569
 longitude: 11.42227
 postcode: "23966"
 city: Wismar
-street: "An der Westtangente"
-housenumber: 4
+street: An der Westtangente
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.hammer-zuhause.de/"
+website: https://www.hammer-zuhause.de/

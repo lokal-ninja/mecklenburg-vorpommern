@@ -4,8 +4,8 @@ latitude: 54.17904
 longitude: 12.08636
 postcode: "18119"
 city: Rostock
-street: "Alexandrinenstraße"
-housenumber: 65
+street: Alexandrinenstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa,Su 10:00-20:00"
-website: "https://www.thai-massage-rostock.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa,Su 10:00-20:00
+website: https://www.thai-massage-rostock.de/

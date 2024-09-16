@@ -1,11 +1,11 @@
 id: 224831223
-type: way
+type: node
 latitude: 53.52158
 longitude: 14.02027
 postcode: "17309"
 city: Pasewalk
-street: "Torgelower Chaussee"
-housenumber: 1
-phone: "+493973 22550 0"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-12:00"
-website: "https://www.jacob-cement.de/standorte/standort/pasewalk"
+street: Torgelower Chaussee
+housenumber: "1"
+phone: +493973 22550 0
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-12:00
+website: https://www.jacob-cement.de/standorte/standort/pasewalk

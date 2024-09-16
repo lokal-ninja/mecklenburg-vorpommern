@@ -1,11 +1,11 @@
 id: 88632248
-type: way
+type: node
 latitude: 54.08204
 longitude: 11.9111
 postcode: "18209"
 city: Hohenfelde
-street: "Schwaaner Chaussee"
+street: Schwaaner Chaussee
 housenumber: 5c
 phone: ""
-opening_hours: "Mo-Fr 13:00-18:00"
-website: "http://www.toxic-bikes.com"
+opening_hours: Mo-Fr 13:00-18:00
+website: http://www.toxic-bikes.com

@@ -1,11 +1,11 @@
 id: 1152787441
-type: way
+type: node
 latitude: 53.59452
 longitude: 13.27666
 postcode: "17039"
 city: Trollenhagen
-street: "Hellfelder Straße"
-housenumber: 4
+street: Hellfelder Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00; PH off
 website: ""

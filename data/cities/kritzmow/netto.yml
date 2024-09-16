@@ -1,11 +1,11 @@
 id: 184731772
-type: way
+type: node
 latitude: 54.04967
 longitude: 12.04766
 postcode: "18198"
 city: Kritzmow
-street: "Am Karauschensoll"
-housenumber: 2
+street: Am Karauschensoll
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 731780207
-type: way
+type: node
 latitude: 53.91046
 longitude: 12.19489
 postcode: "18299"
 city: Hohen Sprenz
-street: "Hauptstraße"
-housenumber: 13
+street: Hauptstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

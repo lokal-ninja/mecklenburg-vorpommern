@@ -4,8 +4,8 @@ latitude: 54.11189
 longitude: 12.13573
 postcode: "18147"
 city: Rostock
-street: "Joliot-Curie-Allee"
-housenumber: 39
+street: Joliot-Curie-Allee
+housenumber: "39"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

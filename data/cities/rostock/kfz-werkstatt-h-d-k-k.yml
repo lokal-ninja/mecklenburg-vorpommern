@@ -4,8 +4,8 @@ latitude: 54.0836
 longitude: 12.11359
 postcode: "18057"
 city: Rostock
-street: "Fahnenstraße"
-housenumber: 2
+street: Fahnenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa nach Vereinbarung || andere Termine nach Absprache"
+opening_hours: Mo-Fr 07:30-18:30; Sa "nach Vereinbarung" || "andere Termine nach Absprache"
 website: ""

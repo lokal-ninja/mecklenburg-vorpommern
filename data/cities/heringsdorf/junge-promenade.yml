@@ -1,11 +1,11 @@
 id: 269726859
-type: way
+type: node
 latitude: 53.94194
 longitude: 14.19054
 postcode: "17419"
 city: Heringsdorf
-street: "Promenade"
-housenumber: 5
+street: Promenade
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

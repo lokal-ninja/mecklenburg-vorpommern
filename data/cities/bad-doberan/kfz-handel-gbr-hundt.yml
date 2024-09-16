@@ -1,11 +1,11 @@
 id: 87489192
-type: way
+type: node
 latitude: 54.11003
 longitude: 11.92079
 postcode: "18209"
 city: Bad Doberan
-street: "Am Walkmüller Holz"
-housenumber: 9
+street: Am Walkmüller Holz
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

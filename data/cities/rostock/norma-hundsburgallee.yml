@@ -1,11 +1,11 @@
 id: 367802479
-type: way
+type: node
 latitude: 54.1215
 longitude: 12.07365
 postcode: "18069"
 city: Rostock
-street: "Hundsburgallee"
+street: Hundsburgallee
 housenumber: 11d
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.norma-online.de/de/angebote/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.norma-online.de/de/angebote/

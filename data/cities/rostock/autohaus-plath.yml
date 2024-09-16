@@ -1,11 +1,11 @@
 id: 34949776
-type: way
+type: node
 latitude: 54.11666
 longitude: 12.16728
 postcode: "18146"
 city: Rostock
-street: "Brückenweg"
-housenumber: 1
+street: Brückenweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://plath24.de/"
+website: https://plath24.de/

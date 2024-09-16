@@ -1,11 +1,11 @@
 id: 158476702
-type: way
+type: node
 latitude: 53.33866
 longitude: 13.07003
 postcode: "17235"
 city: Neustrelitz
-street: "Kranichstraße"
-housenumber: 9
-phone: "+49 3981 444240"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:00"
-website: "http://www.thg-forst-gartentechnik.de"
+street: Kranichstraße
+housenumber: "9"
+phone: +49 3981 444240
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:00
+website: http://www.thg-forst-gartentechnik.de

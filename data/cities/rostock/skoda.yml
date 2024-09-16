@@ -4,8 +4,9 @@ latitude: 54.10558
 longitude: 12.06673
 postcode: "18069"
 city: Rostock
-street: "Schutower Straße"
-housenumber: 14
+street: Schutower Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00 Verkauf || Mo-Fr 07:00-18:00; Sa 08:00-12:00 Werkstatt"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00 "Verkauf" || Mo-Fr 07:00-18:00; Sa
+    08:00-12:00 "Werkstatt"
 website: ""

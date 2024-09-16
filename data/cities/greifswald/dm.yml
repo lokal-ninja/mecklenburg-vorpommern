@@ -4,8 +4,8 @@ latitude: 54.09612
 longitude: 13.38048
 postcode: "17489"
 city: Greifswald
-street: "Lange Straße"
-housenumber: 90
-phone: "+493834 7737938"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00"
-website: "https://www.dm.de"
+street: Lange Straße
+housenumber: "90"
+phone: +493834 7737938
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00
+website: https://www.dm.de

@@ -4,8 +4,8 @@ latitude: 54.03745
 longitude: 13.723
 postcode: ""
 city: Wolgast
-street: "Ziesegrund"
-housenumber: 7
+street: Ziesegrund
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.birnbaumkrusefisch.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.birnbaumkrusefisch.de/

@@ -1,11 +1,11 @@
 id: 99868461
-type: way
+type: node
 latitude: 53.88151
 longitude: 12.24704
 postcode: "18299"
 city: Laage
-street: "Zum Weißen Soll"
-housenumber: 2
-phone: "+49 38454 329 920"
+street: Zum Weißen Soll
+housenumber: "2"
+phone: +49 38454 329 920
 opening_hours: ""
-website: "http://motorradtechnik-schroeder.de"
+website: http://motorradtechnik-schroeder.de

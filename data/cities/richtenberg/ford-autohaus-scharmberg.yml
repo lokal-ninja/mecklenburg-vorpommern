@@ -1,11 +1,11 @@
 id: 186740421
-type: way
+type: node
 latitude: 54.20085
 longitude: 12.87963
 postcode: "18461"
 city: Richtenberg
-street: "Papenhagen"
-housenumber: 21
+street: Papenhagen
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

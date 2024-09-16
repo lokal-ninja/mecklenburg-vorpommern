@@ -4,8 +4,8 @@ latitude: 53.52056
 longitude: 12.71373
 postcode: "17192"
 city: Waren (Müritz)
-street: "Friedrich-Wilhelm-Raiffeisen-Straße"
-housenumber: 3
+street: Friedrich-Wilhelm-Raiffeisen-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.obi.de/markt/waren-mueritz"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.obi.de/markt/waren-mueritz

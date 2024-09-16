@@ -1,11 +1,11 @@
 id: 1012894899
-type: way
+type: node
 latitude: 53.55824
 longitude: 13.30281
 postcode: "17036"
 city: Neubrandenburg
-street: "Kruseshofer Straße"
-housenumber: 9
+street: Kruseshofer Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

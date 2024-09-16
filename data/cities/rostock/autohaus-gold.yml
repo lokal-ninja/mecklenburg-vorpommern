@@ -1,11 +1,11 @@
 id: 1175901463
-type: way
+type: node
 latitude: 54.13274
 longitude: 12.05813
 postcode: "18107"
 city: Rostock
-street: "Talliner Straße"
-housenumber: 5
+street: Talliner Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

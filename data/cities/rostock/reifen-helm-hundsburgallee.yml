@@ -1,11 +1,11 @@
 id: 33894111
-type: way
+type: node
 latitude: 54.12132
 longitude: 12.07165
 postcode: "18069"
 city: Rostock
-street: "Hundsburgallee"
-housenumber: 17
+street: Hundsburgallee
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00"
-website: "https://www.reifenhelm.de/standorte-kontakt/"
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:00
+website: https://www.reifenhelm.de/standorte-kontakt/

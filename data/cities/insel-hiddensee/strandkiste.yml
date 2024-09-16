@@ -1,11 +1,11 @@
 id: 70478909
-type: way
+type: node
 latitude: 54.58471
 longitude: 13.11164
 postcode: "18565"
 city: Insel Hiddensee
-street: "Hafenweg"
-housenumber: 10
+street: Hafenweg
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:30+"
+opening_hours: Mo-Sa 10:00-17:30+
 website: ""

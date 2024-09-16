@@ -1,11 +1,11 @@
 id: 132488062
-type: way
+type: node
 latitude: 53.41934
 longitude: 11.21204
 postcode: "19230"
 city: Hagenow
-street: "Bahnhofstraße"
-housenumber: 123
+street: Bahnhofstraße
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

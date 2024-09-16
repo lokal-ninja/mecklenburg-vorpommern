@@ -4,8 +4,8 @@ latitude: 54.08345
 longitude: 12.13353
 postcode: "18055"
 city: Rostock
-street: "Paulstraße"
-housenumber: 21
+street: Paulstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-18:00; Su 08:00-18:00,09:00-18:00"
-website: "https://konditorei-nowak.de/fillialen.php"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-18:00; Su 08:00-18:00,09:00-18:00
+website: https://konditorei-nowak.de/fillialen.php

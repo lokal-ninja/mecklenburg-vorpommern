@@ -1,11 +1,11 @@
 id: 588483116
-type: way
+type: node
 latitude: 54.30736
 longitude: 13.09846
 postcode: "18439"
 city: Stralsund
-street: "Frankendamm"
-housenumber: 50
-phone: "+49 3831 292502"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-12:00"
-website: "https://www.autoservice-sengbusch.de"
+street: Frankendamm
+housenumber: "50"
+phone: +49 3831 292502
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-12:00
+website: https://www.autoservice-sengbusch.de

@@ -1,11 +1,11 @@
 id: 265776841
-type: way
+type: node
 latitude: 53.46013
 longitude: 12.48274
 postcode: "17213"
 city: Göhren-Lebbin
-street: "Kisserower Straße"
-housenumber: 4
-phone: "+49 39932 48800"
+street: Kisserower Straße
+housenumber: "4"
+phone: +49 39932 48800
 opening_hours: ""
 website: ""

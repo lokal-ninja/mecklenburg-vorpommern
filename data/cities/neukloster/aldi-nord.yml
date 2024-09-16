@@ -1,11 +1,11 @@
 id: 174193398
-type: way
+type: node
 latitude: 53.86714
 longitude: 11.68233
 postcode: "23992"
 city: Neukloster
-street: "Burgstraße"
-housenumber: 1
+street: Burgstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

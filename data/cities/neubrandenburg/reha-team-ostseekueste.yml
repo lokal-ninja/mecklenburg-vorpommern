@@ -1,11 +1,11 @@
 id: 470731875
-type: way
+type: node
 latitude: 53.52613
 longitude: 13.26484
 postcode: "17033"
 city: Neubrandenburg
-street: "Mirabellenstraße"
-housenumber: 3
+street: Mirabellenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00; Sa,PH off"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00; Sa,PH off
 website: ""

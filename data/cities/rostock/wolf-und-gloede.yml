@@ -1,11 +1,11 @@
 id: 427772515
-type: way
+type: node
 latitude: 54.13325
 longitude: 12.05966
 postcode: "18107"
 city: Rostock
-street: "Trelleborger Straße"
+street: Trelleborger Straße
 housenumber: 14a
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.kfz-service-rostock.de/"
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.kfz-service-rostock.de/

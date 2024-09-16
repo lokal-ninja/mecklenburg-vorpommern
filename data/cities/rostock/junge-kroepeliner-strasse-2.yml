@@ -4,8 +4,8 @@ latitude: 54.0885
 longitude: 12.13539
 postcode: "18055"
 city: Rostock
-street: "Kröpeliner Straße"
-housenumber: 73
+street: Kröpeliner Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 06:30-18:30; Su 07:00-17:30"
-website: "https://www.jb.de/"
+opening_hours: Mo-Sa 06:30-18:30; Su 07:00-17:30
+website: https://www.jb.de/

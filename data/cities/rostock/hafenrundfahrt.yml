@@ -1,11 +1,11 @@
 id: 253255556
-type: way
+type: node
 latitude: 54.09252
 longitude: 12.13375
 postcode: "18055"
 city: Rostock
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "10:30+"
-website: "https://www.hafenrundfahrten-in-rostock.de/"
+opening_hours: 10:30+
+website: https://www.hafenrundfahrten-in-rostock.de/

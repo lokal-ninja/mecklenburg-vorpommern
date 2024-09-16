@@ -1,11 +1,11 @@
 id: 102198629
-type: way
+type: node
 latitude: 53.5186
 longitude: 13.12154
 postcode: "17217"
 city: Kuckssee
-street: "Rabenallee"
-housenumber: 25
+street: Rabenallee
+housenumber: "25"
 phone: ""
-opening_hours: "Tu-Th 10:00-17:00; Fr 10:00-15:00; Mo,Sa,PH off"
+opening_hours: Tu-Th 10:00-17:00; Fr 10:00-15:00; Mo,Sa,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 95550627
-type: way
+type: node
 latitude: 53.52066
 longitude: 12.64799
 postcode: "17192"
 city: Waren (Müritz)
-street: "Warendorfer Straße"
-housenumber: 10
+street: Warendorfer Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.hagebau.de/baumarkt/bauking-weser-ems-gmbh-hagebaumarkt-waren-mueritz-waren-sn120506/"
+website: https://www.hagebau.de/baumarkt/bauking-weser-ems-gmbh-hagebaumarkt-waren-mueritz-waren-sn120506/

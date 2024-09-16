@@ -1,11 +1,11 @@
 id: 28339427
-type: way
+type: node
 latitude: 54.3134
 longitude: 13.07671
 postcode: "18437"
 city: Stralsund
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 5
+street: Rudolf-Breitscheid-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

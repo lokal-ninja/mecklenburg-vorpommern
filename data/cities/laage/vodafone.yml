@@ -4,8 +4,8 @@ latitude: 53.92797
 longitude: 12.34622
 postcode: "18299"
 city: Laage
-street: "Hauptstraße"
-housenumber: 23
-phone: "+49 38459 61962"
-opening_hours: "Mo-Fr 10:10-18:00; Sa 09:00-12:00"
+street: Hauptstraße
+housenumber: "23"
+phone: +49 38459 61962
+opening_hours: Mo-Fr 10:10-18:00; Sa 09:00-12:00
 website: ""

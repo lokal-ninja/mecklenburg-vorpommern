@@ -1,11 +1,11 @@
 id: 95437132
-type: way
+type: node
 latitude: 53.90486
 longitude: 13.06714
 postcode: "17109"
 city: Demmin
-street: "Jarmener Chaussee"
+street: Jarmener Chaussee
 housenumber: 5c
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

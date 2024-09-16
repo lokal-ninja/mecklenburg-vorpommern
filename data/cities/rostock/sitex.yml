@@ -1,11 +1,11 @@
 id: 34548393
-type: way
+type: node
 latitude: 54.10785
 longitude: 12.08254
 postcode: "18069"
 city: Rostock
-street: "Rahnstädter Weg"
-housenumber: 34
+street: Rahnstädter Weg
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.sitex.de/"
+website: https://www.sitex.de/

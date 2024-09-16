@@ -1,11 +1,11 @@
 id: 89076590
-type: way
+type: node
 latitude: 53.66017
 longitude: 11.35764
 postcode: "19057"
 city: Schwerin
-street: "Am Margaretenhof"
-housenumber: 10
+street: Am Margaretenhof
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

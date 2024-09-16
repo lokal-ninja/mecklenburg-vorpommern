@@ -4,8 +4,8 @@ latitude: 54.37937
 longitude: 12.67304
 postcode: "18356"
 city: Pruchten
-street: "Zur Kloer"
-housenumber: 2
+street: Zur Kloer
+housenumber: "2"
 phone: ""
-opening_hours: "Jun-Sep: 10:00-12:00,17:00-19:00"
+opening_hours: 'Jun-Sep: 10:00-12:00,17:00-19:00'
 website: ""

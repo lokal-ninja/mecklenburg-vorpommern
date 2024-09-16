@@ -1,11 +1,11 @@
 id: 74866798
-type: way
+type: node
 latitude: 53.97319
 longitude: 13.13277
 postcode: "17121"
 city: Loitz
-street: "Schlossbergstraße"
+street: Schlossbergstraße
 housenumber: 1c
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.edeka.de/eh/nord/edeka-h%C3%B6rling-schlossbergstra%C3%9Fe-1c/index.jsp"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.edeka.de/eh/nord/edeka-h%C3%B6rling-schlossbergstra%C3%9Fe-1c/index.jsp

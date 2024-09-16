@@ -1,11 +1,11 @@
 id: 192145951
-type: way
+type: node
 latitude: 54.36757
 longitude: 12.60878
 postcode: "18356"
 city: Fuhlendorf
-street: "Dorfstraße"
-housenumber: 41
+street: Dorfstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

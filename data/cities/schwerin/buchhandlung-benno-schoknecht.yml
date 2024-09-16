@@ -4,8 +4,8 @@ latitude: 53.62757
 longitude: 11.41396
 postcode: "19053"
 city: Schwerin
-street: "Schloßstraße"
-housenumber: 20
+street: Schloßstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:30"
-website: "https://www.schoknechtbuch.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:30
+website: https://www.schoknechtbuch.de/

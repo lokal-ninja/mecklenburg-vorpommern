@@ -1,11 +1,11 @@
 id: 866075035
-type: way
+type: node
 latitude: 53.28536
 longitude: 11.55571
 postcode: "19300"
 city: Grabow
-street: "Ludwigsluster Chaussee"
-housenumber: 2
+street: Ludwigsluster Chaussee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

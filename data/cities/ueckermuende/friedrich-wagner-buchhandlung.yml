@@ -4,8 +4,8 @@ latitude: 53.73675
 longitude: 14.04573
 postcode: "17373"
 city: Ueckermünde
-street: "Ueckerstraße"
-housenumber: 79
-phone: "+49 39771 54626"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-12:00"
-website: "https://www.friedrich-wagner-buchhandlung.de/"
+street: Ueckerstraße
+housenumber: "79"
+phone: +49 39771 54626
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-12:00
+website: https://www.friedrich-wagner-buchhandlung.de/

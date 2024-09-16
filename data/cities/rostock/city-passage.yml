@@ -1,11 +1,11 @@
 id: 34479629
-type: way
+type: node
 latitude: 54.08946
 longitude: 12.1352
 postcode: "18055"
 city: Rostock
-street: "Breite Straße"
-housenumber: 12
+street: Breite Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

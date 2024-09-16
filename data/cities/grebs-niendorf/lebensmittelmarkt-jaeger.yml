@@ -1,11 +1,12 @@
 id: 733219308
-type: way
+type: node
 latitude: 53.2413
 longitude: 11.3191
 postcode: "19294"
 city: Grebs-Niendorf
-street: "Lindenstraße"
-housenumber: 1
+street: Lindenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 08:00-12:30,15:00-18:00; Tu 08:00-12:20,15:00-18:00; We 08:00-12:00; Th 08:00-12:30,15:00-18:00; Fr 08:00-12:20,15:00-18:00; Sa 08:00-10:30"
+opening_hours: Mo 08:00-12:30,15:00-18:00; Tu 08:00-12:20,15:00-18:00; We 08:00-12:00;
+    Th 08:00-12:30,15:00-18:00; Fr 08:00-12:20,15:00-18:00; Sa 08:00-10:30
 website: ""

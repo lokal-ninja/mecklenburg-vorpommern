@@ -1,11 +1,11 @@
 id: 1157085523
-type: way
+type: node
 latitude: 53.58912
 longitude: 13.27402
 postcode: "17034"
 city: Neubrandenburg
-street: "Eschengrunder Straße"
-housenumber: 7
+street: Eschengrunder Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.lexus.de/haendler/forum-neubrandenburg/"
+website: https://www.lexus.de/haendler/forum-neubrandenburg/

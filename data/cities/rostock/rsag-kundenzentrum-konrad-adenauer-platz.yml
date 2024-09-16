@@ -4,8 +4,8 @@ latitude: 54.07859
 longitude: 12.13171
 postcode: "18055"
 city: Rostock
-street: "Konrad-Adenauer-Platz"
-housenumber: 4
+street: Konrad-Adenauer-Platz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.rsag-online.de/"
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.rsag-online.de/

@@ -1,11 +1,11 @@
 id: 215632989
-type: way
+type: node
 latitude: 53.4631
 longitude: 12.25892
 postcode: "19395"
 city: Plau am See
-street: "Plauerhäger Straße"
-housenumber: 27
-phone: "+49 38735 44589"
-opening_hours: "Mo-Fr 7:00-18:00; Sa 8:00-12:00"
-website: "https://www.rbhg-luebz.de/service/standorte/plau-am-see"
+street: Plauerhäger Straße
+housenumber: "27"
+phone: +49 38735 44589
+opening_hours: Mo-Fr 7:00-18:00; Sa 8:00-12:00
+website: https://www.rbhg-luebz.de/service/standorte/plau-am-see

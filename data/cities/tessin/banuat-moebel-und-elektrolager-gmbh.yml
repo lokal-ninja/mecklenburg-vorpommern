@@ -1,11 +1,11 @@
 id: 30791406
-type: way
+type: node
 latitude: 54.03525
 longitude: 12.43659
 postcode: "18195"
 city: Tessin
-street: "Am Tannenkopp"
-housenumber: 3
+street: Am Tannenkopp
+housenumber: "3"
 phone: "+49382057920"
-opening_hours: "Mo-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://moebel-banuat.de/"
+opening_hours: Mo-We 09:00-18:00; Th-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://moebel-banuat.de/

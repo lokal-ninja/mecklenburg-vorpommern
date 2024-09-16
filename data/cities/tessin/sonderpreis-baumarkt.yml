@@ -1,11 +1,11 @@
 id: 181368278
-type: way
+type: node
 latitude: 54.02868
 longitude: 12.45753
 postcode: "18195"
 city: Tessin
-street: "August-Bebel-Straße"
-housenumber: 21
+street: August-Bebel-Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

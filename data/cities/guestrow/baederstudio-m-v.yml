@@ -1,11 +1,11 @@
 id: 109603820
-type: way
+type: node
 latitude: 53.81446
 longitude: 12.18933
 postcode: "18273"
 city: Güstrow
-street: "Lindbruch"
-housenumber: 11
+street: Lindbruch
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.baederstudio-mv.de/"
+website: https://www.baederstudio-mv.de/

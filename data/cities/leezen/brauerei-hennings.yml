@@ -1,11 +1,11 @@
 id: 525921620
-type: way
+type: node
 latitude: 53.66225
 longitude: 11.49818
 postcode: "19067"
 city: Leezen
-street: "Schloßstraße"
+street: Schloßstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Fr 10:00-17:00"
-website: "https://www.brauerei-hennings.de/"
+opening_hours: Fr 10:00-17:00
+website: https://www.brauerei-hennings.de/

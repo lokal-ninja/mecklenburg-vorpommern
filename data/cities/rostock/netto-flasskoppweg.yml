@@ -1,11 +1,11 @@
 id: 314998253
-type: way
+type: node
 latitude: 54.0808
 longitude: 12.18851
 postcode: ""
 city: Rostock
-street: "Flaßkoppweg"
-housenumber: 3
+street: Flaßkoppweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

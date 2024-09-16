@@ -1,11 +1,11 @@
 id: 96953384
-type: way
+type: node
 latitude: 53.56882
 longitude: 11.36017
 postcode: "19075"
 city: Pampow
-street: "Schweriner Straße"
-housenumber: 12
+street: Schweriner Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

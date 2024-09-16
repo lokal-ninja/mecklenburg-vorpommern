@@ -1,11 +1,11 @@
 id: 166491070
-type: way
+type: node
 latitude: 53.80803
 longitude: 12.18621
 postcode: "18273"
 city: Güstrow
-street: "Rostocker Chaussee"
-housenumber: 9
-phone: "+49 3843 211502"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:30-12:00"
-website: "https://www.autohaus-sachs.eu/"
+street: Rostocker Chaussee
+housenumber: "9"
+phone: +49 3843 211502
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:30-12:00
+website: https://www.autohaus-sachs.eu/

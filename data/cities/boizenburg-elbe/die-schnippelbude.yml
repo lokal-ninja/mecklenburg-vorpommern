@@ -4,8 +4,8 @@ latitude: 53.38265
 longitude: 10.71246
 postcode: "19258"
 city: Boizenburg/Elbe
-street: "Ahornweg"
-housenumber: 20
+street: Ahornweg
+housenumber: "20"
 phone: "+493884762180"
-opening_hours: "Mo 07:00-13:00; Tu-Fr 07:00-20:00; Sa 08:00-12:00"
-website: "http://www.schnippelbude.de"
+opening_hours: Mo 07:00-13:00; Tu-Fr 07:00-20:00; Sa 08:00-12:00
+website: http://www.schnippelbude.de

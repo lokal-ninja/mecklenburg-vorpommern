@@ -4,8 +4,8 @@ latitude: 54.12309
 longitude: 12.06005
 postcode: "18106"
 city: Rostock
-street: "Bertolt-Brecht-Straße"
-housenumber: 23
-phone: "+49 381 713 121"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "http://mein.edeka.de/eh/de/nord/504/index.jsp"
+street: Bertolt-Brecht-Straße
+housenumber: "23"
+phone: +49 381 713 121
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: http://mein.edeka.de/eh/de/nord/504/index.jsp

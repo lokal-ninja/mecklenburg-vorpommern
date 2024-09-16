@@ -1,11 +1,11 @@
 id: 90109063
-type: way
+type: node
 latitude: 53.50393
 longitude: 14.01423
 postcode: "17309"
 city: Pasewalk
-street: "Stettiner Chaussee"
-housenumber: 20
+street: Stettiner Chaussee
+housenumber: "20"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

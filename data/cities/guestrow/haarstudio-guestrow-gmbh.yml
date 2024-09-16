@@ -4,8 +4,8 @@ latitude: 53.80137
 longitude: 12.19457
 postcode: "18273"
 city: Güstrow
-street: "Neukruger Straße"
-housenumber: 25
-phone: "+49 3843 212664"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH closed"
+street: Neukruger Straße
+housenumber: "25"
+phone: +49 3843 212664
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su,PH closed
 website: ""

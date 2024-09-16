@@ -1,11 +1,11 @@
 id: 33839005
-type: way
+type: node
 latitude: 54.09767
 longitude: 12.15885
 postcode: "18146"
 city: Rostock
-street: "Dierkower Damm"
-housenumber: 38
+street: Dierkower Damm
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00,08:00-12:00"
-website: "https://www.reifenhelm.de/"
+opening_hours: Mo-Fr 08:00-17:00,08:00-12:00
+website: https://www.reifenhelm.de/

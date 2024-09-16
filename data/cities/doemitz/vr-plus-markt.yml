@@ -4,8 +4,8 @@ latitude: 53.13511
 longitude: 11.2764
 postcode: "19303"
 city: Dömitz
-street: "Leopoldsbrunnen"
-housenumber: 1
-phone: "038758 313-0"
-opening_hours: "Montag-Freitag 09.00-18.00 Uhr; Samstag 09.00-13.00 Uhr"
-website: "https://www.vr-plus.de/startseite.html"
+street: Leopoldsbrunnen
+housenumber: "1"
+phone: 038758 313-0
+opening_hours: Montag-Freitag 09.00-18.00 Uhr; Samstag 09.00-13.00 Uhr
+website: https://www.vr-plus.de/startseite.html

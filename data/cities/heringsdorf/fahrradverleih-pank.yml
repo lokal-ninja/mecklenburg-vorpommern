@@ -4,8 +4,8 @@ latitude: 53.9606
 longitude: 14.15911
 postcode: "17424"
 city: Heringsdorf
-street: "Strandstraße"
-housenumber: 14
-phone: "+49 151 41611372"
-opening_hours: "Mo-Su 09:00-12:00,17:00-18:00"
-website: "https://www.fahrradverleih-pank-heringsdorf.de/"
+street: Strandstraße
+housenumber: "14"
+phone: +49 151 41611372
+opening_hours: Mo-Su 09:00-12:00,17:00-18:00
+website: https://www.fahrradverleih-pank-heringsdorf.de/

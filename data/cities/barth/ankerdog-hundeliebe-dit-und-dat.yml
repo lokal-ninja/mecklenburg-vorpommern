@@ -1,11 +1,11 @@
 id: 180701742
-type: way
+type: node
 latitude: 54.37101
 longitude: 12.72605
 postcode: "18356"
 city: Barth
-street: "Am Westhafen"
-housenumber: 12
-phone: "+49 176 66663086"
+street: Am Westhafen
+housenumber: "12"
+phone: +49 176 66663086
 opening_hours: ""
 website: ""

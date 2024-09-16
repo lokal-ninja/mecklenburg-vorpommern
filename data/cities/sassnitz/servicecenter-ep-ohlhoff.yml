@@ -1,11 +1,11 @@
 id: 174979704
-type: way
+type: node
 latitude: 54.51509
 longitude: 13.60166
 postcode: "18546"
 city: Sassnitz
-street: "Gewerbepark"
+street: Gewerbepark
 housenumber: 14b
 phone: "+493839257808"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.ep.de/store/ohlhoff-sassnitz"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.ep.de/store/ohlhoff-sassnitz

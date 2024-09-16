@@ -1,11 +1,11 @@
 id: 49042138
-type: way
+type: node
 latitude: 53.63459
 longitude: 11.39355
 postcode: "19059"
 city: Schwerin
-street: "Bertolt-Brecht-Straße"
-housenumber: 30
-phone: "+49 385 77350"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/nord/e-neukauf-scharfenberg-bertolt-brecht-str.-30/index.jsp"
+street: Bertolt-Brecht-Straße
+housenumber: "30"
+phone: +49 385 77350
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/nord/e-neukauf-scharfenberg-bertolt-brecht-str.-30/index.jsp

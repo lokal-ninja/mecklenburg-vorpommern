@@ -1,11 +1,11 @@
 id: 128408658
-type: way
+type: node
 latitude: 54.38196
 longitude: 12.42152
 postcode: "18347"
 city: Ahrenshoop
-street: "Dorfstraße"
-housenumber: 37
-phone: "+49 38220 80641"
-opening_hours: "Tu-Fr 06:30-18:00; Sa 06:30-17:00"
-website: "https://www.baeckerei-hagedorn.de/"
+street: Dorfstraße
+housenumber: "37"
+phone: +49 38220 80641
+opening_hours: Tu-Fr 06:30-18:00; Sa 06:30-17:00
+website: https://www.baeckerei-hagedorn.de/

@@ -4,8 +4,8 @@ latitude: 54.43525
 longitude: 12.68691
 postcode: "18374"
 city: Zingst
-street: "Postplatz"
-housenumber: 3
-phone: "+49 38232 84950"
-opening_hours: "Mar-Oct: Mo-Su,PH 09:00-18:00"
+street: Postplatz
+housenumber: "3"
+phone: +49 38232 84950
+opening_hours: 'Mar-Oct: Mo-Su,PH 09:00-18:00'
 website: ""

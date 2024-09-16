@@ -4,8 +4,8 @@ latitude: 54.08841
 longitude: 12.08766
 postcode: "18069"
 city: Rostock
-street: "Tschaikowskistraße"
-housenumber: 42
-phone: "+49 381 8005112"
-opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-12:00"
+street: Tschaikowskistraße
+housenumber: "42"
+phone: +49 381 8005112
+opening_hours: Mo-Fr 08:00-18:30, Sa 08:00-12:00
 website: ""

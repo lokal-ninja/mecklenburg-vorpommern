@@ -1,11 +1,11 @@
 id: 237348805
-type: way
+type: node
 latitude: 53.64933
 longitude: 12.26509
 postcode: "18292"
 city: Krakow am See
-street: "Stellwerkswiese"
-housenumber: 3
+street: Stellwerkswiese
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 12:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 12:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 228976705
-type: way
+type: node
 latitude: 54.01692
 longitude: 12.22596
 postcode: "18196"
 city: Dummerstorf
-street: "Schmiedeweg"
-housenumber: 2
+street: Schmiedeweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.netto.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.netto.de/

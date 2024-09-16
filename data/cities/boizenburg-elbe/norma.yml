@@ -4,8 +4,8 @@ latitude: 53.37649
 longitude: 10.7543
 postcode: "19258"
 city: Boizenburg/Elbe
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.norma-online.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.norma-online.de

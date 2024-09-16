@@ -1,11 +1,11 @@
 id: 565527125
-type: way
+type: node
 latitude: 53.56554
 longitude: 13.26868
 postcode: "17034"
 city: Neubrandenburg
-street: "Kranichstraße"
-housenumber: 2
+street: Kranichstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00; PH off
 website: ""

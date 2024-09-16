@@ -4,8 +4,8 @@ latitude: 53.97355
 longitude: 13.13051
 postcode: "17121"
 city: Loitz
-street: "Goethestraße"
-housenumber: 5
-phone: "+49 39998 338466"
-opening_hours: "Mo-Fr 08:00-16:00; Sa 08:00-11:00"
+street: Goethestraße
+housenumber: "5"
+phone: +49 39998 338466
+opening_hours: Mo-Fr 08:00-16:00; Sa 08:00-11:00
 website: ""

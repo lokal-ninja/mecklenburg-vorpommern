@@ -1,11 +1,11 @@
 id: 135303744
-type: way
+type: node
 latitude: 53.34956
 longitude: 11.48948
 postcode: "19288"
 city: Ludwigslust
-street: "Wöbbeliner Straße"
-housenumber: 94
-phone: "+49 3874 42370"
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-18:00"
+street: Wöbbeliner Straße
+housenumber: "94"
+phone: +49 3874 42370
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-18:00
 website: ""

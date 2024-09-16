@@ -1,11 +1,11 @@
 id: 58872901
-type: way
+type: node
 latitude: 54.16287
 longitude: 12.56371
 postcode: "18337"
 city: Marlow
-street: "Zum Recknitztal"
-housenumber: 4
+street: Zum Recknitztal
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

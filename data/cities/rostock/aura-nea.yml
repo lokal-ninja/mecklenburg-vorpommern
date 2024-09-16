@@ -4,8 +4,8 @@ latitude: 54.09031
 longitude: 12.11097
 postcode: "18057"
 city: Rostock
-street: "Borwinstraße"
-housenumber: 20
+street: Borwinstraße
+housenumber: "20"
 phone: "01723258784"
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

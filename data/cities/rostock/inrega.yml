@@ -1,11 +1,11 @@
 id: 33781747
-type: way
+type: node
 latitude: 54.07493
 longitude: 12.06214
 postcode: "18059"
 city: Rostock
-street: "Friedrichshöhe"
-housenumber: 3
+street: Friedrichshöhe
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.inrega.de/"
+website: http://www.inrega.de/

@@ -4,8 +4,9 @@ latitude: 54.17635
 longitude: 12.08042
 postcode: "18119"
 city: Rostock
-street: "Mühlenstraße"
-housenumber: 43
+street: Mühlenstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-13:00 Außerhalb der Kernöffnungszeit stehen wir Ihnen nach Vereinbarung zur Verfügung!"
+opening_hours: Tu-Fr 09:00-17:00; Sa 09:00-13:00 "Außerhalb der Kernöffnungszeit stehen
+    wir Ihnen nach Vereinbarung zur Verfügung!"
 website: ""

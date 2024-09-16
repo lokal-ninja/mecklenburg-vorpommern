@@ -4,8 +4,8 @@ latitude: 54.18031
 longitude: 12.08621
 postcode: "18119"
 city: Rostock
-street: "Georginenstraße"
-housenumber: 1
+street: Georginenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00 || Su 13:00-18:00 während der Bäderregelung"
+opening_hours: Mo-Sa 10:00-18:00 || Su 13:00-18:00 "während der Bäderregelung"
 website: ""

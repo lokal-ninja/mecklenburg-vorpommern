@@ -4,8 +4,8 @@ latitude: 53.90893
 longitude: 13.02975
 postcode: "17109"
 city: Demmin
-street: "Apollonienmarkt"
-housenumber: 1
+street: Apollonienmarkt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Th 12:00-18:00;Tu-We,Fr 09:00-16:00"
+opening_hours: Mo,Th 12:00-18:00;Tu-We,Fr 09:00-16:00
 website: ""

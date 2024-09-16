@@ -4,8 +4,8 @@ latitude: 53.97358
 longitude: 13.13057
 postcode: "17121"
 city: Loitz
-street: "Goethestraße"
-housenumber: 5
-phone: "+49 39998 336288"
-opening_hours: "Mo,Th,Fr 09:00-13:00; Tu 14:00-18:00"
-website: "https://www.sanitaetshaus-stavenhagen.de/#loitz"
+street: Goethestraße
+housenumber: "5"
+phone: +49 39998 336288
+opening_hours: Mo,Th,Fr 09:00-13:00; Tu 14:00-18:00
+website: https://www.sanitaetshaus-stavenhagen.de/#loitz

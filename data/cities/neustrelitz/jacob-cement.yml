@@ -1,11 +1,11 @@
 id: 158476724
-type: way
+type: node
 latitude: 53.3373
 longitude: 13.06785
 postcode: "17235"
 city: Neustrelitz
-street: "Kranichstraße"
+street: Kranichstraße
 housenumber: 3-5
-phone: "+493981 4002 0"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:30-12:00"
-website: "https://www.jacob-cement.de/standorte/standort/neustrelitz"
+phone: +493981 4002 0
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:30-12:00
+website: https://www.jacob-cement.de/standorte/standort/neustrelitz

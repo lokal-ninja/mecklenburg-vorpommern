@@ -4,8 +4,8 @@ latitude: 53.8381
 longitude: 10.94701
 postcode: "23923"
 city: Schönberg
-street: "An der B104"
-housenumber: 1
-phone: "+49 38828 34483"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00"
-website: "https://www.autoservice-schoenberg.de"
+street: An der B104
+housenumber: "1"
+phone: +49 38828 34483
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00
+website: https://www.autoservice-schoenberg.de

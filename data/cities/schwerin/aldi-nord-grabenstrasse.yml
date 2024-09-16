@@ -1,11 +1,11 @@
 id: 1018661243
-type: way
+type: node
 latitude: 53.60096
 longitude: 11.38748
 postcode: "19061"
 city: Schwerin
-street: "Grabenstraße"
-housenumber: 9
+street: Grabenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/schwerin/grabenstrasse-9/3181373"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/schwerin/grabenstrasse-9/3181373

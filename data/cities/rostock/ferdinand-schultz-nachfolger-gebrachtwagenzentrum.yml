@@ -1,11 +1,11 @@
 id: 253255563
-type: way
+type: node
 latitude: 54.0915
 longitude: 12.159
 postcode: "18146"
 city: Rostock
-street: "Petridamm"
-housenumber: 23
+street: Petridamm
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

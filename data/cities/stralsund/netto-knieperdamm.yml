@@ -1,11 +1,11 @@
 id: 31517754
-type: way
+type: node
 latitude: 54.3236
 longitude: 13.07887
 postcode: "18435"
 city: Stralsund
-street: "Knieperdamm"
-housenumber: 20
+street: Knieperdamm
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

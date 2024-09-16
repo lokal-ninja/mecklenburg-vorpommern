@@ -1,11 +1,11 @@
 id: 389359404
-type: way
+type: node
 latitude: 53.42972
 longitude: 12.94636
 postcode: "17237"
 city: Kratzeburg
-street: "Dorfstraße Kratzeburg"
-housenumber: 5
+street: Dorfstraße Kratzeburg
+housenumber: "5"
 phone: ""
-opening_hours: "May-Aug Mo, We-Su 14:00-18:00; 24/7 off"
+opening_hours: May-Aug Mo, We-Su 14:00-18:00; 24/7 off
 website: ""

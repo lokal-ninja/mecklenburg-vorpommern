@@ -1,11 +1,11 @@
 id: 198050042
-type: way
+type: node
 latitude: 53.14105
 longitude: 11.25194
 postcode: "19303"
 city: Dömitz
-street: "Friedrich-Franz-Straße"
-housenumber: 21
+street: Friedrich-Franz-Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

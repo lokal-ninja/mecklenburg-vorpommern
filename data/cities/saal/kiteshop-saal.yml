@@ -1,11 +1,11 @@
 id: 124255475
-type: way
+type: node
 latitude: 54.3097
 longitude: 12.49745
 postcode: "18317"
 city: Saal
-street: "Lange Straße"
-housenumber: 39
-phone: "+49 38223 16 99 77"
+street: Lange Straße
+housenumber: "39"
+phone: +49 38223 16 99 77
 opening_hours: ""
-website: "https://www.kitemafia.de/"
+website: https://www.kitemafia.de/

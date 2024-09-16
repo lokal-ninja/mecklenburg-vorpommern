@@ -4,8 +4,8 @@ latitude: 54.11198
 longitude: 12.1371
 postcode: "18147"
 city: Rostock
-street: "Joliot-Curie-Allee"
-housenumber: 46
-phone: "+49 381 6864621"
-opening_hours: "Mo-Fr 08:00-17:00; Su 08:00-12:00"
-website: "https://www.flower-rostock.de/"
+street: Joliot-Curie-Allee
+housenumber: "46"
+phone: +49 381 6864621
+opening_hours: Mo-Fr 08:00-17:00; Su 08:00-12:00
+website: https://www.flower-rostock.de/

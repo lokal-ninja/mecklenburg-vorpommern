@@ -1,11 +1,11 @@
 id: 361023901
-type: way
+type: node
 latitude: 53.65784
 longitude: 13.87768
 postcode: ""
 city: Ferdinandshof
-street: "Neubrandenburger Straße"
-housenumber: 21
+street: Neubrandenburger Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.norma-online.de/de/angebote/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.norma-online.de/de/angebote/

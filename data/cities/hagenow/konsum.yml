@@ -1,11 +1,11 @@
 id: 132487573
-type: way
+type: node
 latitude: 53.43429
 longitude: 11.20568
 postcode: "19230"
 city: Hagenow
-street: "Rudolf-Tarnow-Straße"
-housenumber: 28
+street: Rudolf-Tarnow-Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:00-18:00
 website: ""

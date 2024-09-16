@@ -1,11 +1,11 @@
 id: 772768770
-type: way
+type: node
 latitude: 53.9686
 longitude: 13.76896
 postcode: "17440"
 city: Zemitz
-street: "Am Eichenhag"
-housenumber: 3
-phone: "+49 171 3297807;+49 3836 603082"
+street: Am Eichenhag
+housenumber: "3"
+phone: +49 171 3297807;+49 3836 603082
 opening_hours: ""
 website: ""

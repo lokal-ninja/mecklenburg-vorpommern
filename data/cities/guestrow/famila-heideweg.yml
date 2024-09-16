@@ -1,11 +1,11 @@
 id: 38561010
-type: way
+type: node
 latitude: 53.79977
 longitude: 12.15464
 postcode: "18273"
 city: Güstrow
-street: "Heideweg"
-housenumber: 25
-phone: "+49 3843 465471"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.famila-nordost.de/markt/guestrow-west/"
+street: Heideweg
+housenumber: "25"
+phone: +49 3843 465471
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.famila-nordost.de/markt/guestrow-west/

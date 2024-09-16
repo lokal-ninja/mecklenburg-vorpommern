@@ -1,11 +1,11 @@
 id: 157007297
-type: way
+type: node
 latitude: 54.52922
 longitude: 13.54545
 postcode: "18551"
 city: Sagard
-street: "Glower Straße"
-housenumber: 29
-phone: "+4938302 7157 0"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-19:00; Su 12:00-18:00"
-website: "https://www.kaufhaus-stolz.com/"
+street: Glower Straße
+housenumber: "29"
+phone: +4938302 7157 0
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-19:00; Su 12:00-18:00
+website: https://www.kaufhaus-stolz.com/

@@ -1,11 +1,11 @@
 id: 180139408
-type: way
+type: node
 latitude: 54.36176
 longitude: 12.71327
 postcode: "18356"
 city: Barth
-street: "Gewerbegebiet am Mastweg"
-housenumber: 5
+street: Gewerbegebiet am Mastweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-12:00; PH Su off"
+opening_hours: Mo-Fr 08:00-17:00; Sa 10:00-12:00; PH Su off
 website: ""

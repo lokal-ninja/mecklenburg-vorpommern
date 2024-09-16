@@ -1,11 +1,11 @@
 id: 192145984
-type: way
+type: node
 latitude: 54.35996
 longitude: 12.60327
 postcode: "18356"
 city: Fuhlendorf
-street: "Am Brink"
-housenumber: 11
+street: Am Brink
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

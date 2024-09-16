@@ -4,8 +4,8 @@ latitude: 54.08594
 longitude: 12.11222
 postcode: "18057"
 city: Rostock
-street: "Ulmenstraße"
-housenumber: 74
+street: Ulmenstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-14:00; PH off"
-website: "https://www.edeka.de/eh/nord/frischemarkt-schroeter-ulmenstr.-74-76/index.jsp"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-14:00; PH off
+website: https://www.edeka.de/eh/nord/frischemarkt-schroeter-ulmenstr.-74-76/index.jsp

@@ -1,11 +1,11 @@
 id: 85933278
-type: way
+type: node
 latitude: 54.10893
 longitude: 11.91847
 postcode: "18209"
 city: Bad Doberan
-street: "An der Krim"
-housenumber: 3
+street: An der Krim
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "http://www.zweiradharder.zegfachhaendler.de/"
+website: http://www.zweiradharder.zegfachhaendler.de/

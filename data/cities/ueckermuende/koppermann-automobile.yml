@@ -1,11 +1,11 @@
 id: 92001846
-type: way
+type: node
 latitude: 53.72465
 longitude: 14.05922
 postcode: "17373"
 city: Ueckermünde
-street: "Am Gewerbepark"
-housenumber: 2
-phone: "+49 39771 59040"
+street: Am Gewerbepark
+housenumber: "2"
+phone: +49 39771 59040
 opening_hours: ""
-website: "http://www.renault-koppermann.de/unsere-standorte/ueckerm%C3%BCnde/"
+website: http://www.renault-koppermann.de/unsere-standorte/ueckerm%C3%BCnde/

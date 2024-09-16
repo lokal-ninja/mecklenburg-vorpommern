@@ -1,11 +1,11 @@
 id: 1098822452
-type: way
+type: node
 latitude: 54.02336
 longitude: 12.23086
 postcode: "18196"
 city: Dummerstorf
-street: "Manfred-Roth-Straße"
-housenumber: 5
+street: Manfred-Roth-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su nur Pannenservice"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su "nur Pannenservice"
 website: ""

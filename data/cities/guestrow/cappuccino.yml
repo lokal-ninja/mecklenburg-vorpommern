@@ -4,8 +4,8 @@ latitude: 53.79376
 longitude: 12.1766
 postcode: "18273"
 city: Güstrow
-street: "Markt"
-housenumber: 11
+street: Markt
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "http://www.cap-markt.de/index.php?id=119&tx_hgcapmarkt1_pi1[showUid]=37&cHash=8e6463eb6bccb0f31a494bf3782339c2"
+opening_hours: Mo-Sa 07:00-19:00
+website: http://www.cap-markt.de/index.php?id=119&tx_hgcapmarkt1_pi1[showUid]=37&cHash=8e6463eb6bccb0f31a494bf3782339c2

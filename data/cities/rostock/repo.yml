@@ -1,11 +1,11 @@
 id: 33842780
-type: way
+type: node
 latitude: 54.08326
 longitude: 12.16445
 postcode: "18055"
 city: Rostock
-street: "Verbindungsweg"
-housenumber: 2
+street: Verbindungsweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

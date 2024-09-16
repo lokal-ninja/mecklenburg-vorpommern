@@ -1,11 +1,11 @@
 id: 109603874
-type: way
+type: node
 latitude: 53.81193
 longitude: 12.18955
 postcode: "18273"
 city: Güstrow
-street: "Wolfskrögen"
-housenumber: 12
+street: Wolfskrögen
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 118306783
-type: way
+type: node
 latitude: 53.34995
 longitude: 13.07813
 postcode: "17235"
 city: Neustrelitz
-street: "Kühlhausberg"
-housenumber: 17
-phone: "+49 3981 489814"
-opening_hours: "Mo-Fr 08:00-18:30, Sa 08:00-13:00; PH off"
+street: Kühlhausberg
+housenumber: "17"
+phone: +49 3981 489814
+opening_hours: Mo-Fr 08:00-18:30, Sa 08:00-13:00; PH off
 website: ""

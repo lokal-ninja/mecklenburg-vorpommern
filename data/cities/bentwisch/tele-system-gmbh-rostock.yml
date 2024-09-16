@@ -1,11 +1,11 @@
 id: 299349760
-type: way
+type: node
 latitude: 54.11937
 longitude: 12.18434
 postcode: "18182"
 city: Bentwisch
-street: "Am Graben"
-housenumber: 8
-phone: "+49 381 242526"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://tele-system.de/"
+street: Am Graben
+housenumber: "8"
+phone: +49 381 242526
+opening_hours: Mo-Fr 07:30-17:00
+website: https://tele-system.de/

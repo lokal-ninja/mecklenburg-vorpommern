@@ -1,11 +1,11 @@
 id: 1084105479
-type: way
+type: node
 latitude: 53.91267
 longitude: 10.97856
 postcode: "23942"
 city: Dassow
-street: "Friedensstraße"
+street: Friedensstraße
 housenumber: 86 A
-phone: "+49 3882 686752"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.kfz-service-faasch.de/"
+phone: +49 3882 686752
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.kfz-service-faasch.de/

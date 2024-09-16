@@ -1,11 +1,11 @@
 id: 102199382
-type: way
+type: node
 latitude: 54.0819
 longitude: 12.20292
 postcode: "18184"
 city: Broderstorf
-street: "Neuendorfer Weg"
-housenumber: 5
+street: Neuendorfer Weg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

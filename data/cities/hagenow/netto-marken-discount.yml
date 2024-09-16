@@ -1,11 +1,11 @@
 id: 287106223
-type: way
+type: node
 latitude: 53.42564
 longitude: 11.18906
 postcode: "19230"
 city: Hagenow
-street: "Friedrich-Heincke-Straße"
-housenumber: 58
+street: Friedrich-Heincke-Straße
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

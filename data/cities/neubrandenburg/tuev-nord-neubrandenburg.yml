@@ -1,11 +1,11 @@
 id: 1257258657
-type: way
+type: node
 latitude: 53.58169
 longitude: 13.2899
 postcode: "17034"
 city: Neubrandenburg
-street: "Adolph-Kolping-Straße"
-housenumber: 17
+street: Adolph-Kolping-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

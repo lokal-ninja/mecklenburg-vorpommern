@@ -4,8 +4,8 @@ latitude: 53.60296
 longitude: 11.4335
 postcode: "19061"
 city: Schwerin
-street: "Dreescher Markt"
-housenumber: 4
-phone: "+49385 3942230"
-opening_hours: "Mo-Di, Do-Fr 09:00–13:00,13:30–18:00, Mi 09:00–13:30"
-website: "https://www.sani-hofmann.de"
+street: Dreescher Markt
+housenumber: "4"
+phone: +49385 3942230
+opening_hours: Mo-Di, Do-Fr 09:00–13:00,13:30–18:00, Mi 09:00–13:30
+website: https://www.sani-hofmann.de

@@ -1,11 +1,11 @@
 id: 435281752
-type: way
+type: node
 latitude: 53.8931
 longitude: 11.45307
 postcode: ""
 city: Wismar
-street: "Holzdamm"
-housenumber: 7
+street: Holzdamm
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

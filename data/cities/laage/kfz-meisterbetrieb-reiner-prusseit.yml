@@ -1,11 +1,11 @@
 id: 105801470
-type: way
+type: node
 latitude: 53.93062
 longitude: 12.30813
 postcode: ""
 city: Laage
-street: "Daimler-Benz-Allee"
-housenumber: 4
+street: Daimler-Benz-Allee
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00"
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

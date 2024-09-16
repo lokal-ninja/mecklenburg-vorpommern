@@ -1,11 +1,11 @@
 id: 442752555
-type: way
+type: node
 latitude: 54.3572
 longitude: 12.71768
 postcode: "18356"
 city: Barth
-street: "Blaue Wiese"
-housenumber: 18
+street: Blaue Wiese
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 144147181
-type: way
+type: node
 latitude: 53.58388
 longitude: 12.08896
 postcode: "19399"
 city: Goldberg
-street: "Plauer Chaussee"
-housenumber: 5
+street: Plauer Chaussee
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.09201
 longitude: 12.14654
 postcode: "18055"
 city: Rostock
-street: "Am Strande"
-housenumber: 18
+street: Am Strande
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.moto-and-more.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.moto-and-more.de/

@@ -1,11 +1,12 @@
 id: 1221869097
-type: way
+type: node
 latitude: 53.71906
 longitude: 12.91507
 postcode: "17153"
 city: Stavenhagen
-street: "Preetzer Straße"
-housenumber: 7
+street: Preetzer Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:30; Sa nur nach vorheriger Terminvereinbarung; PH off"
+opening_hours: Mo-Fr 08:00-16:30; Sa "nur nach vorheriger Terminvereinbarung"; PH
+    off
 website: ""

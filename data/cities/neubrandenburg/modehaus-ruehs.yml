@@ -4,8 +4,8 @@ latitude: 53.55698
 longitude: 13.26258
 postcode: "17033"
 city: Neubrandenburg
-street: "Turmstraße"
-housenumber: 6
-phone: "+49 395 5823488"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off"
+street: Turmstraße
+housenumber: "6"
+phone: +49 395 5823488
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off
 website: ""

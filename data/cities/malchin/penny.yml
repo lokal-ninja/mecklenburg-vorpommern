@@ -1,11 +1,11 @@
 id: 985963207
-type: way
+type: node
 latitude: 53.73771
 longitude: 12.75412
 postcode: "17139"
 city: Malchin
-street: "Heinrich-Heine-Straße"
-housenumber: 43
+street: Heinrich-Heine-Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

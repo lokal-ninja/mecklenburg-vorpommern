@@ -1,11 +1,11 @@
 id: 28554147
-type: way
+type: node
 latitude: 54.0774
 longitude: 13.4324
 postcode: "17491"
 city: Greifswald
-street: "Anklamer Landstraße"
-housenumber: 1
+street: Anklamer Landstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

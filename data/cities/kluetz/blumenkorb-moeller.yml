@@ -1,11 +1,11 @@
 id: 281575459
-type: way
+type: node
 latitude: 53.96634
 longitude: 11.16886
 postcode: "23948"
 city: Klütz
-street: "Boltenhagener Straße"
-housenumber: 7
-phone: "+49 38825 22574"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; PH off"
+street: Boltenhagener Straße
+housenumber: "7"
+phone: +49 38825 22574
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00; PH off
 website: ""

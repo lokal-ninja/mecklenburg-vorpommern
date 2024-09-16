@@ -1,11 +1,11 @@
 id: 188069920
-type: way
+type: node
 latitude: 54.11083
 longitude: 13.04117
 postcode: "18507"
 city: Grimmen
-street: "Friedrichstraße"
-housenumber: 20
+street: Friedrichstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

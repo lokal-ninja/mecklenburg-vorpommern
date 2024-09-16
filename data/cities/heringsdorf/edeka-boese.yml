@@ -4,8 +4,8 @@ latitude: 53.94139
 longitude: 14.18685
 postcode: "17419"
 city: Heringsdorf
-street: "Seestraße"
-housenumber: 9
-phone: "+49 38378 806240"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH 12:00-18:00"
-website: "https://www.edeka.de/eh/nord/e-frischemarkt-b%C3%B6se-seestra%C3%9Fe-9/index.jsp"
+street: Seestraße
+housenumber: "9"
+phone: +49 38378 806240
+opening_hours: Mo-Sa 08:00-20:00; Su,PH 12:00-18:00
+website: https://www.edeka.de/eh/nord/e-frischemarkt-b%C3%B6se-seestra%C3%9Fe-9/index.jsp

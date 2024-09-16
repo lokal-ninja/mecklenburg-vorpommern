@@ -1,11 +1,11 @@
 id: 107489824
-type: way
+type: node
 latitude: 54.01362
 longitude: 12.1984
 postcode: "18196"
 city: Dummerstorf
-street: "Zur Radewiese"
-housenumber: 2
-phone: "+49 38208 205"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.autoservice-dreihsig.de/"
+street: Zur Radewiese
+housenumber: "2"
+phone: +49 38208 205
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.autoservice-dreihsig.de/

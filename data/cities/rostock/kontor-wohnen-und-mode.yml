@@ -4,8 +4,8 @@ latitude: 54.08748
 longitude: 12.14435
 postcode: "18055"
 city: Rostock
-street: "Mühlenstraße"
-housenumber: 12
+street: Mühlenstraße
+housenumber: "12"
 phone: "+493814900415"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:30-16:00"
-website: "https://www.kontor-rostock.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:30-16:00
+website: https://www.kontor-rostock.de/

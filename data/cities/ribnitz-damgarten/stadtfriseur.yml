@@ -1,11 +1,11 @@
 id: 147253647
-type: way
+type: node
 latitude: 54.25174
 longitude: 12.47625
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Stralsunder Straße"
-housenumber: 32
+street: Stralsunder Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

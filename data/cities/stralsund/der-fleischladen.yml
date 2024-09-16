@@ -1,11 +1,11 @@
 id: 120144671
-type: way
+type: node
 latitude: 54.3053
 longitude: 13.06044
 postcode: "18437"
 city: Stralsund
-street: "Rostocker Chaussee"
+street: Rostocker Chaussee
 housenumber: 14b
-phone: "+493831 2259068"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://derfleischladen-stralsund.de/"
+phone: +493831 2259068
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://derfleischladen-stralsund.de/

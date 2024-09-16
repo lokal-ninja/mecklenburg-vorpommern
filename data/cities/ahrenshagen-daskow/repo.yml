@@ -1,11 +1,11 @@
 id: 127538277
-type: way
+type: node
 latitude: 54.24742
 longitude: 12.50205
 postcode: ""
 city: Ahrenshagen-Daskow
-street: "Ostring"
-housenumber: 7
+street: Ostring
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

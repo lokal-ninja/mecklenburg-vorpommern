@@ -1,11 +1,11 @@
 id: 148936547
-type: way
+type: node
 latitude: 53.90743
 longitude: 13.00623
 postcode: "17109"
 city: Demmin
-street: "Drönnewitzer Straße"
-housenumber: 44
+street: Drönnewitzer Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

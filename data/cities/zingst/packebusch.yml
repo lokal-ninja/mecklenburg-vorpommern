@@ -1,11 +1,11 @@
 id: 134622715
-type: way
+type: node
 latitude: 54.43681
 longitude: 12.69932
 postcode: "18374"
 city: Zingst
-street: "Birkenstraße"
+street: Birkenstraße
 housenumber: 12a
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,16:00-18:00; Su 10:00-12:00,17:00-18:00"
+opening_hours: Mo-Sa 09:00-12:00,16:00-18:00; Su 10:00-12:00,17:00-18:00
 website: ""

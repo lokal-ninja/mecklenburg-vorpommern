@@ -1,11 +1,11 @@
 id: 34284386
-type: way
+type: node
 latitude: 54.17346
 longitude: 12.08834
 postcode: "18119"
 city: Rostock
-street: "Alte Bahnhofstraße"
+street: Alte Bahnhofstraße
 housenumber: 19a
 phone: ""
 opening_hours: ""
-website: "https://www.vogel-hotel.de/beauty-wellness/"
+website: https://www.vogel-hotel.de/beauty-wellness/

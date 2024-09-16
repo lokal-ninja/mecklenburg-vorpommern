@@ -1,11 +1,11 @@
 id: 986798280
-type: way
+type: node
 latitude: 53.38051
 longitude: 13.03253
 postcode: "17235"
 city: Neustrelitz
-street: "Sophienhof"
-housenumber: 3
+street: Sophienhof
+housenumber: "3"
 phone: ""
-opening_hours: "Fr 16:00-18:00; Mo-Th,Sa,PH off"
+opening_hours: Fr 16:00-18:00; Mo-Th,Sa,PH off
 website: ""

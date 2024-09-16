@@ -1,11 +1,11 @@
 id: 120595727
-type: way
+type: node
 latitude: 54.24488
 longitude: 12.22995
 postcode: "18181"
 city: Graal-Müritz
-street: "Rostocker Straße"
-housenumber: 8
+street: Rostocker Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.autoreparatur-brusch.de/"
+website: https://www.autoreparatur-brusch.de/

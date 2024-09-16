@@ -1,11 +1,11 @@
 id: 116719880
-type: way
+type: node
 latitude: 54.24057
 longitude: 12.40488
 postcode: "18311"
 city: Ribnitz-Damgarten
-street: "Klockenhäger Straße"
-housenumber: 3
-phone: "+493821 810502"
+street: Klockenhäger Straße
+housenumber: "3"
+phone: +493821 810502
 opening_hours: ""
-website: "http://www.badoase.info/"
+website: http://www.badoase.info/

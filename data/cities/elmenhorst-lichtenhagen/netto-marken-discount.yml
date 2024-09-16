@@ -1,11 +1,11 @@
 id: 202400650
-type: way
+type: node
 latitude: 54.15581
 longitude: 12.01713
 postcode: "18107"
 city: Elmenhorst-Lichtenhagen
-street: "Hauptstraße"
-housenumber: 26
+street: Hauptstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

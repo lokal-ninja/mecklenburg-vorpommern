@@ -1,11 +1,11 @@
 id: 1167634834
-type: way
+type: node
 latitude: 53.55743
 longitude: 13.31046
 postcode: "17036"
 city: Neubrandenburg
-street: "Woldegker Straße"
-housenumber: 41
+street: Woldegker Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.62943
 longitude: 11.41004
 postcode: "19053"
 city: Schwerin
-street: "Klöresgang"
-housenumber: 2
+street: Klöresgang
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://schweriner-hoefe.de/news/bild-und-form-eroeffnet"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://schweriner-hoefe.de/news/bild-und-form-eroeffnet

@@ -1,11 +1,11 @@
 id: 553122092
-type: way
+type: node
 latitude: 53.73486
 longitude: 12.76278
 postcode: "17139"
 city: Malchin
-street: "Lindenstraße"
-housenumber: 33
+street: Lindenstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00;PH off"
+opening_hours: Mo-Sa 07:00-22:00;PH off
 website: ""

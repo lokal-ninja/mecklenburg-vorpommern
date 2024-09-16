@@ -1,11 +1,11 @@
 id: 93365029
-type: way
+type: node
 latitude: 53.54626
 longitude: 13.31364
 postcode: "17036"
 city: Neubrandenburg
-street: "Steinstraße"
-housenumber: 6
+street: Steinstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

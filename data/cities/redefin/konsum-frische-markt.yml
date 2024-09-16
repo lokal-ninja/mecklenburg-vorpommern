@@ -1,11 +1,11 @@
 id: 133033282
-type: way
+type: node
 latitude: 53.34848
 longitude: 11.2016
 postcode: "19230"
 city: Redefin
-street: "An der B5"
-housenumber: 5
+street: An der B5
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
 website: ""

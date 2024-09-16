@@ -4,8 +4,8 @@ latitude: 53.62854
 longitude: 11.41054
 postcode: "19053"
 city: Schwerin
-street: "Marienplatz"
-housenumber: 3
-phone: "+49 800 6655900"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.hm.com/de/"
+street: Marienplatz
+housenumber: "3"
+phone: +49 800 6655900
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.hm.com/de/

@@ -4,8 +4,8 @@ latitude: 54.11331
 longitude: 12.20287
 postcode: "18182"
 city: Bentwisch
-street: "Stralsunder Straße"
-housenumber: 20
+street: Stralsunder Straße
+housenumber: "20"
 phone: "+49381681618"
-opening_hours: "24/7"
-website: "https://www.autowerkstatt-bentwisch.de/"
+opening_hours: 24/7
+website: https://www.autowerkstatt-bentwisch.de/

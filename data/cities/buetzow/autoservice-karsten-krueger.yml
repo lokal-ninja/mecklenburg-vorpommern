@@ -1,11 +1,11 @@
 id: 111549875
-type: way
+type: node
 latitude: 53.83332
 longitude: 11.99104
 postcode: "18246"
 city: Bützow
-street: "Vierburgweg"
-housenumber: 23
+street: Vierburgweg
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa nach Vereinbarung"
+opening_hours: Mo-Fr 08:00-17:00; Sa "nach Vereinbarung"
 website: ""

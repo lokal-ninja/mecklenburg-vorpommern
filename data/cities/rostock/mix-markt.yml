@@ -1,11 +1,11 @@
 id: 34173868
-type: way
+type: node
 latitude: 54.13328
 longitude: 12.05885
 postcode: "18107"
 city: Rostock
-street: "Talliner Straße"
-housenumber: 3
-phone: "+49 381 44056599"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/100-1/"
+street: Talliner Straße
+housenumber: "3"
+phone: +49 381 44056599
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/100-1/

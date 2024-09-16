@@ -4,8 +4,8 @@ latitude: 54.36734
 longitude: 12.70487
 postcode: "18356"
 city: Barth
-street: "Barthestraße"
-housenumber: 115
-phone: "+49 38231 7723 0"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.gastrodax.de"
+street: Barthestraße
+housenumber: "115"
+phone: +49 38231 7723 0
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.gastrodax.de

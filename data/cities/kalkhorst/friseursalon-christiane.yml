@@ -1,11 +1,11 @@
 id: 257072641
-type: way
+type: node
 latitude: 53.97059
 longitude: 11.04753
 postcode: "23942"
 city: Kalkhorst
-street: "Friedensstraße"
-housenumber: 21
-phone: "+49 38827 447"
+street: Friedensstraße
+housenumber: "21"
+phone: +49 38827 447
 opening_hours: ""
 website: ""

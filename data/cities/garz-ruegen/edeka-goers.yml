@@ -1,11 +1,11 @@
 id: 149286761
-type: way
+type: node
 latitude: 54.31666
 longitude: 13.35122
 postcode: "18574"
 city: Garz/Rügen
-street: "Lange Straße"
-housenumber: 2
+street: Lange Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

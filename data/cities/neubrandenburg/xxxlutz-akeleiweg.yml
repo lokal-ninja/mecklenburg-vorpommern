@@ -1,11 +1,11 @@
 id: 102247465
-type: way
+type: node
 latitude: 53.5201
 longitude: 13.26131
 postcode: "17033"
 city: Neubrandenburg
-street: "Akeleiweg"
-housenumber: 9
+street: Akeleiweg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

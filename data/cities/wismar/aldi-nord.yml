@@ -1,11 +1,11 @@
 id: 88520690
-type: way
+type: node
 latitude: 53.90391
 longitude: 11.40349
 postcode: "23968"
 city: Wismar
-street: "Zierower Landstraße"
-housenumber: 4
+street: Zierower Landstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

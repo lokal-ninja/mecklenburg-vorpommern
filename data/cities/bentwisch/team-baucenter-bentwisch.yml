@@ -1,11 +1,11 @@
 id: 96444523
-type: way
+type: node
 latitude: 54.11697
 longitude: 12.18234
 postcode: "18182"
 city: Bentwisch
-street: "Hansestraße"
-housenumber: 22
+street: Hansestraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-12:00; PH off"
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-12:00; PH off
 website: ""

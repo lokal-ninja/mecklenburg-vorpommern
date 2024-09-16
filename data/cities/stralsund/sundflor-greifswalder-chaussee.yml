@@ -1,11 +1,11 @@
 id: 517255682
-type: way
+type: node
 latitude: 54.28334
 longitude: 13.09934
 postcode: "18439"
 city: Stralsund
-street: "Greifswalder Chaussee"
-housenumber: 61
+street: Greifswalder Chaussee
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-17:00; Su 09:00-14:00
 website: ""

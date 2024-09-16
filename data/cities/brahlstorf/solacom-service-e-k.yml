@@ -4,8 +4,8 @@ latitude: 53.3625
 longitude: 10.98265
 postcode: "19273"
 city: Brahlstorf
-street: "Dorfstraße"
-housenumber: 12
-phone: "+49 38848 222 22"
+street: Dorfstraße
+housenumber: "12"
+phone: +49 38848 222 22
 opening_hours: ""
-website: "https://www.solacom-service.de/"
+website: https://www.solacom-service.de/

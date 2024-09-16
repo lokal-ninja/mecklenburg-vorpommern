@@ -1,11 +1,11 @@
 id: 72135449
-type: way
+type: node
 latitude: 53.65225
 longitude: 12.26648
 postcode: "18292"
 city: Krakow am See
-street: "Bahnhofsplatz"
-housenumber: 5
+street: Bahnhofsplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

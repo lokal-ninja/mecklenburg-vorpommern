@@ -1,11 +1,11 @@
 id: 151207497
-type: way
+type: node
 latitude: 53.3313
 longitude: 13.09901
 postcode: "17235"
 city: Neustrelitz
-street: "Fürstenberger Straße"
-housenumber: 8
-phone: "+49 3981421072"
+street: Fürstenberger Straße
+housenumber: "8"
+phone: +49 3981421072
 opening_hours: ""
-website: "https://www.karlasamalex.de/"
+website: https://www.karlasamalex.de/

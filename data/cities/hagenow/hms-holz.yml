@@ -1,11 +1,11 @@
 id: 132668172
-type: way
+type: node
 latitude: 53.42489
 longitude: 11.18498
 postcode: "19230"
 city: Hagenow
-street: "Werkstraße"
-housenumber: 3
-phone: "+49 3883 6139 0"
+street: Werkstraße
+housenumber: "3"
+phone: +49 3883 6139 0
 opening_hours: ""
-website: "https://www.hms-holz.com/"
+website: https://www.hms-holz.com/
