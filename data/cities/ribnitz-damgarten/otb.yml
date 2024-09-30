@@ -7,6 +7,6 @@ city: Ribnitz-Damgarten
 street: Bauermeisterplatz
 housenumber: 2a
 phone: ""
-opening_hours: 'Mo, Tu 09:00-12:00, 14:00-17:00; We: 09:00-14:00, Th 09:00-12:00,
-    14:00-18:00 ; Fr 09:00-14:00'
+opening_hours: Mo,Tu 09:00-12:00,14:00-17:00; We 09:00-14:00, Th 09:00-12:00,14:00-18:00;
+    Fr 09:00-14:00
 website: ""
