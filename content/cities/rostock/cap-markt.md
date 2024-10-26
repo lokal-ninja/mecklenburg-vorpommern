@@ -1,5 +1,5 @@
 ---
 title: "CAP-Markt"
 url: /rostock/cap-markt/
-shop: Lotterie
+shop: Supermarkt
 ---
