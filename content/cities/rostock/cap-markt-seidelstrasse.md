@@ -1,5 +1,5 @@
 ---
 title: "CAP-Markt"
-url: /rostock/cap-markt-bonhoefferstrasse/
+url: /rostock/cap-markt-seidelstrasse/
 shop: Supermarkt
 ---
