@@ -1,5 +1,5 @@
 ---
 title: "Marc O'Polo"
-url: /rostock-warnemuende/marc-opolo/
+url: /rostock/marc-opolo-am-leuchtturm/
 shop: Kleidung
 ---
