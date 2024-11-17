@@ -1,6 +1,6 @@
 ---
 title: Schwerin
 url: /schwerin/
-latitude: 53.635
-longitude: 11.387
+latitude: 53.597
+longitude: 11.44
 ---

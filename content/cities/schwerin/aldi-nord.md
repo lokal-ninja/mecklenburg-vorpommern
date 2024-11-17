@@ -1,5 +1,5 @@
 ---
-title: "ALDI Nord"
+title: "Aldi Nord"
 url: /schwerin/aldi-nord/
 shop: Supermarkt
 ---
