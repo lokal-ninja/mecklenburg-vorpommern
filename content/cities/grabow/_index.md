@@ -1,6 +1,6 @@
 ---
 title: Grabow
 url: /grabow/
-latitude: 53.278
-longitude: 11.564
+latitude: 53.275
+longitude: 11.571
 ---
