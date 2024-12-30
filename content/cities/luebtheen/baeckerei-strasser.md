@@ -1,5 +1,5 @@
 ---
-title: "Bäckerei Straßer"
+title: "Bäckerei Strasser"
 url: /luebtheen/baeckerei-strasser/
 shop: Bäckerei
 ---
