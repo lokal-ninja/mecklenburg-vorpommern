@@ -1,6 +1,6 @@
 ---
 title: Kritzow
 url: /kritzow/
-latitude: 53.892
-longitude: 11.531
+latitude: 53.889
+longitude: 11.533
 ---

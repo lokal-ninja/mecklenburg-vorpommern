@@ -1,5 +1,5 @@
 ---
 title: "read"
 url: /heringsdorf/read/
-shop: Modehaus
+shop: Kleidung
 ---

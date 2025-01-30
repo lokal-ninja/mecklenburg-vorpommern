@@ -1,6 +1,6 @@
 ---
 title: Hornstorf
 url: /hornstorf/
-latitude: 53.894
-longitude: 11.539
+latitude: 53.892
+longitude: 11.531
 ---
