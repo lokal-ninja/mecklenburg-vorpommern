@@ -1,6 +1,6 @@
 ---
 title: Bobitz
 url: /bobitz/
-latitude: 53.821
-longitude: 11.367
+latitude: 53.803
+longitude: 11.364
 ---

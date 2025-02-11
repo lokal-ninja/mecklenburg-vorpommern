@@ -1,6 +1,6 @@
 ---
 title: Vielank
 url: /vielank/
-latitude: 53.235
-longitude: 11.138
+latitude: 53.234
+longitude: 11.145
 ---
