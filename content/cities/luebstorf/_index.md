@@ -1,6 +1,6 @@
 ---
 title: Lübstorf
 url: /luebstorf/
-latitude: 53.73
-longitude: 11.403
+latitude: 53.741
+longitude: 11.432
 ---
