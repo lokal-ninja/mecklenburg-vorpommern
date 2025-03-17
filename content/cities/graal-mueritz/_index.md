@@ -1,6 +1,6 @@
 ---
 title: Graal-Müritz
 url: /graal-mueritz/
-latitude: 54.249
-longitude: 12.239
+latitude: 54.25
+longitude: 12.232
 ---
