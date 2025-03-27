@@ -1,6 +1,6 @@
 ---
 title: Ducherow
 url: /ducherow/
-latitude: 53.766
-longitude: 13.778
+latitude: 53.765
+longitude: 13.786
 ---

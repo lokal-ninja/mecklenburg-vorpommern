@@ -1,6 +1,6 @@
 ---
 title: Bartenshagen-Parkentin
 url: /bartenshagen-parkentin/
-latitude: 54.1
-longitude: 11.956
+latitude: 54.104
+longitude: 11.951
 ---
