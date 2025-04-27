@@ -1,5 +1,5 @@
 ---
 title: "TM Sportmarkt"
 url: /greifswald/tm-sportmarkt/
-shop: Allgemein
+shop: Kleidung
 ---
