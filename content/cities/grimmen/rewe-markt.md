@@ -1,5 +1,5 @@
 ---
-title: "REWE Markt"
+title: "Rewe Markt"
 url: /grimmen/rewe-markt/
 shop: Supermarkt
 ---
