@@ -1,6 +1,6 @@
 ---
 title: Alt Meteln
 url: /alt-meteln/
-latitude: 53.745
-longitude: 11.345
+latitude: 53.748
+longitude: 11.342
 ---

@@ -1,6 +1,6 @@
 ---
 title: Goldberg
 url: /goldberg/
-latitude: 53.589
+latitude: 53.587
 longitude: 12.088
 ---
