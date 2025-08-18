@@ -1,6 +1,6 @@
 ---
 title: Banzkow
 url: /banzkow/
-latitude: 53.525
-longitude: 11.516
+latitude: 53.522
+longitude: 11.506
 ---
