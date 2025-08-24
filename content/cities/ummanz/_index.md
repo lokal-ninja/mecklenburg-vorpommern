@@ -1,6 +1,6 @@
 ---
 title: Ummanz
 url: /ummanz/
-latitude: 54.434
-longitude: 13.173
+latitude: 54.459
+longitude: 13.182
 ---
