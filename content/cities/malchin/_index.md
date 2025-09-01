@@ -1,6 +1,6 @@
 ---
 title: Malchin
 url: /malchin/
-latitude: 53.74
-longitude: 12.773
+latitude: 53.741
+longitude: 12.767
 ---
