@@ -1,5 +1,5 @@
 ---
 title: "Hammer"
-url: /neuenkirchen/hammer/
+url: /pasewalk/hammer/
 shop: Baumarkt
 ---
