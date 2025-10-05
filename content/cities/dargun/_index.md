@@ -1,6 +1,6 @@
 ---
 title: Dargun
 url: /dargun/
-latitude: 53.904
-longitude: 12.864
+latitude: 53.895
+longitude: 12.859
 ---
