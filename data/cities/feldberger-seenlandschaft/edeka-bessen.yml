@@ -7,5 +7,6 @@ city: Feldberger Seenlandschaft
 street: Prenzlauer Straße
 housenumber: "4"
 phone: ""
-opening_hours: 'Mo-Sa 07:30-20:00; Jul-Aug: Su 13:00-18:00; PH off'
+opening_hours: Jan-May Mo-Sa 07:30-19:00; Jan-May Su,PH off; Jun-Aug Mo-Sa 07:00-20:00;
+    Jun-Aug Su,PH 12:00-18:00; Sep-Dec 07:30-19:00; Sep-Dec Su,PH off
 website: ""
