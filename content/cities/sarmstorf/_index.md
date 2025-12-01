@@ -1,6 +1,6 @@
 ---
 title: Sarmstorf
 url: /sarmstorf/
-latitude: 53.843
-longitude: 12.217
+latitude: 53.841
+longitude: 12.216
 ---
