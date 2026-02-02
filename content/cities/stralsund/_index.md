@@ -1,6 +1,6 @@
 ---
 title: Stralsund
 url: /stralsund/
-latitude: 54.314
-longitude: 13.088
+latitude: 54.311
+longitude: 13.069
 ---
