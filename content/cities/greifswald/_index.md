@@ -1,6 +1,6 @@
 ---
 title: Greifswald
 url: /greifswald/
-latitude: 54.09
-longitude: 13.395
+latitude: 54.082
+longitude: 13.382
 ---

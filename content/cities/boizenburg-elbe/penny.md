@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "Penny"
 url: /boizenburg-elbe/penny/
 shop: Supermarkt
 ---
