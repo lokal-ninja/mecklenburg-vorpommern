@@ -7,5 +7,5 @@ city: Barth
 street: Lange Straße
 housenumber: "14"
 phone: +49 38231 2970
-opening_hours: Mo-Fr 09:30-13:00,14:30-17:00 || Sa "nach Vereinbarung"
+opening_hours: Mo,Tu,Th,Fr 09:30-17:00; We 09:30-14:00
 website: https://www.foto-rueting.de/
