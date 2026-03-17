@@ -1,5 +1,5 @@
 ---
-title: "leguano"
+title: "Leguano"
 url: /stralsund/leguano/
 shop: Schuhe
 ---
