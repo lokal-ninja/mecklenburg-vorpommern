@@ -1,6 +1,6 @@
 ---
 title: Anklam
 url: /anklam/
-latitude: 53.858
-longitude: 13.694
+latitude: 53.839
+longitude: 13.716
 ---
