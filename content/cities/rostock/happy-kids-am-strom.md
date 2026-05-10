@@ -1,5 +1,5 @@
 ---
 title: "Happy Kids"
-url: /rostock/happy-kids-seestrasse-2/
+url: /rostock/happy-kids-am-strom/
 shop: Kleidung
 ---
