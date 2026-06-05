@@ -1,6 +1,6 @@
 ---
 title: Klink
 url: /klink/
-latitude: 53.477
-longitude: 12.618
+latitude: 53.481
+longitude: 12.624
 ---

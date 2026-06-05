@@ -1,6 +1,6 @@
 ---
 title: Altentreptow
 url: /altentreptow/
-latitude: 53.69
-longitude: 13.248
+latitude: 53.692
+longitude: 13.259
 ---

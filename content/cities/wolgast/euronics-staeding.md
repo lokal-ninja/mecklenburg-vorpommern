@@ -1,5 +1,5 @@
 ---
-title: "EURONICS Städing"
+title: "Euronics Städing"
 url: /wolgast/euronics-staeding/
 shop: Elektronik
 ---
