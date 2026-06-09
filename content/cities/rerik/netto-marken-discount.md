@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /neustrelitz/netto-marken-discount-kirschenallee/
+url: /rerik/netto-marken-discount/
 shop: Supermarkt
 ---

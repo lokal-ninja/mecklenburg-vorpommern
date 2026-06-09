@@ -7,5 +7,5 @@ city: Neustrelitz
 street: Strelitzer Straße
 housenumber: "55"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th 10:00-18:00, Tu,Fr 12:00-18:00, Sa 10:00-12:00
 website: ""
