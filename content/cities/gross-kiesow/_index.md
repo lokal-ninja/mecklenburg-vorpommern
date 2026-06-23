@@ -1,6 +1,6 @@
 ---
 title: Groß Kiesow
 url: /gross-kiesow/
-latitude: 54.012
-longitude: 13.477
+latitude: 54.004
+longitude: 13.524
 ---

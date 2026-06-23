@@ -1,6 +1,6 @@
 ---
 title: Gützkow
 url: /guetzkow/
-latitude: 53.943
-longitude: 13.397
+latitude: 53.928
+longitude: 13.469
 ---
