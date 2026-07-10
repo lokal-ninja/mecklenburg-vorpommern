@@ -7,6 +7,6 @@ city: Barth
 street: Lange Straße
 housenumber: "92"
 phone: ""
-opening_hours: Mo-We 08:30-12:30,13:00-17:00; Th 08:30-12:30,13:00-18:00; Fr 08:00-15:00;
-    Sa,Su,PH off
+opening_hours: Mo-We 08:30-12:30,13:00-17:00, Th 08:30-12:30,13:00-18:00, Fr 08:00-12:30,
+    Fr 13:00-15:30; Sa,Su,PH off
 website: ""
