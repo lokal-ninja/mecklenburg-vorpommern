@@ -1,5 +1,5 @@
 ---
-title: "Rituals..."
+title: "Rituals"
 url: /rostock/rituals/
-shop: Parfümerie
+shop: Kosmetik
 ---
