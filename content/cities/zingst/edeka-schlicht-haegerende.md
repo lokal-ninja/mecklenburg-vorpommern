@@ -1,5 +1,5 @@
 ---
 title: "EDEKA Schlicht"
-url: /zingst/edeka-schlicht-boddenhoern/
+url: /zingst/edeka-schlicht-haegerende/
 shop: Supermarkt
 ---
