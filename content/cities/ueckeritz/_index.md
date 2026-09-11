@@ -1,6 +1,6 @@
 ---
 title: Ückeritz
 url: /ueckeritz/
-latitude: 54.011
-longitude: 14.05
+latitude: 54.014
+longitude: 14.049
 ---

@@ -6,7 +6,6 @@ postcode: "17489"
 city: Greifswald
 street: Schützenstraße
 housenumber: "9"
-phone: +49 3834 897841
-opening_hours: Mo 09:00-13:00,14:00-18:00 Tu 09:00-13:00,14:00-18:00 We 09:00-13:00,14:00-18:00
-    Th 09:00-13:00,14:00-18:00 Fr 09:00-13:00,14:00-18:00
+phone: ""
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su,PH off
 website: ""

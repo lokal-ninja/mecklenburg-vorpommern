@@ -1,5 +1,5 @@
 ---
-title: "Leguano"
+title: "leguano"
 url: /rostock/leguano/
 shop: Schuhe
 ---
