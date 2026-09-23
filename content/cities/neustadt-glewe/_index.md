@@ -1,6 +1,6 @@
 ---
 title: Neustadt-Glewe
 url: /neustadt-glewe/
-latitude: 53.383
-longitude: 11.587
+latitude: 53.385
+longitude: 11.579
 ---

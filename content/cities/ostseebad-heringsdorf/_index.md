@@ -1,6 +1,6 @@
 ---
 title: Ostseebad Heringsdorf
 url: /ostseebad-heringsdorf/
-latitude: 53.958
+latitude: 53.957
 longitude: 14.166
 ---
