@@ -7,5 +7,5 @@ city: Ueckermünde
 street: Am Ueckerdamm
 housenumber: "1"
 phone: ""
-opening_hours: Mo-Fr 09:00-16:00
+opening_hours: Mo,Su off; Tu-Sa 10:00-14:00
 website: ""

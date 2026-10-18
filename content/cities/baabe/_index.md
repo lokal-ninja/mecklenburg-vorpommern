@@ -2,5 +2,5 @@
 title: Baabe
 url: /baabe/
 latitude: 54.361
-longitude: 13.709
+longitude: 13.707
 ---
