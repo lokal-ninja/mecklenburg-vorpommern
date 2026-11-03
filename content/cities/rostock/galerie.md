@@ -1,5 +1,5 @@
 ---
 title: "Galerie"
 url: /rostock/galerie/
-shop: Raumausstattung
+shop: Kunst
 ---
