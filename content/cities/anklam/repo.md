@@ -1,5 +1,5 @@
 ---
 title: "Repo"
 url: /anklam/repo/
-shop: Supermarkt
+shop: Kramladen
 ---
